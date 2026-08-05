@@ -23,7 +23,7 @@ window.SHAGA_EXAM_CONFIG = Object.freeze({
         sectionName: "Section 1: General Studies",
         questionType: "Multiple Choice Question",
 
-        durationMinutes: 30,
+        durationMinutes: 50,
         marksPerCorrectAnswer: 1,
         negativeMarksPerWrongAnswer: 0,
         passingPercentage: 40,
