@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b3d75">
+  <meta name="description" content="SHAGA TestHub — a professional TGPSC-style computer-based mock-test platform.">
+  <title>SHAGA TestHub | TGPSC Dy.E.O. Mock Test</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <noscript>
+    <div class="noscript-message" role="alert">
+      JavaScript must be enabled to run SHAGA TestHub.
+    </div>
+  </noscript>
+
+  <a class="skip-link" href="#question-text">Skip to current question</a>
+
+  <div class="app-shell" id="appShell">
+    <header class="top-bar" role="banner">
+      <div class="brand-block">
+        <div class="logo" aria-label="SHAGA TestHub">
+          <span class="logo-mark" aria-hidden="true"></span>
+          <span class="logo-text">
+            <strong>SHAGA TestHub</strong>
+            <small>Learn Faster. Revise Smarter.</small>
+          </span>
+        </div>
+      </div>
+
+      <div class="exam-title-block">
+        <p class="exam-label">Computer Based Test</p>
+        <h1 class="exam-title" id="examTitle">TGPSC Dy.E.O. Mock Test</h1>
+      </div>
+
+      <div class="header-actions">
+        <button class="header-button" id="instructionBtn" type="button" aria-haspopup="dialog" aria-controls="instructionModal">
+          Instructions
+        </button>
+        <div class="timer" id="timerBox" role="timer" aria-live="polite" aria-label="Time remaining">
+          <span class="timer-label">Time Left</span>
+          <span id="timer">30:00</span>
+        </div>
+      </div>
+    </header>
+
+    <section class="candidate-strip" aria-label="Candidate and test information">
+      <div class="candidate-details">
+        <div class="candidate-avatar" aria-hidden="true">C</div>
+        <div>
+          <span class="meta-label">Candidate</span>
+          <strong id="candidateName">Guest Candidate</strong>
+        </div>
+      </div>
+
+      <div class="test-meta">
+        <div>
+          <span class="meta-label">Test</span>
+          <strong id="testName">General Studies Mock Test</strong>
+        </div>
+        <div>
+          <span class="meta-label">Questions</span>
+          <strong id="questionCountMeta">20</strong>
+        </div>
+        <div>
+          <span class="meta-label">Marks</span>
+          <strong id="totalMarks">20</strong>
+        </div>
+      </div>
+    </section>
+
+    <nav class="section-tabs" aria-label="Question sections">
+      <button class="section-tab active" id="sectionTab" type="button" aria-current="page">
+        Section 1: General Studies
+      </button>
+    </nav>
+
+    <main class="container" id="testWorkspace">
+      <aside class="left-panel" aria-label="Test progress and status">
+        <section class="progress-card panel-card">
+          <div class="panel-heading">
+            <h2>Test Progress</h2>
+            <span id="progressPercent">0%</span>
+          </div>
+
+          <div class="progress-bar" role="progressbar" aria-label="Answered-question progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+            <div id="progress-fill"></div>
+          </div>
+
+          <p class="question-position">
+            Question <strong id="current-question">1</strong> of
+            <strong id="total-question">20</strong>
+          </p>
+        </section>
+
+        <section class="status-card panel-card" aria-label="Answer status summary">
+          <h2>Status Summary</h2>
+          <div class="status-row answered-status">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span>Answered</span>
+            <strong id="answered">0</strong>
+          </div>
+          <div class="status-row review-status">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span>Marked for Review</span>
+            <strong id="reviewCount">0</strong>
+          </div>
+          <div class="status-row unanswered-status remaining-status">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span>Not Answered</span>
+            <strong id="remaining">20</strong>
+          </div>
+          <div class="status-row unseen-status">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span>Not Visited</span>
+            <strong id="notVisitedCount">19</strong>
+          </div>
+        </section>
+
+        <section class="legend-card panel-card" aria-label="Question palette legend">
+          <h2>Palette Legend</h2>
+          <div class="legend-grid palette-legend">
+            <div><span class="legend-shape answered" aria-hidden="true"></span>Answered</div>
+            <div><span class="legend-shape not-answered" aria-hidden="true"></span>Not Answered</div>
+            <div><span class="legend-shape review" aria-hidden="true"></span>Review</div>
+            <div><span class="legend-shape not-visited" aria-hidden="true"></span>Not Visited</div>
+          </div>
+        </section>
+      </aside>
+
+      <section class="question-panel" aria-labelledby="question-number">
+        <div class="question-toolbar">
+          <div>
+            <span class="question-type">Multiple Choice Question</span>
+            <h2 id="question-number">Question 1</h2>
+          </div>
+          <div class="mark-info" aria-label="Question marking scheme">
+            <span class="positive-mark" title="Marks for a correct answer">+1.00</span>
+            <span class="negative-mark" title="Negative marks for a wrong answer">0.00</span>
+          </div>
+        </div>
+
+        <article class="question-card">
+          <p id="question-text" tabindex="-1">Loading question…</p>
+          <div id="options" class="options-list" role="radiogroup" aria-label="Answer options"></div>
+        </article>
+
+        <div class="question-actions">
+          <div class="secondary-actions">
+            <button id="markReviewBtn" class="review-button secondary-action" type="button">
+              Mark for Review &amp; Next
+            </button>
+            <button id="clearBtn" class="clear-button clear-response-btn" type="button">
+              Clear Response
+            </button>
+          </div>
+
+          <div class="navigation">
+            <button id="prevBtn" class="previous-button previous-btn nav-btn" type="button">
+              Previous
+            </button>
+            <button id="nextBtn" class="save-next-button next-btn nav-btn" type="button">
+              Save &amp; Next
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <aside class="right-panel" aria-label="Question palette">
+        <div class="palette-header">
+          <div>
+            <span class="panel-eyebrow">Section 1</span>
+            <h2>Question Palette</h2>
+          </div>
+          <button id="paletteToggle" class="palette-toggle" type="button" aria-label="Collapse question palette" aria-expanded="true">−</button>
+        </div>
+
+        <div id="palette" class="palette-grid" aria-label="Question navigation"></div>
+
+        <div class="palette-footer">
+          <p>Select a question number to open it.</p>
+          <button id="submitBtn" class="submit-button submit-test-btn" type="button" aria-haspopup="dialog" aria-controls="submitModal">
+            Submit Test
+          </button>
+        </div>
+      </aside>
+    </main>
+
+    <footer class="app-footer">
+      <span>SHAGA TestHub</span>
+      <span>Learn Faster. Revise Smarter.</span>
+    </footer>
+  </div>
+
+  <div id="instructionModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="instructionTitle" aria-hidden="true" hidden>
+    <div class="modal-backdrop" data-close-modal="instructionModal"></div>
+    <section class="modal-card instruction-card" tabindex="-1">
+      <header class="modal-header">
+        <h2 id="instructionTitle">Test Instructions</h2>
+        <button class="modal-close" type="button" data-close-modal="instructionModal" aria-label="Close instructions">×</button>
+      </header>
+      <div class="modal-body">
+        <ol>
+          <li>The timer begins when the test starts and cannot be paused.</li>
+          <li>Select one option and use <strong>Save &amp; Next</strong> to continue.</li>
+          <li>Use <strong>Mark for Review &amp; Next</strong> to revisit a question later.</li>
+          <li>You may change or clear an answer before submitting the test.</li>
+          <li>The test is submitted automatically when the timer reaches zero.</li>
+        </ol>
+      </div>
+      <footer class="modal-footer">
+        <button class="primary-button" type="button" data-close-modal="instructionModal">Continue Test</button>
+      </footer>
+    </section>
+  </div>
+
+  <div id="submitModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="submitTitle" aria-hidden="true" hidden>
+    <div class="modal-backdrop" data-close-modal="submitModal"></div>
+    <section class="modal-card submit-card" tabindex="-1">
+      <header class="modal-header">
+        <h2 id="submitTitle">Submit Test?</h2>
+        <button class="modal-close" type="button" data-close-modal="submitModal" aria-label="Close submission dialog">×</button>
+      </header>
+      <div class="modal-body">
+        <p>Check the summary below before confirming your submission.</p>
+        <div class="submit-summary">
+          <div><span>Answered</span><strong id="submitAnswered">0</strong></div>
+          <div><span>Not Answered</span><strong id="submitRemaining">20</strong></div>
+          <div><span>Marked for Review</span><strong id="submitReview">0</strong></div>
+        </div>
+      </div>
+      <footer class="modal-footer split-footer">
+        <button class="secondary-button" type="button" data-close-modal="submitModal">Return to Test</button>
+        <button id="confirmSubmitBtn" class="danger-button" type="button">Confirm Submission</button>
+      </footer>
+    </section>
+  </div>
+
+  <div id="resultModal" class="result-modal" role="dialog" aria-modal="true" aria-labelledby="resultTitle" aria-hidden="true">
+    <div class="result-card" tabindex="-1">
+      <div class="result-icon" aria-hidden="true">✓</div>
+      <p class="result-kicker">Test Submitted Successfully</p>
+      <h2 id="resultTitle">SHAGA TestHub Result</h2>
+      <h3 id="resultExamTitle">TGPSC Dy.E.O. Mock Test</h3>
+
+      <div class="score-highlight">
+        <span>Your Score</span>
+        <strong><span id="scoreCount">0</span>/<span id="resultTotalMarks">20</span></strong>
+        <small id="percentageCount">0%</small>
+      </div>
+
+      <div class="result-grid">
+        <div class="result-stat correct-stat"><span>Correct</span><strong id="correctCount">0</strong></div>
+        <div class="result-stat wrong-stat"><span>Wrong</span><strong id="wrongCount">0</strong></div>
+        <div class="result-stat skipped-stat"><span>Skipped</span><strong id="skippedCount">0</strong></div>
+        <div class="result-stat grade-stat"><span>Grade</span><strong id="gradeCount">—</strong></div>
+      </div>
+
+      <div class="result-actions">
+        <button id="reviewAnswersBtn" class="secondary-button" type="button">Review Answers</button>
+        <button id="retakeBtn" class="primary-button" type="button">Retake Test</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="questions.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
