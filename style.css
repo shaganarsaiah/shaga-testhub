@@ -41,11 +41,19 @@ html {
 }
 
 body {
-    min-height: 100vh;
-    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
-    color: var(--text);
-    background: #edf2f7;
-    line-height: 1.5;
+    html,
+body{
+    height:100%;
+    overflow-y:auto;
+overflow-x:hidden;
+}
+
+body{
+    margin:0;
+    font-family:"Segoe UI",Arial,Helvetica,sans-serif;
+    color:var(--text);
+    background:#edf2f7;
+    line-height:1.5;
 }
 
 button,
@@ -67,9 +75,11 @@ button:focus-visible,
 }
 
 .app-shell {
-    min-height: 100vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
 /* =========================
@@ -234,15 +244,21 @@ button:focus-visible,
    ========================= */
 
 .container {
-    width: 100%;
-    max-width: 1600px;
-    margin: 0 auto;
-    padding: 18px;
-    display: grid;
-    grid-template-columns: 245px minmax(0, 1fr) 280px;
-    gap: 18px;
-    align-items: start;
-    flex: 1;
+    width:100%;
+    max-width:1600px;
+    margin:0 auto;
+    padding:18px;
+
+    display:grid;
+    grid-template-columns:260px minmax(0,1fr) 280px;
+    gap:18px;
+
+    flex:1;
+    min-height:0;
+
+    /* CHANGE THESE */
+    height:auto;
+    overflow:hidden;
 }
 
 .left-panel,
@@ -374,7 +390,23 @@ button:focus-visible,
    ========================= */
 
 .question-panel {
-    overflow: hidden;
+
+    display:flex;
+
+    flex-direction:column;
+
+    min-height:0;
+
+    height:100%;
+
+    overflow:hidden;
+
+    background:var(--surface);
+
+    border:1px solid var(--border);
+
+    border-radius:var(--radius-md);
+
 }
 
 .question-toolbar {
@@ -409,10 +441,14 @@ button:focus-visible,
 }
 
 .question-card {
-    min-height: 545px;
-    display: flex;
-    flex-direction: column;
-    padding: 24px;
+
+    flex:1;
+    min-height:0;
+
+    overflow-y:auto;
+    overflow-x:hidden;
+
+    padding:24px;
 }
 
 .question-heading-row {
@@ -1635,13 +1671,22 @@ body.modal-open {
 }
 
 .question-actions {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 14px;
-    padding: 18px 20px;
-    border-top: 1px solid var(--border);
-    background: #f8fafc;
+
+    flex-shrink:0;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    gap:16px;
+
+    padding:16px 20px;
+
+    border-top:1px solid var(--border);
+
+    background:#ffffff;
 }
 
 .secondary-actions,
@@ -2102,4 +2147,15 @@ body.dark-mode .result-card .result-status.needs-improvement {
 
 }
 
+}.left-panel,
+.right-panel{
+
+    display:flex;
+
+    flex-direction:column;
+
+    min-height:0;
+
+    overflow-y:auto;
+    overflow-x:hidden;
 }
