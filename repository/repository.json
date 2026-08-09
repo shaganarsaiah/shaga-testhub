@@ -1,0 +1,30 @@
+{
+  "repository": {
+    "name": "SHAGA TestHub Repository",
+    "version": "2.0.0",
+    "schemaVersion": "2.0",
+    "defaultLanguage": "English"
+  },
+
+  "subjects": [],
+
+  "questionTypes": [
+    "MCQ",
+    "TrueFalse",
+    "AssertionReason",
+    "Match",
+    "FillBlank"
+  ],
+
+  "difficultyLevels": [
+    "Easy",
+    "Moderate",
+    "Difficult"
+  ],
+
+  "languages": [
+    "English",
+    "Telugu",
+    "Bilingual"
+  ]
+}

@@ -2,41 +2,68 @@
  * ==========================================================
  * SHAGA TestHub
  * Repository Loader
- * Version : 1.0
- * ----------------------------------------------------------
- * Responsibility:
- * Loads all question banks into memory.
- * This module DOES NOT search, filter or generate tests.
+ * Version 2.1
  * ==========================================================
  */
+
+import repositoryCatalog from "./repository.json" with { type: "json" };
+
+import growthDevelopment from "../question-bank/subjects/educational-psychology/growth-development.json" with { type: "json" };
 
 class RepositoryLoader {
 
     constructor() {
+
+        this.catalog = repositoryCatalog;
+
         this.questionBanks = [];
-        this.isLoaded = false;
-    }
 
-    /**
-     * Load repository
-     */
-    async load() {
-
-        console.log("Loading Question Repository...");
-
-        this.isLoaded = true;
-
-        return true;
+        this.loaded = false;
 
     }
 
-    /**
-     * Returns loading status
-     */
+    initialize() {
 
-    loaded() {
+        console.log("========== SHAGA TestHub ==========");
 
-        return this.isLoaded;
+        console.log("Repository Loaded");
+
+        console.log(this.catalog);
+
+        this.questionBanks.push(growthDevelopment);
+
+        console.log("");
+
+        console.log("Question Package Loaded");
+
+        console.log(growthDevelopment.metadata.subject);
+
+        console.log(growthDevelopment.metadata.topic);
+
+        console.log(
+            "Questions :",
+            growthDevelopment.questions.length
+        );
+
+        this.loaded = true;
+
+    }
+
+    isLoaded() {
+
+        return this.loaded;
+
+    }
+
+    getCatalog() {
+
+        return this.catalog;
+
+    }
+
+    getQuestionBanks() {
+
+        return this.questionBanks;
 
     }
 

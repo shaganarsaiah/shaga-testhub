@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "repository": "SHAGA TestHub",
+    "id": "EDPSY-GD",
+    "subject": "Educational Psychology",
+    "topic": "Growth and Development",
+    "paper": "Paper II",
+    "part": "A",
+    "exams": [
+      "TGPSC_DYEO",
+      "DSC",
+      "CTET",
+      "SET",
+      "UGC_NET"
+    ],
+    "language": "English",
+    "version": "1.0.0",
+    "author": "Shaga Narsaiah",
+    "organization": "SHAGA NOTES",
+    "status": "Draft",
+    "lastUpdated": "",
+    "questionCount": 1
+  },
+
+  "questions": [
+    {
+      "id": "EDPSY-GD-0001",
+
+      "question": "Which psychologist proposed the stages of cognitive development?",
+
+      "options": {
+        "A": "B. F. Skinner",
+        "B": "Jean Piaget",
+        "C": "Edward Thorndike",
+        "D": "Jerome Bruner"
+      },
+
+      "correctAnswer": "B",
+
+      "explanation": "Jean Piaget proposed the stages of cognitive development.",
+
+      "difficulty": "Easy",
+
+      "cognitiveLevel": "Remember",
+
+      "tags": [
+        "Piaget",
+        "Cognitive Development"
+      ],
+
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+
+      "isPreviousYearQuestion": false,
+
+      "language": "English"
+    }
+  ]
+}

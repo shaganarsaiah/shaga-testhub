@@ -56,12 +56,14 @@ const CONFIG = window.SHAGA_EXAM_CONFIG || DEFAULT_CONFIG;
 const EXAM_CONFIG = CONFIG.exam || DEFAULT_CONFIG.exam;
 const DURATION_SECONDS = Math.max(1, Number(EXAM_CONFIG.durationMinutes) || 30) * 60;
 
+const examQuestions = questions;
+
 if (
-    typeof questions === "undefined" ||
-    !Array.isArray(questions) ||
-    questions.length === 0
+    typeof examQuestions === "undefined" ||
+    !Array.isArray(examQuestions) ||
+    examQuestions.length === 0
 ) {
-    throw new Error("questions.js did not load correctly or contains no questions.");
+    throw new Error("No questions available for the test.");
 }
 
 const STORAGE_KEY = CONFIG.storage?.stateKey || "shaga-testhub-v2-state";
@@ -69,9 +71,9 @@ const THEME_KEY = CONFIG.storage?.themeKey || "shaga-testhub-theme";
 
 const state = {
     currentQuestion: 0,
-    answers: new Array(questions.length).fill(null),
-    markedForReview: new Array(questions.length).fill(false),
-    visited: new Array(questions.length).fill(false),
+    answers: new Array(examQuestions.length).fill(null),
+    markedForReview: new Array(examQuestions.length).fill(false),
+    visited: new Array(examQuestions.length).fill(false),
     totalTime: DURATION_SECONDS,
     submitted: false,
     reviewMode: false,
@@ -162,7 +164,7 @@ function getNotVisitedCount() {
 }
 
 function getProgressPercentage() {
-    return Math.round((getAnsweredCount() / questions.length) * 100);
+    return Math.round((getAnsweredCount() / examQuestions.length) * 100);
 }
 
 function calculateGrade(percentage) {
@@ -189,7 +191,7 @@ function calculateResult() {
     state.answers.forEach((answer, index) => {
         if (answer === null) {
             skipped += 1;
-        } else if (answer === questions[index].answer) {
+        } else if (answer === examQuestions[index].answer) {
             correct += 1;
         } else {
             wrong += 1;
@@ -198,7 +200,7 @@ function calculateResult() {
 
     const marksPerCorrect = Number(EXAM_CONFIG.marksPerCorrectAnswer) || 1;
     const negativePerWrong = Math.max(0, Number(EXAM_CONFIG.negativeMarksPerWrongAnswer) || 0);
-    const maximumMarks = questions.length * marksPerCorrect;
+    const maximumMarks = examQuestions.length * marksPerCorrect;
     const rawScore = (correct * marksPerCorrect) - (wrong * negativePerWrong);
     const score = Math.max(0, rawScore);
     const percentage = maximumMarks ? (score / maximumMarks) * 100 : 0;
@@ -227,7 +229,7 @@ function saveState() {
         visited: state.visited,
         totalTime: state.totalTime,
         startedAt: state.startedAt,
-        questionCount: questions.length
+        questionCount: examQuestions.length
     };
 
     try {
@@ -249,9 +251,9 @@ function restoreState() {
 
     if (
         !saved ||
-        saved.questionCount !== questions.length ||
+        saved.questionCount !== examQuestions.length ||
         !Array.isArray(saved.answers) ||
-        saved.answers.length !== questions.length
+        saved.answers.length !== examQuestions.length
     ) {
         return;
     }
@@ -259,7 +261,7 @@ function restoreState() {
     state.currentQuestion = clampInteger(
         saved.currentQuestion,
         0,
-        questions.length - 1,
+        examQuestions.length - 1,
         0
     );
 
@@ -269,26 +271,26 @@ function restoreState() {
         const parsed = Number.parseInt(answer, 10);
         return Number.isInteger(parsed) &&
             parsed >= 0 &&
-            parsed < questions[index].options.length
+            parsed < examQuestions[index].options.length
             ? parsed
             : null;
     });
 
     state.markedForReview = Array.isArray(saved.markedForReview)
         ? saved.markedForReview
-            .slice(0, questions.length)
+            .slice(0, examQuestions.length)
             .map(Boolean)
-        : new Array(questions.length).fill(false);
+        : new Array(examQuestions.length).fill(false);
 
-    while (state.markedForReview.length < questions.length) {
+    while (state.markedForReview.length < examQuestions.length) {
         state.markedForReview.push(false);
     }
 
     state.visited = Array.isArray(saved.visited)
-        ? saved.visited.slice(0, questions.length).map(Boolean)
-        : new Array(questions.length).fill(false);
+        ? saved.visited.slice(0, examQuestions.length).map(Boolean)
+        : new Array(examQuestions.length).fill(false);
 
-    while (state.visited.length < questions.length) {
+    while (state.visited.length < examQuestions.length) {
         state.visited.push(false);
     }
 
@@ -313,10 +315,10 @@ function clearSavedState() {
 }
 
 function updateMetaInformation() {
-    setText(elements.questionCountMeta, questions.length);
-    setText(elements.totalMarks, questions.length * (Number(EXAM_CONFIG.marksPerCorrectAnswer) || 1));
-    setText(elements.resultTotalMarks, questions.length * (Number(EXAM_CONFIG.marksPerCorrectAnswer) || 1));
-    setText(elements.totalQuestion, questions.length);
+    setText(elements.questionCountMeta, examQuestions.length);
+    setText(elements.totalMarks, examQuestions.length * (Number(EXAM_CONFIG.marksPerCorrectAnswer) || 1));
+    setText(elements.resultTotalMarks, examQuestions.length * (Number(EXAM_CONFIG.marksPerCorrectAnswer) || 1));
+    setText(elements.totalQuestion, examQuestions.length);
 
     if (elements.resultExamTitle && elements.examTitle) {
         elements.resultExamTitle.textContent = elements.examTitle.textContent.trim();
@@ -325,11 +327,11 @@ function updateMetaInformation() {
 
 function updateStatus() {
     const answered = getAnsweredCount();
-    const remaining = questions.length - answered;
+    const remaining = examQuestions.length - answered;
     const progress = getProgressPercentage();
 
     setText(elements.currentQuestion, state.currentQuestion + 1);
-    setText(elements.totalQuestion, questions.length);
+    setText(elements.totalQuestion, examQuestions.length);
     setText(elements.answered, answered);
     setText(elements.remaining, remaining);
     setText(elements.reviewCount, getReviewCount());
@@ -374,7 +376,7 @@ function updateReviewStatisticsPanel() {
 
         setText(values[0], getAnsweredCount());
         setText(values[1], getReviewCount());
-        setText(values[2], questions.length - getAnsweredCount());
+        setText(values[2], examQuestions.length - getAnsweredCount());
         setText(values[3], getNotVisitedCount());
         return;
     }
@@ -389,7 +391,7 @@ function updateReviewStatisticsPanel() {
     setText(values[0], result.correct);
     setText(values[1], result.wrong);
     setText(values[2], result.skipped);
-    setText(values[3], `${result.correct}/${questions.length}`);
+    setText(values[3], `${result.correct}/${examQuestions.length}`);
 }
 
 function appendReviewBadge(optionLabel, text, className) {
@@ -540,7 +542,7 @@ function getPaletteClass(index) {
     if (state.reviewMode) {
         const answer = state.answers[index];
 
-        if (answer === questions[index].answer) {
+        if (answer === examQuestions[index].answer) {
             classes.push("review-correct");
         } else if (answer !== null) {
             classes.push("review-wrong");
@@ -563,7 +565,7 @@ function applyReviewPaletteStyle(button, index) {
 
     const answer = state.answers[index];
 
-    if (answer === questions[index].answer) {
+    if (answer === examQuestions[index].answer) {
         button.style.background = "#14804a";
         button.style.borderColor = "#14804a";
         button.style.color = "#ffffff";
@@ -590,7 +592,7 @@ function renderPalette() {
 
     elements.palette.innerHTML = "";
 
-    questions.forEach((question, index) => {
+    examQuestions.forEach((question, index) => {
         const button = document.createElement("button");
         button.type = "button";
         button.className = getPaletteClass(index);
@@ -660,7 +662,7 @@ function renderReviewLegend() {
 }
 
 function updateReviewControls() {
-    const isLastQuestion = state.currentQuestion === questions.length - 1;
+    const isLastQuestion = state.currentQuestion === examQuestions.length - 1;
 
     if (elements.nextBtn) {
         if (state.reviewMode) {
@@ -706,13 +708,13 @@ function updateReviewControls() {
 }
 
 function renderQuestion() {
-    const question = questions[state.currentQuestion];
+    const question = examQuestions[state.currentQuestion];
     state.visited[state.currentQuestion] = true;
 
     setText(
         elements.questionNumber,
         state.reviewMode
-            ? `Review Question ${state.currentQuestion + 1} of ${questions.length}`
+            ? `Review Question ${state.currentQuestion + 1} of ${examQuestions.length}`
             : `Question ${state.currentQuestion + 1}`
     );
     setText(elements.questionText, question.question);
@@ -741,7 +743,7 @@ function selectAnswer(optionIndex) {
 }
 
 function openQuestion(index) {
-    if (index < 0 || index >= questions.length) {
+    if (index < 0 || index >= examQuestions.length) {
         return;
     }
 
@@ -761,7 +763,7 @@ function showResultModal() {
 }
 
 function goToNextQuestion() {
-    if (state.currentQuestion < questions.length - 1) {
+    if (state.currentQuestion < examQuestions.length - 1) {
         openQuestion(state.currentQuestion + 1);
         return;
     }
@@ -793,7 +795,7 @@ function markForReviewAndNext() {
     state.markedForReview[state.currentQuestion] =
         !state.markedForReview[state.currentQuestion];
 
-    if (state.currentQuestion < questions.length - 1) {
+    if (state.currentQuestion < examQuestions.length - 1) {
         openQuestion(state.currentQuestion + 1);
     } else {
         renderQuestion();
@@ -846,7 +848,7 @@ function openSubmitModal() {
     }
 
     setText(elements.submitAnswered, getAnsweredCount());
-    setText(elements.submitRemaining, questions.length - getAnsweredCount());
+    setText(elements.submitRemaining, examQuestions.length - getAnsweredCount());
     setText(elements.submitReview, getReviewCount());
     showModal(elements.submitModal);
 }
@@ -856,7 +858,7 @@ function updateResultDisplay(result) {
     setText(elements.wrongCount, result.wrong);
     setText(elements.skippedCount, result.skipped);
     setText(elements.scoreCount, result.correct);
-    setText(elements.resultTotalMarks, questions.length);
+    setText(elements.resultTotalMarks, examQuestions.length);
     setText(elements.percentageCount, `${result.percentage.toFixed(2)}%`);
     setText(elements.gradeCount, result.grade);
     renderProfessionalResultDashboard(result);
@@ -988,7 +990,7 @@ function printResult() {
     }
 
     const rows = state.answers.map((answer, index) => {
-        const question = questions[index];
+        const question = examQuestions[index];
         const selectedText =
             answer === null ? "Not Answered" : question.options[answer];
         const correctText = question.options[question.answer];
@@ -1134,7 +1136,7 @@ function renderProfessionalResultDashboard(result) {
         return;
     }
 
-    const attempted = questions.length - result.skipped;
+    const attempted = examQuestions.length - result.skipped;
     const accuracy = attempted ? (result.correct / attempted) * 100 : 0;
     const timeTaken = getTimeTakenSeconds();
     const passPercentage = Number(EXAM_CONFIG.passingPercentage) || 40;
@@ -1170,7 +1172,7 @@ function renderProfessionalResultDashboard(result) {
         </div>
 
         <div class="advanced-result-grid" aria-label="Detailed result statistics">
-            <div><span>Attempted</span><strong>${attempted}/${questions.length}</strong></div>
+            <div><span>Attempted</span><strong>${attempted}/${examQuestions.length}</strong></div>
             <div><span>Not Attempted</span><strong>${result.skipped}</strong></div>
             <div><span>Accuracy</span><strong>${accuracy.toFixed(1)}%</strong></div>
             <div><span>Time Taken</span><strong>${formatLongTime(timeTaken)}</strong></div>
@@ -1496,7 +1498,7 @@ function handleKeyboardShortcuts(event) {
 
     if (/^[1-9]$/.test(event.key)) {
         const optionIndex = Number(event.key) - 1;
-        const question = questions[state.currentQuestion];
+        const question = examQuestions[state.currentQuestion];
 
         if (optionIndex < question.options.length) {
             event.preventDefault();

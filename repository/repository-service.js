@@ -1,17 +1,5 @@
-/**
- * ==========================================================
- * SHAGA TestHub
- * Repository Service
- * Version : 1.0
- * ----------------------------------------------------------
- * Responsibility:
- * Provides access to the Question Repository.
- * Other modules (Generator, Search, CBT Engine)
- * should communicate ONLY through this service.
- * ==========================================================
- */
-
 import RepositoryLoader from "./repository-loader.js";
+import QuestionConverter from "./question-converter.js";
 
 class RepositoryService {
 
@@ -19,25 +7,41 @@ class RepositoryService {
 
         this.loader = new RepositoryLoader();
 
-    }
-
-    /**
-     * Initialize Repository
-     */
-
-    async initialize() {
-
-        await this.loader.load();
+        this.converter = new QuestionConverter();
 
     }
 
-    /**
-     * Check repository status
-     */
+    initialize() {
 
-    isReady() {
+        this.loader.initialize();
 
-        return this.loader.loaded();
+    }
+
+    getCatalog() {
+
+        return this.loader.getCatalog();
+
+    }
+
+    getQuestionBanks() {
+
+        return this.loader.getQuestionBanks();
+
+    }
+
+    getConvertedQuestions() {
+
+        const banks = this.getQuestionBanks();
+
+        if (banks.length === 0) {
+
+            return [];
+
+        }
+
+        return banks[0].questions.map(question =>
+            this.converter.convertQuestion(question)
+        );
 
     }
 

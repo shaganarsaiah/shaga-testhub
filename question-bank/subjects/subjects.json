@@ -1,0 +1,32 @@
+[
+  {
+    "id": "EDPSY",
+    "name": "Educational Psychology",
+    "code": "EDPSY"
+  },
+  {
+    "id": "EDPHIL",
+    "name": "Educational Philosophy",
+    "code": "EDPHIL"
+  },
+  {
+    "id": "EDSOC",
+    "name": "Educational Sociology",
+    "code": "EDSOC"
+  },
+  {
+    "id": "CURR",
+    "name": "Curriculum",
+    "code": "CURR"
+  },
+  {
+    "id": "ASSESS",
+    "name": "Assessment",
+    "code": "ASSESS"
+  },
+  {
+    "id": "LEAD",
+    "name": "Educational Leadership",
+    "code": "LEAD"
+  }
+]
