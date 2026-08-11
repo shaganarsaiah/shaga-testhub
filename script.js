@@ -54,9 +54,21 @@ const DEFAULT_CONFIG = {
 
 const CONFIG = window.SHAGA_EXAM_CONFIG || DEFAULT_CONFIG;
 const EXAM_CONFIG = CONFIG.exam || DEFAULT_CONFIG.exam;
-const DURATION_SECONDS = Math.max(1, Number(EXAM_CONFIG.durationMinutes) || 30) * 60;
+
+const testConfig = JSON.parse(localStorage.getItem("testConfig") || "{}");
+EXAM_CONFIG.subject = testConfig.subject || EXAM_CONFIG.subject;
+EXAM_CONFIG.sectionName = testConfig.subject || EXAM_CONFIG.sectionName;
+EXAM_CONFIG.title = testConfig.subject || EXAM_CONFIG.title;
+const selectedTime =
+    Number(testConfig.time) ||
+    Number(EXAM_CONFIG.durationMinutes) ||
+    150;
+
+const DURATION_SECONDS = selectedTime * 60;
 
 const examQuestions = questions;
+
+console.log("Selected Test Configuration:", testConfig);
 
 if (
     typeof examQuestions === "undefined" ||
@@ -1616,7 +1628,7 @@ function applyExamConfiguration() {
 function initialiseTest() {
     applyExamConfiguration();
     updateMetaInformation();
-    restoreState();
+    // restoreState();
     initialiseThemeToggle();
     bindEvents();
     renderQuestion();

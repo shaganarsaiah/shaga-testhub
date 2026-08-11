@@ -23,42 +23,146 @@
   },
 
   "questions": [
-    {
-      "id": "EDPSY-GD-0001",
 
-      "question": "Which psychologist proposed the stages of cognitive development?",
+{
+"id":"EDPSY-GD-0001",
+"question":"Which psychologist proposed the stages of cognitive development?",
+"options":{"A":"B. F. Skinner","B":"Jean Piaget","C":"Edward Thorndike","D":"Jerome Bruner"},
+"correctAnswer":"B",
+"explanation":"Jean Piaget proposed the stages of cognitive development.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Piaget","Cognitive Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
 
-      "options": {
-        "A": "B. F. Skinner",
-        "B": "Jean Piaget",
-        "C": "Edward Thorndike",
-        "D": "Jerome Bruner"
-      },
+{
+"id":"EDPSY-GD-0002",
+"question":"Growth mainly refers to ______.",
+"options":{"A":"Emotional maturity","B":"Increase in physical size","C":"Social adjustment","D":"Language acquisition"},
+"correctAnswer":"B",
+"explanation":"Growth refers to quantitative changes such as increase in height and weight.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Growth"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
 
-      "correctAnswer": "B",
+{
+"id":"EDPSY-GD-0003",
+"question":"Development is primarily a process of ______.",
+"options":{"A":"Quantitative change only","B":"Qualitative and quantitative change","C":"Physical growth only","D":"Weight gain"},
+"correctAnswer":"B",
+"explanation":"Development includes both qualitative and quantitative changes throughout life.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
 
-      "explanation": "Jean Piaget proposed the stages of cognitive development.",
+{
+"id":"EDPSY-GD-0004",
+"question":"Which principle states that development proceeds from head to toe?",
+"options":{"A":"Proximodistal","B":"Cephalocaudal","C":"Maturation","D":"Integration"},
+"correctAnswer":"B",
+"explanation":"Cephalocaudal principle means development progresses from the head towards the feet.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Principles of Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
 
-      "difficulty": "Easy",
+{
+"id":"EDPSY-GD-0005",
+"question":"Development from the centre of the body towards the extremities follows which principle?",
+"options":{"A":"Cephalocaudal","B":"Proximodistal","C":"Differentiation","D":"Integration"},
+"correctAnswer":"B",
+"explanation":"Proximodistal development progresses from the centre of the body outward.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Principles of Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
 
-      "cognitiveLevel": "Remember",
+{
+"id":"EDPSY-GD-0006",
+"question":"The term 'maturation' refers to ______.",
+"options":{"A":"Learning through practice","B":"Biological growth due to heredity","C":"Social interaction","D":"Environmental influence only"},
+"correctAnswer":"B",
+"explanation":"Maturation is the natural unfolding of biological potential determined by heredity.",
+"difficulty":"Medium",
+"cognitiveLevel":"Understand",
+"tags":["Maturation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
 
-      "tags": [
-        "Piaget",
-        "Cognitive Development"
-      ],
+{
+"id":"EDPSY-GD-0007",
+"question":"Which of the following is a characteristic of development?",
+"options":{"A":"It is random","B":"It is continuous","C":"It stops after childhood","D":"It is only physical"},
+"correctAnswer":"B",
+"explanation":"Development is a continuous process from conception to death.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Characteristics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
 
-      "source": {
-        "type": "Original",
-        "exam": "",
-        "year": "",
-        "paper": "",
-        "questionNumber": ""
-      },
+{
+"id":"EDPSY-GD-0008",
+"question":"Individual differences in development mean that ______.",
+"options":{"A":"All children develop at the same rate","B":"Every child develops uniquely","C":"Development is unpredictable","D":"Growth is identical in all children"},
+"correctAnswer":"B",
+"explanation":"Children differ in the rate and pattern of development.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Individual Differences"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
 
-      "isPreviousYearQuestion": false,
+{
+"id":"EDPSY-GD-0009",
+"question":"The interaction of heredity and environment influences ______.",
+"options":{"A":"Growth only","B":"Development","C":"Learning only","D":"Personality only"},
+"correctAnswer":"B",
+"explanation":"Development is influenced by both heredity and environment.",
+"difficulty":"Medium",
+"cognitiveLevel":"Understand",
+"tags":["Heredity","Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
 
-      "language": "English"
-    }
-  ]
+{
+"id":"EDPSY-GD-0010",
+"question":"Development follows a ______ pattern.",
+"options":{"A":"Fixed and orderly","B":"Random","C":"Backward","D":"Irregular only"},
+"correctAnswer":"A",
+"explanation":"Development follows an orderly and predictable sequence though the rate may vary.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Development Pattern"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+}
+
+]
 }

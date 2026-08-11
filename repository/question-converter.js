@@ -30,18 +30,29 @@ class QuestionConverter {
 
         return {
 
-            question: question.question,
+    question: question.question,
 
-            options: options,
+    options: options,
 
-            answer: answerMap[question.correctAnswer],
+    answer: answerMap[question.correctAnswer],
 
-            explanation: question.explanation
+    explanation: question.explanation,
 
-        };
+    subject: question.subject,
+
+    topic: question.topic,
+
+    difficulty: question.difficulty,
+
+    language: question.language,
+
+    tags: question.tags,
+
+    id: question.id
+
+};
 
     }
-
 }
 
 export default QuestionConverter;

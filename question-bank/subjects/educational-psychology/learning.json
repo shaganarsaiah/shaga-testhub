@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "repository": "SHAGA TestHub",
+    "id": "EDPSY-LEARN",
+    "subject": "Educational Psychology",
+    "topic": "Learning",
+    "paper": "Paper II",
+    "language": "English",
+    "questionCount": 0
+  },
+  "questions": [
+  {
+    "id": "EDPSY-LEARN-0001",
+    "question": "Learning is defined as a relatively permanent change in behaviour due to ________.",
+    "options": {
+      "A": "Maturation",
+      "B": "Experience and practice",
+      "C": "Heredity",
+      "D": "Growth"
+    },
+    "correctAnswer": "B",
+    "explanation": "Learning is a relatively permanent change in behaviour resulting from experience and practice.",
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "tags": ["Learning", "Definition"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  },
+  {
+    "id": "EDPSY-LEARN-0002",
+    "question": "Who proposed the Trial and Error theory of learning?",
+    "options": {
+      "A": "Ivan Pavlov",
+      "B": "Edward Thorndike",
+      "C": "Jean Piaget",
+      "D": "Jerome Bruner"
+    },
+    "correctAnswer": "B",
+    "explanation": "Edward Thorndike proposed the Trial and Error theory of learning.",
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "tags": ["Thorndike", "Trial and Error"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  },
+  {
+    "id": "EDPSY-LEARN-0003",
+    "question": "Classical Conditioning theory was proposed by:",
+    "options": {
+      "A": "B. F. Skinner",
+      "B": "Ivan Pavlov",
+      "C": "Edward Thorndike",
+      "D": "Albert Bandura"
+    },
+    "correctAnswer": "B",
+    "explanation": "Ivan Pavlov developed the Classical Conditioning theory.",
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "tags": ["Pavlov", "Classical Conditioning"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  },
+  {
+    "id": "EDPSY-LEARN-0004",
+    "question": "Operant Conditioning theory was proposed by:",
+    "options": {
+      "A": "B. F. Skinner",
+      "B": "Jean Piaget",
+      "C": "Kohler",
+      "D": "Gagne"
+    },
+    "correctAnswer": "A",
+    "explanation": "B. F. Skinner developed the Operant Conditioning theory.",
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "tags": ["Skinner", "Operant Conditioning"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  },
+  {
+    "id": "EDPSY-LEARN-0005",
+    "question": "Insight learning was proposed by:",
+    "options": {
+      "A": "Tolman",
+      "B": "Kohler",
+      "C": "Bandura",
+      "D": "Hull"
+    },
+    "correctAnswer": "B",
+    "explanation": "Wolfgang Kohler proposed Insight Learning through experiments on chimpanzees.",
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "tags": ["Kohler", "Insight Learning"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  },
+  {
+    "id": "EDPSY-LEARN-0006",
+    "question": "Who proposed the Social Learning Theory?",
+    "options": {
+      "A": "Albert Bandura",
+      "B": "Skinner",
+      "C": "Pavlov",
+      "D": "Thorndike"
+    },
+    "correctAnswer": "A",
+    "explanation": "Albert Bandura proposed Social Learning Theory emphasizing observational learning.",
+    "difficulty": "Easy",
+    "cognitiveLevel": "Remember",
+    "tags": ["Bandura", "Social Learning"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  },
+  {
+    "id": "EDPSY-LEARN-0007",
+    "question": "According to Thorndike, the most important law of learning is:",
+    "options": {
+      "A": "Law of Exercise",
+      "B": "Law of Readiness",
+      "C": "Law of Effect",
+      "D": "Law of Reinforcement"
+    },
+    "correctAnswer": "C",
+    "explanation": "Thorndike regarded the Law of Effect as the most important law of learning.",
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Understand",
+    "tags": ["Thorndike", "Law of Effect"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  },
+  {
+    "id": "EDPSY-LEARN-0008",
+    "question": "Learning by observing the behaviour of others is called:",
+    "options": {
+      "A": "Latent Learning",
+      "B": "Observational Learning",
+      "C": "Classical Conditioning",
+      "D": "Insight Learning"
+    },
+    "correctAnswer": "B",
+    "explanation": "Observational learning is learning by watching and imitating others.",
+    "difficulty": "Easy",
+    "cognitiveLevel": "Understand",
+    "tags": ["Observational Learning", "Bandura"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  },
+  {
+    "id": "EDPSY-LEARN-0009",
+    "question": "Reinforcement is mainly associated with:",
+    "options": {
+      "A": "Piaget",
+      "B": "Skinner",
+      "C": "Bruner",
+      "D": "Freud"
+    },
+    "correctAnswer": "B",
+    "explanation": "Positive and negative reinforcement are key concepts in Skinner's Operant Conditioning.",
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Understand",
+    "tags": ["Skinner", "Reinforcement"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  },
+  {
+    "id": "EDPSY-LEARN-0010",
+    "question": "Learning without immediate reinforcement but demonstrated later is known as:",
+    "options": {
+      "A": "Latent Learning",
+      "B": "Insight Learning",
+      "C": "Motor Learning",
+      "D": "Verbal Learning"
+    },
+    "correctAnswer": "A",
+    "explanation": "Edward Tolman introduced the concept of Latent Learning.",
+    "difficulty": "Moderate",
+    "cognitiveLevel": "Apply",
+    "tags": ["Tolman", "Latent Learning"],
+    "source": {
+      "type": "Original",
+      "exam": "",
+      "year": "",
+      "paper": "",
+      "questionNumber": ""
+    },
+    "isPreviousYearQuestion": false,
+    "language": "English"
+  }
+]
+}

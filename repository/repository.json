@@ -1,30 +1,74 @@
 {
   "repository": {
     "name": "SHAGA TestHub Repository",
-    "version": "2.0.0",
-    "schemaVersion": "2.0",
+    "version": "3.0.0",
+    "schemaVersion": "3.0",
     "defaultLanguage": "English"
   },
 
-  "subjects": [],
+  "subjects": [
+    {
+      "id": "educational-psychology",
+      "name": "Educational Psychology",
+      "topics": [
+        "growth-development",
+        "learning",
+        "memory",
+        "motivation",
+        "intelligence",
+        "thinking",
+        "creativity",
+        "personality",
+        "guidance-counselling"
+      ]
+    },
 
-  "questionTypes": [
-    "MCQ",
-    "TrueFalse",
-    "AssertionReason",
-    "Match",
-    "FillBlank"
-  ],
+    {
+      "id": "educational-philosophy",
+      "name": "Educational Philosophy",
+      "topics": []
+    },
 
-  "difficultyLevels": [
-    "Easy",
-    "Moderate",
-    "Difficult"
-  ],
+    {
+      "id": "educational-sociology",
+      "name": "Educational Sociology",
+      "topics": []
+    },
 
-  "languages": [
-    "English",
-    "Telugu",
-    "Bilingual"
+    {
+      "id": "curriculum",
+      "name": "Curriculum",
+      "topics": []
+    },
+
+    {
+      "id": "assessment",
+      "name": "Assessment",
+      "topics": []
+    },
+
+    {
+      "id": "educational-technology",
+      "name": "Educational Technology",
+      "topics": []
+    },
+
+    {
+      "id": "leadership",
+      "name": "Educational Leadership",
+      "topics": []
+    },
+
+    {
+      "id": "teacher-education",
+      "name": "Teacher Education",
+      "topics": []
+    },
+
+    {
+      "id": "general-studies",
+      "name": "General Studies",
+      "topics": []
+    }
   ]
 }

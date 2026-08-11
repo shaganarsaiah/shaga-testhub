@@ -2159,3 +2159,49 @@ body.dark-mode .result-card .result-status.needs-improvement {
     overflow-y:auto;
     overflow-x:hidden;
 }
+
+/* ===========================
+   SHAGA NOTES NAVBAR
+=========================== */
+
+.sn-navbar{
+    background:#0b3b75;
+    color:#fff;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:14px 30px;
+
+    position:sticky;
+    top:0;
+    z-index:1000;
+
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+}
+
+.sn-logo{
+    font-size:24px;
+    font-weight:700;
+}
+
+.sn-navbar nav{
+    display:flex;
+    gap:24px;
+}
+
+.sn-navbar a{
+    color:white;
+    text-decoration:none;
+    font-weight:600;
+    transition:.3s;
+}
+
+.sn-navbar a:hover{
+    color:#ffd54f;
+}
+
+.sn-navbar .active{
+    color:#ffd54f;
+}

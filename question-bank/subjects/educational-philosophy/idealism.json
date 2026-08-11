@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "repository": "SHAGA TestHub",
+    "id": "EDPHIL-IDEALISM",
+    "subject": "Educational Philosophy",
+    "topic": "Idealism",
+    "paper": "Paper II",
+    "language": "English",
+    "questionCount": 3
+  },
+
+  "questions": [
+    {
+      "id": "EDPHIL-001",
+      "question": "Who is regarded as the father of Idealism?",
+      "options": {
+        "A": "Plato",
+        "B": "Aristotle",
+        "C": "Rousseau",
+        "D": "John Dewey"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plato is regarded as the father of Idealism.",
+      "difficulty": "Easy",
+      "cognitiveLevel": "Remember",
+      "tags": ["Idealism", "Plato"],
+      "source": { "type": "Original" },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "EDPHIL-002",
+      "question": "According to Idealism, the ultimate reality is:",
+      "options": {
+        "A": "Matter",
+        "B": "Mind or Spirit",
+        "C": "Nature",
+        "D": "Experience"
+      },
+      "correctAnswer": "B",
+      "explanation": "Idealism believes that mind or spirit is the ultimate reality.",
+      "difficulty": "Easy",
+      "cognitiveLevel": "Understand",
+      "tags": ["Idealism"],
+      "source": { "type": "Original" },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "EDPHIL-003",
+      "question": "Which educational aim is most closely associated with Idealism?",
+      "options": {
+        "A": "Vocational efficiency",
+        "B": "Self-realization",
+        "C": "Physical strength",
+        "D": "Industrial productivity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Idealism emphasizes self-realization and moral development.",
+      "difficulty": "Moderate",
+      "cognitiveLevel": "Apply",
+      "tags": ["Idealism"],
+      "source": { "type": "Original" },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    }
+  ]
+}

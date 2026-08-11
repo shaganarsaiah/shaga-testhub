@@ -9,6 +9,8 @@
 import repositoryCatalog from "./repository.json" with { type: "json" };
 
 import growthDevelopment from "../question-bank/subjects/educational-psychology/growth-development.json" with { type: "json" };
+import learning from "../question-bank/subjects/educational-psychology/learning.json" with { type: "json" };
+import idealism from "../question-bank/subjects/educational-philosophy/idealism.json" with { type: "json" };
 
 class RepositoryLoader {
 
@@ -30,20 +32,23 @@ class RepositoryLoader {
 
         console.log(this.catalog);
 
-        this.questionBanks.push(growthDevelopment);
+        this.questionBanks.push(
+    growthDevelopment,
+    learning,
+    idealism
+);
 
         console.log("");
+console.log("Question Packages Loaded");
 
-        console.log("Question Package Loaded");
+for (const bank of this.questionBanks) {
 
-        console.log(growthDevelopment.metadata.subject);
+    console.log(bank.metadata.subject);
+    console.log(bank.metadata.topic);
+    console.log("Questions :", bank.questions.length);
+    console.log("-------------------------");
 
-        console.log(growthDevelopment.metadata.topic);
-
-        console.log(
-            "Questions :",
-            growthDevelopment.questions.length
-        );
+}
 
         this.loaded = true;
 

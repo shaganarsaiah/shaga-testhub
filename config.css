@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI,Arial,sans-serif;
+}
+
+body{
+    background:#eef3f9;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+}
+
+.container{
+    width:500px;
+    background:#fff;
+    padding:40px;
+    border-radius:15px;
+    box-shadow:0 10px 30px rgba(0,0,0,.15);
+}
+
+h1{
+    color:#0d3b73;
+    text-align:center;
+    margin-bottom:10px;
+}
+
+h2{
+    text-align:center;
+    color:#555;
+    margin-bottom:30px;
+    font-size:18px;
+}
+
+label{
+    display:block;
+    margin-top:18px;
+    margin-bottom:8px;
+    font-weight:600;
+    color:#333;
+}
+
+select{
+    width:100%;
+    padding:12px;
+    font-size:16px;
+    border-radius:8px;
+    border:1px solid #ccc;
+}
+
+button{
+    width:100%;
+    margin-top:35px;
+    padding:15px;
+    background:#0d3b73;
+    color:white;
+    border:none;
+    border-radius:8px;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:.3s;
+}
+
+button:hover{
+    background:#1456a0;
+}
+/* =========================
+   SHAGA NOTES HEADER
+========================= */
+
+.sn-header{
+    background:#0f3c73;
+    color:white;
+    padding:16px 30px;
+    margin-bottom:30px;
+}
+
+.sn-container{
+    width:100%;
+    max-width:1200px;
+    margin:0 auto;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:14px 30px;
+}
+
+.sn-logo{
+    color:white;
+    text-decoration:none;
+    font-size:28px;
+    font-weight:700;
+}
+
+.sn-header nav{
+    display:flex;
+    gap:25px;
+}
+
+.sn-header nav a{
+    color:white;
+    text-decoration:none;
+    font-weight:600;
+}
+
+.sn-header nav a:hover{
+    color:#ffd54f;
+}
+
+.active{
+    color:#ffd54f !important;
+}
+/* ===========================
+   SHAGA NOTES NAVBAR
+=========================== */
+
+.sn-navbar{
+    width:100%;
+    background:#0b3b75;
+    color:#fff;
+
+    position:sticky;
+    top:0;
+    z-index:1000;
+
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+}
+
+.sn-logo{
+    font-size:24px;
+    font-weight:700;
+}
+
+.sn-navbar nav{
+    display:flex;
+    gap:24px;
+}
+
+.sn-navbar a{
+    color:white;
+    text-decoration:none;
+    font-weight:600;
+    transition:.3s;
+}
+
+.sn-navbar a:hover{
+    color:#ffd54f;
+}
+
+.sn-navbar .active{
+    color:#ffd54f;
+}

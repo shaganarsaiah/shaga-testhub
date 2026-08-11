@@ -31,19 +31,34 @@ class RepositoryService {
 
     getConvertedQuestions() {
 
-        const banks = this.getQuestionBanks();
+    const banks = this.getQuestionBanks();
 
-        if (banks.length === 0) {
+    if (banks.length === 0) {
+        return [];
+    }
 
-            return [];
+    const allQuestions = [];
 
-        }
+    for (const bank of banks) {
 
-        return banks[0].questions.map(question =>
-            this.converter.convertQuestion(question)
-        );
+        if (!bank.questions) continue;
+
+        for (const question of bank.questions) {
+
+    const convertedQuestion = this.converter.convertQuestion(question);
+
+    convertedQuestion.subject = bank.metadata.subject;
+    convertedQuestion.topic = bank.metadata.topic;
+
+    allQuestions.push(convertedQuestion);
+
+}
 
     }
+
+    return allQuestions;
+
+}
 
 }
 
