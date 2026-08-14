@@ -1,195 +1,203 @@
 const questions = [
     {
-        "question": "Which psychologist proposed the stages of cognitive development?",
+        "question": "Learning is defined as a relatively permanent change in behaviour due to ________.",
         "options": [
-            "B. F. Skinner",
-            "Jean Piaget",
+            "Maturation",
+            "Experience and practice",
+            "Heredity",
+            "Growth"
+        ],
+        "answer": 1,
+        "explanation": "Learning is a relatively permanent change in behaviour resulting from experience and practice.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Learning",
+            "Definition"
+        ],
+        "id": "EDPSY-LEARN-0001"
+    },
+    {
+        "question": "Who proposed the Trial and Error theory of learning?",
+        "options": [
+            "Ivan Pavlov",
             "Edward Thorndike",
+            "Jean Piaget",
             "Jerome Bruner"
         ],
         "answer": 1,
-        "explanation": "Jean Piaget proposed the stages of cognitive development.",
+        "explanation": "Edward Thorndike proposed the Trial and Error theory of learning.",
         "subject": "Educational Psychology",
-        "topic": "Growth and Development",
+        "topic": "Learning",
         "difficulty": "Easy",
         "language": "English",
         "tags": [
-            "Piaget",
-            "Cognitive Development"
+            "Thorndike",
+            "Trial and Error"
         ],
-        "id": "EDPSY-GD-0001"
+        "id": "EDPSY-LEARN-0002"
     },
     {
-        "question": "Growth mainly refers to ______.",
+        "question": "Classical Conditioning theory was proposed by:",
         "options": [
-            "Emotional maturity",
-            "Increase in physical size",
-            "Social adjustment",
-            "Language acquisition"
+            "B. F. Skinner",
+            "Ivan Pavlov",
+            "Edward Thorndike",
+            "Albert Bandura"
         ],
         "answer": 1,
-        "explanation": "Growth refers to quantitative changes such as increase in height and weight.",
+        "explanation": "Ivan Pavlov developed the Classical Conditioning theory.",
         "subject": "Educational Psychology",
-        "topic": "Growth and Development",
+        "topic": "Learning",
         "difficulty": "Easy",
         "language": "English",
         "tags": [
-            "Growth"
+            "Pavlov",
+            "Classical Conditioning"
         ],
-        "id": "EDPSY-GD-0002"
+        "id": "EDPSY-LEARN-0003"
     },
     {
-        "question": "Development is primarily a process of ______.",
+        "question": "Operant Conditioning theory was proposed by:",
         "options": [
-            "Quantitative change only",
-            "Qualitative and quantitative change",
-            "Physical growth only",
-            "Weight gain"
-        ],
-        "answer": 1,
-        "explanation": "Development includes both qualitative and quantitative changes throughout life.",
-        "subject": "Educational Psychology",
-        "topic": "Growth and Development",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Development"
-        ],
-        "id": "EDPSY-GD-0003"
-    },
-    {
-        "question": "Which principle states that development proceeds from head to toe?",
-        "options": [
-            "Proximodistal",
-            "Cephalocaudal",
-            "Maturation",
-            "Integration"
-        ],
-        "answer": 1,
-        "explanation": "Cephalocaudal principle means development progresses from the head towards the feet.",
-        "subject": "Educational Psychology",
-        "topic": "Growth and Development",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Principles of Development"
-        ],
-        "id": "EDPSY-GD-0004"
-    },
-    {
-        "question": "Development from the centre of the body towards the extremities follows which principle?",
-        "options": [
-            "Cephalocaudal",
-            "Proximodistal",
-            "Differentiation",
-            "Integration"
-        ],
-        "answer": 1,
-        "explanation": "Proximodistal development progresses from the centre of the body outward.",
-        "subject": "Educational Psychology",
-        "topic": "Growth and Development",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Principles of Development"
-        ],
-        "id": "EDPSY-GD-0005"
-    },
-    {
-        "question": "The term 'maturation' refers to ______.",
-        "options": [
-            "Learning through practice",
-            "Biological growth due to heredity",
-            "Social interaction",
-            "Environmental influence only"
-        ],
-        "answer": 1,
-        "explanation": "Maturation is the natural unfolding of biological potential determined by heredity.",
-        "subject": "Educational Psychology",
-        "topic": "Growth and Development",
-        "difficulty": "Medium",
-        "language": "English",
-        "tags": [
-            "Maturation"
-        ],
-        "id": "EDPSY-GD-0006"
-    },
-    {
-        "question": "Which of the following is a characteristic of development?",
-        "options": [
-            "It is random",
-            "It is continuous",
-            "It stops after childhood",
-            "It is only physical"
-        ],
-        "answer": 1,
-        "explanation": "Development is a continuous process from conception to death.",
-        "subject": "Educational Psychology",
-        "topic": "Growth and Development",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Characteristics"
-        ],
-        "id": "EDPSY-GD-0007"
-    },
-    {
-        "question": "Individual differences in development mean that ______.",
-        "options": [
-            "All children develop at the same rate",
-            "Every child develops uniquely",
-            "Development is unpredictable",
-            "Growth is identical in all children"
-        ],
-        "answer": 1,
-        "explanation": "Children differ in the rate and pattern of development.",
-        "subject": "Educational Psychology",
-        "topic": "Growth and Development",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Individual Differences"
-        ],
-        "id": "EDPSY-GD-0008"
-    },
-    {
-        "question": "The interaction of heredity and environment influences ______.",
-        "options": [
-            "Growth only",
-            "Development",
-            "Learning only",
-            "Personality only"
-        ],
-        "answer": 1,
-        "explanation": "Development is influenced by both heredity and environment.",
-        "subject": "Educational Psychology",
-        "topic": "Growth and Development",
-        "difficulty": "Medium",
-        "language": "English",
-        "tags": [
-            "Heredity",
-            "Environment"
-        ],
-        "id": "EDPSY-GD-0009"
-    },
-    {
-        "question": "Development follows a ______ pattern.",
-        "options": [
-            "Fixed and orderly",
-            "Random",
-            "Backward",
-            "Irregular only"
+            "B. F. Skinner",
+            "Jean Piaget",
+            "Kohler",
+            "Gagne"
         ],
         "answer": 0,
-        "explanation": "Development follows an orderly and predictable sequence though the rate may vary.",
+        "explanation": "B. F. Skinner developed the Operant Conditioning theory.",
         "subject": "Educational Psychology",
-        "topic": "Growth and Development",
+        "topic": "Learning",
         "difficulty": "Easy",
         "language": "English",
         "tags": [
-            "Development Pattern"
+            "Skinner",
+            "Operant Conditioning"
         ],
-        "id": "EDPSY-GD-0010"
+        "id": "EDPSY-LEARN-0004"
+    },
+    {
+        "question": "Insight learning was proposed by:",
+        "options": [
+            "Tolman",
+            "Kohler",
+            "Bandura",
+            "Hull"
+        ],
+        "answer": 1,
+        "explanation": "Wolfgang Kohler proposed Insight Learning through experiments on chimpanzees.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Kohler",
+            "Insight Learning"
+        ],
+        "id": "EDPSY-LEARN-0005"
+    },
+    {
+        "question": "Who proposed the Social Learning Theory?",
+        "options": [
+            "Albert Bandura",
+            "Skinner",
+            "Pavlov",
+            "Thorndike"
+        ],
+        "answer": 0,
+        "explanation": "Albert Bandura proposed Social Learning Theory emphasizing observational learning.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Bandura",
+            "Social Learning"
+        ],
+        "id": "EDPSY-LEARN-0006"
+    },
+    {
+        "question": "According to Thorndike, the most important law of learning is:",
+        "options": [
+            "Law of Exercise",
+            "Law of Readiness",
+            "Law of Effect",
+            "Law of Reinforcement"
+        ],
+        "answer": 2,
+        "explanation": "Thorndike regarded the Law of Effect as the most important law of learning.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Thorndike",
+            "Law of Effect"
+        ],
+        "id": "EDPSY-LEARN-0007"
+    },
+    {
+        "question": "Learning by observing the behaviour of others is called:",
+        "options": [
+            "Latent Learning",
+            "Observational Learning",
+            "Classical Conditioning",
+            "Insight Learning"
+        ],
+        "answer": 1,
+        "explanation": "Observational learning is learning by watching and imitating others.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Observational Learning",
+            "Bandura"
+        ],
+        "id": "EDPSY-LEARN-0008"
+    },
+    {
+        "question": "Reinforcement is mainly associated with:",
+        "options": [
+            "Piaget",
+            "Skinner",
+            "Bruner",
+            "Freud"
+        ],
+        "answer": 1,
+        "explanation": "Positive and negative reinforcement are key concepts in Skinner's Operant Conditioning.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Skinner",
+            "Reinforcement"
+        ],
+        "id": "EDPSY-LEARN-0009"
+    },
+    {
+        "question": "Learning without immediate reinforcement but demonstrated later is known as:",
+        "options": [
+            "Latent Learning",
+            "Insight Learning",
+            "Motor Learning",
+            "Verbal Learning"
+        ],
+        "answer": 0,
+        "explanation": "Edward Tolman introduced the concept of Latent Learning.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Tolman",
+            "Latent Learning"
+        ],
+        "id": "EDPSY-LEARN-0010"
     }
 ];
 

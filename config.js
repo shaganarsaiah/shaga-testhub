@@ -3,17 +3,12 @@ const repository = {
     subjects: {
 
         "Educational Psychology": [
-
             "Growth and Development",
-
             "Learning"
-
         ],
 
         "Educational Philosophy": [
-
             "Idealism"
-
         ],
 
         "Educational Sociology": [],
@@ -34,17 +29,44 @@ const repository = {
 
 };
 
-const subject = document.getElementById("subject");
-
+const subjectsContainer = document.getElementById("subjects");
 const topic = document.getElementById("topic");
+
+function getSelectedSubjects() {
+
+    return Array.from(
+        subjectsContainer.querySelectorAll(
+            'input[type="checkbox"]:checked'
+        )
+    ).map(cb => cb.value);
+
+}
 
 function loadTopics() {
 
     topic.innerHTML = "";
 
-    const topics = repository.subjects[subject.value];
+    const selectedSubjects = getSelectedSubjects();
 
-    topics.forEach(t => {
+    const allTopics = [];
+
+    selectedSubjects.forEach(subject => {
+
+        const topics = repository.subjects[subject] || [];
+
+        topics.forEach(t => {
+
+            if (!allTopics.includes(t)) {
+
+                allTopics.push(t);
+
+            }
+
+        });
+
+    });
+
+    allTopics.forEach(t => {
 
         const option = document.createElement("option");
 
@@ -58,26 +80,43 @@ function loadTopics() {
 
 }
 
-subject.addEventListener("change", loadTopics);
+subjectsContainer
+.querySelectorAll('input[type="checkbox"]')
+.forEach(cb => {
+
+    cb.addEventListener("change", loadTopics);
+
+});
 
 loadTopics();
 
 const startBtn = document.getElementById("startBtn");
-
 startBtn.addEventListener("click", async () => {
 
     const config = {
 
-        subject: document.getElementById("subject").value,
-        topic: document.getElementById("topic").value,
-        questionCount: parseInt(document.getElementById("questions").value),
+        subjects: getSelectedSubjects(),
+
+        topic: topic.value,
+
+        questionCount: parseInt(
+            document.getElementById("questions").value
+        ),
+
         difficulty: document.getElementById("difficulty").value,
+
         language: document.getElementById("language").value,
-        time: parseInt(document.getElementById("time").value)
+
+        time: parseInt(
+            document.getElementById("time").value
+        )
 
     };
 
-    localStorage.setItem("testConfig", JSON.stringify(config));
+    localStorage.setItem(
+        "testConfig",
+        JSON.stringify(config)
+    );
 
     try {
 

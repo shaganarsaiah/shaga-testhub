@@ -248,6 +248,1055 @@
     },
     "isPreviousYearQuestion": false,
     "language": "English"
-  }
-]
+  },
+  
+{
+"id":"EDPSY-LRN-0011",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher observes that a student who performs poorly in a mathematics examination due to severe anxiety is nevertheless able to solve similar problems correctly during classroom activities a week later. Which conclusion is most educationally appropriate?",
+"options":{
+"A":"The student has not learned because examination performance is the only indicator of learning.",
+"B":"Learning and performance are identical; therefore poor examination performance proves absence of learning.",
+"C":"Learning is relatively permanent, whereas performance may be influenced by temporary factors such as anxiety.",
+"D":"Learning depends only upon intelligence."
+},
+"correctAnswer":"C",
+"explanation":"Learning refers to a relatively permanent change in behaviour or behavioural potential acquired through experience. Performance at any given moment may be influenced by temporary factors such as anxiety, illness, fatigue or lack of motivation.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Nature of Learning","Learning vs Performance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0012",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Every behavioural change cannot be regarded as learning.\nReason (R): Learning excludes temporary behavioural changes caused by fatigue, illness or emotional disturbance.",
+"options":{
+"A":"Both A and R are true, and R is the correct explanation of A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Educational psychologists define learning as a relatively permanent behavioural change resulting from experience. Temporary changes caused by physical or emotional conditions are not considered learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Nature of Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0013",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which one of the following classroom situations provides the strongest evidence of meaningful learning?",
+"options":{
+"A":"A student memorises definitions one day before the examination and forgets them the next day.",
+"B":"A student reproduces textbook paragraphs exactly as taught.",
+"C":"A student applies a previously learned scientific principle to solve a new real-life problem.",
+"D":"A student copies answers from the blackboard without understanding."
+},
+"correctAnswer":"C",
+"explanation":"Meaningful learning is demonstrated when previously acquired knowledge is transferred to unfamiliar situations. Mere memorisation or copying does not necessarily indicate conceptual understanding.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Transfer of Learning","Meaningful Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0014",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which of the following statements regarding learning are correct?\n1. Learning may occur intentionally or incidentally.\n2. Learning always produces immediately observable behaviour.\n3. Learning may involve changes in knowledge, attitudes and skills.\n4. Learning is generally inferred from behaviour rather than directly observed.",
+"options":{
+"A":"1, 3 and 4 only",
+"B":"1 and 2 only",
+"C":"2 and 3 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Learning does not always produce immediate observable behaviour. It may first modify behavioural potential, while changes become evident later in appropriate situations.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Characteristics of Learning","Multiple Statements"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0015",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A Dy.E.O. observes two schools following the same curriculum. In School A, teachers mainly dictate notes. In School B, teachers organise discussions, experiments and collaborative problem-solving. Students in School B consistently demonstrate superior conceptual understanding. Which educational principle best explains this difference?",
+"options":{
+"A":"Learning depends exclusively upon heredity.",
+"B":"Active engagement and meaningful experiences promote deeper learning than passive reception.",
+"C":"Completion of syllabus alone guarantees learning.",
+"D":"Learning depends only on intelligence."
+},
+"correctAnswer":"B",
+"explanation":"Educational psychology consistently shows that active participation, discussion, experimentation and meaningful experiences promote conceptual understanding, retention and transfer of learning more effectively than passive note-taking.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Educational Application","Active Learning","DyEO"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0016",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher notices that a student understands the concept of photosynthesis and explains it accurately during classroom discussion, but fails to answer a similar question in the annual examination due to illness. Which educational principle is BEST illustrated?",
+"options":{
+"A":"Learning and performance are identical.",
+"B":"Performance may vary because of temporary conditions, whereas learning is relatively permanent.",
+"C":"Learning occurs only when examination marks are high.",
+"D":"Learning depends solely upon physical health."
+},
+"correctAnswer":"B",
+"explanation":"Learning refers to a relatively permanent change acquired through experience, whereas performance at a particular time may be affected by temporary conditions such as illness, anxiety or fatigue.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Learning vs Performance","Educational Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0017",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Learning is considered a lifelong process.\nReason (R): Individuals continuously modify their knowledge, skills and attitudes through interaction with changing environments.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Learning continues throughout life because people constantly adapt to new experiences and environments, leading to continuous modification of behaviour and understanding.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Lifelong Learning","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0018",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which of the following classroom practices is MOST likely to promote meaningful learning?",
+"options":{
+"A":"Encouraging students to memorise answers without discussion.",
+"B":"Providing opportunities to investigate problems, discuss ideas and apply concepts in real-life situations.",
+"C":"Giving lengthy notes for repeated copying.",
+"D":"Conducting only weekly memory-based tests."
+},
+"correctAnswer":"B",
+"explanation":"Meaningful learning occurs when learners actively participate, connect new knowledge with previous experiences and apply concepts in different contexts.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Meaningful Learning","Constructivism","Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0019",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Consider the following statements:\n1. Learning is influenced by motivation.\n2. Learning may occur through formal and informal experiences.\n3. Learning always results in immediate behavioural change.\n4. Learning may involve cognitive, affective and psychomotor domains.\nWhich of the above statements are correct?",
+"options":{
+"A":"1, 2 and 4 only",
+"B":"1 and 3 only",
+"C":"2 and 3 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Learning does not always produce immediate observable behaviour. It influences multiple domains and can occur through both formal and informal experiences.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Domains of Learning","Multiple Statements"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0020",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"During a school inspection, a Dy.E.O. finds that students score well in unit tests but struggle to apply concepts during science exhibitions and project work. Which recommendation is MOST appropriate?",
+"options":{
+"A":"Increase the frequency of written examinations.",
+"B":"Replace project work with additional note-writing.",
+"C":"Provide activity-based, inquiry-oriented and application-focused learning experiences.",
+"D":"Reduce classroom discussion and complete the syllabus earlier."
+},
+"correctAnswer":"C",
+"explanation":"High test scores alone do not indicate deep learning. Activity-based and inquiry-oriented teaching promotes conceptual understanding, transfer of learning and real-life application.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Administration","Transfer of Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0021",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A cat placed inside a puzzle box initially scratches, jumps and pushes different parts of the box before accidentally pressing the correct lever and escaping. After several trials, the cat escapes more quickly by directly pressing the lever. According to Thorndike, this pattern of learning is best described as:",
+"options":{
+"A":"Learning through Insight",
+"B":"Learning through Classical Conditioning",
+"C":"Learning through Trial and Error",
+"D":"Learning through Observation"
+},
+"correctAnswer":"C",
+"explanation":"Thorndike concluded that learning occurs gradually through trial and error. Incorrect responses are eliminated while successful responses are strengthened through repeated trials.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Thorndike","Puzzle Box","Trial and Error"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0022",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Thorndike concluded that learning is generally gradual rather than sudden.\nReason (R): In the Puzzle Box experiment, the time taken by the cat to escape decreased progressively over repeated trials.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"The gradual reduction in escape time across repeated trials led Thorndike to conclude that learning develops step by step through strengthening successful responses rather than through sudden insight.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Thorndike","Assertion-Reason","Puzzle Box"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0023",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which feature of Thorndike's Puzzle Box experiment provided the strongest evidence for Trial and Error Learning?",
+"options":{
+"A":"The animal escaped immediately after understanding the mechanism.",
+"B":"The successful response appeared suddenly without previous attempts.",
+"C":"Successful responses were gradually strengthened while ineffective responses disappeared through repeated attempts.",
+"D":"The animal learned mainly by watching another animal."
+},
+"correctAnswer":"C",
+"explanation":"Thorndike observed gradual elimination of ineffective responses and strengthening of successful responses, which became the foundation of the Trial and Error theory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Puzzle Box","Stimulus-Response","Thorndike"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0024",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher allows students to solve numerical problems independently. Initially, they make several mistakes, but after repeated attempts and feedback, they consistently arrive at correct solutions. Which educational implication of Thorndike's theory is BEST illustrated?",
+"options":{
+"A":"Learning should always occur through imitation.",
+"B":"Practice combined with feedback strengthens correct responses.",
+"C":"Learning depends only upon maturation.",
+"D":"Understanding develops without experience."
+},
+"correctAnswer":"B",
+"explanation":"Thorndike's theory suggests that repeated practice and appropriate feedback strengthen correct stimulus-response connections, leading to improved learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Educational Application","Practice","Thorndike"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0025",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which of the following statements regarding Thorndike's Trial and Error Theory are correct?\n1. Learning is gradual.\n2. Correct responses become strengthened through successful outcomes.\n3. Insight is considered the primary mechanism of learning.\n4. Practice contributes to strengthening learning.\nSelect the correct answer.",
+"options":{
+"A":"1, 2 and 4 only",
+"B":"1 and 3 only",
+"C":"2 and 3 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Thorndike emphasized gradual learning, strengthening of successful responses and the importance of practice. Sudden insight is associated with Köhler's Gestalt theory, not Thorndike's theory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Thorndike","Multiple Statements","Trial and Error"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0026",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher begins teaching fractions only after ensuring that students have mastered addition and subtraction of whole numbers. According to Thorndike, which major law of learning is best illustrated?",
+"options":{
+"A":"Law of Exercise",
+"B":"Law of Effect",
+"C":"Law of Readiness",
+"D":"Law of Multiple Response"
+},
+"correctAnswer":"C",
+"explanation":"The Law of Readiness states that learning is most effective when learners are physically, mentally and intellectually prepared. Teaching advanced concepts before learners are ready results in frustration and ineffective learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Thorndike","Law of Readiness","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0027",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Regular practice improves learning.\nReason (R): According to Thorndike's Law of Exercise, stimulus-response connections become stronger through repeated use.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Thorndike's Law of Exercise states that repeated use strengthens learning (Law of Use), while lack of practice weakens stimulus-response connections (Law of Disuse).",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Law of Exercise","Assertion-Reason","Practice"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0028",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A headmaster instructs teachers to appreciate students immediately after they successfully complete classroom activities. Which of Thorndike's major laws is being applied?",
+"options":{
+"A":"Law of Readiness",
+"B":"Law of Effect",
+"C":"Law of Exercise",
+"D":"Law of Associative Shifting"
+},
+"correctAnswer":"B",
+"explanation":"The Law of Effect states that responses followed by satisfying consequences are strengthened and become more likely to occur in the future.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Law of Effect","Reinforcement","Educational Administration"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0029",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which of the following statements regarding Thorndike's three major laws is/are correct?\n\n1. Law of Readiness emphasizes learner preparedness.\n2. Law of Exercise emphasizes practice.\n3. Law of Effect emphasizes satisfying consequences.\n4. Law of Belongingness is one of Thorndike's three major laws.\n\nSelect the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"1 and 4 only",
+"C":"2, 3 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Thorndike's three major laws are the Law of Readiness, Law of Exercise and Law of Effect. The Law of Belongingness is a subordinate law, not a major law.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Major Laws","Multiple Statements","Thorndike"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0030",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"During a district classroom observation, a Dy.E.O. notices that teachers explain concepts clearly but provide very little opportunity for students to practise. Students perform poorly in problem-solving tasks. Which recommendation is MOST appropriate according to Thorndike's theory?",
+"options":{
+"A":"Increase the number of written examinations.",
+"B":"Reduce classroom discussion to save time.",
+"C":"Provide systematic practice with immediate feedback to strengthen correct responses.",
+"D":"Complete the syllabus more quickly."
+},
+"correctAnswer":"C",
+"explanation":"Thorndike's Law of Exercise emphasizes that learning becomes stronger through meaningful practice, while timely feedback helps strengthen correct stimulus-response connections.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Law of Exercise","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0031",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A student solving a new mathematics problem tries several different methods before finally arriving at the correct solution. According to Thorndike, which subordinate law best explains this behaviour?",
+"options":{
+"A":"Law of Response by Analogy",
+"B":"Law of Multiple Response",
+"C":"Law of Associative Shifting",
+"D":"Law of Belongingness"
+},
+"correctAnswer":"B",
+"explanation":"The Law of Multiple Response states that when faced with a new problem, an individual attempts several responses until the successful one is discovered. This principle forms the basis of trial-and-error learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Thorndike","Law of Multiple Response","Subordinate Laws"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0032",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher notices that two students with similar ability perform differently because one approaches every task with enthusiasm while the other begins with a negative attitude. Which subordinate law of Thorndike best explains this difference?",
+"options":{
+"A":"Law of Set or Attitude",
+"B":"Law of Exercise",
+"C":"Law of Effect",
+"D":"Law of Readiness"
+},
+"correctAnswer":"A",
+"explanation":"The Law of Set or Attitude emphasizes that a learner's mental set, interest and attitude influence how learning takes place and how effectively responses are made.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Set or Attitude","Thorndike","Educational Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0033",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"During a science lesson, a teacher highlights only the essential variables in an experiment and asks students to ignore irrelevant information. Which subordinate law is BEST illustrated?",
+"options":{
+"A":"Law of Prepotency of Elements",
+"B":"Law of Multiple Response",
+"C":"Law of Response by Analogy",
+"D":"Law of Associative Shifting"
+},
+"correctAnswer":"A",
+"explanation":"The Law of Prepotency of Elements states that learners respond to the significant or dominant aspects of a situation while ignoring irrelevant details. Effective teaching helps students identify these essential elements.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Prepotency of Elements","Thorndike","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0034",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Previous learning often helps learners solve new but similar problems.\nReason (R): According to Thorndike's Law of Response by Analogy, individuals tend to respond to new situations on the basis of similarities with previously experienced situations.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"The Law of Response by Analogy explains that learners use previous experiences to guide responses in similar situations. This principle is closely related to transfer of learning.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Response by Analogy","Transfer of Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0035",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher gradually changes the cue for a classroom response. Initially, students stand up when the teacher rings a bell. After several days, the teacher rings the bell and simultaneously raises a hand. Later, students stand up merely on seeing the raised hand even without the bell. Which subordinate law of Thorndike is illustrated?",
+"options":{
+"A":"Law of Associative Shifting",
+"B":"Law of Multiple Response",
+"C":"Law of Belongingness",
+"D":"Law of Effect"
+},
+"correctAnswer":"A",
+"explanation":"The Law of Associative Shifting explains how a response can be transferred from one stimulus to another by gradually changing the stimulus while maintaining the same response.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Apply",
+"tags":["Associative Shifting","Thorndike","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0036",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A school introduces regular practice sessions, immediate feedback, graded exercises and appreciation for correct responses. Which combination of Thorndike's laws is MOST directly reflected?",
+"options":{
+"A":"Law of Readiness and Law of Belongingness",
+"B":"Law of Exercise and Law of Effect",
+"C":"Law of Multiple Response and Law of Set",
+"D":"Law of Response by Analogy and Law of Associative Shifting"
+},
+"correctAnswer":"B",
+"explanation":"Regular practice strengthens stimulus-response connections (Law of Exercise), while immediate appreciation reinforces correct behaviour (Law of Effect). Together, they form the basis of effective classroom instruction.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Educational Application","Law of Exercise","Law of Effect"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0037",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which criticism of Thorndike's Trial and Error Theory is MOST widely accepted by modern educational psychologists?",
+"options":{
+"A":"The theory completely ignored practice.",
+"B":"The theory underestimated higher cognitive processes such as reasoning, insight and problem representation.",
+"C":"The theory rejected environmental influences on learning.",
+"D":"The theory explained only language learning."
+},
+"correctAnswer":"B",
+"explanation":"Thorndike emphasized stimulus-response connections and gradual learning. Later cognitive and Gestalt psychologists argued that many problems are solved through insight, reasoning and cognitive organisation rather than trial and error alone.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Criticism","Thorndike","Cognitive Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0038",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Thorndike's theory continues to influence classroom teaching.\nReason (R): Practice, feedback and reinforcement remain important principles in modern instructional strategies.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Although later theories expanded the understanding of learning, Thorndike's emphasis on practice, feedback and reinforcement continues to influence classroom teaching, skill development and assessment.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Educational Implications","Thorndike"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0039",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A learner suddenly recognises the relationship among different elements of a problem and solves it without repeated trial and error. Which comparison between Thorndike and Köhler is MOST appropriate?",
+"options":{
+"A":"Thorndike and Köhler both explained learning through gradual stimulus-response strengthening.",
+"B":"Thorndike emphasised gradual trial-and-error learning, whereas Köhler explained problem-solving through sudden insight.",
+"C":"Thorndike explained learning through conditioned reflexes, whereas Köhler explained learning through reinforcement.",
+"D":"Both theories rejected the role of cognition."
+},
+"correctAnswer":"B",
+"explanation":"Thorndike viewed learning as gradual through trial and error. Köhler proposed that learners may suddenly perceive relationships within a problem, leading to insight.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Thorndike","Köhler","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0040",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"During a classroom observation, a Dy.E.O. notices that teachers encourage repeated practice but rarely explain the underlying concepts. Students perform routine exercises successfully but struggle when questions are slightly modified. Which recommendation is MOST appropriate?",
+"options":{
+"A":"Increase the number of repetitive exercises.",
+"B":"Reduce classroom interaction and complete the syllabus earlier.",
+"C":"Combine systematic practice with conceptual understanding and problem-solving activities.",
+"D":"Replace practice sessions with memorisation exercises."
+},
+"correctAnswer":"C",
+"explanation":"Thorndike's principles support practice, but modern educational psychology also emphasises conceptual understanding and transfer of learning. Combining both approaches produces deeper and more flexible learning.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Administration","Transfer of Learning","Thorndike"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0041",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A mathematics teacher repeatedly humiliates students who make mistakes during class. After several weeks, many students begin to feel anxious immediately upon entering the mathematics classroom, even before any interaction with the teacher. Which learning principle BEST explains this behaviour?",
+"options":{
+"A":"Operant Conditioning",
+"B":"Classical Conditioning",
+"C":"Trial and Error Learning",
+"D":"Insight Learning"
+},
+"correctAnswer":"B",
+"explanation":"The classroom, initially a neutral stimulus, became associated with unpleasant experiences (humiliation). Consequently, it elicited anxiety as a conditioned emotional response. This is an example of Classical Conditioning.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Pavlov","Classical Conditioning","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0042",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Classical Conditioning explains many emotional reactions observed in school settings.\nReason (R): Neutral situations may acquire emotional significance through repeated association with pleasant or unpleasant experiences.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Repeated pairing of neutral classroom situations with emotional experiences can produce conditioned emotional responses. This explains why students may develop liking or fear towards particular subjects, teachers or classrooms.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Classical Conditioning","Emotional Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0043",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"In Pavlov's theory, learning primarily occurs through:",
+"options":{
+"A":"Insight into relationships among problem elements",
+"B":"Association between two stimuli through repeated pairing",
+"C":"Strengthening responses through reinforcement schedules",
+"D":"Selection of successful responses by trial and error"
+},
+"correctAnswer":"B",
+"explanation":"Classical Conditioning is based on forming an association between a previously neutral stimulus and an unconditioned stimulus through repeated pairing until the neutral stimulus alone elicits the conditioned response.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Association","Pavlov","Learning Process"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0044",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which comparison correctly distinguishes Pavlov's Classical Conditioning from Thorndike's Trial and Error Theory?",
+"options":{
+"A":"Pavlov emphasized stimulus-stimulus association, whereas Thorndike emphasized stimulus-response connections strengthened through successful outcomes.",
+"B":"Both theories explain learning primarily through insight.",
+"C":"Pavlov explained voluntary behaviour, whereas Thorndike explained involuntary behaviour.",
+"D":"Both theories rejected the importance of environmental stimuli."
+},
+"correctAnswer":"A",
+"explanation":"Pavlov focused on associations between stimuli leading to conditioned responses, while Thorndike explained learning as the gradual strengthening of stimulus-response connections through satisfying consequences.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Pavlov","Thorndike"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0045",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A school begins playing soft instrumental music immediately before guided reading sessions every day. After a month, students become calm and attentive as soon as the music begins, even before the teacher gives any instruction. Which educational implication of Classical Conditioning is BEST illustrated?",
+"options":{
+"A":"Pleasant environmental cues can become conditioned stimuli that facilitate desirable classroom behaviour.",
+"B":"Repeated practice alone produces learning.",
+"C":"Students learn only through external rewards.",
+"D":"Learning depends entirely upon maturation."
+},
+"correctAnswer":"A",
+"explanation":"The music, initially a neutral stimulus, became associated with a calm reading environment. It later functioned as a conditioned stimulus, eliciting attentiveness and readiness for learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Educational Application","Conditioned Stimulus","Pavlov"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+[
+{
+"id":"EDPSY-LRN-0046",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher repeatedly begins every science laboratory session by playing a short tune. After several weeks, students become attentive immediately upon hearing the tune, even before any instruction is given. Which stage of Classical Conditioning does this BEST represent?",
+"options":{
+"A":"Acquisition",
+"B":"Extinction",
+"C":"Generalization",
+"D":"Spontaneous Recovery"
+},
+"correctAnswer":"A",
+"explanation":"Acquisition is the stage during which a neutral stimulus becomes a conditioned stimulus through repeated pairing with an unconditioned stimulus, resulting in a conditioned response.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Pavlov","Acquisition","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0047",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): A conditioned response gradually weakens when the conditioned stimulus is repeatedly presented without the unconditioned stimulus.\nReason (R): The association between the conditioned stimulus and the unconditioned stimulus gradually disappears.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"This process is known as extinction. When the conditioned stimulus is repeatedly presented without reinforcement by the unconditioned stimulus, the conditioned response gradually decreases.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Extinction","Assertion-Reason","Pavlov"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0048",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A student who had overcome examination fear begins to experience mild anxiety again on the first examination conducted after a long vacation, even though no unpleasant experience occurs. Which concept BEST explains this phenomenon?",
+"options":{
+"A":"Stimulus Discrimination",
+"B":"Generalization",
+"C":"Spontaneous Recovery",
+"D":"Law of Effect"
+},
+"correctAnswer":"C",
+"explanation":"Spontaneous Recovery refers to the reappearance of a previously extinguished conditioned response after a rest period, even without new conditioning.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Spontaneous Recovery","Educational Psychology","Pavlov"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0049",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A child who was frightened by a barking dog later becomes afraid of all dogs, regardless of their breed or size. Which concept of Classical Conditioning is illustrated?",
+"options":{
+"A":"Stimulus Discrimination",
+"B":"Stimulus Generalization",
+"C":"Acquisition",
+"D":"Extinction"
+},
+"correctAnswer":"B",
+"explanation":"Stimulus Generalization occurs when a conditioned response extends to stimuli that resemble the original conditioned stimulus.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Generalization","Pavlov","Conditioning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0050",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which of the following statements regarding Classical Conditioning are correct?\n\n1. Acquisition establishes the conditioned response.\n2. Extinction permanently destroys the possibility of the conditioned response returning.\n3. Spontaneous Recovery may occur after extinction.\n4. Stimulus Discrimination enables an organism to respond differently to similar stimuli.\n\nSelect the correct answer.",
+"options":{
+"A":"1, 3 and 4 only",
+"B":"1 and 2 only",
+"C":"2, 3 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statement 2 is incorrect because extinction suppresses the conditioned response but does not necessarily eliminate it permanently. This is demonstrated by spontaneous recovery.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Pavlov","Multiple Statements","Generalization","Discrimination"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0051",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher consistently greets students warmly, appreciates their efforts and creates a supportive classroom climate. Over time, students begin to feel enthusiastic and relaxed as soon as they enter the classroom, even before the lesson starts. Which educational principle is BEST illustrated?",
+"options":{
+"A":"Operant Conditioning through reinforcement",
+"B":"Classical Conditioning of positive emotional responses",
+"C":"Trial and Error Learning",
+"D":"Insight Learning"
+},
+"correctAnswer":"B",
+"explanation":"The classroom, initially a neutral stimulus, becomes associated with positive experiences and eventually elicits positive emotional responses. This demonstrates Classical Conditioning in an educational setting.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Pavlov","Educational Application","Emotional Conditioning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0052",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Teachers should avoid repeatedly humiliating students in the classroom.\nReason (R): Repeated negative experiences may condition learners to develop fear and avoidance towards the subject itself.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Negative classroom experiences may become associated with a particular subject or teacher, producing conditioned emotional responses such as anxiety, fear or avoidance.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Classical Conditioning","Educational Implications"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0053",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which comparison correctly distinguishes Pavlov's and Skinner's explanations of learning?",
+"options":{
+"A":"Pavlov explained learning through stimulus-stimulus association, whereas Skinner emphasized consequences of voluntary behaviour.",
+"B":"Pavlov emphasized reinforcement schedules, whereas Skinner focused on conditioned reflexes.",
+"C":"Both explained learning primarily through insight.",
+"D":"Both rejected environmental influences in learning."
+},
+"correctAnswer":"A",
+"explanation":"Pavlov's Classical Conditioning is based on associations between stimuli and largely involves involuntary responses. Skinner's Operant Conditioning explains voluntary behaviour shaped by reinforcement and consequences.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Pavlov","Skinner","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0054",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A Dy.E.O. observes that students in one school exhibit intense fear of science practical examinations because they have repeatedly experienced harsh criticism during laboratory sessions. Which recommendation is MOST appropriate based on Classical Conditioning?",
+"options":{
+"A":"Increase the number of practical examinations.",
+"B":"Replace negative emotional experiences with supportive guidance and encouraging laboratory experiences.",
+"C":"Reduce practical work and rely only on theory classes.",
+"D":"Ignore students' emotional reactions because learning is purely cognitive."
+},
+"correctAnswer":"B",
+"explanation":"Classical Conditioning suggests that repeated positive experiences can help replace conditioned fear with confidence. A supportive environment encourages favourable emotional associations with learning.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Administration","Classical Conditioning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0055",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which of the following statements regarding Classical Conditioning are correct?\n\n1. It primarily explains involuntary or respondent behaviour.\n2. Emotional reactions in classrooms may develop through conditioning.\n3. Reinforcement schedules form the central principle of Classical Conditioning.\n4. Generalization and discrimination are important concepts in the theory.\n\nSelect the correct answer.",
+"options":{
+"A":"1, 2 and 4 only",
+"B":"1 and 3 only",
+"C":"2, 3 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 4 are correct. Reinforcement schedules are a characteristic feature of Skinner's Operant Conditioning, not Pavlov's Classical Conditioning.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Pavlov","Multiple Statements","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0056",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher gives immediate verbal appreciation whenever a student answers correctly in class. As a result, the student participates more actively in subsequent lessons. According to Skinner, this is an example of:",
+"options":{
+"A":"Negative Reinforcement",
+"B":"Positive Reinforcement",
+"C":"Punishment",
+"D":"Extinction"
+},
+"correctAnswer":"B",
+"explanation":"Positive reinforcement involves presenting a desirable stimulus immediately after a desired behaviour, thereby increasing the likelihood that the behaviour will be repeated.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Skinner","Positive Reinforcement","Operant Conditioning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0057",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Negative reinforcement strengthens behaviour.\nReason (R): It increases the probability of a behaviour by removing an unpleasant stimulus after the desired response occurs.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Negative reinforcement is often misunderstood. It strengthens behaviour by removing an aversive condition after the desired behaviour. It is different from punishment, which aims to reduce behaviour.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Negative Reinforcement","Assertion-Reason","Skinner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0058",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A student completes homework regularly because the teacher excuses the student from an additional practice worksheet whenever homework is submitted on time. Which concept is BEST illustrated?",
+"options":{
+"A":"Positive Reinforcement",
+"B":"Negative Reinforcement",
+"C":"Positive Punishment",
+"D":"Extinction"
+},
+"correctAnswer":"B",
+"explanation":"The student increases the desired behaviour because an unpleasant condition (extra worksheet) is removed. This is negative reinforcement, not punishment.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Negative Reinforcement","Educational Application","Skinner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0059",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which comparison correctly distinguishes Thorndike's Law of Effect from Skinner's Operant Conditioning?",
+"options":{
+"A":"Thorndike introduced the idea that satisfying consequences strengthen responses, whereas Skinner developed a systematic theory explaining how reinforcement shapes voluntary behaviour.",
+"B":"Thorndike rejected reinforcement, whereas Skinner accepted it.",
+"C":"Thorndike explained involuntary behaviour, whereas Skinner explained conditioned reflexes.",
+"D":"Both theories rejected environmental influences on learning."
+},
+"correctAnswer":"A",
+"explanation":"Thorndike's Law of Effect laid the foundation by proposing that satisfying consequences strengthen behaviour. Skinner extended this idea into a comprehensive theory of operant behaviour and reinforcement.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Thorndike","Skinner","Comparison","Law of Effect"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0060",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"During a school inspection, a Dy.E.O. finds that teachers rely mainly on punishment to maintain discipline. Which recommendation is MOST consistent with Skinner's Operant Conditioning?",
+"options":{
+"A":"Increase the severity of punishment so that undesirable behaviour disappears completely.",
+"B":"Use positive reinforcement to strengthen desirable classroom behaviours while applying corrective measures judiciously when necessary.",
+"C":"Ignore all student behaviour because behaviour changes naturally over time.",
+"D":"Replace classroom activities with more written tests."
+},
+"correctAnswer":"B",
+"explanation":"Skinner emphasized that positive reinforcement is generally more effective than punishment in promoting desirable behaviour. Appropriate reinforcement encourages long-term behavioural change and creates a more supportive learning environment.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Skinner","Educational Administration","Positive Reinforcement","DyEO"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
 }
+]

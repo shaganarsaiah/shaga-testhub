@@ -56,9 +56,19 @@ const CONFIG = window.SHAGA_EXAM_CONFIG || DEFAULT_CONFIG;
 const EXAM_CONFIG = CONFIG.exam || DEFAULT_CONFIG.exam;
 
 const testConfig = JSON.parse(localStorage.getItem("testConfig") || "{}");
-EXAM_CONFIG.subject = testConfig.subject || EXAM_CONFIG.subject;
-EXAM_CONFIG.sectionName = testConfig.subject || EXAM_CONFIG.sectionName;
-EXAM_CONFIG.title = testConfig.subject || EXAM_CONFIG.title;
+const selectedSubjects =
+    testConfig.subjects || [];
+
+const subjectTitle =
+    selectedSubjects.length > 0
+        ? selectedSubjects.join(" + ")
+        : EXAM_CONFIG.subject;
+
+EXAM_CONFIG.subject = subjectTitle;
+
+EXAM_CONFIG.sectionName = subjectTitle;
+
+EXAM_CONFIG.title = subjectTitle;
 const selectedTime =
     Number(testConfig.time) ||
     Number(EXAM_CONFIG.durationMinutes) ||

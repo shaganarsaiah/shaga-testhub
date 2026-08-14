@@ -23,11 +23,16 @@ console.log("Total loaded:", questions.length);
 console.log("First Question:");
 console.log(questions[0]);
 
-    // Subject
-    if (config.subject) {
-        questions = questions.filter(q => q.subject === config.subject);
-    }
-    console.log("After Subject:", questions.length);
+    // Subjects
+if (config.subjects && config.subjects.length > 0) {
+
+    questions = questions.filter(q =>
+        config.subjects.includes(q.subject)
+    );
+
+}
+
+console.log("After Subjects:", questions.length);
 
     // Topic
     if (config.topic) {
