@@ -1,0 +1,2104 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "topic": "Individual Differences",
+    "totalQuestions": 200,
+    "language": "English",
+    "difficulty": "Mixed",
+    "version": "1.0"
+  },
+  "questions": [
+    {
+"id":"EDPSY-ID-0001",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Individual differences refer to:",
+"options":{
+"A":"Similarities among all individuals",
+"B":"Variations among individuals in physical, mental, emotional and social characteristics",
+"C":"Differences only in intelligence",
+"D":"Differences only in physical appearance"
+},
+"correctAnswer":"B",
+"explanation":"Individual differences are the variations found among individuals in physical, intellectual, emotional, social and other characteristics.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Definition","Individual Differences"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0002",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which branch of psychology mainly studies differences among individuals?",
+"options":{
+"A":"Clinical Psychology",
+"B":"Differential Psychology",
+"C":"Social Psychology",
+"D":"Health Psychology"
+},
+"correctAnswer":"B",
+"explanation":"Differential Psychology focuses on the study of individual differences.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Differential Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0003",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following is NOT an area of individual differences?",
+"options":{
+"A":"Intelligence",
+"B":"Personality",
+"C":"Interests",
+"D":"Earth's rotation"
+},
+"correctAnswer":"D",
+"explanation":"Individual differences include intelligence, personality, aptitude, interests, attitudes and abilities—not physical phenomena like Earth's rotation.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Areas"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0004",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): No two learners are exactly alike.\nReason (R): Every learner differs in heredity and environmental experiences.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Individual differences arise from the interaction of heredity and environment.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Heredity","Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0005",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"The two major causes of individual differences are:",
+"options":{
+"A":"Teaching and examination",
+"B":"Heredity and Environment",
+"C":"School and textbooks",
+"D":"Language and religion"
+},
+"correctAnswer":"B",
+"explanation":"Individual differences result mainly from heredity and environmental influences.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Heredity","Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0006",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which educational principle is based on individual differences?",
+"options":{
+"A":"Uniform teaching for all learners",
+"B":"Child-centred education",
+"C":"Same evaluation for everyone regardless of ability",
+"D":"Ignoring learner diversity"
+},
+"correctAnswer":"B",
+"explanation":"Child-centred education recognizes that learners differ and require appropriate teaching methods.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Child-centred Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0007",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A teacher provides different learning activities according to students' abilities. Which educational principle is illustrated?",
+"options":{
+"A":"Uniform instruction",
+"B":"Individualized instruction",
+"C":"Mechanical teaching",
+"D":"Punitive teaching"
+},
+"correctAnswer":"B",
+"explanation":"Individualized instruction adapts teaching to learners' individual needs and abilities.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Individualized Instruction","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0008",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which learner characteristic is LEAST influenced by heredity?",
+"options":{
+"A":"Eye colour",
+"B":"Blood group",
+"C":"Learning experiences",
+"D":"Height potential"
+},
+"correctAnswer":"C",
+"explanation":"Learning experiences are largely influenced by environmental factors.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0009",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. Individual differences exist among all learners.\n2. Heredity influences development.\n3. Environment influences development.\n4. Education should recognize learner diversity.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the concept and educational importance of individual differences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Individual Differences"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0010",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A Dy.E.O. observes classrooms where teachers use differentiated instruction, flexible grouping and varied assessment methods to meet learner needs. Which conclusion BEST reflects educational psychology?",
+"options":{
+"A":"Schools are respecting individual differences through learner-centred education.",
+"B":"Schools are promoting rote memorization only.",
+"C":"All learners should receive identical instruction.",
+"D":"Individual differences have little educational importance."
+},
+"correctAnswer":"A",
+"explanation":"Differentiated instruction recognizes learner diversity and promotes equitable educational opportunities.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Differentiated Instruction","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-ID-0011",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Individual differences are observed in all of the following EXCEPT:",
+"options":{
+"A":"Intelligence",
+"B":"Interests",
+"C":"Personality",
+"D":"Universal biological processes such as blood circulation"
+},
+"correctAnswer":"D",
+"explanation":"Blood circulation is a universal biological process, whereas intelligence, interests and personality differ among individuals.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Areas of Individual Differences"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0012",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which type of individual difference is MOST directly related to career choice?",
+"options":{
+"A":"Blood group",
+"B":"Vocational interests",
+"C":"Eye colour",
+"D":"Height"
+},
+"correctAnswer":"B",
+"explanation":"Vocational interests strongly influence career preferences and occupational choices.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Interests","Career Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0013",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which educational practice BEST respects individual differences?",
+"options":{
+"A":"Giving identical assignments to every learner",
+"B":"Using differentiated instruction according to learner needs",
+"C":"Ignoring learning pace",
+"D":"Using only lecture method"
+},
+"correctAnswer":"B",
+"explanation":"Differentiated instruction adapts content, process and assessment according to learners' abilities and needs.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Differentiated Instruction"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0014",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): Individual differences make classroom teaching more challenging.\nReason (R): Learners differ in readiness, ability, interests and learning pace.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Teachers must adapt instruction because learners differ in many educationally significant ways.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Teaching"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0015",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which teaching strategy is MOST suitable in a classroom with wide individual differences?",
+"options":{
+"A":"One method for all learners",
+"B":"Flexible grouping and differentiated activities",
+"C":"Memorization only",
+"D":"Uniform homework for everyone"
+},
+"correctAnswer":"B",
+"explanation":"Flexible grouping allows learners to work according to their abilities, readiness and interests.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Flexible Grouping"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0016",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A teacher allows advanced learners to complete enrichment activities while supporting slower learners with remedial work. Which educational principle is illustrated?",
+"options":{
+"A":"Differentiated instruction",
+"B":"Uniform curriculum",
+"C":"Mechanical teaching",
+"D":"Punitive discipline"
+},
+"correctAnswer":"A",
+"explanation":"Providing enrichment and remediation according to learner needs is an example of differentiated instruction.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Case Study","Differentiation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0017",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which classroom assessment practice BEST accommodates individual differences?",
+"options":{
+"A":"Only one final examination",
+"B":"Using multiple assessment methods",
+"C":"Only oral testing",
+"D":"Only written testing"
+},
+"correctAnswer":"B",
+"explanation":"Using varied assessment methods helps evaluate learners with different strengths and learning styles.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0018",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A learner performs well in mathematics but struggles in languages. This BEST illustrates:",
+"options":{
+"A":"Individual differences in abilities",
+"B":"Lack of motivation",
+"C":"Poor teaching only",
+"D":"Uniform intelligence"
+},
+"correctAnswer":"A",
+"explanation":"Individuals often possess different strengths and weaknesses across subjects and abilities.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Abilities","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0019",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. Learners differ in intelligence.\n2. Learners differ in interests.\n3. Learners differ in learning pace.\n4. Teaching should recognize these differences.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the educational significance of individual differences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Individual Differences"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0020",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"During a district inspection, a Dy.E.O. observes classrooms where teachers provide differentiated tasks, flexible assessment, remedial teaching and enrichment activities according to learner needs. Which conclusion BEST reflects modern educational psychology?",
+"options":{
+"A":"Schools are effectively addressing individual differences through inclusive and learner-centred practices.",
+"B":"All learners should receive identical instruction.",
+"C":"Individual differences have no educational value.",
+"D":"Uniform teaching is always the most effective."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational psychology promotes differentiated, inclusive and learner-centred teaching to address learner diversity.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Inclusive Education","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-ID-0021",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Heredity refers to:",
+"options":{
+"A":"Learning through experience",
+"B":"Transmission of biological characteristics from parents to offspring",
+"C":"Influence of school only",
+"D":"Social interaction alone"
+},
+"correctAnswer":"B",
+"explanation":"Heredity is the transmission of genetic characteristics from one generation to the next through genes.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Heredity","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0022",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Environment refers to:",
+"options":{
+"A":"Only physical surroundings",
+"B":"Only family influence",
+"C":"All external conditions influencing growth and development",
+"D":"Only school education"
+},
+"correctAnswer":"C",
+"explanation":"Environment includes physical, social, cultural and educational influences affecting development.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0023",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Who is popularly known as the 'Father of Eugenics' and strongly emphasized heredity?",
+"options":{
+"A":"John Locke",
+"B":"Jean-Jacques Rousseau",
+"C":"Francis Galton",
+"D":"John B. Watson"
+},
+"correctAnswer":"C",
+"explanation":"Francis Galton emphasized the importance of heredity and is regarded as the Father of Eugenics.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Francis Galton","Eugenics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0024",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Who believed that the child's mind is a 'Tabula Rasa' (blank slate)?",
+"options":{
+"A":"Francis Galton",
+"B":"John Locke",
+"C":"Jean Piaget",
+"D":"Charles Spearman"
+},
+"correctAnswer":"B",
+"explanation":"John Locke proposed that children are born with a 'blank slate' and that experience shapes development.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["John Locke","Tabula Rasa"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0025",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Who emphasized the importance of nature and natural development in education?",
+"options":{
+"A":"Francis Galton",
+"B":"Jean-Jacques Rousseau",
+"C":"John Watson",
+"D":"Edward Thorndike"
+},
+"correctAnswer":"B",
+"explanation":"Rousseau believed that education should follow the natural development of the child.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Rousseau","Naturalism"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0026",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"John B. Watson strongly emphasized the role of:",
+"options":{
+"A":"Genes",
+"B":"Environment",
+"C":"Instincts only",
+"D":"Heredity alone"
+},
+"correctAnswer":"B",
+"explanation":"Watson believed that environmental experiences play the major role in shaping behaviour.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Watson","Behaviourism"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0027",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): Development results from the interaction of heredity and environment.\nReason (R): Neither heredity nor environment alone can fully explain human development.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Modern psychology accepts that heredity and environment interact continuously to influence development.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Interaction"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0028",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A child possesses musical potential from birth but develops outstanding musical ability only after years of training. This illustrates:",
+"options":{
+"A":"Heredity alone",
+"B":"Environment alone",
+"C":"Interaction of heredity and environment",
+"D":"Chance alone"
+},
+"correctAnswer":"C",
+"explanation":"Inherited potential develops fully only with suitable environmental opportunities and practice.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Interaction","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0029",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. Francis Galton emphasized heredity.\n2. John Locke proposed the Blank Slate theory.\n3. Rousseau emphasized natural development.\n4. Watson emphasized environmental influence.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly match the thinkers with their educational views.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Thinkers"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0030",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A Dy.E.O. observes teachers providing rich classroom experiences while also recognizing learners' inherited abilities. Which educational principle is BEST reflected?",
+"options":{
+"A":"Development depends on the interaction of heredity and environment.",
+"B":"Environment alone determines achievement.",
+"C":"Heredity alone determines achievement.",
+"D":"Learning occurs only through maturation."
+},
+"correctAnswer":"A",
+"explanation":"Effective education recognizes both inherited potential and the importance of supportive environmental experiences.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","Heredity-Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0031",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Maturation refers to:",
+"options":{
+"A":"Learning through practice",
+"B":"Growth due to hereditary biological processes",
+"C":"Teaching through observation",
+"D":"Social learning only"
+},
+"correctAnswer":"B",
+"explanation":"Maturation is the natural unfolding of biological potential determined largely by heredity.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Maturation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0032",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which psychologist is closely associated with the concept of maturation?",
+"options":{
+"A":"Arnold Gesell",
+"B":"B.F. Skinner",
+"C":"Edward Thorndike",
+"D":"Ivan Pavlov"
+},
+"correctAnswer":"A",
+"explanation":"Arnold Gesell emphasized maturation as a major factor in child development.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Gesell","Maturation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0033",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A child begins walking without formal training when the nervous system becomes sufficiently mature. This is an example of:",
+"options":{
+"A":"Conditioning",
+"B":"Maturation",
+"C":"Insight Learning",
+"D":"Trial and Error"
+},
+"correctAnswer":"B",
+"explanation":"Walking develops naturally when biological maturation reaches the required level.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Maturation","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0034",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): Maturation sets limits within which learning can occur.\nReason (R): Certain skills require biological readiness before effective learning is possible.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Biological readiness is essential before many types of learning can occur effectively.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Readiness"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0035",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which educational implication follows from the principle of maturation?",
+"options":{
+"A":"Teach all concepts at the same age",
+"B":"Provide learning experiences according to developmental readiness",
+"C":"Ignore developmental stages",
+"D":"Depend only on memorization"
+},
+"correctAnswer":"B",
+"explanation":"Instruction should match the learner's developmental readiness.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Educational Implication","Maturation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0036",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which statement BEST describes the modern view regarding heredity and environment?",
+"options":{
+"A":"Only heredity matters.",
+"B":"Only environment matters.",
+"C":"Both interact continuously throughout development.",
+"D":"Neither influences development."
+},
+"correctAnswer":"C",
+"explanation":"Modern psychology recognizes continuous interaction between heredity and environmental influences.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Interaction"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0037",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A teacher delays formal reading instruction until children demonstrate developmental readiness. This approach reflects:",
+"options":{
+"A":"Maturation principle",
+"B":"Punishment principle",
+"C":"Mechanical learning",
+"D":"Rote learning"
+},
+"correctAnswer":"A",
+"explanation":"Readiness based on maturation is essential for successful learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Readiness","Teaching"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0038",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which thinker famously stated, 'Give me a dozen healthy infants...' emphasizing environmental influence?",
+"options":{
+"A":"Francis Galton",
+"B":"John B. Watson",
+"C":"Arnold Gesell",
+"D":"Jean Piaget"
+},
+"correctAnswer":"B",
+"explanation":"John B. Watson argued that environment could shape almost any aspect of behaviour.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Watson","Quotation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0039",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. Gesell emphasized maturation.\n2. Maturation depends mainly on heredity.\n3. Learning is influenced by readiness.\n4. Effective teaching considers developmental level.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe maturation and its educational implications.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Maturation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0040",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"During a district inspection, a Dy.E.O. finds that teachers respect developmental readiness, provide rich learning environments and avoid judging learners solely by inherited abilities. Which conclusion BEST reflects contemporary educational psychology?",
+"options":{
+"A":"Effective education integrates heredity, maturation and environmental experiences.",
+"B":"Heredity alone determines success.",
+"C":"Environment alone determines success.",
+"D":"Learning is independent of development."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational psychology emphasizes the interaction of heredity, maturation and environment in promoting learner development.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Grand Application","Heredity","Environment","Maturation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-ID-0041",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A gifted child is generally characterized by:",
+"options":{
+"A":"Consistently low academic performance",
+"B":"Exceptional intellectual ability and high learning potential",
+"C":"Poor social adjustment only",
+"D":"Delayed physical development"
+},
+"correctAnswer":"B",
+"explanation":"Gifted children possess above-average intellectual ability and learn more rapidly than their peers.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Gifted Child","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0042",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"According to Terman, gifted children generally have an IQ of:",
+"options":{
+"A":"90 or above",
+"B":"100 or above",
+"C":"120 or above",
+"D":"140 or above"
+},
+"correctAnswer":"D",
+"explanation":"Lewis Terman generally considered children with an IQ of about 140 or above as gifted.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Terman","Giftedness","IQ"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0043",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which educational provision is MOST appropriate for gifted learners?",
+"options":{
+"A":"Grade retention",
+"B":"Acceleration and enrichment",
+"C":"Reduced learning opportunities",
+"D":"Punishment for advanced performance"
+},
+"correctAnswer":"B",
+"explanation":"Acceleration and enrichment programmes help gifted learners develop according to their advanced abilities.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Gifted Education","Enrichment","Acceleration"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0044",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): Gifted learners may become underachievers if their educational needs are ignored.\nReason (R): Lack of challenge can reduce motivation and engagement.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Gifted learners require challenging learning experiences to remain motivated and realize their potential.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Gifted Learners"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0045",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A slow learner generally:",
+"options":{
+"A":"Has superior intelligence",
+"B":"Learns at a slower pace than average but is not intellectually disabled",
+"C":"Cannot learn at all",
+"D":"Always has behavioural problems"
+},
+"correctAnswer":"B",
+"explanation":"Slow learners require additional time and support but are capable of learning the regular curriculum with appropriate assistance.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Slow Learner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0046",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Backwardness in education primarily refers to:",
+"options":{
+"A":"Temporary illness",
+"B":"Academic performance significantly below the expected level for age or grade",
+"C":"High intelligence",
+"D":"Physical disability only"
+},
+"correctAnswer":"B",
+"explanation":"Educational backwardness refers to persistent academic performance below expected standards.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Backward Child"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0047",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A teacher provides remedial teaching, smaller learning steps and repeated practice for a slow learner. Which educational principle is illustrated?",
+"options":{
+"A":"Differentiated instruction",
+"B":"Uniform instruction",
+"C":"Acceleration",
+"D":"Ability grouping only"
+},
+"correctAnswer":"A",
+"explanation":"Differentiated instruction adapts teaching strategies according to learner needs.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Slow Learner","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0048",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which educational strategy is LEAST appropriate for gifted children?",
+"options":{
+"A":"Enrichment programmes",
+"B":"Acceleration",
+"C":"Providing challenging projects",
+"D":"Repeatedly assigning only simple drill work"
+},
+"correctAnswer":"D",
+"explanation":"Gifted learners require intellectually stimulating tasks rather than repetitive routine work.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Gifted Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0049",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. Gifted learners benefit from enrichment.\n2. Slow learners require additional support.\n3. Backwardness refers mainly to academic delay.\n4. Differentiated instruction helps diverse learners.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe educational approaches for learners with different needs.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Gifted","Slow Learner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0050",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A Dy.E.O. observes that schools identify gifted learners for enrichment programmes while providing remedial teaching and individualized support to slow learners. Which educational principle is BEST reflected?",
+"options":{
+"A":"Equity through differentiated educational provision",
+"B":"Uniform teaching for all learners",
+"C":"Only examination-oriented instruction",
+"D":"Identical assessment for every learner"
+},
+"correctAnswer":"A",
+"explanation":"Modern education promotes equity by providing appropriate educational opportunities according to individual learner needs.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Differentiated Education","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-ID-0051",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which characteristic is commonly associated with gifted learners?",
+"options":{
+"A":"Slow comprehension",
+"B":"Curiosity and rapid learning",
+"C":"Poor reasoning ability",
+"D":"Lack of imagination"
+},
+"correctAnswer":"B",
+"explanation":"Gifted learners usually display high curiosity, quick understanding, originality and advanced reasoning.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Gifted","Characteristics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0052",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which educational programme provides additional learning experiences without changing the grade level?",
+"options":{
+"A":"Acceleration",
+"B":"Enrichment",
+"C":"Remedial Teaching",
+"D":"Detention"
+},
+"correctAnswer":"B",
+"explanation":"Enrichment broadens and deepens learning while the learner remains in the same grade.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Enrichment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0053",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Acceleration in gifted education means:",
+"options":{
+"A":"Increasing homework",
+"B":"Allowing learners to progress through the curriculum at a faster rate",
+"C":"Providing remedial classes",
+"D":"Reducing syllabus content"
+},
+"correctAnswer":"B",
+"explanation":"Acceleration enables gifted learners to complete educational programmes at a pace matching their abilities.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Acceleration","Gifted Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0054",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): Slow learners can succeed academically.\nReason (R): Appropriate instructional support improves learning outcomes.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Slow learners benefit from suitable teaching strategies, additional practice and continuous encouragement.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Slow Learners"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0055",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A child possesses exceptional artistic ability despite average academic performance. This child is BEST described as:",
+"options":{
+"A":"Backward learner",
+"B":"Talented learner",
+"C":"Slow learner",
+"D":"Educationally disabled"
+},
+"correctAnswer":"B",
+"explanation":"Talented learners demonstrate exceptional ability in a specific field such as music, art, sports or dance.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Talented Child","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0056",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"An underachiever is a learner who:",
+"options":{
+"A":"Has low ability and low achievement",
+"B":"Has high ability but performs below potential",
+"C":"Cannot attend school regularly",
+"D":"Has a physical disability"
+},
+"correctAnswer":"B",
+"explanation":"Underachievement occurs when actual performance is significantly below the learner's demonstrated ability.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Underachiever"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0057",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which instructional strategy is MOST effective for helping slow learners?",
+"options":{
+"A":"Fast-paced lectures",
+"B":"Remedial teaching with continuous feedback",
+"C":"Skipping difficult topics",
+"D":"Increasing examination difficulty"
+},
+"correctAnswer":"B",
+"explanation":"Remedial teaching addresses learning gaps through individualized instruction and regular feedback.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Remedial Teaching"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0058",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A school provides peer tutoring, individualized worksheets and regular reinforcement for struggling learners. Which educational principle is illustrated?",
+"options":{
+"A":"Inclusive support through differentiated instruction",
+"B":"Uniform instruction",
+"C":"Competitive teaching only",
+"D":"Grade acceleration"
+},
+"correctAnswer":"A",
+"explanation":"Peer tutoring and individualized learning materials help address diverse learning needs in inclusive classrooms.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Peer Tutoring","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0059",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. Gifted learners benefit from enrichment.\n2. Acceleration allows faster educational progress.\n3. Underachievers perform below their potential.\n4. Remedial teaching supports slow learners.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe educational provisions for learners with different abilities.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Gifted","Slow Learners"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0060",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"During a district inspection, a Dy.E.O. observes that gifted learners receive enrichment projects, talented learners participate in specialized clubs, slow learners attend remedial classes and underachievers receive counselling. Which conclusion BEST reflects contemporary educational psychology?",
+"options":{
+"A":"Schools are addressing learner diversity through equitable educational support.",
+"B":"All learners should receive identical instruction.",
+"C":"Gifted learners require no teacher support.",
+"D":"Remedial teaching should replace regular classroom instruction."
+},
+"correctAnswer":"A",
+"explanation":"Modern education emphasizes equity by providing different forms of support according to individual learner needs and potential.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","Inclusive Practices"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-ID-0061",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Learning style refers to:",
+"options":{
+"A":"The amount of intelligence a learner possesses",
+"B":"A learner's preferred way of acquiring, processing and retaining information",
+"C":"The speed of writing",
+"D":"Only the method used by the teacher"
+},
+"correctAnswer":"B",
+"explanation":"Learning style is the preferred way in which an individual learns, processes and remembers information.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Learning Styles","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0062",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A learner who understands concepts best through diagrams, charts and pictures mainly demonstrates which learning style?",
+"options":{
+"A":"Auditory",
+"B":"Visual",
+"C":"Kinesthetic",
+"D":"Verbal"
+},
+"correctAnswer":"B",
+"explanation":"Visual learners understand information more effectively through images, graphs and diagrams.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Visual Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0063",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Students who learn best by listening to lectures and discussions mainly use:",
+"options":{
+"A":"Visual learning",
+"B":"Auditory learning",
+"C":"Kinesthetic learning",
+"D":"Logical learning"
+},
+"correctAnswer":"B",
+"explanation":"Auditory learners learn effectively through listening, discussions and verbal explanations.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Auditory Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0064",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): Learners differ in their preferred learning styles.\nReason (R): Teachers should provide multiple methods of instruction.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Using varied instructional methods helps accommodate different learner preferences and needs.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Learning Styles"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0065",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which learning style is BEST suited for learners who prefer experiments, role play and hands-on activities?",
+"options":{
+"A":"Visual",
+"B":"Auditory",
+"C":"Kinesthetic",
+"D":"Verbal"
+},
+"correctAnswer":"C",
+"explanation":"Kinesthetic learners understand concepts more effectively through movement and practical experiences.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Kinesthetic Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0066",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Inclusive education means:",
+"options":{
+"A":"Teaching only gifted learners",
+"B":"Educating all children together, regardless of their abilities or disabilities",
+"C":"Providing separate schools for every disability",
+"D":"Teaching only average learners"
+},
+"correctAnswer":"B",
+"explanation":"Inclusive education ensures that all learners participate together in the same educational environment with necessary support.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0067",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which Act in India strongly supports inclusive education for children with disabilities?",
+"options":{
+"A":"RTE Act 2009 only",
+"B":"Right of Persons with Disabilities (RPwD) Act, 2016",
+"C":"Factories Act",
+"D":"Indian Penal Code"
+},
+"correctAnswer":"B",
+"explanation":"The RPwD Act, 2016 promotes inclusive education and equal educational opportunities for persons with disabilities.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["RPwD Act","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0068",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A teacher provides Braille books, sign language support and classroom accommodations according to learners' needs. Which educational principle is illustrated?",
+"options":{
+"A":"Inclusive education",
+"B":"Uniform teaching",
+"C":"Ability grouping only",
+"D":"Competitive instruction"
+},
+"correctAnswer":"A",
+"explanation":"Inclusive education provides appropriate accommodations and support so that every learner can participate effectively.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Apply",
+"tags":["Inclusive Education","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0069",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. Visual learners prefer diagrams.\n2. Auditory learners prefer listening.\n3. Kinesthetic learners prefer hands-on activities.\n4. Inclusive education values learner diversity.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe learning styles and inclusive education.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Learning Styles","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0070",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A Dy.E.O. observes classrooms where teachers use visual aids, discussions, laboratory work, assistive technology and differentiated assessment for diverse learners. Which conclusion BEST reflects contemporary educational psychology?",
+"options":{
+"A":"Schools are implementing learner-centred inclusive education through multiple teaching approaches.",
+"B":"All learners should be taught only through lectures.",
+"C":"Learning styles should be ignored.",
+"D":"Inclusive education reduces academic quality."
+},
+"correctAnswer":"A",
+"explanation":"Modern classrooms accommodate learner diversity through varied teaching methods, assistive technology and inclusive assessment.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Inclusive Education","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-ID-0071",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Universal Design for Learning (UDL) primarily aims to:",
+"options":{
+"A":"Teach all learners in exactly the same way",
+"B":"Provide multiple means of engagement, representation and expression for all learners",
+"C":"Separate learners according to ability",
+"D":"Reduce curriculum standards"
+},
+"correctAnswer":"B",
+"explanation":"UDL promotes flexible teaching methods so that all learners can access learning according to their needs.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["UDL","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0072",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which teaching strategy BEST supports learners with diverse abilities in the same classroom?",
+"options":{
+"A":"Only lecture method",
+"B":"Differentiated instruction",
+"C":"Uniform assignments",
+"D":"Identical assessment for all"
+},
+"correctAnswer":"B",
+"explanation":"Differentiated instruction modifies content, process, product and assessment according to learner needs.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Differentiated Instruction"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0073",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A learner understands concepts best by participating in science experiments and practical activities. This learner mainly demonstrates:",
+"options":{
+"A":"Auditory learning",
+"B":"Visual learning",
+"C":"Kinesthetic learning",
+"D":"Verbal learning"
+},
+"correctAnswer":"C",
+"explanation":"Kinesthetic learners learn effectively through movement, experiments and hands-on activities.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Kinesthetic Learning","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0074",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): Inclusive classrooms benefit all learners.\nReason (R): Inclusive practices encourage cooperation, acceptance and respect for diversity.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Inclusive classrooms promote social interaction, empathy and equal participation for every learner.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0075",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which classroom adaptation is MOST appropriate for a learner with low vision?",
+"options":{
+"A":"Smaller font size",
+"B":"Large-print learning materials",
+"C":"Removing visual materials completely",
+"D":"Avoiding classroom participation"
+},
+"correctAnswer":"B",
+"explanation":"Large-print materials improve accessibility for learners with low vision.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Inclusive Education","Low Vision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0076",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following BEST represents equitable education?",
+"options":{
+"A":"Providing exactly the same support to every learner",
+"B":"Providing support according to individual learner needs",
+"C":"Ignoring disabilities",
+"D":"Teaching only high achievers"
+},
+"correctAnswer":"B",
+"explanation":"Equity means providing appropriate support based on learner needs rather than treating everyone identically.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Equity","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0077",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A teacher allows oral presentations, written assignments and practical demonstrations as alternative methods of assessment. Which principle is illustrated?",
+"options":{
+"A":"Uniform assessment",
+"B":"Flexible assessment for learner diversity",
+"C":"Competitive assessment",
+"D":"Summative assessment only"
+},
+"correctAnswer":"B",
+"explanation":"Flexible assessment provides multiple ways for learners to demonstrate their understanding.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Assessment","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0078",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A school installs ramps, accessible toilets, assistive technology and resource teachers for children with disabilities. Which educational concept is BEST represented?",
+"options":{
+"A":"Segregated education",
+"B":"Inclusive education",
+"C":"Exclusive education",
+"D":"Traditional education"
+},
+"correctAnswer":"B",
+"explanation":"Providing physical accessibility and educational support reflects the principles of inclusive education.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Apply",
+"tags":["Inclusive Education","Accessibility"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0079",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. UDL supports learner diversity.\n2. Differentiated instruction adapts teaching methods.\n3. Flexible assessment promotes inclusion.\n4. Inclusive education values equal participation.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the principles of learner-centred and inclusive education.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0080",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"During a district inspection, a Dy.E.O. observes schools implementing Universal Design for Learning, differentiated instruction, flexible assessment, assistive technology and barrier-free infrastructure. Which conclusion BEST reflects NEP 2020 and contemporary educational psychology?",
+"options":{
+"A":"Schools are creating equitable, inclusive and learner-centred educational environments.",
+"B":"Uniform teaching is sufficient for every learner.",
+"C":"Inclusive practices reduce academic standards.",
+"D":"Learning styles should determine admission decisions."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational policy emphasizes equity, inclusion, accessibility and learner-centred teaching through multiple instructional approaches.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","NEP 2020","Inclusive Education","UDL"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-ID-0081",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"The fundamental principle underlying learner-centred education is:",
+"options":{
+"A":"All learners are identical",
+"B":"Individual differences must be recognized and respected",
+"C":"Uniform teaching is always best",
+"D":"Only gifted learners deserve special attention"
+},
+"correctAnswer":"B",
+"explanation":"Learner-centred education recognizes that students differ in abilities, interests, readiness and learning needs.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Learner-centred Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0082",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which classroom practice BEST reflects respect for individual differences?",
+"options":{
+"A":"Giving identical assignments to every learner",
+"B":"Providing differentiated learning experiences",
+"C":"Teaching only through lectures",
+"D":"Assessing only through written examinations"
+},
+"correctAnswer":"B",
+"explanation":"Differentiated instruction adjusts teaching according to learner needs and abilities.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Differentiated Instruction"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0083",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A learner has average intelligence but demonstrates extraordinary musical ability. This learner is BEST described as:",
+"options":{
+"A":"Gifted in all areas",
+"B":"Talented in a specific domain",
+"C":"Backward learner",
+"D":"Slow learner"
+},
+"correctAnswer":"B",
+"explanation":"Talent refers to exceptional performance in a particular field such as music, sports or art.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Talented Learner","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0084",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): Inclusive education promotes educational equity.\nReason (R): Every learner receives opportunities and support according to individual needs.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Equity means providing the support each learner requires to participate successfully.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0085",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which educational approach BEST supports both gifted and slow learners within the same classroom?",
+"options":{
+"A":"Uniform instruction",
+"B":"Differentiated instruction with flexible grouping",
+"C":"Only textbook teaching",
+"D":"Teaching according to examination schedule"
+},
+"correctAnswer":"B",
+"explanation":"Differentiated instruction and flexible grouping allow teachers to address varied learner needs effectively.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Differentiated Instruction","Flexible Grouping"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0086",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which factor BEST explains why two children from the same family may differ considerably in achievement?",
+"options":{
+"A":"Only heredity",
+"B":"Only environment",
+"C":"Interaction of heredity, environment and individual experiences",
+"D":"Luck alone"
+},
+"correctAnswer":"C",
+"explanation":"Achievement results from the interaction of inherited characteristics, environmental opportunities and personal experiences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Heredity","Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0087",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A teacher offers visual presentations, classroom discussions, experiments and project work for the same lesson. Which educational principle is mainly demonstrated?",
+"options":{
+"A":"Uniform instruction",
+"B":"Accommodation of diverse learning styles",
+"C":"Competitive learning",
+"D":"Summative assessment"
+},
+"correctAnswer":"B",
+"explanation":"Using multiple instructional methods supports learners with different learning preferences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Learning Styles","Teaching Methods"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0088",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A school identifies gifted learners through multiple assessments and provides enrichment without separating them permanently from peers. Which educational practice is BEST illustrated?",
+"options":{
+"A":"Inclusive enrichment",
+"B":"Segregated education",
+"C":"Uniform curriculum",
+"D":"Ability suppression"
+},
+"correctAnswer":"A",
+"explanation":"Inclusive enrichment supports gifted learners while maintaining participation in the regular classroom.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Gifted Education","Inclusive Practices"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0089",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. Heredity and environment interact in development.\n2. Gifted learners benefit from enrichment.\n3. Inclusive education values learner diversity.\n4. Flexible assessment supports equitable learning.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements reflect accepted principles of educational psychology regarding learner diversity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Grand Revision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0090",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A Dy.E.O. finds that teachers adapt instruction, use assistive technology, provide remedial teaching, enrichment activities and flexible assessments. Which conclusion BEST reflects modern educational practice?",
+"options":{
+"A":"Schools are implementing equitable learner-centred education.",
+"B":"Schools are lowering academic standards.",
+"C":"Schools are encouraging competition only.",
+"D":"Schools are ignoring learner diversity."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational practice emphasizes equitable opportunities through differentiated instruction and inclusive support.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Learner-centred Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0091",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"According to NEP 2020, schools should primarily recognize:",
+"options":{
+"A":"Only academic achievement",
+"B":"The diverse abilities, interests and learning needs of every learner",
+"C":"Only examination scores",
+"D":"Only gifted learners"
+},
+"correctAnswer":"B",
+"explanation":"NEP 2020 advocates learner-centred, flexible and inclusive education that recognizes individual diversity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["NEP 2020"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0092",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which assessment approach BEST reflects inclusive education?",
+"options":{
+"A":"Single annual examination only",
+"B":"Multiple methods allowing learners to demonstrate learning in different ways",
+"C":"Only objective questions",
+"D":"Only oral examination"
+},
+"correctAnswer":"B",
+"explanation":"Inclusive assessment offers varied opportunities for learners to demonstrate achievement.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Inclusive Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0093",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which statement BEST describes equity in education?",
+"options":{
+"A":"Treating every learner exactly the same",
+"B":"Providing each learner the support needed to succeed",
+"C":"Giving extra marks to all learners",
+"D":"Teaching only high achievers"
+},
+"correctAnswer":"B",
+"explanation":"Equity differs from equality by providing support according to individual needs.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Equity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0094",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Assertion (A): Flexible assessment promotes inclusion.\nReason (R): Learners can demonstrate learning through different modes appropriate to their strengths.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Flexible assessment recognizes learner diversity while maintaining educational standards.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0095",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A learner with dyslexia receives audio books, extra time and oral assessment. Which educational principle is illustrated?",
+"options":{
+"A":"Inclusive accommodation",
+"B":"Segregated education",
+"C":"Uniform evaluation",
+"D":"Grade retention"
+},
+"correctAnswer":"A",
+"explanation":"Reasonable accommodations enable learners with disabilities to participate effectively without lowering standards.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Apply",
+"tags":["Accommodation","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0096",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which educational practice BEST supports underachievers?",
+"options":{
+"A":"Ignoring their potential",
+"B":"Counselling, motivation and individualized academic support",
+"C":"Removing them from school",
+"D":"Reducing learning opportunities"
+},
+"correctAnswer":"B",
+"explanation":"Underachievers need guidance, motivation and appropriate instructional support to reach their potential.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Underachievers","Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0097",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"A classroom where learners collaborate regardless of ability level MOST strongly promotes:",
+"options":{
+"A":"Competition only",
+"B":"Social inclusion and peer learning",
+"C":"Ability segregation",
+"D":"Uniform achievement"
+},
+"correctAnswer":"B",
+"explanation":"Collaborative learning encourages acceptance, peer support and inclusive participation.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Collaborative Learning","Inclusion"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0098",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"Which of the following statements are correct?\n\n1. Equity provides support according to need.\n2. Inclusive education values diversity.\n3. Flexible assessment supports learner differences.\n4. Learner-centred teaching respects individual variation.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements represent accepted principles of contemporary educational psychology.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Grand Revision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0099",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"The MOST appropriate role of a teacher in a classroom with diverse learners is to:",
+"options":{
+"A":"Teach everyone identically",
+"B":"Recognize differences and provide appropriate learning opportunities",
+"C":"Focus only on high achievers",
+"D":"Ignore individual learning needs"
+},
+"correctAnswer":"B",
+"explanation":"An effective teacher plans instruction that accommodates learner diversity while maintaining high expectations.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Teacher Role","Learner Diversity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-ID-0100",
+"subject":"Educational Psychology",
+"topic":"Individual Differences",
+"question":"During a district inspection, a Dy.E.O. observes schools implementing differentiated instruction, Universal Design for Learning, enrichment, remedial education, assistive technology, flexible assessment and collaborative learning. Which conclusion BEST represents contemporary educational psychology and NEP 2020?",
+"options":{
+"A":"Effective schools recognize individual differences and ensure equitable, inclusive, learner-centred education for every child.",
+"B":"Uniform teaching is sufficient for quality education.",
+"C":"Academic achievement alone determines educational success.",
+"D":"Inclusive practices should be limited to children with disabilities only."
+},
+"correctAnswer":"A",
+"explanation":"Contemporary educational psychology and NEP 2020 emphasize learner diversity, inclusion, equity and flexible teaching-learning practices for all learners.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","NEP 2020","Grand Revision","Inclusive Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+}
+  ]
+}
