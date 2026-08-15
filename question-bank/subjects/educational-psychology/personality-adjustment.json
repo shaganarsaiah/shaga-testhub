@@ -1,0 +1,2104 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "topic": "Personality & Adjustment",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed",
+    "version": "1.0"
+  },
+  "questions": [
+    {
+"id":"EDPSY-PADJ-0001",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following BEST defines personality?",
+"options":{
+"A":"Only a person's physical appearance",
+"B":"The dynamic organization of psychological and physical characteristics that influence an individual's unique behaviour and adjustment",
+"C":"Only inherited traits",
+"D":"Only intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Personality refers to the dynamic organization of physical, mental, emotional and social characteristics that make an individual unique.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Definition","Personality"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0002",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who defined personality as 'the dynamic organization within the individual of those psychophysical systems that determine his unique adjustment to the environment'?",
+"options":{
+"A":"Sigmund Freud",
+"B":"Gordon Allport",
+"C":"Carl Rogers",
+"D":"Hans Eysenck"
+},
+"correctAnswer":"B",
+"explanation":"Gordon Allport gave one of the most widely accepted definitions of personality emphasizing its dynamic and psychophysical nature.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Allport","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0003",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which statement BEST describes personality?",
+"options":{
+"A":"It is completely inherited and never changes.",
+"B":"It develops through the interaction of heredity and environment.",
+"C":"It depends only on intelligence.",
+"D":"It is determined only by physical appearance."
+},
+"correctAnswer":"B",
+"explanation":"Personality develops through the interaction of heredity, environment, learning and life experiences.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Nature of Personality"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0004",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): Personality develops throughout life.\nReason (R): Experiences, learning and social interactions continuously influence personality development.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Personality is dynamic and continues to develop through interaction with the environment and life experiences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0005",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which characteristic of personality refers to its organized and integrated nature?",
+"options":{
+"A":"Uniqueness",
+"B":"Dynamic Organization",
+"C":"Adjustment",
+"D":"Individual Differences"
+},
+"correctAnswer":"B",
+"explanation":"According to Allport, personality is a dynamic organization in which different traits function together as an integrated whole.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Characteristics","Dynamic Organization"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0006",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A student remains honest, cooperative and responsible across different situations such as home, school and playground. Which feature of personality is BEST illustrated?",
+"options":{
+"A":"Temporary behaviour",
+"B":"Consistency of behaviour",
+"C":"Random response",
+"D":"Conditioned reflex"
+},
+"correctAnswer":"B",
+"explanation":"Personality is reflected in relatively consistent patterns of behaviour across different situations.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Consistency","Behaviour"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0007",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. observes that a school provides leadership opportunities, group activities, counselling, sports and cultural programmes to promote students' overall development. Which aspect of personality is primarily being supported?",
+"options":{
+"A":"Only physical development",
+"B":"Holistic personality development",
+"C":"Only academic achievement",
+"D":"Only emotional control"
+},
+"correctAnswer":"B",
+"explanation":"Balanced educational experiences contribute to the holistic development of personality by addressing physical, social, emotional and intellectual dimensions.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Holistic Development","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0008",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which statement BEST distinguishes personality from character?",
+"options":{
+"A":"Both terms are identical.",
+"B":"Personality is the total pattern of behaviour, whereas character mainly refers to moral and ethical qualities.",
+"C":"Character refers only to physical appearance.",
+"D":"Personality includes only intelligence."
+},
+"correctAnswer":"B",
+"explanation":"Personality is broader and includes all behavioural characteristics, while character mainly concerns moral and ethical conduct.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Personality vs Character","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0009",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Personality is dynamic.\n2. Personality is influenced by heredity and environment.\n3. Personality shows consistency in behaviour.\n4. Personality depends only on physical appearance.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 correctly describe personality. Statement 4 is incorrect because personality is much broader than physical appearance.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Personality"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0010",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a school inspection, a Dy.E.O. notices that teachers encourage self-discipline, leadership, empathy, cooperation, creativity and responsible decision-making. Which conclusion BEST reflects the educational goal of personality development?",
+"options":{
+"A":"Schools are promoting comprehensive personality development rather than only academic achievement.",
+"B":"Schools are focusing only on examination performance.",
+"C":"Personality is unrelated to education.",
+"D":"Only intelligence determines personality."
+},
+"correctAnswer":"A",
+"explanation":"Education aims at the all-round development of personality, including intellectual, emotional, social, moral and behavioural aspects.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","Personality Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0011",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following is considered the most important biological determinant of personality?",
+"options":{
+"A":"School Environment",
+"B":"Heredity",
+"C":"Mass Media",
+"D":"Peer Pressure"
+},
+"correctAnswer":"B",
+"explanation":"Heredity provides the biological foundation of personality by influencing physical characteristics, temperament and potential abilities.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Heredity","Determinants"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0012",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which environmental factor has the greatest influence on personality during early childhood?",
+"options":{
+"A":"Political System",
+"B":"Family",
+"C":"Television",
+"D":"Market"
+},
+"correctAnswer":"B",
+"explanation":"The family is the child's first social environment and plays a major role in shaping personality.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Family","Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0013",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which determinant mainly influences an individual's values, beliefs and social behaviour?",
+"options":{
+"A":"Culture",
+"B":"Height",
+"C":"Blood Group",
+"D":"Eye Colour"
+},
+"correctAnswer":"A",
+"explanation":"Culture shapes values, customs, beliefs and accepted patterns of behaviour, thereby influencing personality.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Culture","Personality"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0014",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): Personality develops through interaction between heredity and environment.\nReason (R): Neither heredity nor environment alone can fully explain personality development.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Modern psychology considers personality the product of interaction between heredity and environmental influences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Determinants"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0015",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A student becomes confident because teachers consistently encourage participation and appreciate effort. Which determinant is primarily influencing personality?",
+"options":{
+"A":"School Environment",
+"B":"Heredity",
+"C":"Climate",
+"D":"Nutrition"
+},
+"correctAnswer":"A",
+"explanation":"Positive school experiences significantly influence confidence, self-concept and personality development.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["School","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0016",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which characteristic indicates that personality differs from one individual to another?",
+"options":{
+"A":"Consistency",
+"B":"Uniqueness",
+"C":"Adjustment",
+"D":"Organization"
+},
+"correctAnswer":"B",
+"explanation":"Each individual possesses a unique combination of traits, making personality distinct.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Uniqueness","Characteristics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0017",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. observes that schools provide equal opportunities for sports, arts, leadership and academics. Which determinant of personality is being strengthened?",
+"options":{
+"A":"Educational Environment",
+"B":"Genetic Makeup",
+"C":"Climate",
+"D":"Body Build"
+},
+"correctAnswer":"A",
+"explanation":"Schools contribute significantly to personality development by providing varied educational experiences.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0018",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which factor is LEAST likely to influence personality development?",
+"options":{
+"A":"Family",
+"B":"Culture",
+"C":"School",
+"D":"Roll Number"
+},
+"correctAnswer":"D",
+"explanation":"A student's roll number has no psychological influence on personality development.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Determinants"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0019",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Heredity influences personality.\n2. Family influences personality.\n3. Culture influences personality.\n4. School experiences influence personality.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four are important determinants of personality development.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Determinants"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0020",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a district inspection, a Dy.E.O. notices that schools actively involve parents, organize life-skill programmes, encourage teamwork and maintain a positive school climate. Which conclusion BEST reflects personality development?",
+"options":{
+"A":"Personality develops through coordinated influences of family, school and social environment.",
+"B":"Only heredity determines personality.",
+"C":"Only intelligence determines personality.",
+"D":"Personality cannot be influenced by education."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational psychology emphasizes that personality develops through the interaction of heredity with family, school and society.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Integrated Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PADJ-0021",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who is regarded as the earliest proposer of the Type Theory of Personality based on body fluids (humours)?",
+"options":{
+"A":"Carl Jung",
+"B":"William Sheldon",
+"C":"Hippocrates",
+"D":"Ernst Kretschmer"
+},
+"correctAnswer":"C",
+"explanation":"Hippocrates proposed the Humoral Theory, classifying personality into four temperaments based on the balance of body fluids.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Hippocrates","Humoral Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0022",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"According to Hippocrates, a cheerful, optimistic and sociable person is predominantly:",
+"options":{
+"A":"Melancholic",
+"B":"Choleric",
+"C":"Phlegmatic",
+"D":"Sanguine"
+},
+"correctAnswer":"D",
+"explanation":"The Sanguine temperament is associated with optimism, enthusiasm, sociability and cheerfulness.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Sanguine","Temperament"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0023",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who classified personality into Asthenic (Leptosomatic), Athletic and Pyknic body types?",
+"options":{
+"A":"William Sheldon",
+"B":"Ernst Kretschmer",
+"C":"Carl Jung",
+"D":"Hans Eysenck"
+},
+"correctAnswer":"B",
+"explanation":"Ernst Kretschmer proposed a personality classification based on body build: Asthenic, Athletic and Pyknic.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Kretschmer","Body Types"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0024",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): William Sheldon related body build to personality.\nReason (R): He classified people into Endomorphic, Mesomorphic and Ectomorphic body types.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Sheldon's Somatotype Theory related body structure to personality by identifying Endomorphic, Mesomorphic and Ectomorphic body types.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Sheldon"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0025",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"According to William Sheldon, an Endomorphic person is generally:",
+"options":{
+"A":"Thin and introverted",
+"B":"Muscular, energetic and bold",
+"C":"Soft-bodied, sociable and comfort-loving",
+"D":"Emotionally unstable"
+},
+"correctAnswer":"C",
+"explanation":"Endomorphic individuals are generally described as sociable, relaxed and comfort-loving (viscerotonic).",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Endomorph","Sheldon"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0026",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"According to Carl Jung, a person who prefers solitude, reflection and independent thinking is primarily:",
+"options":{
+"A":"Extrovert",
+"B":"Introvert",
+"C":"Ambivert",
+"D":"Neurotic"
+},
+"correctAnswer":"B",
+"explanation":"Carl Jung described introverts as individuals who are inward-looking, reflective and reserved.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Jung","Introvert"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0027",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. notices that one student enjoys group discussions, public speaking and leadership activities, while another prefers independent study and quiet reading. Which theory BEST explains these personality differences?",
+"options":{
+"A":"Carl Jung's Introversion-Extroversion Theory",
+"B":"Thorndike's Connectionism",
+"C":"Maslow's Hierarchy of Needs",
+"D":"Pavlov's Classical Conditioning"
+},
+"correctAnswer":"A",
+"explanation":"Jung classified personalities mainly as Introverts and Extroverts, with Ambiverts showing characteristics of both.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Jung","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0028",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which statement BEST distinguishes Introverts from Extroverts according to Carl Jung?",
+"options":{
+"A":"Introverts focus mainly on the external world, whereas Extroverts focus on inner experiences.",
+"B":"Introverts are inward-oriented, whereas Extroverts are outward-oriented and socially active.",
+"C":"Both are identical.",
+"D":"Introverts always have higher intelligence."
+},
+"correctAnswer":"B",
+"explanation":"Jung described introverts as inward-focused and extroverts as outward-focused and sociable.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Jung"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0029",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Hippocrates proposed the Humoral Theory.\n2. Kretschmer classified personality based on body build.\n3. Sheldon proposed Endomorphic, Mesomorphic and Ectomorphic body types.\n4. Carl Jung proposed Introvert and Extrovert personality types.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2, 3 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly match the psychologist with the corresponding personality theory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Type Theories"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0030",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a district inspection, a Dy.E.O. observes that teachers use debates for extroverted learners, reflective journals for introverted learners and cooperative activities for mixed groups. Which conclusion BEST reflects modern educational practice based on personality theories?",
+"options":{
+"A":"Teaching should accommodate different personality types and individual differences.",
+"B":"Only extroverted students learn effectively.",
+"C":"Personality has no educational significance.",
+"D":"Introverted students should avoid group activities."
+},
+"correctAnswer":"A",
+"explanation":"Effective teaching recognizes personality differences and uses varied instructional strategies to support all learners.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Type Theory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PADJ-0031",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who is regarded as the father of Trait Theory of Personality?",
+"options":{
+"A":"Sigmund Freud",
+"B":"Gordon Allport",
+"C":"Carl Rogers",
+"D":"Carl Jung"
+},
+"correctAnswer":"B",
+"explanation":"Gordon Allport is regarded as the father of Trait Theory. He emphasized that personality consists of stable traits influencing behaviour.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Allport","Trait Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0032",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"According to Allport, which type of trait dominates an individual's entire personality?",
+"options":{
+"A":"Central Trait",
+"B":"Secondary Trait",
+"C":"Cardinal Trait",
+"D":"Surface Trait"
+},
+"correctAnswer":"C",
+"explanation":"A Cardinal Trait is a dominant characteristic that strongly influences almost every aspect of a person's behaviour.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Allport","Cardinal Trait"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0033",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which traits represent the basic characteristics found in every individual according to Allport?",
+"options":{
+"A":"Cardinal Traits",
+"B":"Central Traits",
+"C":"Secondary Traits",
+"D":"Source Traits"
+},
+"correctAnswer":"B",
+"explanation":"Central Traits are the major characteristics that describe an individual's personality, such as honesty, kindness and confidence.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Allport","Central Traits"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0034",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): Secondary traits influence behaviour only in particular situations.\nReason (R): They are less consistent than central or cardinal traits.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Secondary traits are situation-specific and less influential than cardinal or central traits.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Secondary Traits"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0035",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who distinguished personality traits into Source Traits and Surface Traits?",
+"options":{
+"A":"Hans Eysenck",
+"B":"Raymond Cattell",
+"C":"Carl Jung",
+"D":"Gordon Allport"
+},
+"correctAnswer":"B",
+"explanation":"Raymond Cattell classified personality traits into Source Traits (basic) and Surface Traits (observable).",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Cattell","Source Traits"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0036",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which personality assessment tool was developed by Raymond Cattell?",
+"options":{
+"A":"MMPI",
+"B":"16 Personality Factor Questionnaire (16PF)",
+"C":"TAT",
+"D":"EPQ"
+},
+"correctAnswer":"B",
+"explanation":"Raymond Cattell developed the 16 Personality Factor Questionnaire (16PF), one of the most widely used personality assessments.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Cattell","16PF"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0037",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Hans Eysenck proposed that personality is primarily explained through which three dimensions?",
+"options":{
+"A":"Introversion, Motivation and Intelligence",
+"B":"Psychoticism, Extraversion and Neuroticism",
+"C":"Creativity, Memory and Learning",
+"D":"Id, Ego and Superego"
+},
+"correctAnswer":"B",
+"explanation":"Eysenck's PEN Model consists of Psychoticism, Extraversion and Neuroticism.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Eysenck","PEN Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0038",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. notices that one student is consistently sociable, energetic and talkative. According to Eysenck, which personality dimension is most evident?",
+"options":{
+"A":"Neuroticism",
+"B":"Psychoticism",
+"C":"Extraversion",
+"D":"Introversion"
+},
+"correctAnswer":"C",
+"explanation":"Extraversion is characterized by sociability, activity, optimism and outgoing behaviour.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["DyEO","Eysenck","Extraversion"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0039",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Allport proposed Cardinal, Central and Secondary Traits.\n2. Cattell developed the 16PF.\n3. Eysenck proposed the PEN Model.\n4. Allport developed the MMPI.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. MMPI was developed by Hathaway and McKinley, not Allport.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Trait Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0040",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a district inspection, a Dy.E.O. observes that teachers identify learners' strengths, provide individual guidance and avoid labelling students based on a single characteristic. Which conclusion BEST reflects modern trait theory?",
+"options":{
+"A":"Personality consists of multiple traits, and education should recognize individual differences rather than stereotyping learners.",
+"B":"One dominant trait determines all behaviour.",
+"C":"Only heredity influences personality traits.",
+"D":"Trait theories reject individual differences."
+},
+"correctAnswer":"A",
+"explanation":"Modern trait theories recognize that individuals possess multiple traits, and educational planning should accommodate these differences.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Trait Theory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PADJ-0041",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who proposed the Psychoanalytic Theory of Personality?",
+"options":{
+"A":"Carl Rogers",
+"B":"Sigmund Freud",
+"C":"Hans Eysenck",
+"D":"Gordon Allport"
+},
+"correctAnswer":"B",
+"explanation":"Sigmund Freud proposed the Psychoanalytic Theory, emphasizing the role of the unconscious mind in personality development.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Freud","Psychoanalytic Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0042",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"According to Freud, which component of personality operates on the Pleasure Principle?",
+"options":{
+"A":"Ego",
+"B":"Superego",
+"C":"Id",
+"D":"Conscience"
+},
+"correctAnswer":"C",
+"explanation":"The Id is the primitive part of personality and operates according to the Pleasure Principle, seeking immediate gratification.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Id","Pleasure Principle"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0043",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which component of personality operates according to the Reality Principle?",
+"options":{
+"A":"Id",
+"B":"Ego",
+"C":"Superego",
+"D":"Instinct"
+},
+"correctAnswer":"B",
+"explanation":"The Ego works according to the Reality Principle by balancing the demands of the Id, Superego and external reality.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Ego","Reality Principle"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0044",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which component represents moral values and ideals according to Freud?",
+"options":{
+"A":"Id",
+"B":"Ego",
+"C":"Superego",
+"D":"Libido"
+},
+"correctAnswer":"C",
+"explanation":"The Superego represents internalized moral standards, conscience and ideals learned from parents and society.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Superego","Morality"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0045",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): The Ego mediates between the Id and the Superego.\nReason (R): The Ego attempts to satisfy instinctive needs in socially acceptable ways.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"The Ego balances instinctive desires, moral values and reality, making practical decisions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Ego"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0046",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"According to Freud, which level of the mind contains memories that can easily be brought into conscious awareness?",
+"options":{
+"A":"Conscious",
+"B":"Preconscious",
+"C":"Unconscious",
+"D":"Collective Unconscious"
+},
+"correctAnswer":"B",
+"explanation":"The Preconscious contains information that is not currently in awareness but can be recalled easily.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Levels of Mind","Preconscious"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0047",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A student immediately wants to copy answers during an examination. After thinking about school rules and consequences, the student decides not to do so. Which personality component is primarily responsible for this final decision?",
+"options":{
+"A":"Id",
+"B":"Libido",
+"C":"Ego",
+"D":"Instinct"
+},
+"correctAnswer":"C",
+"explanation":"The Ego evaluates reality and chooses behaviour that satisfies needs in socially acceptable ways.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Educational Application","Ego"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0048",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. observes that teachers help students control impulsive behaviour by encouraging self-discipline and responsible decision-making. Which aspect of Freud's theory is mainly being strengthened?",
+"options":{
+"A":"Id",
+"B":"Ego",
+"C":"Libido",
+"D":"Instinct"
+},
+"correctAnswer":"B",
+"explanation":"Educational experiences strengthen the Ego by helping students make realistic and socially appropriate decisions.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","Ego"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0049",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Id follows the Pleasure Principle.\n2. Ego follows the Reality Principle.\n3. Superego represents moral standards.\n4. Freud proposed the Psychoanalytic Theory.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe Freud's theory and the functions of the Id, Ego and Superego.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Freud"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0050",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a district inspection, a Dy.E.O. finds that schools promote moral education, emotional control, problem-solving and responsible behaviour instead of punishment alone. Which conclusion BEST reflects Freud's theory?",
+"options":{
+"A":"Schools are strengthening the Ego and promoting socially responsible behaviour.",
+"B":"Schools are encouraging the Id.",
+"C":"The Superego should be ignored.",
+"D":"Personality develops only through heredity."
+},
+"correctAnswer":"A",
+"explanation":"Educational practices that develop self-control, moral reasoning and responsible behaviour strengthen the Ego and support balanced personality development.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Freud","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PADJ-0051",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who proposed the theory of Individual Psychology?",
+"options":{
+"A":"Sigmund Freud",
+"B":"Alfred Adler",
+"C":"Carl Jung",
+"D":"Erik Erikson"
+},
+"correctAnswer":"B",
+"explanation":"Alfred Adler proposed Individual Psychology, emphasizing social interest, goal-directed behaviour and the influence of feelings of inferiority.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Adler","Individual Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0052",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"According to Alfred Adler, the primary motivating force behind human behaviour is:",
+"options":{
+"A":"Pleasure seeking",
+"B":"Striving for superiority",
+"C":"Classical conditioning",
+"D":"Instinctive aggression"
+},
+"correctAnswer":"B",
+"explanation":"Adler believed people are motivated by striving for superiority or perfection to overcome feelings of inferiority.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Adler","Superiority"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0053",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who introduced the concept of the Collective Unconscious?",
+"options":{
+"A":"Sigmund Freud",
+"B":"Carl Rogers",
+"C":"Carl Jung",
+"D":"Erik Erikson"
+},
+"correctAnswer":"C",
+"explanation":"Carl Jung proposed the concept of the Collective Unconscious, containing inherited experiences shared by humanity.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Jung","Collective Unconscious"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0054",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): Archetypes are universal symbolic patterns found in the collective unconscious.\nReason (R): According to Jung, they are inherited psychological predispositions common to all human beings.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Jung explained archetypes as inherited universal images and patterns present in the collective unconscious.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Jung","Archetypes"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0055",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who proposed the Eight Stages of Psychosocial Development?",
+"options":{
+"A":"Jean Piaget",
+"B":"Erik Erikson",
+"C":"Lawrence Kohlberg",
+"D":"Sigmund Freud"
+},
+"correctAnswer":"B",
+"explanation":"Erik Erikson proposed eight psychosocial stages extending from infancy to old age.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Erikson","Psychosocial Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0056",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"According to Erikson, the major psychosocial conflict during adolescence is:",
+"options":{
+"A":"Trust vs Mistrust",
+"B":"Industry vs Inferiority",
+"C":"Identity vs Role Confusion",
+"D":"Integrity vs Despair"
+},
+"correctAnswer":"C",
+"explanation":"During adolescence, individuals develop a stable identity while resolving role confusion.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Erikson","Identity vs Role Confusion"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0057",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A student constantly compares himself with classmates and believes he is incapable despite good performance. According to Adler, this situation is best explained by:",
+"options":{
+"A":"Collective Unconscious",
+"B":"Inferiority Complex",
+"C":"Reality Principle",
+"D":"Self-Actualization"
+},
+"correctAnswer":"B",
+"explanation":"Adler described Inferiority Complex as persistent feelings of inadequacy that may hinder healthy personality development.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Adler","Inferiority Complex"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0058",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. notices that teachers provide career guidance, counselling and opportunities for self-exploration to adolescents. Which developmental stage is primarily being supported?",
+"options":{
+"A":"Trust vs Mistrust",
+"B":"Autonomy vs Shame and Doubt",
+"C":"Identity vs Role Confusion",
+"D":"Generativity vs Stagnation"
+},
+"correctAnswer":"C",
+"explanation":"Career guidance and self-exploration help adolescents develop a clear personal identity during Erikson's Identity vs Role Confusion stage.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Erikson","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0059",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Adler proposed Individual Psychology.\n2. Jung proposed the Collective Unconscious.\n3. Erikson proposed Eight Psychosocial Stages.\n4. Adler introduced the concept of Archetypes.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Archetypes were proposed by Carl Jung, not Alfred Adler.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Integrated Theories"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0060",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a district inspection, a Dy.E.O. observes that schools provide counselling to build self-confidence, encourage healthy peer relationships and help adolescents make informed career choices. Which conclusion BEST reflects the combined contributions of Adler and Erikson?",
+"options":{
+"A":"Schools are promoting healthy personality development by reducing feelings of inferiority and supporting identity formation.",
+"B":"Schools are strengthening only the Id.",
+"C":"Academic achievement alone determines personality.",
+"D":"Personality development ends in childhood."
+},
+"correctAnswer":"A",
+"explanation":"Adler emphasized overcoming inferiority, while Erikson emphasized successful identity development during adolescence. Educational support in these areas promotes healthy personality development.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Adler","Erikson","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PADJ-0061",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who proposed the Person-Centred (Client-Centred) Theory of Personality?",
+"options":{
+"A":"Abraham Maslow",
+"B":"Carl Rogers",
+"C":"Sigmund Freud",
+"D":"Alfred Adler"
+},
+"correctAnswer":"B",
+"explanation":"Carl Rogers proposed the Person-Centred Theory, emphasizing self-concept, unconditional positive regard and self-actualization.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Carl Rogers","Person-Centred Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0062",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"According to Carl Rogers, personality develops best when an individual receives:",
+"options":{
+"A":"Strict punishment",
+"B":"Conditional acceptance",
+"C":"Unconditional Positive Regard",
+"D":"Competition"
+},
+"correctAnswer":"C",
+"explanation":"Rogers believed that unconditional positive regard promotes healthy personality development and positive self-concept.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Rogers","Unconditional Positive Regard"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0063",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who proposed the Hierarchy of Needs Theory?",
+"options":{
+"A":"Carl Rogers",
+"B":"Abraham Maslow",
+"C":"Hans Eysenck",
+"D":"Erik Erikson"
+},
+"correctAnswer":"B",
+"explanation":"Abraham Maslow proposed the Hierarchy of Needs, arranging human needs from basic physiological needs to self-actualization.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Maslow","Hierarchy of Needs"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0064",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): Self-actualization is the highest level in Maslow's hierarchy.\nReason (R): It represents the realization of one's fullest potential.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Maslow considered self-actualization the highest need, representing the achievement of one's full potential.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Maslow"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0065",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A teacher appreciates every student's efforts, encourages participation and accepts mistakes as part of learning. Which Rogers' concept is BEST reflected?",
+"options":{
+"A":"Inferiority Complex",
+"B":"Unconditional Positive Regard",
+"C":"Pleasure Principle",
+"D":"Collective Unconscious"
+},
+"correctAnswer":"B",
+"explanation":"Accepting students without judgment while encouraging growth reflects Rogers' concept of Unconditional Positive Regard.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Rogers","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0066",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which need must generally be satisfied before esteem needs become dominant according to Maslow?",
+"options":{
+"A":"Self-actualization",
+"B":"Safety and Belongingness Needs",
+"C":"Cognitive Needs",
+"D":"Aesthetic Needs"
+},
+"correctAnswer":"B",
+"explanation":"Maslow proposed that lower-level needs, including safety and belongingness, should generally be met before esteem needs become prominent.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Maslow","Needs Hierarchy"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0067",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. notices that schools provide nutritious meals, a safe environment, counselling services, appreciation programmes and opportunities for creativity. Which theory BEST supports these practices?",
+"options":{
+"A":"Maslow's Hierarchy of Needs",
+"B":"Freud's Psychoanalytic Theory",
+"C":"Spearman's Two-Factor Theory",
+"D":"Thorndike's Connectionism"
+},
+"correctAnswer":"A",
+"explanation":"Maslow's theory emphasizes fulfilling learners' needs progressively, from basic physiological needs to self-actualization.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Maslow","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0068",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which statement BEST distinguishes Rogers' theory from Freud's theory?",
+"options":{
+"A":"Rogers emphasized personal growth and conscious experience, whereas Freud emphasized unconscious conflicts.",
+"B":"Both theories are identical.",
+"C":"Freud rejected personality development.",
+"D":"Rogers emphasized only heredity."
+},
+"correctAnswer":"A",
+"explanation":"Rogers focused on self-growth, self-concept and conscious experience, whereas Freud emphasized unconscious motives and childhood conflicts.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Rogers vs Freud"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0069",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Rogers proposed the Person-Centred Theory.\n2. Maslow proposed the Hierarchy of Needs.\n3. Self-actualization is the highest level in Maslow's hierarchy.\n4. Unconditional Positive Regard is associated with Rogers.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the contributions of Rogers and Maslow.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Humanistic Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0070",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a district inspection, a Dy.E.O. finds that schools create learner-friendly classrooms, encourage self-expression, respect individual differences, provide counselling and motivate students to realize their full potential. Which conclusion BEST reflects Humanistic Psychology?",
+"options":{
+"A":"Schools are promoting self-concept, personal growth and self-actualization through learner-centred education.",
+"B":"Schools are strengthening only the Id.",
+"C":"Academic marks alone determine personality development.",
+"D":"Learning occurs only through conditioning."
+},
+"correctAnswer":"A",
+"explanation":"Humanistic Psychology emphasizes learner-centred education, positive self-concept and helping individuals achieve their full potential.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Humanistic Psychology","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PADJ-0071",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following BEST defines adjustment?",
+"options":{
+"A":"Changing one's personality completely",
+"B":"The process of achieving harmony between the individual and the environment",
+"C":"Suppressing emotions permanently",
+"D":"Avoiding all problems"
+},
+"correctAnswer":"B",
+"explanation":"Adjustment is the continuous process of maintaining harmony between an individual and the environment while satisfying personal needs in socially acceptable ways.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Adjustment","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0072",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A well-adjusted person is MOST likely to:",
+"options":{
+"A":"Avoid responsibilities",
+"B":"Accept reality and solve problems effectively",
+"C":"Blame others for every failure",
+"D":"React impulsively in every situation"
+},
+"correctAnswer":"B",
+"explanation":"A well-adjusted individual accepts reality, controls emotions and solves problems constructively.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Characteristics","Adjustment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0073",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following is NOT considered an important area of adjustment?",
+"options":{
+"A":"Home Adjustment",
+"B":"School Adjustment",
+"C":"Social Adjustment",
+"D":"Planetary Adjustment"
+},
+"correctAnswer":"D",
+"explanation":"Major areas of adjustment include home, school, social, emotional, vocational and personal adjustment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Areas of Adjustment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0074",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): Adjustment is a continuous process.\nReason (R): Individuals constantly face changing situations and must respond to new environmental demands.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Adjustment continues throughout life because personal needs and environmental demands keep changing.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Adjustment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0075",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A student who performs poorly in one examination analyses mistakes, prepares a better study plan and improves in the next examination demonstrates:",
+"options":{
+"A":"Maladjustment",
+"B":"Healthy Adjustment",
+"C":"Regression",
+"D":"Projection"
+},
+"correctAnswer":"B",
+"explanation":"Healthy adjustment involves accepting setbacks, learning from experience and adopting constructive solutions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Healthy Adjustment","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0076",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which area of adjustment mainly concerns maintaining healthy relationships with classmates, teachers and society?",
+"options":{
+"A":"Emotional Adjustment",
+"B":"Social Adjustment",
+"C":"Vocational Adjustment",
+"D":"Physical Adjustment"
+},
+"correctAnswer":"B",
+"explanation":"Social adjustment refers to the ability to establish and maintain healthy interpersonal relationships.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Social Adjustment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0077",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. observes that a school provides counselling, peer mentoring, remedial teaching and life-skills education for students experiencing stress. Which educational objective is primarily being achieved?",
+"options":{
+"A":"Improving only examination results",
+"B":"Promoting healthy adjustment among learners",
+"C":"Increasing competition",
+"D":"Developing only intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Counselling, mentoring and life-skills education help students adjust effectively to academic, emotional and social challenges.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Adjustment","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0078",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which statement BEST distinguishes adjustment from conformity?",
+"options":{
+"A":"Adjustment always means obeying others without question.",
+"B":"Adjustment involves balancing personal needs with environmental demands, whereas conformity mainly refers to following group norms.",
+"C":"Both terms have exactly the same meaning.",
+"D":"Conformity always improves adjustment."
+},
+"correctAnswer":"B",
+"explanation":"Adjustment is a broader process of achieving harmony between the individual and the environment, whereas conformity focuses on following group expectations.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Adjustment vs Conformity","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0079",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Adjustment is a lifelong process.\n2. Emotional adjustment is an important area of adjustment.\n3. Social adjustment helps develop healthy interpersonal relationships.\n4. Adjustment means avoiding all conflicts.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Adjustment is a continuous process involving emotional and social balance. It does not mean avoiding all conflicts but managing them constructively.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Adjustment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0080",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a district inspection, a Dy.E.O. notices that schools promote inclusive classrooms, counselling services, conflict resolution, emotional well-being and student participation in decision-making. Which conclusion BEST reflects modern educational psychology?",
+"options":{
+"A":"Schools are creating conditions that promote healthy personal and social adjustment.",
+"B":"Schools are focusing only on academic achievement.",
+"C":"Adjustment develops automatically without educational support.",
+"D":"Only discipline is necessary for adjustment."
+},
+"correctAnswer":"A",
+"explanation":"Inclusive practices, counselling and emotional support foster healthy adjustment, leading to better learning and overall personality development.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Adjustment","Educational Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PADJ-0081",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who introduced the concept of Defence Mechanisms in Psychoanalytic Theory?",
+"options":{
+"A":"Carl Rogers",
+"B":"Sigmund Freud",
+"C":"Abraham Maslow",
+"D":"Hans Eysenck"
+},
+"correctAnswer":"B",
+"explanation":"Sigmund Freud introduced the concept of defence mechanisms, which were later elaborated by Anna Freud.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Freud","Defence Mechanisms"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0082",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which defence mechanism involves pushing painful thoughts into the unconscious mind?",
+"options":{
+"A":"Projection",
+"B":"Regression",
+"C":"Repression",
+"D":"Compensation"
+},
+"correctAnswer":"C",
+"explanation":"Repression is an unconscious process in which unacceptable thoughts or memories are pushed out of conscious awareness.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Repression"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0083",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A student who fails an examination blames the teacher instead of accepting responsibility. Which defence mechanism is illustrated?",
+"options":{
+"A":"Projection",
+"B":"Regression",
+"C":"Sublimation",
+"D":"Identification"
+},
+"correctAnswer":"A",
+"explanation":"Projection involves attributing one's own faults, feelings or failures to another person.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Projection","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0084",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): Sublimation is considered one of the healthiest defence mechanisms.\nReason (R): It channels unacceptable impulses into socially acceptable activities.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Sublimation converts unacceptable impulses into productive activities such as sports, art or social service.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Sublimation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0085",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A child begins thumb-sucking again after the birth of a younger sibling. Which defence mechanism is demonstrated?",
+"options":{
+"A":"Regression",
+"B":"Compensation",
+"C":"Reaction Formation",
+"D":"Denial"
+},
+"correctAnswer":"A",
+"explanation":"Regression involves returning to behaviour typical of an earlier stage of development during periods of stress.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Regression","Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0086",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A student who cannot excel in academics becomes an outstanding athlete to gain recognition. Which defence mechanism is illustrated?",
+"options":{
+"A":"Compensation",
+"B":"Repression",
+"C":"Projection",
+"D":"Denial"
+},
+"correctAnswer":"A",
+"explanation":"Compensation involves overcoming weaknesses in one area by developing strengths in another.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Compensation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0087",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. observes that teachers encourage students to express emotions through art, music and sports instead of aggression. Which defence mechanism is primarily encouraged?",
+"options":{
+"A":"Projection",
+"B":"Regression",
+"C":"Sublimation",
+"D":"Denial"
+},
+"correctAnswer":"C",
+"explanation":"Art, music and sports provide socially acceptable outlets for emotional energy, illustrating sublimation.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Sublimation","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0088",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which defence mechanism involves refusing to accept an unpleasant reality?",
+"options":{
+"A":"Denial",
+"B":"Projection",
+"C":"Reaction Formation",
+"D":"Identification"
+},
+"correctAnswer":"A",
+"explanation":"Denial protects the individual by refusing to acknowledge painful or threatening facts.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Denial"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0089",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Repression pushes painful memories into the unconscious.\n2. Projection attributes one's own feelings to others.\n3. Sublimation channels unacceptable impulses into socially useful activities.\n4. Regression involves returning to earlier patterns of behaviour.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe major defence mechanisms.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Defence Mechanisms"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0090",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a district inspection, a Dy.E.O. notices that school counsellors help students recognize emotions, accept responsibility for mistakes and adopt constructive coping strategies instead of blaming others or denying problems. Which conclusion BEST reflects educational psychology?",
+"options":{
+"A":"Schools are promoting healthy adjustment by encouraging mature coping mechanisms rather than unhealthy defence mechanisms.",
+"B":"Students should always suppress emotions.",
+"C":"Projection is the best solution for stress.",
+"D":"Defence mechanisms should replace counselling."
+},
+"correctAnswer":"A",
+"explanation":"Educational counselling aims to develop mature coping strategies and healthy adjustment rather than excessive reliance on unconscious defence mechanisms.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Counselling","Adjustment","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PADJ-0091",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which personality test uses ambiguous inkblots to study personality characteristics?",
+"options":{
+"A":"16PF",
+"B":"MMPI",
+"C":"Rorschach Inkblot Test",
+"D":"EPQ"
+},
+"correctAnswer":"C",
+"explanation":"The Rorschach Inkblot Test, developed by Hermann Rorschach, is a projective personality test that uses inkblots to reveal unconscious aspects of personality.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Rorschach","Projective Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0092",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Who developed the Thematic Apperception Test (TAT)?",
+"options":{
+"A":"Henry Murray and Christiana Morgan",
+"B":"Hermann Rorschach",
+"C":"Raymond Cattell",
+"D":"David Wechsler"
+},
+"correctAnswer":"A",
+"explanation":"The Thematic Apperception Test (TAT) was developed by Henry Murray and Christiana Morgan to study personality through story interpretation.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["TAT","Projective Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0093",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which personality inventory was developed by Hathaway and McKinley?",
+"options":{
+"A":"16PF",
+"B":"EPQ",
+"C":"Minnesota Multiphasic Personality Inventory (MMPI)",
+"D":"TAT"
+},
+"correctAnswer":"C",
+"explanation":"The MMPI, developed by Hathaway and McKinley, is one of the most widely used objective personality inventories.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["MMPI","Objective Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0094",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Assertion (A): Projective tests present ambiguous stimuli.\nReason (R): Individuals project their unconscious feelings and motives while responding.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Projective tests such as the TAT and Rorschach rely on ambiguous stimuli to reveal unconscious motives, emotions and personality characteristics.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Projective Tests"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0095",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A school counsellor asks a student to tell stories based on pictures in order to understand motives, emotions and conflicts. Which test is being used?",
+"options":{
+"A":"MMPI",
+"B":"16PF",
+"C":"TAT",
+"D":"EPQ"
+},
+"correctAnswer":"C",
+"explanation":"The TAT requires individuals to create stories about pictures, helping assess personality dynamics and underlying motives.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["TAT","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0096",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which type of personality test generally provides standardized questions and objective scoring?",
+"options":{
+"A":"Projective Test",
+"B":"Objective Personality Inventory",
+"C":"Inkblot Test",
+"D":"Story Completion Test"
+},
+"correctAnswer":"B",
+"explanation":"Objective personality inventories such as MMPI, EPQ and 16PF use standardized questions and objective scoring procedures.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Objective Tests","MMPI","16PF"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0097",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"A Dy.E.O. observes that school counsellors use interviews, standardized personality tests, classroom observations and teacher reports before recommending interventions. Which educational principle is BEST reflected?",
+"options":{
+"A":"One personality test alone is sufficient.",
+"B":"Comprehensive personality assessment should use multiple sources of evidence.",
+"C":"Only projective tests should be used.",
+"D":"Academic marks accurately measure personality."
+},
+"correctAnswer":"B",
+"explanation":"Educational psychology recommends using multiple assessment methods to obtain a valid understanding of a learner's personality and adjustment.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Assessment","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0098",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which of the following statements are correct?\n\n1. Rorschach Inkblot Test is a projective test.\n2. TAT was developed by Henry Murray and Christiana Morgan.\n3. MMPI is an objective personality inventory.\n4. 16PF was developed by Raymond Cattell.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly match the personality tests with their developers and characteristics.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Personality Tests"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0099",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"Which educational practice is MOST consistent with healthy personality development and adjustment?",
+"options":{
+"A":"Labelling students based on one examination",
+"B":"Providing counselling, guidance, emotional support and opportunities for self-development",
+"C":"Ignoring individual differences",
+"D":"Using punishment as the only classroom management strategy"
+},
+"correctAnswer":"B",
+"explanation":"Healthy personality development is promoted through counselling, guidance, emotional support and recognition of individual differences.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Adjustment","Educational Practice"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PADJ-0100",
+"subject":"Educational Psychology",
+"topic":"Personality & Adjustment",
+"question":"During a district inspection, a Dy.E.O. finds that schools identify learners' strengths, provide counselling, encourage self-expression, recognize personality differences, promote emotional well-being and use scientific assessment methods. Which conclusion BEST represents contemporary educational psychology?",
+"options":{
+"A":"Schools are promoting holistic personality development and healthy adjustment through learner-centred educational practices.",
+"B":"Only intelligence determines learner success.",
+"C":"Personality is fixed and cannot be developed.",
+"D":"Standardized tests alone are sufficient for educational planning."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational psychology emphasizes holistic personality development, healthy adjustment, learner-centred education and comprehensive assessment.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Grand Revision","Educational Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+}
+
+  ]
+}
