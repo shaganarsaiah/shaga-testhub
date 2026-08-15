@@ -18,7 +18,13 @@ import thinkingCreativity from "../question-bank/subjects/educational-psychology
 import psychologicalTesting from "../question-bank/subjects/educational-psychology/psychological-testing.json" with { type: "json" };
 import individualDifferences from "../question-bank/subjects/educational-psychology/individual-differences.json" with { type: "json" };
 import guidanceCounselling from "../question-bank/subjects/educational-psychology/guidance-counselling.json" with { type: "json" };
-
+import constitutionEducation from "../question-bank/subjects/educational-philosophy/constitution-education.json" with { type: "json" };
+import historicalEducation from "../question-bank/subjects/educational-philosophy/historical-education.json" with { type: "json" };
+import educationalReligions from "../question-bank/subjects/educational-philosophy/educational-religions.json" with { type: "json" };
+import epistemologicalFoundations from "../question-bank/subjects/educational-philosophy/epistemological-foundations.json" with { type: "json" };
+import educationalThinkers from "../question-bank/subjects/educational-philosophy/educational-thinkers.json" with { type: "json" };
+import educationValues from "../question-bank/subjects/educational-philosophy/education-values.json" with { type: "json" };
+import societyEducation from "../question-bank/subjects/educational-philosophy/society-education.json" with { type: "json" };
 import idealism from "../question-bank/subjects/educational-philosophy/idealism.json" with { type: "json" };
 
 class RepositoryLoader {
@@ -52,6 +58,13 @@ class RepositoryLoader {
     psychologicalTesting,
     individualDifferences,
     guidanceCounselling,
+    constitutionEducation,
+    historicalEducation,
+    educationalReligions,
+    epistemologicalFoundations,
+    educationalThinkers,
+    educationValues,
+    societyEducation,
     idealism
 );
 
