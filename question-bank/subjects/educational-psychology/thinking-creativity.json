@@ -1,0 +1,2107 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "topic": "Thinking & Creativity",
+    "totalQuestions": 200,
+    "language": "English",
+    "difficulty": "Mixed",
+    "version": "1.0"
+  },
+  "questions": [
+  {
+"id":"EDPSY-CT-0001",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which of the following BEST defines creativity?",
+"options":{
+"A":"Ability to memorize facts accurately",
+"B":"Ability to produce original, useful and valuable ideas",
+"C":"Ability to imitate others perfectly",
+"D":"Ability to score high marks in examinations"
+},
+"correctAnswer":"B",
+"explanation":"Creativity is the ability to generate original, useful and appropriate ideas or products.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Creativity","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0002",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which psychologist is most closely associated with the Structure of Intellect model and divergent thinking?",
+"options":{
+"A":"Jean Piaget",
+"B":"J.P. Guilford",
+"C":"Edward Thorndike",
+"D":"Sigmund Freud"
+},
+"correctAnswer":"B",
+"explanation":"J.P. Guilford emphasized divergent thinking and considered it central to creativity.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Guilford","Divergent Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0003",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which type of thinking aims at generating many possible solutions to a single problem?",
+"options":{
+"A":"Convergent Thinking",
+"B":"Divergent Thinking",
+"C":"Logical Thinking",
+"D":"Reflective Thinking"
+},
+"correctAnswer":"B",
+"explanation":"Divergent thinking generates multiple possible answers and is closely related to creativity.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Divergent Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0004",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Assertion (A): Creativity involves originality.\nReason (R): Creative individuals produce ideas that are both novel and useful.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Originality and usefulness are essential characteristics of creativity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Creativity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0005",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which characteristic of creativity refers to producing a large number of ideas?",
+"options":{
+"A":"Flexibility",
+"B":"Originality",
+"C":"Fluency",
+"D":"Elaboration"
+},
+"correctAnswer":"C",
+"explanation":"Fluency is the ability to generate many relevant ideas.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Fluency","Creativity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0006",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which characteristic of creativity refers to producing ideas from different categories or perspectives?",
+"options":{
+"A":"Fluency",
+"B":"Originality",
+"C":"Flexibility",
+"D":"Sensitivity"
+},
+"correctAnswer":"C",
+"explanation":"Flexibility means shifting approaches and producing ideas from different viewpoints.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Flexibility"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0007",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"A student suggests an entirely new method of conserving water that nobody in the class has considered. Which characteristic of creativity is BEST illustrated?",
+"options":{
+"A":"Fluency",
+"B":"Originality",
+"C":"Memory",
+"D":"Concentration"
+},
+"correctAnswer":"B",
+"explanation":"Originality refers to producing rare, unique and novel ideas.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Originality","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0008",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"According to Guilford, which type of thinking is generally measured in traditional intelligence tests?",
+"options":{
+"A":"Divergent Thinking",
+"B":"Creative Thinking",
+"C":"Convergent Thinking",
+"D":"Lateral Thinking"
+},
+"correctAnswer":"C",
+"explanation":"Traditional IQ tests mainly assess convergent thinking, where one correct answer is expected.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Convergent Thinking","IQ"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0009",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which of the following statements are correct?\n\n1. Creativity involves originality.\n2. Fluency means producing many ideas.\n3. Flexibility means producing ideas from different perspectives.\n4. Divergent thinking is closely related to creativity.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe important concepts related to creativity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Creativity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0010",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"A Dy.E.O. observes that teachers encourage brainstorming, project-based learning, open-ended questions and innovation competitions. Which conclusion BEST reflects educational psychology?",
+"options":{
+"A":"Schools are promoting creativity through divergent thinking and learner-centred activities.",
+"B":"Only memorization is encouraged.",
+"C":"Creativity hinders academic achievement.",
+"D":"Creative thinking is unrelated to education."
+},
+"correctAnswer":"A",
+"explanation":"Brainstorming, open-ended tasks and innovation activities encourage divergent thinking and creativity.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Creativity","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0011",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Thinking is BEST defined as:",
+"options":{
+"A":"Only remembering information",
+"B":"The mental process of manipulating information to solve problems, make decisions and understand situations",
+"C":"Speaking continuously",
+"D":"Reading textbooks"
+},
+"correctAnswer":"B",
+"explanation":"Thinking is a higher mental process involving reasoning, problem solving, decision making and judgment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Thinking","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0012",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which type of thinking involves selecting the single best solution from several alternatives?",
+"options":{
+"A":"Divergent Thinking",
+"B":"Convergent Thinking",
+"C":"Creative Thinking",
+"D":"Lateral Thinking"
+},
+"correctAnswer":"B",
+"explanation":"Convergent thinking narrows down alternatives to identify the best or correct solution.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Convergent Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0013",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which thinking process involves carefully examining evidence before reaching a conclusion?",
+"options":{
+"A":"Critical Thinking",
+"B":"Daydreaming",
+"C":"Trial and Error",
+"D":"Imitation"
+},
+"correctAnswer":"A",
+"explanation":"Critical thinking requires analysing evidence objectively before making judgments.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Critical Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0014",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Assertion (A): Effective thinking improves decision making.\nReason (R): Thinking enables individuals to analyse alternatives before choosing a course of action.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Thinking involves analysing alternatives, evaluating evidence and making reasoned decisions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0015",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"A student compares different methods for solving a mathematics problem before selecting the most efficient one. Which thinking process is illustrated?",
+"options":{
+"A":"Convergent Thinking",
+"B":"Random Thinking",
+"C":"Fantasy Thinking",
+"D":"Imitative Thinking"
+},
+"correctAnswer":"A",
+"explanation":"Selecting the most appropriate solution from several alternatives is convergent thinking.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Convergent Thinking","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0016",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which characteristic of thinking enables a person to evaluate arguments logically?",
+"options":{
+"A":"Critical Thinking",
+"B":"Mechanical Learning",
+"C":"Conditioning",
+"D":"Habit Formation"
+},
+"correctAnswer":"A",
+"explanation":"Critical thinking emphasizes logical analysis, evidence evaluation and sound judgment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Critical Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0017",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"A Dy.E.O. finds that teachers encourage students to justify answers, analyse evidence and debate multiple viewpoints. Which skill is primarily being developed?",
+"options":{
+"A":"Rote Memorization",
+"B":"Critical Thinking",
+"C":"Mechanical Learning",
+"D":"Habit Learning"
+},
+"correctAnswer":"B",
+"explanation":"Activities requiring analysis, justification and evaluation strengthen critical thinking.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Critical Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0018",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which thinking process is MOST closely associated with innovation and invention?",
+"options":{
+"A":"Convergent Thinking",
+"B":"Creative Thinking",
+"C":"Routine Thinking",
+"D":"Mechanical Thinking"
+},
+"correctAnswer":"B",
+"explanation":"Creative thinking generates original ideas leading to innovation and invention.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Creative Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0019",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"Which of the following statements are correct?\n\n1. Thinking is a mental process.\n2. Critical thinking involves evidence-based judgment.\n3. Convergent thinking seeks one best answer.\n4. Creative thinking encourages innovation.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe thinking and its major forms.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0020",
+"subject":"Educational Psychology",
+"topic":"Creativity & Thinking",
+"question":"During a district inspection, a Dy.E.O. observes classrooms where learners ask questions, evaluate evidence, solve real-life problems and design innovative projects. Which conclusion BEST reflects modern educational psychology?",
+"options":{
+"A":"Schools are developing higher-order thinking and creativity through learner-centred pedagogy.",
+"B":"Only factual recall is being promoted.",
+"C":"Creative thinking reduces academic achievement.",
+"D":"Thinking skills develop automatically without teaching."
+},
+"correctAnswer":"A",
+"explanation":"Learner-centred classrooms that encourage inquiry, problem-solving and innovation develop higher-order thinking and creativity.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Higher-Order Thinking","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-CT-0021",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Who developed the Structure of Intellect (SOI) Model?",
+"options":{
+"A":"Edward de Bono",
+"B":"J.P. Guilford",
+"C":"E. Paul Torrance",
+"D":"Jean Piaget"
+},
+"correctAnswer":"B",
+"explanation":"J.P. Guilford proposed the Structure of Intellect (SOI) Model and emphasized divergent thinking as the basis of creativity.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Guilford","SOI"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0022",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"According to Guilford, creativity is primarily associated with:",
+"options":{
+"A":"Convergent Thinking",
+"B":"Divergent Thinking",
+"C":"Mechanical Thinking",
+"D":"Reflective Thinking"
+},
+"correctAnswer":"B",
+"explanation":"Guilford regarded divergent thinking as the central process underlying creativity.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Divergent Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0023",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Who developed the Torrance Tests of Creative Thinking (TTCT)?",
+"options":{
+"A":"J.P. Guilford",
+"B":"E. Paul Torrance",
+"C":"David Wechsler",
+"D":"Carl Rogers"
+},
+"correctAnswer":"B",
+"explanation":"E. Paul Torrance developed the Torrance Tests of Creative Thinking (TTCT), one of the world's most widely used creativity tests.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["TTCT","Torrance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0024",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Assertion (A): Fluency is an important dimension of creativity.\nReason (R): It refers to generating a large number of ideas.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Fluency is one of Torrance's major dimensions of creativity and refers to producing numerous ideas.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Fluency","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0025",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which creativity characteristic refers to adding meaningful details to an idea?",
+"options":{
+"A":"Originality",
+"B":"Fluency",
+"C":"Elaboration",
+"D":"Flexibility"
+},
+"correctAnswer":"C",
+"explanation":"Elaboration refers to expanding, refining and adding details to ideas.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Elaboration"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0026",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A student gives ten different uses for a brick during a classroom activity. Which creative ability is mainly demonstrated?",
+"options":{
+"A":"Fluency",
+"B":"Memory",
+"C":"Reasoning",
+"D":"Attention"
+},
+"correctAnswer":"A",
+"explanation":"Generating many responses for a single object is an example of fluency.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Fluency","Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0027",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A student suggests solutions from science, economics and environmental perspectives to solve one problem. Which characteristic is BEST illustrated?",
+"options":{
+"A":"Originality",
+"B":"Elaboration",
+"C":"Flexibility",
+"D":"Sensitivity"
+},
+"correctAnswer":"C",
+"explanation":"Flexibility means producing ideas from different categories or viewpoints.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Flexibility"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0028",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which creativity test is most widely used in educational settings?",
+"options":{
+"A":"Stanford-Binet",
+"B":"TTCT",
+"C":"MMPI",
+"D":"WAIS"
+},
+"correctAnswer":"B",
+"explanation":"The Torrance Tests of Creative Thinking (TTCT) are among the most widely used standardized creativity assessments.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["TTCT"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0029",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following statements are correct?\n\n1. Guilford emphasized divergent thinking.\n2. Torrance developed TTCT.\n3. Elaboration means adding details.\n4. Flexibility means shifting perspectives.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe major concepts related to creativity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Creativity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0030",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A Dy.E.O. finds that teachers encourage brainstorming, mind mapping, innovation fairs and open-ended projects. Which educational objective is primarily being achieved?",
+"options":{
+"A":"Developing creative thinking",
+"B":"Promoting rote memorization",
+"C":"Increasing mechanical learning",
+"D":"Reducing learner participation"
+},
+"correctAnswer":"A",
+"explanation":"Brainstorming and open-ended activities encourage creativity and divergent thinking.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0031",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which type of reasoning proceeds from general principles to specific conclusions?",
+"options":{
+"A":"Inductive Reasoning",
+"B":"Deductive Reasoning",
+"C":"Analogical Reasoning",
+"D":"Creative Reasoning"
+},
+"correctAnswer":"B",
+"explanation":"Deductive reasoning moves from general rules to specific conclusions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Deductive Reasoning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0032",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Reasoning that moves from specific observations to general conclusions is called:",
+"options":{
+"A":"Deductive Reasoning",
+"B":"Inductive Reasoning",
+"C":"Reflective Thinking",
+"D":"Lateral Thinking"
+},
+"correctAnswer":"B",
+"explanation":"Inductive reasoning derives general principles from specific observations.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Inductive Reasoning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0033",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Assertion (A): Reasoning is essential for effective problem solving.\nReason (R): It enables logical evaluation of evidence before reaching conclusions.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Reasoning allows individuals to analyze information systematically before making decisions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Reasoning","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0034",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A mathematics teacher starts with a formula and applies it to solve a particular problem. Which reasoning is being used?",
+"options":{
+"A":"Inductive",
+"B":"Deductive",
+"C":"Creative",
+"D":"Lateral"
+},
+"correctAnswer":"B",
+"explanation":"Applying a general rule to solve a particular problem is deductive reasoning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Deductive","Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0035",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"After observing that several metals expand when heated, a student concludes that all metals expand when heated. This is an example of:",
+"options":{
+"A":"Deductive Reasoning",
+"B":"Inductive Reasoning",
+"C":"Convergent Thinking",
+"D":"Reflective Thinking"
+},
+"correctAnswer":"B",
+"explanation":"The conclusion is generalized from several observations, which is inductive reasoning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Inductive","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0036",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which thinker popularized the concept of Lateral Thinking?",
+"options":{
+"A":"J.P. Guilford",
+"B":"Edward de Bono",
+"C":"Jean Piaget",
+"D":"Jerome Bruner"
+},
+"correctAnswer":"B",
+"explanation":"Edward de Bono introduced the concept of lateral thinking as an alternative approach to problem solving.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Edward de Bono","Lateral Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0037",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Lateral thinking mainly encourages:",
+"options":{
+"A":"Routine procedures",
+"B":"New and unconventional approaches",
+"C":"Memorization",
+"D":"Mechanical repetition"
+},
+"correctAnswer":"B",
+"explanation":"Lateral thinking seeks innovative and non-traditional solutions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Lateral Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0038",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A Dy.E.O. notices students solving community problems through innovative projects rather than textbook methods. Which thinking style is MOST evident?",
+"options":{
+"A":"Mechanical Thinking",
+"B":"Lateral Thinking",
+"C":"Habit Learning",
+"D":"Trial Memorization"
+},
+"correctAnswer":"B",
+"explanation":"Innovative real-life problem solving reflects lateral thinking.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Lateral Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0039",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following statements are correct?\n\n1. Deductive reasoning moves from general to specific.\n2. Inductive reasoning moves from specific to general.\n3. Edward de Bono proposed lateral thinking.\n4. Lateral thinking encourages innovation.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements are correct.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Reasoning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0040",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"During a district inspection, a Dy.E.O. finds that schools encourage learners to justify conclusions, think from multiple perspectives and solve authentic community problems. Which conclusion BEST reflects modern educational psychology?",
+"options":{
+"A":"Schools are developing reasoning, creativity and higher-order thinking skills.",
+"B":"Schools are emphasizing rote memorization.",
+"C":"Thinking develops without instruction.",
+"D":"Reasoning has little educational value."
+},
+"correctAnswer":"A",
+"explanation":"Modern pedagogy promotes reasoning, creativity and higher-order thinking through authentic learning experiences.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Higher-Order Thinking","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-CT-0041",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Problem solving is BEST defined as:",
+"options":{
+"A":"Remembering previously learned facts",
+"B":"The process of identifying a problem and finding an effective solution",
+"C":"Repeating classroom activities",
+"D":"Copying others' ideas"
+},
+"correctAnswer":"B",
+"explanation":"Problem solving involves recognizing a problem, generating alternatives, evaluating them and selecting the best solution.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Problem Solving","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0042",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following is generally the FIRST step in problem solving?",
+"options":{
+"A":"Evaluating the solution",
+"B":"Identifying the problem",
+"C":"Implementing the solution",
+"D":"Selecting an alternative"
+},
+"correctAnswer":"B",
+"explanation":"Problem solving begins with identifying and clearly defining the problem.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Problem Solving","Steps"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0043",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which psychologist is associated with Insight Learning in problem solving?",
+"options":{
+"A":"B.F. Skinner",
+"B":"Wolfgang Köhler",
+"C":"Ivan Pavlov",
+"D":"Edward Thorndike"
+},
+"correctAnswer":"B",
+"explanation":"Wolfgang Köhler demonstrated insight learning through experiments with chimpanzees.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Insight Learning","Köhler"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0044",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Assertion (A): Effective problem solving requires evaluation of alternatives.\nReason (R): Different solutions may have different consequences.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Evaluating alternatives helps select the most suitable and effective solution.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Problem Solving"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0045",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A student suddenly realizes how to solve a difficult puzzle after observing the arrangement of pieces. This is an example of:",
+"options":{
+"A":"Trial and Error",
+"B":"Insight Learning",
+"C":"Mechanical Learning",
+"D":"Conditioning"
+},
+"correctAnswer":"B",
+"explanation":"Insight learning involves a sudden understanding of the relationship among elements of a problem.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Insight","Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0046",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Decision making mainly refers to:",
+"options":{
+"A":"Producing many ideas",
+"B":"Selecting the best alternative among available options",
+"C":"Repeating previous behaviour",
+"D":"Avoiding difficult situations"
+},
+"correctAnswer":"B",
+"explanation":"Decision making is the process of selecting the most appropriate option after evaluating alternatives.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Decision Making"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0047",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which factor is MOST important for effective decision making?",
+"options":{
+"A":"Guesswork",
+"B":"Logical evaluation of alternatives",
+"C":"Ignoring evidence",
+"D":"Imitating others"
+},
+"correctAnswer":"B",
+"explanation":"Effective decisions require careful analysis of available evidence and alternatives.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Decision Making"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0048",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A Dy.E.O. notices that teachers present students with real-life community problems and encourage them to discuss multiple solutions before selecting the best one. Which educational skill is primarily being developed?",
+"options":{
+"A":"Problem Solving",
+"B":"Mechanical Learning",
+"C":"Memorization",
+"D":"Habit Formation"
+},
+"correctAnswer":"A",
+"explanation":"Real-life situations requiring analysis and solution selection develop problem-solving skills.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Problem Solving"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0049",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following statements are correct?\n\n1. Problem solving begins with identifying the problem.\n2. Insight learning was proposed by Köhler.\n3. Decision making involves selecting among alternatives.\n4. Evaluating outcomes is an important part of problem solving.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the problem-solving process.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Problem Solving"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0050",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"During a district inspection, a Dy.E.O. finds that learners identify problems, gather evidence, test solutions and evaluate results. Which conclusion BEST reflects modern educational psychology?",
+"options":{
+"A":"Schools are promoting higher-order problem-solving skills.",
+"B":"Schools are emphasizing rote learning only.",
+"C":"Students are discouraged from thinking independently.",
+"D":"Problem solving has no place in classroom learning."
+},
+"correctAnswer":"A",
+"explanation":"Modern education emphasizes inquiry, evidence-based reasoning and problem solving.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Higher-Order Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0051",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which thinking process involves carefully examining one's own ideas before accepting them?",
+"options":{
+"A":"Reflective Thinking",
+"B":"Mechanical Thinking",
+"C":"Associative Thinking",
+"D":"Habit Learning"
+},
+"correctAnswer":"A",
+"explanation":"Reflective thinking involves thoughtful consideration before making judgments or decisions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Reflective Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0052",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Who is closely associated with Reflective Thinking in education?",
+"options":{
+"A":"John Dewey",
+"B":"Edward Thorndike",
+"C":"Jerome Bruner",
+"D":"Carl Rogers"
+},
+"correctAnswer":"A",
+"explanation":"John Dewey regarded reflective thinking as careful, active and persistent consideration of beliefs and knowledge.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["John Dewey","Reflective Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0053",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Assertion (A): Reflective thinking improves decision making.\nReason (R): It encourages individuals to examine evidence before reaching conclusions.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Reflective thinking requires critical examination of evidence before decisions are made.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Reflective Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0054",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A teacher asks students to justify every answer with evidence instead of accepting the first response. Which thinking skill is primarily encouraged?",
+"options":{
+"A":"Reflective Thinking",
+"B":"Mechanical Learning",
+"C":"Habit Formation",
+"D":"Trial and Error"
+},
+"correctAnswer":"A",
+"explanation":"Justifying answers with evidence develops reflective thinking.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Reflective Thinking","Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0055",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which statement BEST distinguishes reflective thinking from routine thinking?",
+"options":{
+"A":"Reflective thinking requires evidence-based analysis before conclusions.",
+"B":"Routine thinking always produces creative ideas.",
+"C":"Routine thinking is always better than reflective thinking.",
+"D":"Both are identical."
+},
+"correctAnswer":"A",
+"explanation":"Reflective thinking involves careful analysis, whereas routine thinking depends on habitual responses.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Reflective Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0056",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which characteristic is essential for reflective thinking?",
+"options":{
+"A":"Evidence-based reasoning",
+"B":"Blind acceptance",
+"C":"Mechanical repetition",
+"D":"Guesswork"
+},
+"correctAnswer":"A",
+"explanation":"Reflective thinking requires evidence, logic and thoughtful analysis.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Reflective Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0057",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A Dy.E.O. observes teachers asking learners to compare viewpoints, evaluate evidence and defend conclusions. Which educational objective is being promoted?",
+"options":{
+"A":"Reflective Thinking",
+"B":"Mechanical Memorization",
+"C":"Conditioning",
+"D":"Habit Learning"
+},
+"correctAnswer":"A",
+"explanation":"These activities strengthen reflective thinking and reasoned judgment.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Reflective Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0058",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which educational philosopher strongly emphasized learning through reflective thinking and experience?",
+"options":{
+"A":"John Dewey",
+"B":"Ivan Pavlov",
+"C":"B.F. Skinner",
+"D":"Sigmund Freud"
+},
+"correctAnswer":"A",
+"explanation":"John Dewey emphasized reflective thinking as an essential part of meaningful learning.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["John Dewey"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0059",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following statements are correct?\n\n1. Dewey emphasized reflective thinking.\n2. Reflective thinking uses evidence before conclusions.\n3. Insight learning is associated with Köhler.\n4. Decision making involves evaluating alternatives.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe higher-order thinking processes.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0060",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"During a district inspection, a Dy.E.O. observes learners solving authentic problems, reflecting on solutions, justifying conclusions with evidence and improving their ideas after feedback. Which conclusion BEST reflects modern educational psychology?",
+"options":{
+"A":"Schools are developing reflective thinking, problem-solving and decision-making skills.",
+"B":"Schools are promoting rote memorization only.",
+"C":"Thinking skills develop automatically.",
+"D":"Reflection is unnecessary in education."
+},
+"correctAnswer":"A",
+"explanation":"Modern classrooms emphasize reflective thinking, problem solving and evidence-based decision making as higher-order learning outcomes.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Reflective Thinking","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-CT-0061",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Critical thinking is BEST defined as:",
+"options":{
+"A":"Memorizing information accurately",
+"B":"Objective analysis and evaluation of information before making judgments",
+"C":"Repeating learned responses",
+"D":"Accepting others' opinions without questioning"
+},
+"correctAnswer":"B",
+"explanation":"Critical thinking involves logical analysis, evaluation of evidence and reasoned judgment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Critical Thinking","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0062",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following is an essential characteristic of critical thinking?",
+"options":{
+"A":"Blind acceptance",
+"B":"Evidence-based reasoning",
+"C":"Mechanical repetition",
+"D":"Guesswork"
+},
+"correctAnswer":"B",
+"explanation":"Critical thinkers evaluate evidence before accepting conclusions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Critical Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0063",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Who is most closely associated with the concept of Lateral Thinking?",
+"options":{
+"A":"J.P. Guilford",
+"B":"Edward de Bono",
+"C":"John Dewey",
+"D":"Jean Piaget"
+},
+"correctAnswer":"B",
+"explanation":"Edward de Bono introduced the concept of lateral thinking to encourage unconventional approaches to problem solving.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Edward de Bono","Lateral Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0064",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Assertion (A): Critical thinking requires questioning assumptions.\nReason (R): Decisions should be based on evidence rather than unsupported beliefs.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Critical thinkers question assumptions and rely on evidence before accepting conclusions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Critical Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0065",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A student carefully checks the reliability of different websites before preparing a project. Which thinking skill is primarily demonstrated?",
+"options":{
+"A":"Mechanical Thinking",
+"B":"Critical Thinking",
+"C":"Associative Thinking",
+"D":"Habit Learning"
+},
+"correctAnswer":"B",
+"explanation":"Evaluating the reliability of information is a key feature of critical thinking.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Critical Thinking","Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0066",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Reflective thinking mainly involves:",
+"options":{
+"A":"Acting without analysis",
+"B":"Carefully examining experiences before making conclusions",
+"C":"Repeating routine procedures",
+"D":"Learning only through memorization"
+},
+"correctAnswer":"B",
+"explanation":"Reflective thinking requires thoughtful examination of experiences and evidence.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Reflective Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0067",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which thinking style encourages looking at problems from completely different perspectives?",
+"options":{
+"A":"Convergent Thinking",
+"B":"Critical Thinking",
+"C":"Lateral Thinking",
+"D":"Mechanical Thinking"
+},
+"correctAnswer":"C",
+"explanation":"Lateral thinking seeks innovative solutions by changing perspectives.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Lateral Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0068",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A Dy.E.O. notices teachers encouraging students to ask 'Why?', 'How?' and 'What if?' during classroom discussions. Which thinking skill is mainly being promoted?",
+"options":{
+"A":"Mechanical Learning",
+"B":"Critical Thinking",
+"C":"Habit Formation",
+"D":"Conditioning"
+},
+"correctAnswer":"B",
+"explanation":"Questioning and evaluating ideas are essential features of critical thinking.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Critical Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0069",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following statements are correct?\n\n1. Critical thinking requires evidence-based judgment.\n2. Reflective thinking involves careful analysis.\n3. Edward de Bono proposed lateral thinking.\n4. Lateral thinking encourages unconventional solutions.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe critical, reflective and lateral thinking.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0070",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"During a district inspection, a Dy.E.O. observes learners questioning assumptions, analysing evidence, reflecting on mistakes and proposing innovative solutions. Which conclusion BEST reflects modern educational psychology?",
+"options":{
+"A":"Schools are promoting higher-order thinking skills.",
+"B":"Schools emphasize only factual recall.",
+"C":"Thinking develops automatically.",
+"D":"Innovation reduces academic achievement."
+},
+"correctAnswer":"A",
+"explanation":"Modern classrooms promote critical, reflective and creative thinking to develop higher-order cognitive abilities.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Higher-Order Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0071",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which classroom strategy BEST develops critical thinking?",
+"options":{
+"A":"Copying notes from the blackboard",
+"B":"Debates and evidence-based discussions",
+"C":"Mechanical repetition",
+"D":"Silent memorization"
+},
+"correctAnswer":"B",
+"explanation":"Debates require learners to analyse evidence and defend arguments logically.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Critical Thinking","Teaching Methods"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0072",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following BEST represents higher-order thinking according to Bloom's higher cognitive processes?",
+"options":{
+"A":"Remembering",
+"B":"Understanding",
+"C":"Evaluating and Creating",
+"D":"Copying"
+},
+"correctAnswer":"C",
+"explanation":"Evaluating and Creating are higher-order cognitive processes that involve advanced thinking.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Higher-Order Thinking","Bloom"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0073",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A learner compares two scientific explanations and identifies weaknesses in each before reaching a conclusion. This is an example of:",
+"options":{
+"A":"Creative Thinking",
+"B":"Critical Thinking",
+"C":"Habit Learning",
+"D":"Trial and Error"
+},
+"correctAnswer":"B",
+"explanation":"Comparing evidence and evaluating arguments are characteristics of critical thinking.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Critical Thinking","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0074",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Assertion (A): Lateral thinking complements critical thinking.\nReason (R): One generates new possibilities while the other evaluates them logically.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Creative generation of ideas through lateral thinking is strengthened by critical evaluation.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Lateral Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0075",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which teaching practice BEST develops reflective thinking?",
+"options":{
+"A":"Maintaining reflective journals",
+"B":"Memorizing definitions",
+"C":"Copy writing",
+"D":"Daily dictation only"
+},
+"correctAnswer":"A",
+"explanation":"Reflective journals encourage learners to analyse their experiences and improve future learning.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Reflective Thinking","Teaching"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0076",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which thinking style is MOST useful when solving completely unfamiliar problems?",
+"options":{
+"A":"Mechanical Thinking",
+"B":"Lateral Thinking",
+"C":"Habit Learning",
+"D":"Rote Learning"
+},
+"correctAnswer":"B",
+"explanation":"Lateral thinking encourages new approaches when conventional methods fail.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Lateral Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0077",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A Dy.E.O. observes that teachers encourage students to maintain learning portfolios, evaluate their own work and improve after feedback. Which thinking skill is primarily being developed?",
+"options":{
+"A":"Reflective Thinking",
+"B":"Mechanical Thinking",
+"C":"Habit Learning",
+"D":"Conditioning"
+},
+"correctAnswer":"A",
+"explanation":"Self-evaluation and reflection are central features of reflective thinking.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Reflective Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0078",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which educational approach encourages learners to challenge assumptions respectfully and support opinions with evidence?",
+"options":{
+"A":"Critical Thinking",
+"B":"Mechanical Learning",
+"C":"Habit Formation",
+"D":"Drill Practice"
+},
+"correctAnswer":"A",
+"explanation":"Critical thinking develops through evidence-based reasoning and respectful questioning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Critical Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0079",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following statements are correct?\n\n1. Critical thinking evaluates evidence.\n2. Reflective thinking analyses experiences.\n3. Lateral thinking encourages innovative solutions.\n4. All three contribute to higher-order thinking.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"Critical, reflective and lateral thinking together strengthen higher-order cognitive development.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Higher-Order Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0080",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"During a district inspection, a Dy.E.O. finds classrooms where learners investigate, analyse, reflect, innovate and defend conclusions using evidence. Which conclusion BEST reflects the goals of 21st-century education?",
+"options":{
+"A":"Schools are developing higher-order thinking, creativity and lifelong learning skills.",
+"B":"Schools focus only on memorization.",
+"C":"Innovation reduces learning.",
+"D":"Thinking skills are unrelated to academic achievement."
+},
+"correctAnswer":"A",
+"explanation":"Modern education aims to develop critical, reflective and creative thinkers who can solve real-world problems and become lifelong learners.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","21st Century Skills","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-CT-0081",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which classroom practice is MOST effective for developing creativity?",
+"options":{
+"A":"Rote memorization",
+"B":"Open-ended project work",
+"C":"Repeated copying",
+"D":"Daily dictation only"
+},
+"correctAnswer":"B",
+"explanation":"Open-ended projects encourage originality, flexibility and creative problem solving.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Creativity","Teaching Methods"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0082",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Brainstorming is primarily intended to:",
+"options":{
+"A":"Evaluate answers immediately",
+"B":"Generate a large number of ideas without criticism",
+"C":"Promote rote learning",
+"D":"Improve handwriting"
+},
+"correctAnswer":"B",
+"explanation":"Brainstorming encourages free generation of ideas before evaluation.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Brainstorming","Creativity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0083",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A teacher accepts unusual answers if they are logically justified. Which characteristic of creativity is mainly encouraged?",
+"options":{
+"A":"Originality",
+"B":"Mechanical learning",
+"C":"Habit formation",
+"D":"Conditioning"
+},
+"correctAnswer":"A",
+"explanation":"Accepting unique yet valid responses promotes originality.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Originality","Teaching"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0084",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Assertion (A): Creative classrooms encourage questioning.\nReason (R): Asking questions stimulates curiosity and higher-order thinking.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Questioning promotes inquiry, exploration and creativity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Creativity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0085",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which assessment method BEST measures higher-order thinking?",
+"options":{
+"A":"Only objective recall questions",
+"B":"Case studies and problem-solving tasks",
+"C":"Spelling tests",
+"D":"Copy writing"
+},
+"correctAnswer":"B",
+"explanation":"Case studies require learners to analyse, evaluate and create solutions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Assessment","Higher-Order Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0086",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which educational practice BEST promotes divergent thinking?",
+"options":{
+"A":"One correct answer for every question",
+"B":"Open-ended questions with multiple acceptable answers",
+"C":"Memorizing definitions",
+"D":"Mechanical drill"
+},
+"correctAnswer":"B",
+"explanation":"Open-ended questions encourage learners to generate multiple ideas.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Divergent Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0087",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A Dy.E.O. observes teachers using inquiry-based learning, debates, project work and innovation fairs. Which educational outcome is MOST likely?",
+"options":{
+"A":"Development of higher-order thinking and creativity",
+"B":"Mechanical memorization",
+"C":"Reduction in learner participation",
+"D":"Only examination preparation"
+},
+"correctAnswer":"A",
+"explanation":"Inquiry, debates and projects promote creativity, critical thinking and problem solving.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Inquiry Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0088",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which teacher behaviour MOST discourages creativity?",
+"options":{
+"A":"Encouraging different viewpoints",
+"B":"Allowing exploration",
+"C":"Rejecting every unconventional answer without discussion",
+"D":"Using brainstorming"
+},
+"correctAnswer":"C",
+"explanation":"Rejecting novel ideas discourages creative expression.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Creativity","Teaching Behaviour"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0089",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following statements are correct?\n\n1. Brainstorming develops creativity.\n2. Open-ended questions encourage divergent thinking.\n3. Case studies develop higher-order thinking.\n4. Creativity is promoted by accepting multiple valid solutions.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe effective practices for developing creativity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Teaching"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0090",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"During a district inspection, a Dy.E.O. finds classrooms where students investigate local problems, design solutions, test ideas and improve them after feedback. Which conclusion BEST reflects learner-centred education?",
+"options":{
+"A":"Schools are promoting innovation, creativity and lifelong learning.",
+"B":"Schools emphasize only factual recall.",
+"C":"Thinking develops automatically.",
+"D":"Creativity has little educational value."
+},
+"correctAnswer":"A",
+"explanation":"Learner-centred education emphasizes inquiry, innovation and continuous improvement.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Learner-Centred Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0091",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which pair is correctly matched?",
+"options":{
+"A":"Guilford – Divergent Thinking",
+"B":"Edward de Bono – Classical Conditioning",
+"C":"Köhler – Operant Conditioning",
+"D":"Dewey – Trial and Error"
+},
+"correctAnswer":"A",
+"explanation":"Guilford is closely associated with divergent thinking.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Matching","Thinkers"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0092",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which thinker developed the Torrance Tests of Creative Thinking?",
+"options":{
+"A":"Edward de Bono",
+"B":"E. Paul Torrance",
+"C":"J.P. Guilford",
+"D":"John Dewey"
+},
+"correctAnswer":"B",
+"explanation":"E. Paul Torrance developed the TTCT to assess creativity.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["TTCT","Torrance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0093",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A learner combines knowledge from science, mathematics and social studies to solve a community problem. This BEST demonstrates:",
+"options":{
+"A":"Integrated creative thinking",
+"B":"Mechanical learning",
+"C":"Habit learning",
+"D":"Simple memorization"
+},
+"correctAnswer":"A",
+"explanation":"Integrating ideas from different disciplines is a hallmark of creative thinking.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Integrated Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0094",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Assertion (A): Creativity and critical thinking complement each other.\nReason (R): Creative ideas require logical evaluation before implementation.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Creativity generates ideas, while critical thinking evaluates their usefulness.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Creativity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0095",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which educational objective is MOST closely related to creativity?",
+"options":{
+"A":"Innovation",
+"B":"Mechanical repetition",
+"C":"Blind obedience",
+"D":"Routine memorization"
+},
+"correctAnswer":"A",
+"explanation":"Creativity aims at innovation and original thinking.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Innovation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0096",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which learning environment BEST supports higher-order thinking?",
+"options":{
+"A":"Fear-based classroom",
+"B":"Collaborative and inquiry-based classroom",
+"C":"Silent copying",
+"D":"Teacher-only lecture"
+},
+"correctAnswer":"B",
+"explanation":"Inquiry and collaboration encourage analysis, creativity and problem solving.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Learning Environment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0097",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"A Dy.E.O. notices that learners defend ideas with evidence, revise solutions after peer feedback and present innovative projects. Which competency is MOST evident?",
+"options":{
+"A":"Higher-order thinking",
+"B":"Mechanical memory",
+"C":"Habit learning",
+"D":"Rote memorization"
+},
+"correctAnswer":"A",
+"explanation":"These activities require analysis, evaluation and creation—the highest cognitive skills.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Higher-Order Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0098",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which of the following statements are correct?\n\n1. Creativity generates ideas.\n2. Critical thinking evaluates ideas.\n3. Reflective thinking improves future performance.\n4. Lateral thinking encourages new perspectives.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the relationship among these thinking processes.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Grand Revision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0099",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"Which educational policy direction strongly emphasizes creativity, critical thinking and experiential learning in Indian schools?",
+"options":{
+"A":"NEP 2020",
+"B":"Wood's Dispatch",
+"C":"Hunter Commission",
+"D":"Sadler Commission"
+},
+"correctAnswer":"A",
+"explanation":"NEP 2020 emphasizes critical thinking, creativity, experiential learning and competency-based education.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["NEP 2020","Educational Policy"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-CT-0100",
+"subject":"Educational Psychology",
+"topic":"Thinking & Creativity",
+"question":"During a district inspection, a Dy.E.O. observes schools where learners investigate authentic problems, collaborate, innovate, evaluate evidence, reflect on learning and continuously improve solutions. Which conclusion BEST represents the goal of contemporary education?",
+"options":{
+"A":"Schools are developing creative, critical and reflective lifelong learners capable of solving real-world problems.",
+"B":"Schools focus only on examination marks.",
+"C":"Creativity has no role in academic success.",
+"D":"Memorization alone is sufficient for quality education."
+},
+"correctAnswer":"A",
+"explanation":"Contemporary education aims to develop lifelong learners who think critically, solve problems creatively and adapt to changing situations.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Grand Revision","21st Century Skills"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+}
+  ]
+}

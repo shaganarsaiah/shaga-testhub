@@ -14,6 +14,8 @@ import memory from "../question-bank/subjects/educational-psychology/memory.json
 import motivation from "../question-bank/subjects/educational-psychology/motivation.json" with { type: "json" };
 import intelligence from "../question-bank/subjects/educational-psychology/intelligence.json" with { type: "json" };
 import personalityAdjustment from "../question-bank/subjects/educational-psychology/personality-adjustment.json" with { type: "json" };
+import thinkingCreativity from "../question-bank/subjects/educational-psychology/thinking-creativity.json" with { type: "json" };
+
 import idealism from "../question-bank/subjects/educational-philosophy/idealism.json" with { type: "json" };
 
 class RepositoryLoader {
@@ -43,6 +45,7 @@ class RepositoryLoader {
     motivation,
     intelligence,
     personalityAdjustment,
+    thinkingCreativity,
     idealism
 );
 
