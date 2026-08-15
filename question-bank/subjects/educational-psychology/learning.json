@@ -984,7 +984,7 @@
 "isPreviousYearQuestion":false,
 "language":"English"
 },
-[
+
 {
 "id":"EDPSY-LRN-0046",
 "subject":"Educational Psychology",
@@ -1298,5 +1298,216 @@
 "source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
 "isPreviousYearQuestion":false,
 "language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0061",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher deducts five participation points whenever a student repeatedly interrupts the class without permission. As a result, the disruptive behaviour decreases. Which behavioural principle is illustrated?",
+"options":{
+"A":"Positive Reinforcement",
+"B":"Negative Reinforcement",
+"C":"Negative Punishment",
+"D":"Positive Punishment"
+},
+"correctAnswer":"C",
+"explanation":"Negative punishment involves removing a desirable stimulus (participation points) following an undesirable behaviour, thereby reducing the likelihood of that behaviour occurring again.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Skinner","Negative Punishment","Behaviour Modification"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0062",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Punishment may suppress behaviour immediately but does not necessarily teach the desired behaviour.\nReason (R): Skinner recommended that desirable behaviours should be strengthened primarily through reinforcement rather than excessive punishment.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Skinner emphasized reinforcement as the preferred strategy because it strengthens desirable behaviour. Punishment may stop undesirable behaviour temporarily but often fails to develop appropriate alternative behaviours.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Punishment","Skinner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0063",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher first rewards a child for writing individual letters correctly, then for writing words, later sentences, and finally complete paragraphs. Which concept of Operant Conditioning is BEST illustrated?",
+"options":{
+"A":"Stimulus Generalization",
+"B":"Shaping",
+"C":"Extinction",
+"D":"Insight"
+},
+"correctAnswer":"B",
+"explanation":"Shaping is the process of reinforcing successive approximations of a desired behaviour until the complete behaviour is acquired.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Shaping","Skinner","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0064",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which statement correctly distinguishes respondent behaviour from operant behaviour?",
+"options":{
+"A":"Respondent behaviour is emitted voluntarily, whereas operant behaviour is elicited automatically by a stimulus.",
+"B":"Respondent behaviour is elicited by a specific stimulus, whereas operant behaviour is emitted voluntarily and influenced by its consequences.",
+"C":"Both respondent and operant behaviours are identical.",
+"D":"Respondent behaviour occurs only in animals, whereas operant behaviour occurs only in humans."
+},
+"correctAnswer":"B",
+"explanation":"Respondent behaviour is automatically elicited by antecedent stimuli (as in Classical Conditioning), whereas operant behaviour is emitted voluntarily and is shaped by reinforcement and consequences.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Respondent Behaviour","Operant Behaviour","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0065",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"During a classroom observation, a Dy.E.O. notices that one teacher consistently recognises punctuality, teamwork and creative thinking through certificates and appreciation. Students gradually display these behaviours more frequently. Which conclusion BEST reflects Skinner's theory?",
+"options":{
+"A":"Desired classroom behaviours can be strengthened through systematic positive reinforcement.",
+"B":"Learning occurs only through maturation.",
+"C":"Students behave appropriately only because of fear of punishment.",
+"D":"Behaviour cannot be modified through classroom experiences."
+},
+"correctAnswer":"A",
+"explanation":"Skinner proposed that behaviours followed by reinforcing consequences are more likely to recur. Appropriate recognition and rewards can effectively promote desirable classroom behaviours.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Positive Reinforcement","Educational Administration","Skinner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0066",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher praises students after every correct answer during the initial stage of teaching multiplication tables. Which schedule of reinforcement is BEST illustrated?",
+"options":{
+"A":"Continuous Reinforcement",
+"B":"Fixed Ratio Reinforcement",
+"C":"Variable Ratio Reinforcement",
+"D":"Fixed Interval Reinforcement"
+},
+"correctAnswer":"A",
+"explanation":"Continuous reinforcement means every correct response is reinforced. It is especially effective during the acquisition stage of new learning.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Skinner","Continuous Reinforcement","Schedules of Reinforcement"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0067",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A student receives a reward after correctly solving every fifth mathematics problem. Which schedule of reinforcement does this represent?",
+"options":{
+"A":"Continuous Reinforcement",
+"B":"Fixed Ratio Reinforcement",
+"C":"Variable Interval Reinforcement",
+"D":"Fixed Interval Reinforcement"
+},
+"correctAnswer":"B",
+"explanation":"In a Fixed Ratio schedule, reinforcement is delivered after a predetermined number of correct responses. Here, the reward follows every fifth correct response.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Fixed Ratio","Skinner","Schedules"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0068",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Assertion (A): Behaviour reinforced under a Variable Ratio schedule tends to be highly resistant to extinction.\nReason (R): Learners cannot predict exactly when reinforcement will occur, so they continue responding consistently.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Variable Ratio reinforcement provides reinforcement after an unpredictable number of responses, producing a high and persistent response rate that is resistant to extinction.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Variable Ratio","Assertion-Reason","Skinner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0069",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"A teacher conducts a surprise appreciation activity at unpredictable times during the semester for students who maintain good classroom behaviour. Which reinforcement schedule is MOST appropriate?",
+"options":{
+"A":"Fixed Ratio",
+"B":"Fixed Interval",
+"C":"Variable Interval",
+"D":"Continuous Reinforcement"
+},
+"correctAnswer":"C",
+"explanation":"Variable Interval reinforcement is based on unpredictable time intervals. It encourages learners to maintain desirable behaviour consistently because reinforcement may occur at any time.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Variable Interval","Educational Application","Skinner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-LRN-0070",
+"subject":"Educational Psychology",
+"topic":"Learning",
+"question":"Which of the following statements regarding schedules of reinforcement are correct?\n\n1. Continuous reinforcement is most useful during the initial acquisition of learning.\n2. Fixed Ratio schedules reinforce behaviour after a specified number of responses.\n3. Variable Ratio schedules generally produce behaviour that is highly resistant to extinction.\n4. Fixed Interval schedules reinforce behaviour after unpredictable periods of time.\n\nSelect the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"1 and 4 only",
+"C":"2, 3 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Statement 4 is incorrect because Fixed Interval reinforcement occurs after fixed, predictable intervals of time, whereas Variable Interval reinforcement occurs after unpredictable intervals.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Schedules of Reinforcement","Multiple Statements","Skinner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
 }
 ]
+}
