@@ -17,6 +17,7 @@ import personalityAdjustment from "../question-bank/subjects/educational-psychol
 import thinkingCreativity from "../question-bank/subjects/educational-psychology/thinking-creativity.json" with { type: "json" };
 import psychologicalTesting from "../question-bank/subjects/educational-psychology/psychological-testing.json" with { type: "json" };
 import individualDifferences from "../question-bank/subjects/educational-psychology/individual-differences.json" with { type: "json" };
+import guidanceCounselling from "../question-bank/subjects/educational-psychology/guidance-counselling.json" with { type: "json" };
 
 import idealism from "../question-bank/subjects/educational-philosophy/idealism.json" with { type: "json" };
 
@@ -50,6 +51,7 @@ class RepositoryLoader {
     thinkingCreativity,
     psychologicalTesting,
     individualDifferences,
+    guidanceCounselling,
     idealism
 );
 

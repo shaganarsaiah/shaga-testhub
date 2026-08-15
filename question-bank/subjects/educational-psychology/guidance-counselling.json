@@ -1,0 +1,2103 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "topic": "Guidance and Counselling",
+    "totalQuestions": 200,
+    "language": "English",
+    "difficulty": "Mixed",
+    "version": "1.0"
+  },
+  "questions": [
+    {
+"id":"EDPSY-GC-0001",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Guidance is best defined as:",
+"options":{
+"A":"Giving advice only",
+"B":"A continuous process of helping individuals make appropriate educational, vocational and personal decisions",
+"C":"Punishing undesirable behaviour",
+"D":"Treating mental illness"
+},
+"correctAnswer":"B",
+"explanation":"Guidance is a continuous process that assists individuals in making suitable educational, vocational and personal decisions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Guidance","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0002",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Counselling is primarily a:",
+"options":{
+"A":"One-way advice",
+"B":"Helping relationship between counsellor and client",
+"C":"Punishment technique",
+"D":"Testing procedure"
+},
+"correctAnswer":"B",
+"explanation":"Counselling is a professional helping relationship that enables individuals to understand themselves and solve problems.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Counselling","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0003",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which statement correctly differentiates guidance and counselling?",
+"options":{
+"A":"Guidance is broader, while counselling is one of its services.",
+"B":"Counselling is broader than guidance.",
+"C":"Both are exactly identical.",
+"D":"Neither is related to education."
+},
+"correctAnswer":"A",
+"explanation":"Guidance includes several services, one of which is counselling.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Guidance vs Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0004",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): Guidance is a continuous process.\nReason (R): Individuals face educational, vocational and personal decisions throughout life.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Guidance is lifelong because people continuously encounter new situations requiring informed decisions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0005",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which is NOT a major area of guidance?",
+"options":{
+"A":"Educational guidance",
+"B":"Vocational guidance",
+"C":"Personal-social guidance",
+"D":"Meteorological guidance"
+},
+"correctAnswer":"D",
+"explanation":"Educational, vocational and personal-social guidance are the major areas of guidance.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Types of Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0006",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Educational guidance mainly helps learners to:",
+"options":{
+"A":"Choose entertainment activities",
+"B":"Make decisions related to studies and educational progress",
+"C":"Treat physical illness",
+"D":"Increase IQ"
+},
+"correctAnswer":"B",
+"explanation":"Educational guidance assists students in educational planning, course selection and academic adjustment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Educational Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0007",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Vocational guidance primarily assists individuals to:",
+"options":{
+"A":"Improve handwriting",
+"B":"Choose and prepare for suitable occupations",
+"C":"Increase memory only",
+"D":"Improve eyesight"
+},
+"correctAnswer":"B",
+"explanation":"Vocational guidance helps individuals select, prepare for and progress in suitable occupations.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Vocational Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0008",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor helps a student cope with anxiety before examinations. Which type of guidance is mainly involved?",
+"options":{
+"A":"Educational guidance",
+"B":"Personal-social guidance",
+"C":"Vocational guidance",
+"D":"Recreational guidance"
+},
+"correctAnswer":"B",
+"explanation":"Personal-social guidance helps individuals deal with emotional, behavioural and interpersonal concerns.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Personal-Social Guidance","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0009",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. Guidance is preventive as well as developmental.\n2. Counselling is a helping relationship.\n3. Educational guidance supports academic development.\n4. Vocational guidance supports career planning.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe guidance and counselling services.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0010",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A Dy.E.O. observes that schools maintain guidance records, provide career counselling, organize life-skills programmes and offer psychological support to students. Which conclusion BEST reflects modern educational guidance?",
+"options":{
+"A":"Schools are implementing comprehensive guidance services for holistic learner development.",
+"B":"Schools focus only on examinations.",
+"C":"Guidance is unnecessary in schools.",
+"D":"Counselling is only for students with mental illness."
+},
+"correctAnswer":"A",
+"explanation":"Modern school guidance programmes support academic, career, personal and social development of all learners.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Guidance","School Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-GC-0011",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"The primary objective of guidance is to help an individual:",
+"options":{
+"A":"Depend on others for decisions",
+"B":"Develop self-understanding and make wise decisions",
+"C":"Memorize textbooks",
+"D":"Score high marks only"
+},
+"correctAnswer":"B",
+"explanation":"Guidance helps individuals understand themselves and make informed educational, vocational and personal decisions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Objectives of Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0012",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which principle states that guidance services should be available to every learner?",
+"options":{
+"A":"Principle of Exclusiveness",
+"B":"Principle of Individual Differences",
+"C":"Principle of Universality",
+"D":"Principle of Punishment"
+},
+"correctAnswer":"C",
+"explanation":"Guidance is a universal service intended for all learners, not only those with problems.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Principles of Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0013",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Counselling differs from ordinary advice because counselling:",
+"options":{
+"A":"Provides ready-made solutions",
+"B":"Helps clients discover their own solutions",
+"C":"Depends on punishment",
+"D":"Is compulsory in schools"
+},
+"correctAnswer":"B",
+"explanation":"Counselling encourages self-understanding and self-directed problem solving rather than giving direct advice.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Counselling Process"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0014",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): Guidance should begin early in school life.\nReason (R): Early guidance helps prevent educational and personal problems before they become serious.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Guidance is preventive as well as developmental and is most effective when started early.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","School Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0015",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which characteristic is essential for an effective counsellor?",
+"options":{
+"A":"Authoritarian behaviour",
+"B":"Empathy",
+"C":"Harsh criticism",
+"D":"Bias towards students"
+},
+"correctAnswer":"B",
+"explanation":"Empathy enables counsellors to understand the feelings and perspectives of clients.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Counsellor Qualities"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0016",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A student is unable to decide whether to choose MPC or BiPC after Class X. Which service is MOST appropriate?",
+"options":{
+"A":"Educational guidance",
+"B":"Clinical treatment",
+"C":"Disciplinary action",
+"D":"Medical counselling"
+},
+"correctAnswer":"A",
+"explanation":"Educational guidance helps students make informed academic and course-selection decisions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Educational Guidance","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0017",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which principle emphasizes respecting the uniqueness of every learner?",
+"options":{
+"A":"Principle of Uniformity",
+"B":"Principle of Individual Differences",
+"C":"Principle of Competition",
+"D":"Principle of Memorization"
+},
+"correctAnswer":"B",
+"explanation":"Guidance recognizes that every learner has unique abilities, interests, needs and aspirations.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Individual Differences","Guidance Principles"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0018",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor maintains complete confidentiality regarding a student's personal information. Which ethical principle is being followed?",
+"options":{
+"A":"Authority",
+"B":"Confidentiality",
+"C":"Competition",
+"D":"Punishment"
+},
+"correctAnswer":"B",
+"explanation":"Maintaining confidentiality is a fundamental ethical responsibility in counselling.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Ethics","Confidentiality"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0019",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. Guidance is continuous.\n2. Counselling is a helping relationship.\n3. Guidance recognizes individual differences.\n4. Confidentiality is essential in counselling.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the principles and ethics of guidance and counselling.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Guidance","Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0020",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"During a district inspection, a Dy.E.O. finds that every school has a guidance programme, maintains cumulative records, provides educational and career guidance, ensures confidentiality and refers complex cases to professionals. Which conclusion BEST reflects an effective school guidance programme?",
+"options":{
+"A":"Schools are implementing a comprehensive, ethical and learner-centred guidance system.",
+"B":"Schools are focusing only on examinations.",
+"C":"Guidance services should be restricted to weak students.",
+"D":"Counselling is useful only for students with serious behavioural problems."
+},
+"correctAnswer":"A",
+"explanation":"An effective school guidance programme is comprehensive, preventive, developmental, ethical and available to all learners.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","School Guidance","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-GC-0021",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which type of guidance primarily helps learners choose appropriate courses and educational institutions?",
+"options":{
+"A":"Vocational Guidance",
+"B":"Educational Guidance",
+"C":"Personal Guidance",
+"D":"Health Guidance"
+},
+"correctAnswer":"B",
+"explanation":"Educational guidance assists students in course selection, educational planning and academic progress.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Educational Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0022",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Vocational guidance mainly aims to:",
+"options":{
+"A":"Improve classroom discipline",
+"B":"Help individuals choose, prepare for and progress in occupations",
+"C":"Increase examination marks",
+"D":"Develop physical fitness"
+},
+"correctAnswer":"B",
+"explanation":"Vocational guidance supports career choice, preparation and occupational adjustment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Vocational Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0023",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Personal-social guidance mainly focuses on:",
+"options":{
+"A":"Career selection only",
+"B":"Emotional, behavioural and interpersonal adjustment",
+"C":"Choosing optional subjects",
+"D":"Improving handwriting"
+},
+"correctAnswer":"B",
+"explanation":"Personal-social guidance helps learners solve emotional, behavioural, family and social adjustment problems.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Personal Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0024",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): Educational guidance contributes to reducing school dropout.\nReason (R): It helps learners make appropriate educational decisions and adjustments.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Educational guidance improves adjustment, motivation and informed educational choices, reducing dropout.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Educational Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0025",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Health guidance primarily helps learners:",
+"options":{
+"A":"Select careers",
+"B":"Maintain physical and mental well-being",
+"C":"Choose optional subjects",
+"D":"Improve intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Health guidance promotes healthy habits, disease prevention and mental well-being.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Health Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0026",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which type of guidance helps learners use their leisure time meaningfully?",
+"options":{
+"A":"Vocational Guidance",
+"B":"Educational Guidance",
+"C":"Recreational Guidance",
+"D":"Personal Guidance"
+},
+"correctAnswer":"C",
+"explanation":"Recreational guidance encourages constructive use of leisure through hobbies, sports and cultural activities.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Recreational Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0027",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A student is confused about selecting Intermediate MPC or BiPC after Class X. Which guidance service is MOST appropriate?",
+"options":{
+"A":"Health Guidance",
+"B":"Educational Guidance",
+"C":"Recreational Guidance",
+"D":"Personal Guidance"
+},
+"correctAnswer":"B",
+"explanation":"Educational guidance assists students in choosing suitable academic courses according to their interests and abilities.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Educational Guidance","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0028",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A student seeks advice regarding preparation for becoming a civil engineer. Which guidance service is MOST suitable?",
+"options":{
+"A":"Vocational Guidance",
+"B":"Health Guidance",
+"C":"Personal Guidance",
+"D":"Educational Measurement"
+},
+"correctAnswer":"A",
+"explanation":"Vocational guidance helps learners explore careers, educational requirements and occupational opportunities.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Vocational Guidance","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0029",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. Educational guidance supports academic development.\n2. Vocational guidance assists career planning.\n3. Personal guidance improves emotional adjustment.\n4. Recreational guidance promotes constructive leisure.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the objectives of different guidance services.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Types of Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0030",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A Dy.E.O. observes that schools provide educational guidance for subject selection, vocational guidance for career planning, personal guidance for emotional well-being and health guidance through wellness programmes. Which conclusion BEST reflects an effective school guidance programme?",
+"options":{
+"A":"Schools are providing comprehensive developmental guidance services.",
+"B":"Schools are focusing only on examination performance.",
+"C":"Only vocational guidance is necessary.",
+"D":"Guidance should be provided only to weak students."
+},
+"correctAnswer":"A",
+"explanation":"A comprehensive school guidance programme addresses learners' educational, vocational, personal and health needs for holistic development.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Comprehensive Guidance","School Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-GC-0031",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Community guidance primarily aims to:",
+"options":{
+"A":"Improve examination scores",
+"B":"Help individuals adjust effectively to community life and social responsibilities",
+"C":"Increase intelligence",
+"D":"Provide medical treatment"
+},
+"correctAnswer":"B",
+"explanation":"Community guidance promotes responsible citizenship, community participation and social adjustment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Community Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0032",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which type of guidance mainly focuses on developing moral values and ethical behaviour?",
+"options":{
+"A":"Educational Guidance",
+"B":"Vocational Guidance",
+"C":"Moral Guidance",
+"D":"Health Guidance"
+},
+"correctAnswer":"C",
+"explanation":"Moral guidance develops ethical values, honesty, responsibility and socially desirable behaviour.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Moral Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0033",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which type of guidance helps learners develop healthy interpersonal relationships?",
+"options":{
+"A":"Personal-Social Guidance",
+"B":"Vocational Guidance",
+"C":"Educational Guidance",
+"D":"Recreational Guidance"
+},
+"correctAnswer":"A",
+"explanation":"Personal-social guidance promotes emotional maturity, interpersonal skills and healthy relationships.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Personal-Social Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0034",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): Guidance services should be preventive as well as remedial.\nReason (R): Early intervention helps reduce future educational and personal difficulties.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Modern guidance programmes emphasize prevention, early identification and timely support.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Preventive Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0035",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which guidance service is MOST appropriate for helping students manage examination stress?",
+"options":{
+"A":"Vocational Guidance",
+"B":"Personal-Social Guidance",
+"C":"Community Guidance",
+"D":"Educational Measurement"
+},
+"correctAnswer":"B",
+"explanation":"Personal-social guidance addresses emotional adjustment, stress management and coping skills.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Personal Guidance","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0036",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A student wants information about scholarships, entrance examinations and higher education opportunities. Which service is MOST suitable?",
+"options":{
+"A":"Educational Guidance",
+"B":"Health Guidance",
+"C":"Community Guidance",
+"D":"Personal Guidance"
+},
+"correctAnswer":"A",
+"explanation":"Educational guidance provides information regarding courses, scholarships, admissions and educational opportunities.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Educational Guidance","Higher Education"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0037",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A student seeks information about qualifications required to become an IAS officer. Which guidance service should be provided?",
+"options":{
+"A":"Health Guidance",
+"B":"Vocational Guidance",
+"C":"Recreational Guidance",
+"D":"Personal Guidance"
+},
+"correctAnswer":"B",
+"explanation":"Vocational guidance provides information regarding occupations, qualifications, career paths and employment opportunities.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Vocational Guidance","Career Planning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0038",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which guidance service contributes MOST directly to developing responsible citizenship?",
+"options":{
+"A":"Community Guidance",
+"B":"Vocational Guidance",
+"C":"Educational Guidance",
+"D":"Health Guidance"
+},
+"correctAnswer":"A",
+"explanation":"Community guidance encourages civic responsibility, social participation and democratic values.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Community Guidance","Citizenship"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0039",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. Educational guidance helps in course selection.\n2. Vocational guidance supports career planning.\n3. Personal-social guidance promotes emotional adjustment.\n4. Community guidance develops responsible citizenship.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the objectives of different guidance services.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Guidance Services"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0040",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"During a district inspection, a Dy.E.O. observes that schools provide educational, vocational, personal-social, health, recreational, moral and community guidance through planned activities and trained personnel. Which conclusion BEST reflects an ideal comprehensive guidance programme?",
+"options":{
+"A":"Schools are promoting holistic learner development through comprehensive guidance services.",
+"B":"Schools should provide only educational guidance.",
+"C":"Guidance should be limited to academically weak students.",
+"D":"Vocational guidance alone is sufficient."
+},
+"correctAnswer":"A",
+"explanation":"A comprehensive guidance programme addresses learners' educational, vocational, personal, social, moral, health and community development needs.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Comprehensive Guidance","Holistic Development"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-GC-0041",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Who developed Client-Centred (Non-directive) Counselling?",
+"options":{
+"A":"E.G. Williamson",
+"B":"Carl Rogers",
+"C":"Sigmund Freud",
+"D":"Albert Ellis"
+},
+"correctAnswer":"B",
+"explanation":"Carl Rogers developed Client-Centred (Non-directive) Counselling based on humanistic psychology.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Carl Rogers","Non-directive Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0042",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Who developed Directive Counselling?",
+"options":{
+"A":"Carl Rogers",
+"B":"E.G. Williamson",
+"C":"Carl Jung",
+"D":"B.F. Skinner"
+},
+"correctAnswer":"B",
+"explanation":"E.G. Williamson developed Directive Counselling, where the counsellor plays the major role in solving the client's problem.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Directive Counselling","Williamson"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0043",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Eclectic Counselling is mainly associated with:",
+"options":{
+"A":"Carl Rogers",
+"B":"E.G. Williamson",
+"C":"F.C. Bordin",
+"D":"Sigmund Freud"
+},
+"correctAnswer":"C",
+"explanation":"F.C. Bordin proposed the Eclectic Counselling approach by combining suitable techniques from different counselling theories.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Eclectic Counselling","Bordin"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0044",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): In Client-Centred Counselling, the client plays an active role.\nReason (R): The counsellor provides empathy, acceptance and a supportive environment rather than direct advice.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Carl Rogers believed clients possess the capacity for self-direction when provided with empathy, genuineness and unconditional positive regard.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Client-Centred Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0045",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which counselling approach is MOST counsellor-centred?",
+"options":{
+"A":"Client-Centred Counselling",
+"B":"Directive Counselling",
+"C":"Eclectic Counselling",
+"D":"Existential Counselling"
+},
+"correctAnswer":"B",
+"explanation":"In Directive Counselling, the counsellor diagnoses the problem, interprets information and suggests solutions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Directive Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0046",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor mainly listens, reflects feelings and encourages a student to discover his own solution without giving direct advice. Which counselling approach is being used?",
+"options":{
+"A":"Directive Counselling",
+"B":"Client-Centred Counselling",
+"C":"Eclectic Counselling",
+"D":"Behavioural Counselling"
+},
+"correctAnswer":"B",
+"explanation":"Listening, empathy and self-directed problem solving are key characteristics of Rogers' Client-Centred Counselling.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Case Study","Carl Rogers"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0047",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor analyses the student's problem, identifies the cause and recommends a specific course of action. Which counselling approach is illustrated?",
+"options":{
+"A":"Client-Centred Counselling",
+"B":"Directive Counselling",
+"C":"Eclectic Counselling",
+"D":"Group Counselling"
+},
+"correctAnswer":"B",
+"explanation":"Directive Counselling involves diagnosis, interpretation and advice by the counsellor.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Directive Counselling","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0048",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which counselling approach combines techniques from different theories depending on the client's needs?",
+"options":{
+"A":"Directive Counselling",
+"B":"Client-Centred Counselling",
+"C":"Eclectic Counselling",
+"D":"Psychoanalytic Counselling"
+},
+"correctAnswer":"C",
+"explanation":"Eclectic Counselling selects the most appropriate techniques from different approaches according to the situation.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Eclectic Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0049",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. Carl Rogers developed Client-Centred Counselling.\n2. Williamson developed Directive Counselling.\n3. Bordin developed Eclectic Counselling.\n4. Client-Centred Counselling emphasizes empathy.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly match the theorists with their counselling approaches.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Counselling Theories"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0050",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A Dy.E.O. observes school counsellors using directive counselling for urgent career decisions, client-centred counselling for emotional adjustment and eclectic counselling for complex learner problems. Which conclusion BEST reflects effective counselling practice?",
+"options":{
+"A":"Different counselling approaches should be selected according to the learner's needs and the nature of the problem.",
+"B":"Only directive counselling should be used.",
+"C":"Only client-centred counselling is effective.",
+"D":"One counselling approach is suitable for every situation."
+},
+"correctAnswer":"A",
+"explanation":"Professional counsellors select counselling approaches according to the learner, context and nature of the problem.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Counselling Theories","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-GC-0051",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Psychoanalytic counselling is primarily associated with:",
+"options":{
+"A":"Carl Rogers",
+"B":"Sigmund Freud",
+"C":"Albert Ellis",
+"D":"E.G. Williamson"
+},
+"correctAnswer":"B",
+"explanation":"Sigmund Freud developed Psychoanalytic Theory, emphasizing unconscious motives and early childhood experiences.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Freud","Psychoanalytic Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0052",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Rational Emotive Behaviour Therapy (REBT) was developed by:",
+"options":{
+"A":"Carl Rogers",
+"B":"Albert Ellis",
+"C":"Aaron Beck",
+"D":"Carl Jung"
+},
+"correctAnswer":"B",
+"explanation":"Albert Ellis developed Rational Emotive Behaviour Therapy (REBT), which focuses on identifying and changing irrational beliefs.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Albert Ellis","REBT"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0053",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Behavioural counselling is mainly based on the principles of:",
+"options":{
+"A":"Psychoanalysis",
+"B":"Humanism",
+"C":"Learning and Behaviour Modification",
+"D":"Existentialism"
+},
+"correctAnswer":"C",
+"explanation":"Behavioural counselling applies principles of learning such as reinforcement, modelling and conditioning to modify behaviour.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Behavioural Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0054",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): REBT helps clients identify irrational beliefs.\nReason (R): Irrational thinking often contributes to emotional problems.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"REBT is based on the principle that changing irrational beliefs can improve emotional well-being.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","REBT"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0055",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A student repeatedly says, 'I must always be perfect; otherwise I am a failure.' Which counselling approach is MOST suitable?",
+"options":{
+"A":"Directive Counselling",
+"B":"Rational Emotive Behaviour Therapy",
+"C":"Vocational Guidance",
+"D":"Recreational Guidance"
+},
+"correctAnswer":"B",
+"explanation":"REBT helps clients challenge irrational beliefs such as perfectionistic thinking.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["REBT","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0056",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor uses reinforcement and modelling to reduce undesirable classroom behaviour. Which counselling approach is illustrated?",
+"options":{
+"A":"Behavioural Counselling",
+"B":"Client-Centred Counselling",
+"C":"Psychoanalytic Counselling",
+"D":"Directive Counselling"
+},
+"correctAnswer":"A",
+"explanation":"Behavioural counselling modifies behaviour through reinforcement, modelling and other learning principles.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Behavioural Counselling","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0057",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which counselling approach gives major importance to unconscious conflicts and childhood experiences?",
+"options":{
+"A":"Client-Centred Counselling",
+"B":"Directive Counselling",
+"C":"Psychoanalytic Counselling",
+"D":"Behavioural Counselling"
+},
+"correctAnswer":"C",
+"explanation":"Psychoanalytic counselling explores unconscious motives and unresolved childhood experiences.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Freud","Psychoanalytic"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0058",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which counselling theory emphasizes unconditional positive regard, empathy and genuineness?",
+"options":{
+"A":"Directive Counselling",
+"B":"Client-Centred Counselling",
+"C":"Behavioural Counselling",
+"D":"Psychoanalytic Counselling"
+},
+"correctAnswer":"B",
+"explanation":"Carl Rogers considered empathy, unconditional positive regard and genuineness as core conditions for effective counselling.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Carl Rogers","Core Conditions"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0059",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. Freud developed Psychoanalytic Counselling.\n2. Albert Ellis developed REBT.\n3. Behavioural counselling uses reinforcement.\n4. Rogers emphasized empathy and unconditional positive regard.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe major counselling theories and their key features.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Counselling Theories"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0060",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"During a district inspection, a Dy.E.O. observes counsellors using client-centred counselling for emotional issues, directive counselling for urgent educational decisions, behavioural techniques for classroom behaviour problems and REBT for irrational thinking. Which conclusion BEST reflects professional counselling practice?",
+"options":{
+"A":"Effective counsellors select counselling approaches according to the learner's needs and the nature of the problem.",
+"B":"Only one counselling theory should be used in every situation.",
+"C":"Directive counselling is suitable for all learners.",
+"D":"Behavioural counselling should replace all other approaches."
+},
+"correctAnswer":"A",
+"explanation":"Professional counselling requires selecting appropriate approaches based on the client's needs, goals and presenting problems.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Counselling Theories","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-GC-0061",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which counselling skill involves giving full attention to the client's verbal and non-verbal messages?",
+"options":{
+"A":"Persuading",
+"B":"Active Listening",
+"C":"Advising",
+"D":"Questioning"
+},
+"correctAnswer":"B",
+"explanation":"Active listening requires the counsellor to attend carefully to both verbal and non-verbal communication.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Counselling Skills","Active Listening"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0062",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Empathy in counselling means:",
+"options":{
+"A":"Feeling pity for the client",
+"B":"Understanding the client's feelings from the client's point of view",
+"C":"Giving immediate advice",
+"D":"Ignoring emotions"
+},
+"correctAnswer":"B",
+"explanation":"Empathy is the ability to understand another person's feelings and experiences from their perspective.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Empathy"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0063",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which counselling skill involves repeating the client's ideas in different words to confirm understanding?",
+"options":{
+"A":"Reflection",
+"B":"Paraphrasing",
+"C":"Confrontation",
+"D":"Interpretation"
+},
+"correctAnswer":"B",
+"explanation":"Paraphrasing helps ensure accurate understanding while encouraging the client to continue talking.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Paraphrasing"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0064",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): Rapport is essential in counselling.\nReason (R): A trusting relationship encourages clients to share their concerns openly.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Rapport creates trust, comfort and openness, making counselling more effective.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Rapport","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0065",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which counselling technique encourages the client to express feelings more deeply?",
+"options":{
+"A":"Reflection of feelings",
+"B":"Punishment",
+"C":"Warning",
+"D":"Giving orders"
+},
+"correctAnswer":"A",
+"explanation":"Reflection of feelings helps clients recognize and explore their emotions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Reflection of Feelings"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0066",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor maintains eye contact, nods appropriately and avoids interrupting the student. Which counselling skill is mainly demonstrated?",
+"options":{
+"A":"Interpretation",
+"B":"Active Listening",
+"C":"Diagnosis",
+"D":"Advice Giving"
+},
+"correctAnswer":"B",
+"explanation":"These behaviours indicate attentive listening and encourage the client to continue sharing.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Active Listening","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0067",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Confidentiality in counselling should be maintained because it:",
+"options":{
+"A":"Increases fear",
+"B":"Builds trust between counsellor and client",
+"C":"Prevents communication",
+"D":"Avoids decision making"
+},
+"correctAnswer":"B",
+"explanation":"Clients are more likely to share personal concerns when confidentiality is assured.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Confidentiality","Ethics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0068",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor asks, 'Can you tell me more about what happened?' This is an example of:",
+"options":{
+"A":"Closed Question",
+"B":"Open-ended Question",
+"C":"Leading Question",
+"D":"Judgement"
+},
+"correctAnswer":"B",
+"explanation":"Open-ended questions encourage detailed responses and deeper exploration.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Open-ended Questions"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0069",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. Active listening builds rapport.\n2. Empathy means understanding the client's perspective.\n3. Paraphrasing confirms understanding.\n4. Confidentiality promotes trust.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements describe essential counselling skills and ethical practices.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Counselling Skills"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0070",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"During a school visit, a Dy.E.O. observes counsellors establishing rapport, practising active listening, maintaining confidentiality, using open-ended questions and demonstrating empathy. Which conclusion BEST reflects effective counselling practice?",
+"options":{
+"A":"The counsellors are applying essential professional counselling skills.",
+"B":"Counselling mainly consists of giving advice.",
+"C":"Counsellors should speak more than clients.",
+"D":"Rapport is unnecessary in school counselling."
+},
+"correctAnswer":"A",
+"explanation":"Professional counselling relies on rapport, empathy, listening, confidentiality and effective communication skills.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Counselling Skills","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-GC-0071",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which counselling skill involves summarizing the main points discussed during a session?",
+"options":{
+"A":"Reflection",
+"B":"Summarization",
+"C":"Interpretation",
+"D":"Confrontation"
+},
+"correctAnswer":"B",
+"explanation":"Summarization helps organize the discussion, reinforces key ideas and ensures mutual understanding.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Summarization","Counselling Skills"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0072",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"The primary purpose of rapport in counselling is to:",
+"options":{
+"A":"Control the client",
+"B":"Establish trust and cooperation",
+"C":"Evaluate intelligence",
+"D":"Provide discipline"
+},
+"correctAnswer":"B",
+"explanation":"Rapport creates a trusting relationship that encourages open communication.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Rapport"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0073",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which counselling technique helps clients recognize inconsistencies between their words and actions?",
+"options":{
+"A":"Confrontation",
+"B":"Paraphrasing",
+"C":"Silence",
+"D":"Reflection"
+},
+"correctAnswer":"A",
+"explanation":"Confrontation respectfully draws attention to discrepancies to promote self-awareness and change.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Confrontation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0074",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): Silence can be an effective counselling technique.\nReason (R): It gives the client time to think and express feelings.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Appropriate silence encourages reflection and deeper expression without pressure.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Silence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0075",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor says, 'It sounds like you are feeling disappointed because your efforts were not recognized.' Which counselling skill is illustrated?",
+"options":{
+"A":"Reflection of feelings",
+"B":"Advice giving",
+"C":"Diagnosis",
+"D":"Persuasion"
+},
+"correctAnswer":"A",
+"explanation":"Reflection of feelings identifies and communicates the client's emotional experience.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Reflection of Feelings","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0076",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which communication behaviour should a counsellor generally avoid during counselling?",
+"options":{
+"A":"Judging and criticizing the client",
+"B":"Listening carefully",
+"C":"Maintaining confidentiality",
+"D":"Showing empathy"
+},
+"correctAnswer":"A",
+"explanation":"Judgmental behaviour discourages open communication and damages the counselling relationship.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Communication Skills","Ethics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0077",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor restates the client's message briefly before asking another question. This mainly helps to:",
+"options":{
+"A":"Confuse the client",
+"B":"Confirm understanding and encourage further discussion",
+"C":"End the session quickly",
+"D":"Avoid listening"
+},
+"correctAnswer":"B",
+"explanation":"Restating or paraphrasing confirms understanding and encourages the client to elaborate.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Paraphrasing","Communication"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0078",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A counsellor notices that a student avoids eye contact while saying, 'Everything is fine.' The counsellor explores this discrepancy. Which counselling skill is MOST appropriate?",
+"options":{
+"A":"Confrontation",
+"B":"Lecture",
+"C":"Punishment",
+"D":"Ignoring non-verbal behaviour"
+},
+"correctAnswer":"A",
+"explanation":"Effective confrontation gently explores inconsistencies between verbal and non-verbal communication.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Apply",
+"tags":["Confrontation","Non-verbal Communication","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0079",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. Rapport promotes trust.\n2. Active listening improves communication.\n3. Reflection of feelings helps emotional expression.\n4. Summarization reviews important discussion points.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four are essential counselling techniques that improve the effectiveness of the counselling process.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Counselling Skills"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0080",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"During a district inspection, a Dy.E.O. observes counsellors building rapport, using empathy, active listening, reflection, paraphrasing, summarization, appropriate silence and maintaining confidentiality. Which conclusion BEST reflects professional school counselling?",
+"options":{
+"A":"The counsellors are demonstrating comprehensive professional counselling competence.",
+"B":"Counselling is mainly advice giving.",
+"C":"Only testing skills are necessary in counselling.",
+"D":"Counselling should focus only on academic performance."
+},
+"correctAnswer":"A",
+"explanation":"Professional counselling requires a combination of communication skills, ethical practice and learner-centred helping techniques.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Counselling Skills","Professional Practice"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-GC-0081",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"The primary purpose of an Orientation Service in a school guidance programme is to:",
+"options":{
+"A":"Conduct examinations",
+"B":"Help new students adjust to the school environment",
+"C":"Provide vocational placement",
+"D":"Treat emotional disorders"
+},
+"correctAnswer":"B",
+"explanation":"Orientation services help students become familiar with the school, its rules, facilities and programmes.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Orientation Service"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0082",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"The Information Service in guidance mainly provides:",
+"options":{
+"A":"Medical treatment",
+"B":"Educational, vocational and occupational information",
+"C":"Psychological testing only",
+"D":"Disciplinary action"
+},
+"correctAnswer":"B",
+"explanation":"Information service provides accurate educational and career-related information for decision-making.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Information Service"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0083",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"The Appraisal Service mainly involves:",
+"options":{
+"A":"Punishing students",
+"B":"Collecting and interpreting information about learners",
+"C":"Organizing sports",
+"D":"Providing scholarships"
+},
+"correctAnswer":"B",
+"explanation":"Appraisal services gather data regarding students' abilities, interests, achievements and personality.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Appraisal Service"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0084",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): Follow-up service is an essential part of guidance.\nReason (R): It helps evaluate the effectiveness of guidance provided.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Follow-up services determine whether guidance interventions have achieved the desired outcomes.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Follow-up Service"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0085",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Placement Service primarily helps students to:",
+"options":{
+"A":"Improve handwriting",
+"B":"Find suitable educational or occupational opportunities",
+"C":"Develop memory",
+"D":"Improve physical fitness"
+},
+"correctAnswer":"B",
+"explanation":"Placement services assist learners in obtaining suitable educational admissions or employment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Placement Service"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0086",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A Cumulative Record Card (CRC) mainly contains:",
+"options":{
+"A":"Only examination marks",
+"B":"Comprehensive information regarding a student's educational, personal and developmental progress",
+"C":"Only attendance details",
+"D":"Only medical history"
+},
+"correctAnswer":"B",
+"explanation":"CRC maintains comprehensive information useful for educational guidance and counselling.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Cumulative Record Card"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0087",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A school refers a student with severe emotional problems to a clinical psychologist. Which guidance service is illustrated?",
+"options":{
+"A":"Placement Service",
+"B":"Referral Service",
+"C":"Orientation Service",
+"D":"Information Service"
+},
+"correctAnswer":"B",
+"explanation":"Referral service connects learners with specialists when problems require professional intervention.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Referral Service","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0088",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A school counsellor regularly reviews the progress of students who previously received counselling. Which guidance service is illustrated?",
+"options":{
+"A":"Information Service",
+"B":"Follow-up Service",
+"C":"Orientation Service",
+"D":"Placement Service"
+},
+"correctAnswer":"B",
+"explanation":"Follow-up ensures that counselling outcomes are monitored and additional support is provided if needed.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Follow-up Service","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0089",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. Orientation helps new students adjust.\n2. Appraisal service collects learner information.\n3. Referral service connects learners with specialists.\n4. Follow-up evaluates the effectiveness of guidance.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the major services of a comprehensive guidance programme.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Guidance Services"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0090",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"A Dy.E.O. observes schools maintaining cumulative records, providing orientation, appraisal, counselling, placement, referral and follow-up services. Which conclusion BEST reflects an effective school guidance programme?",
+"options":{
+"A":"Schools are implementing a comprehensive developmental guidance programme.",
+"B":"Only counselling services are necessary.",
+"C":"Guidance is useful only for weak students.",
+"D":"Guidance should begin only at the secondary level."
+},
+"correctAnswer":"A",
+"explanation":"A comprehensive school guidance programme integrates all major guidance services to support holistic learner development.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","School Guidance Programme"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0091",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"The main purpose of maintaining a Cumulative Record Card is to:",
+"options":{
+"A":"Rank students only",
+"B":"Provide continuous educational information for guidance and counselling",
+"C":"Record only attendance",
+"D":"Maintain fee records"
+},
+"correctAnswer":"B",
+"explanation":"A CRC provides a complete educational profile that supports informed guidance decisions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["CRC"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0092",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which service helps determine whether students were successfully placed in suitable careers or institutions?",
+"options":{
+"A":"Orientation",
+"B":"Follow-up",
+"C":"Information",
+"D":"Appraisal"
+},
+"correctAnswer":"B",
+"explanation":"Follow-up evaluates long-term outcomes after placement or counselling.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Follow-up","Placement"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0093",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which service is usually the FIRST provided to students joining a new school?",
+"options":{
+"A":"Referral Service",
+"B":"Orientation Service",
+"C":"Placement Service",
+"D":"Follow-up Service"
+},
+"correctAnswer":"B",
+"explanation":"Orientation helps new students understand the school environment before other services are needed.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Orientation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0094",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Assertion (A): Appraisal service is essential before providing guidance.\nReason (R): Accurate learner information improves guidance decisions.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Reliable information about learners forms the basis for effective educational and vocational guidance.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Appraisal"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0095",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which school record is MOST valuable for understanding a student's long-term progress?",
+"options":{
+"A":"Daily Attendance Register",
+"B":"Cumulative Record Card",
+"C":"Cash Book",
+"D":"Stock Register"
+},
+"correctAnswer":"B",
+"explanation":"The CRC provides comprehensive long-term information useful for guidance and educational planning.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["School Records","CRC"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0096",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"An effective school guidance programme should primarily be:",
+"options":{
+"A":"Examination-oriented",
+"B":"Developmental, preventive and continuous",
+"C":"Punishment-oriented",
+"D":"Restricted to senior classes"
+},
+"correctAnswer":"B",
+"explanation":"Modern guidance programmes focus on continuous learner development while preventing future problems.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["School Guidance Programme"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0097",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which service provides students with updated information about scholarships, entrance examinations and career opportunities?",
+"options":{
+"A":"Information Service",
+"B":"Referral Service",
+"C":"Placement Service",
+"D":"Follow-up Service"
+},
+"correctAnswer":"A",
+"explanation":"Information service supplies educational, vocational and occupational information required for decision-making.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Information Service"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0098",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which of the following statements are correct?\n\n1. CRC supports guidance decisions.\n2. Referral connects students with specialists.\n3. Follow-up evaluates outcomes.\n4. Placement helps learners enter suitable institutions or occupations.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements accurately describe important guidance services in schools.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","School Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0099",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"Which professional should receive a referral when a student shows symptoms of severe depression requiring clinical treatment?",
+"options":{
+"A":"Class Monitor",
+"B":"Clinical Psychologist or Psychiatrist, as appropriate",
+"C":"Sports Teacher",
+"D":"Librarian"
+},
+"correctAnswer":"B",
+"explanation":"Students with serious mental health concerns should be referred to appropriately qualified mental health professionals.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Apply",
+"tags":["Referral","Mental Health","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-GC-0100",
+"subject":"Educational Psychology",
+"topic":"Guidance and Counselling",
+"question":"During a district inspection, a Dy.E.O. finds that every school maintains cumulative records, conducts orientation programmes, provides appraisal, information, counselling, placement, referral and follow-up services while ensuring confidentiality and learner welfare. Which conclusion BEST reflects the objectives of NEP 2020 and modern school guidance?",
+"options":{
+"A":"Schools are implementing a comprehensive, learner-centred, developmental guidance programme.",
+"B":"Guidance should be restricted to career selection only.",
+"C":"School guidance is needed only for students with learning difficulties.",
+"D":"Academic marks alone determine successful guidance."
+},
+"correctAnswer":"A",
+"explanation":"A comprehensive guidance programme integrates all essential services to support the educational, personal, social and career development of every learner.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","NEP 2020","School Guidance","Grand Revision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+}
+  ]
+}
