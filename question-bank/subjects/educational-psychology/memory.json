@@ -1,0 +1,2114 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "topic": "Memory",
+    "version": "1.0",
+    "description": "Memory Repository for SHAGA TestHub"
+},
+"questions": [
+    
+{
+"id":"EDPSY-MEM-0001",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following BEST defines memory in educational psychology?",
+"options":{
+"A":"The ability to think creatively.",
+"B":"The mental process of encoding, storing and retrieving information.",
+"C":"The ability to solve problems through insight.",
+"D":"The capacity to respond only to environmental stimuli."
+},
+"correctAnswer":"B",
+"explanation":"Memory is the mental process through which information is encoded, stored and later retrieved whenever required.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Memory","Definition","Educational Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0002",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which sequence correctly represents the three basic processes of memory?",
+"options":{
+"A":"Storage → Retrieval → Encoding",
+"B":"Encoding → Storage → Retrieval",
+"C":"Retrieval → Encoding → Storage",
+"D":"Encoding → Retrieval → Storage"
+},
+"correctAnswer":"B",
+"explanation":"Memory consists of three basic processes: encoding (receiving information), storage (retaining information) and retrieval (bringing information back when needed).",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Memory Process","Encoding","Storage","Retrieval"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0003",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Learning and memory are closely related psychological processes.\nReason (R): Learning produces relatively permanent changes, while memory enables those learned experiences to be retained and recalled.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Learning acquires knowledge and skills, whereas memory retains and retrieves them whenever required.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Learning","Memory","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0004",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student understands a science lesson during class but is unable to remember it during the examination a month later. Which memory process is MOST likely to have failed?",
+"options":{
+"A":"Encoding",
+"B":"Storage",
+"C":"Retrieval",
+"D":"Attention"
+},
+"correctAnswer":"C",
+"explanation":"If learning occurred and the information was stored but cannot be recalled during the examination, the difficulty lies mainly in retrieval.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Retrieval","Educational Application","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0005",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which characteristic of memory is MOST essential for successful classroom learning?",
+"options":{
+"A":"Only storing information permanently.",
+"B":"Accurate encoding, storage and retrieval of learned information.",
+"C":"Remembering only facts and definitions.",
+"D":"Learning through trial and error alone."
+},
+"correctAnswer":"B",
+"explanation":"Effective memory depends upon successful encoding, storage and retrieval. Weakness in any one process affects learning performance.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Characteristics","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0006",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A Dy.E.O. observes that students quickly forget lessons taught through rote memorization but remember lessons involving experiments and discussions. Which conclusion is MOST appropriate?",
+"options":{
+"A":"Meaningful learning improves memory retention.",
+"B":"Memory depends only on intelligence.",
+"C":"Experiments reduce memory.",
+"D":"Rote learning always produces permanent memory."
+},
+"correctAnswer":"A",
+"explanation":"Meaningful learning creates stronger memory traces than mechanical memorization, resulting in better long-term retention.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Meaningful Learning","Memory","DyEO"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0007",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which statement BEST distinguishes learning from memory?",
+"options":{
+"A":"Learning acquires knowledge, whereas memory retains and retrieves it.",
+"B":"Learning and memory are exactly the same process.",
+"C":"Memory always occurs before learning.",
+"D":"Learning depends only upon memory."
+},
+"correctAnswer":"A",
+"explanation":"Learning involves acquiring new knowledge or skills, while memory involves retaining and recalling what has been learned.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Learning vs Memory","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0008",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following statements regarding memory are correct?\n\n1. Memory includes encoding.\n2. Memory includes storage.\n3. Memory includes retrieval.\n4. Retrieval always occurs immediately after learning.\n\nSelect the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"1 and 4 only",
+"C":"2, 3 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Encoding, storage and retrieval are the three fundamental processes of memory. Retrieval may occur immediately or much later depending on the situation.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Memory Process"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0009",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A teacher encourages students to relate new concepts to their previous knowledge before introducing a lesson. Which memory process is MOST likely to be strengthened?",
+"options":{
+"A":"Encoding",
+"B":"Forgetting",
+"C":"Extinction",
+"D":"Punishment"
+},
+"correctAnswer":"A",
+"explanation":"Connecting new information with prior knowledge improves encoding, making later storage and retrieval more effective.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Encoding","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0010",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"During a classroom inspection, a Dy.E.O. finds that students perform well in practical activities but poorly in recalling concepts during written tests. Which recommendation is MOST appropriate?",
+"options":{
+"A":"Reduce practical activities.",
+"B":"Increase punishment for incorrect answers.",
+"C":"Provide regular retrieval practice through quizzes, questioning and revision.",
+"D":"Teach only through lectures."
+},
+"correctAnswer":"C",
+"explanation":"Research in educational psychology shows that retrieval practice strengthens long-term memory and improves examination performance.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Retrieval Practice","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0011",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which memory process involves transforming incoming information into a form that can be stored in the brain?",
+"options":{
+"A":"Retrieval",
+"B":"Encoding",
+"C":"Recognition",
+"D":"Recall"
+},
+"correctAnswer":"B",
+"explanation":"Encoding is the process of converting information into a form suitable for storage in memory.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Encoding","Memory Process"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0012",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student understands a lesson by relating it to real-life experiences. Which type of encoding is primarily taking place?",
+"options":{
+"A":"Acoustic Encoding",
+"B":"Semantic Encoding",
+"C":"Visual Encoding",
+"D":"Mechanical Encoding"
+},
+"correctAnswer":"B",
+"explanation":"Semantic encoding involves attaching meaning to information, leading to better retention than rote memorization.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Semantic Encoding","Meaningful Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0013",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which memory process is responsible for maintaining information over time?",
+"options":{
+"A":"Encoding",
+"B":"Storage",
+"C":"Retrieval",
+"D":"Recognition"
+},
+"correctAnswer":"B",
+"explanation":"Storage refers to retaining encoded information for future use.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Storage","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0014",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student correctly identifies the answer from four alternatives but cannot write it without options. Which memory process is demonstrated?",
+"options":{
+"A":"Recall",
+"B":"Recognition",
+"C":"Encoding",
+"D":"Relearning"
+},
+"correctAnswer":"B",
+"explanation":"Recognition involves identifying previously learned information when cues are provided.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Recognition","Retrieval"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0015",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Writing an essay without looking at notes mainly depends upon:",
+"options":{
+"A":"Recognition",
+"B":"Recall",
+"C":"Encoding",
+"D":"Sensory Memory"
+},
+"correctAnswer":"B",
+"explanation":"Recall requires retrieving information without external cues.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Recall","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0016",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Retrieval cues improve memory performance.\nReason (R): Retrieval cues activate stored information and make recall easier.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Retrieval cues help activate stored memory traces, making information easier to recall.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Retrieval","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0017",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A Dy.E.O. notices that teachers frequently conduct low-stakes quizzes instead of only end-of-term examinations. Which memory principle best supports this practice?",
+"options":{
+"A":"Retrieval Practice",
+"B":"Punishment",
+"C":"Extinction",
+"D":"Habituation"
+},
+"correctAnswer":"A",
+"explanation":"Frequent retrieval strengthens long-term retention more effectively than repeated rereading alone.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Retrieval Practice","DyEO","Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0018",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which learning strategy primarily strengthens encoding?",
+"options":{
+"A":"Meaningfully organizing information",
+"B":"Ignoring prior knowledge",
+"C":"Avoiding revision",
+"D":"Reading mechanically without understanding"
+},
+"correctAnswer":"A",
+"explanation":"Meaningful organization and association improve encoding and long-term retention.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Encoding","Study Skills"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0019",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following are methods of retrieving information from memory?\n\n1. Recall\n2. Recognition\n3. Relearning\n4. Retrieval Practice\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"1, 2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"2 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"Recall, recognition and relearning are standard retrieval methods, while retrieval practice is an educational technique that repeatedly strengthens retrieval.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Recall","Recognition","Relearning","Retrieval Practice"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0020",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"During a classroom observation, a Dy.E.O. finds that students are encouraged to explain concepts in their own words, answer oral questions and solve application problems. Which memory process is MOST directly strengthened?",
+"options":{
+"A":"Storage alone",
+"B":"Encoding alone",
+"C":"Retrieval",
+"D":"Sensory Registration"
+},
+"correctAnswer":"C",
+"explanation":"Explaining, answering questions and applying concepts require active retrieval, which strengthens long-term memory and improves future recall.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Retrieval","Educational Application","DyEO"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0021",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which type of memory briefly stores visual information immediately after it is perceived?",
+"options":{
+"A":"Echoic Memory",
+"B":"Semantic Memory",
+"C":"Iconic Memory",
+"D":"Procedural Memory"
+},
+"correctAnswer":"C",
+"explanation":"Iconic memory is the visual sensory store that retains an image for a very brief period, usually less than one second.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Iconic Memory","Sensory Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0022",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Echoic memory is mainly associated with the retention of:",
+"options":{
+"A":"Visual information",
+"B":"Auditory information",
+"C":"Motor skills",
+"D":"Emotional experiences"
+},
+"correctAnswer":"B",
+"explanation":"Echoic memory briefly stores auditory information, usually for about 2–4 seconds.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Echoic Memory","Auditory Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0023",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student can still 'hear' the last few words of a teacher even after the teacher has stopped speaking. Which type of memory explains this phenomenon?",
+"options":{
+"A":"Working Memory",
+"B":"Echoic Memory",
+"C":"Semantic Memory",
+"D":"Long-term Memory"
+},
+"correctAnswer":"B",
+"explanation":"Echoic memory temporarily retains auditory information, allowing listeners to process spoken language.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Echoic Memory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0024",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which psychologist is best known for experiments that demonstrated the existence of iconic memory using the partial-report technique?",
+"options":{
+"A":"Atkinson",
+"B":"George Sperling",
+"C":"Baddeley",
+"D":"Ebbinghaus"
+},
+"correctAnswer":"B",
+"explanation":"George Sperling's partial-report experiments demonstrated the high capacity but very brief duration of iconic memory.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["George Sperling","Iconic Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0025",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Sensory memory has a very large capacity.\nReason (R): Information remains in sensory memory for only a very brief duration unless attention is given.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Sensory memory briefly registers a large amount of incoming information, but unattended information fades rapidly.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Sensory Memory","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0026",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which sensory memory is associated with the sense of touch?",
+"options":{
+"A":"Iconic Memory",
+"B":"Echoic Memory",
+"C":"Haptic Memory",
+"D":"Semantic Memory"
+},
+"correctAnswer":"C",
+"explanation":"Haptic memory temporarily stores tactile information received through the sense of touch.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Haptic Memory","Sensory Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0027",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A teacher flashes a diagram on the smart board for one second. Students can still 'see' the image for a fraction of a second after it disappears. Which memory system is operating?",
+"options":{
+"A":"Long-term Memory",
+"B":"Working Memory",
+"C":"Iconic Memory",
+"D":"Procedural Memory"
+},
+"correctAnswer":"C",
+"explanation":"The persistence of a visual image immediately after its disappearance is due to iconic memory.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Iconic Memory","Classroom Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0028",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A Dy.E.O. advises teachers to pause briefly after displaying important visual information before changing the slide. Which memory principle supports this recommendation?",
+"options":{
+"A":"Long-term memory has unlimited duration.",
+"B":"Iconic memory is brief and attention helps transfer information for further processing.",
+"C":"Sensory memory permanently stores all information.",
+"D":"Echoic memory processes visual information."
+},
+"correctAnswer":"B",
+"explanation":"Allowing time for attention enables information in iconic memory to move into short-term or working memory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Iconic Memory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0029",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following statements about sensory memory are correct?\n\n1. It is the first stage of memory processing.\n2. It has a very brief duration.\n3. It has a relatively large capacity.\n4. Attention determines whether information proceeds for further processing.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2, 3 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements accurately describe sensory memory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Sensory Memory","Multiple Statements"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0030",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which classroom practice is MOST likely to improve the transfer of information from sensory memory to working memory?",
+"options":{
+"A":"Presenting many unrelated diagrams simultaneously.",
+"B":"Directing students' attention to key ideas using questions, highlighting and discussion.",
+"C":"Speaking continuously without pauses.",
+"D":"Changing slides rapidly without explanation."
+},
+"correctAnswer":"B",
+"explanation":"Attention is the gateway through which information moves from sensory memory into working memory. Teachers can facilitate this process by highlighting key concepts and actively engaging learners.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Attention","Sensory Memory","Educational Application","DyEO"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0031",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Short-Term Memory (STM) primarily refers to:",
+"options":{
+"A":"Permanent storage of information",
+"B":"Temporary storage of information for a short duration",
+"C":"Storage of motor skills",
+"D":"Storage of sensory impressions only"
+},
+"correctAnswer":"B",
+"explanation":"Short-Term Memory temporarily stores information for a brief period, generally around 15–30 seconds without rehearsal.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Short-Term Memory","STM"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0032",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"According to Peterson and Peterson, information in Short-Term Memory lasts approximately:",
+"options":{
+"A":"Less than 1 second",
+"B":"2–4 seconds",
+"C":"15–30 seconds without rehearsal",
+"D":"Several hours"
+},
+"correctAnswer":"C",
+"explanation":"Peterson and Peterson demonstrated that unrehearsed information in STM fades within about 15–30 seconds.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Peterson & Peterson","STM Duration"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0033",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Who proposed that the capacity of Short-Term Memory is approximately '7 ± 2' meaningful units?",
+"options":{
+"A":"George Miller",
+"B":"Ebbinghaus",
+"C":"Atkinson",
+"D":"Sperling"
+},
+"correctAnswer":"A",
+"explanation":"George A. Miller proposed that STM typically holds about seven plus or minus two chunks of information.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["George Miller","7±2","STM"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0034",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Grouping separate pieces of information into meaningful units to improve memory is called:",
+"options":{
+"A":"Encoding",
+"B":"Chunking",
+"C":"Recognition",
+"D":"Extinction"
+},
+"correctAnswer":"B",
+"explanation":"Chunking increases the effective capacity of Short-Term Memory by organizing information into meaningful groups.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Chunking","STM"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0035",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student remembers the mobile number 987-654-3210 by dividing it into three groups. Which memory strategy is being used?",
+"options":{
+"A":"Relearning",
+"B":"Chunking",
+"C":"Recognition",
+"D":"Semantic Memory"
+},
+"correctAnswer":"B",
+"explanation":"Breaking information into smaller meaningful groups is an example of chunking.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Chunking","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0036",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Rehearsal helps maintain information in Short-Term Memory.\nReason (R): Repeated rehearsal prevents rapid forgetting of unrehearsed information.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Maintenance rehearsal keeps information active in STM and delays forgetting.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Rehearsal","Assertion-Reason","STM"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0037",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A teacher divides a lengthy lesson into smaller learning units and reviews each part before moving to the next. Which principle is BEST reflected?",
+"options":{
+"A":"Chunking",
+"B":"Punishment",
+"C":"Extinction",
+"D":"Classical Conditioning"
+},
+"correctAnswer":"A",
+"explanation":"Dividing content into manageable chunks reduces cognitive load and improves Short-Term Memory processing.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Chunking","Classroom Application","DyEO"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0038",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which classroom practice is MOST likely to overload students' Short-Term Memory?",
+"options":{
+"A":"Explaining one concept at a time",
+"B":"Providing brief summaries after each topic",
+"C":"Presenting a large amount of unfamiliar information continuously without pauses",
+"D":"Using diagrams along with explanations"
+},
+"correctAnswer":"C",
+"explanation":"STM has limited capacity. Presenting excessive unfamiliar information without breaks can overload learners and reduce understanding.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["STM","Cognitive Load","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0039",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following statements about Short-Term Memory are correct?\n\n1. Its capacity is limited.\n2. Rehearsal improves retention.\n3. Chunking increases effective capacity.\n4. Information remains permanently without rehearsal.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Information in STM does not remain permanently without rehearsal.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["STM","Multiple Statements","Chunking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0040",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"During a classroom inspection, a Dy.E.O. observes that teachers use short explanations, frequent questioning, visual organizers and periodic revision instead of long uninterrupted lectures. Which conclusion is MOST appropriate?",
+"options":{
+"A":"The teachers are effectively supporting the limitations of Short-Term Memory.",
+"B":"The teachers are reducing students' learning opportunities.",
+"C":"The teachers are encouraging rote memorization only.",
+"D":"The teachers are ignoring cognitive principles."
+},
+"correctAnswer":"A",
+"explanation":"Short explanations, questioning, visual organization and revision reduce cognitive overload and support effective processing in Short-Term Memory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Short-Term Memory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0041",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Who proposed the Working Memory Model in 1974?",
+"options":{
+"A":"Atkinson and Shiffrin",
+"B":"Baddeley and Hitch",
+"C":"George Miller",
+"D":"Ebbinghaus"
+},
+"correctAnswer":"B",
+"explanation":"Alan Baddeley and Graham Hitch proposed the Working Memory Model in 1974 as an improvement over the traditional Short-Term Memory model.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Baddeley","Hitch","Working Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0042",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"According to Baddeley and Hitch, Working Memory is BEST described as:",
+"options":{
+"A":"A passive store of information",
+"B":"A system that temporarily stores and actively processes information",
+"C":"Permanent storage of experiences",
+"D":"A sensory register"
+},
+"correctAnswer":"B",
+"explanation":"Working Memory is an active system responsible for both storing and manipulating information needed for ongoing cognitive tasks.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Working Memory","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0043",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which component of Working Memory controls attention and coordinates the activities of the other components?",
+"options":{
+"A":"Phonological Loop",
+"B":"Central Executive",
+"C":"Visuo-spatial Sketchpad",
+"D":"Episodic Buffer"
+},
+"correctAnswer":"B",
+"explanation":"The Central Executive directs attention, coordinates mental activities and controls the functioning of the other subsystems.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Central Executive","Working Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0044",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"The component responsible for temporarily storing and rehearsing verbal and auditory information is:",
+"options":{
+"A":"Central Executive",
+"B":"Phonological Loop",
+"C":"Visuo-spatial Sketchpad",
+"D":"Long-Term Memory"
+},
+"correctAnswer":"B",
+"explanation":"The Phonological Loop processes spoken language, sounds and verbal rehearsal.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Phonological Loop","Working Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0045",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student mentally rotates a geometry figure while solving a mathematics problem. Which component of Working Memory is mainly involved?",
+"options":{
+"A":"Central Executive",
+"B":"Phonological Loop",
+"C":"Visuo-spatial Sketchpad",
+"D":"Semantic Memory"
+},
+"correctAnswer":"C",
+"explanation":"The Visuo-spatial Sketchpad temporarily stores and manipulates visual and spatial information.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Visuo-spatial Sketchpad","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0046",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"The Episodic Buffer was added to Baddeley's model mainly to:",
+"options":{
+"A":"Replace the Central Executive",
+"B":"Integrate information from different sources into a single coherent episode",
+"C":"Store only visual information",
+"D":"Increase the capacity of Long-Term Memory"
+},
+"correctAnswer":"B",
+"explanation":"The Episodic Buffer integrates information from the phonological loop, visuo-spatial sketchpad and long-term memory into meaningful episodes.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Episodic Buffer","Baddeley"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0047",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Working Memory is important for reasoning and problem solving.\nReason (R): It actively manipulates information while cognitive tasks are being performed.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Working Memory is essential for higher-order thinking because it temporarily stores and manipulates information during reasoning and problem solving.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Working Memory","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0048",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A Dy.E.O. observes that teachers combine diagrams, spoken explanations and questioning while teaching science. Which Working Memory principle BEST supports this approach?",
+"options":{
+"A":"Using both verbal and visual processing can improve learning when cognitive load is managed.",
+"B":"Students learn only through repetition.",
+"C":"Visual materials should never accompany spoken explanations.",
+"D":"Working Memory functions independently of attention."
+},
+"correctAnswer":"A",
+"explanation":"Combining verbal and visual information appropriately can enhance learning by engaging different components of Working Memory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Working Memory","Dual Coding","DyEO"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0049",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following correctly matches the Working Memory component with its primary function?\n\n1. Central Executive — Controls attention\n2. Phonological Loop — Processes verbal information\n3. Visuo-spatial Sketchpad — Processes visual-spatial information\n4. Episodic Buffer — Integrates information from multiple sources",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2, 3 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four matches correctly describe the major components of Baddeley's Working Memory Model.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Working Memory","Multiple Statements","Baddeley"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0050",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"During a classroom inspection, a Dy.E.O. notices that students receive lengthy explanations without visual aids, questioning or pauses. According to the Working Memory Model, what is the BEST recommendation?",
+"options":{
+"A":"Increase lecture duration further.",
+"B":"Break content into smaller segments, combine verbal explanations with visuals, and provide opportunities for active processing.",
+"C":"Avoid questioning students during the lesson.",
+"D":"Replace all teaching with note copying."
+},
+"correctAnswer":"B",
+"explanation":"Working Memory has limited capacity. Segmenting instruction, combining visual and verbal information, and engaging learners through questioning reduce cognitive overload and improve understanding.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Working Memory","Educational Application","DyEO","Cognitive Load"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0051",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Long-Term Memory (LTM) is BEST characterized by:",
+"options":{
+"A":"Very limited capacity and brief duration",
+"B":"Unlimited capacity and relatively permanent storage",
+"C":"Storage of sensory impressions only",
+"D":"Storage of information for less than one minute"
+},
+"correctAnswer":"B",
+"explanation":"Long-Term Memory has an enormous capacity and can retain information for years or even a lifetime.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Long-Term Memory","LTM"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0052",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"According to the Atkinson-Shiffrin model, information reaches Long-Term Memory mainly through:",
+"options":{
+"A":"Punishment",
+"B":"Maintenance rehearsal and meaningful processing",
+"C":"Random guessing",
+"D":"Sensory adaptation"
+},
+"correctAnswer":"B",
+"explanation":"Information enters Long-Term Memory through rehearsal, meaningful encoding and repeated retrieval.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Atkinson-Shiffrin","LTM","Encoding"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0053",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which type of Long-Term Memory stores personal life experiences such as your first day at school?",
+"options":{
+"A":"Semantic Memory",
+"B":"Procedural Memory",
+"C":"Episodic Memory",
+"D":"Sensory Memory"
+},
+"correctAnswer":"C",
+"explanation":"Episodic memory stores autobiographical events and personal experiences.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Episodic Memory","LTM"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0054",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Remembering that Hyderabad is the capital of Telangana is an example of:",
+"options":{
+"A":"Procedural Memory",
+"B":"Semantic Memory",
+"C":"Episodic Memory",
+"D":"Working Memory"
+},
+"correctAnswer":"B",
+"explanation":"Semantic memory stores general knowledge, concepts, meanings and factual information.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Semantic Memory","General Knowledge"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0055",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Knowing how to ride a bicycle even after many years mainly depends upon:",
+"options":{
+"A":"Semantic Memory",
+"B":"Episodic Memory",
+"C":"Procedural Memory",
+"D":"Iconic Memory"
+},
+"correctAnswer":"C",
+"explanation":"Procedural memory stores motor skills and learned procedures that are performed automatically.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Procedural Memory","Skills"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0056",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Semantic memory and episodic memory are components of explicit memory.\nReason (R): Both involve conscious recollection of information.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Explicit (declarative) memory includes semantic and episodic memory because both require conscious recall.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Explicit Memory","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0057",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A teacher encourages students to connect new concepts with previously learned ideas. Which process is MOST likely to strengthen Long-Term Memory?",
+"options":{
+"A":"Elaborative Encoding",
+"B":"Punishment",
+"C":"Habituation",
+"D":"Sensory Adaptation"
+},
+"correctAnswer":"A",
+"explanation":"Elaborative encoding strengthens Long-Term Memory by linking new information with existing knowledge.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Elaborative Encoding","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0058",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following correctly matches the type of Long-Term Memory with its example?\n\n1. Semantic Memory — Meaning of 'Democracy'\n2. Episodic Memory — Your school farewell\n3. Procedural Memory — Typing on a keyboard\n4. Working Memory — Permanent storage of facts",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Working Memory is temporary and active, not a form of Long-Term Memory. The other three matches are correct.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Long-Term Memory","Multiple Statements"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0059",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A Dy.E.O. notices that students remember scientific concepts better when teachers relate them to daily-life experiences. Which principle BEST explains this finding?",
+"options":{
+"A":"Meaningful encoding strengthens Long-Term Memory.",
+"B":"Only repetition improves memory.",
+"C":"Long-Term Memory has limited capacity.",
+"D":"Procedural memory stores factual knowledge."
+},
+"correctAnswer":"A",
+"explanation":"Meaningful connections create stronger memory traces, making retrieval easier and improving long-term retention.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Meaningful Learning","DyEO","Long-Term Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0060",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which classroom practice is MOST effective for promoting durable Long-Term Memory?",
+"options":{
+"A":"Massed practice immediately before examinations",
+"B":"Meaningful learning combined with spaced revision and retrieval practice",
+"C":"Copying notes repeatedly without understanding",
+"D":"Reading the textbook only once"
+},
+"correctAnswer":"B",
+"explanation":"Research consistently shows that meaningful learning, spaced practice and retrieval practice produce stronger Long-Term Memory than cramming or passive review.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Long-Term Memory","Spaced Practice","Retrieval Practice","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0061",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which psychologist is best known for conducting the first scientific experiments on forgetting using nonsense syllables?",
+"options":{
+"A":"George Miller",
+"B":"Hermann Ebbinghaus",
+"C":"Alan Baddeley",
+"D":"Ivan Pavlov"
+},
+"correctAnswer":"B",
+"explanation":"Hermann Ebbinghaus pioneered experimental research on memory and forgetting using nonsense syllables and developed the Forgetting Curve.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Ebbinghaus","Forgetting Curve","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0062",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"According to Ebbinghaus, forgetting is generally:",
+"options":{
+"A":"Slowest immediately after learning and then becomes rapid.",
+"B":"Rapid immediately after learning and then gradually slows down.",
+"C":"Constant throughout the retention period.",
+"D":"Completely random."
+},
+"correctAnswer":"B",
+"explanation":"The Forgetting Curve shows that forgetting is greatest soon after learning and then gradually levels off over time.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Forgetting Curve","Ebbinghaus"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0063",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which theory explains forgetting as the gradual fading of memory traces when information is not used or rehearsed?",
+"options":{
+"A":"Interference Theory",
+"B":"Decay Theory",
+"C":"Motivated Forgetting",
+"D":"Cue-dependent Forgetting"
+},
+"correctAnswer":"B",
+"explanation":"Decay Theory proposes that memory traces weaken over time when they are not activated through rehearsal or use.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Decay Theory","Forgetting"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0064",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Regular revision reduces forgetting.\nReason (R): Revision strengthens memory traces and improves retrieval.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Regular revision and retrieval practice strengthen memory traces and reduce forgetting over time.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Revision","Assertion-Reason","Forgetting"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0065",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student forgets the answer to a question because similar information learned later interferes with recalling the original information. This is an example of:",
+"options":{
+"A":"Decay",
+"B":"Retroactive Interference",
+"C":"Proactive Interference",
+"D":"Repression"
+},
+"correctAnswer":"B",
+"explanation":"Retroactive interference occurs when newly learned information interferes with the recall of previously learned information.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Retroactive Interference","Forgetting"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0066",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Old learning interfering with the recall of newly learned information is known as:",
+"options":{
+"A":"Retroactive Interference",
+"B":"Proactive Interference",
+"C":"Decay",
+"D":"Retrieval Practice"
+},
+"correctAnswer":"B",
+"explanation":"Proactive interference occurs when earlier learning interferes with remembering new information.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Proactive Interference","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0067",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A Dy.E.O. finds that students study several very similar subjects continuously without breaks and later confuse concepts during examinations. Which explanation is MOST appropriate?",
+"options":{
+"A":"Interference between similar learning materials",
+"B":"Lack of intelligence",
+"C":"Sensory memory failure",
+"D":"Working memory overload alone"
+},
+"correctAnswer":"A",
+"explanation":"Studying similar materials consecutively increases proactive and retroactive interference, leading to forgetting and confusion.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Interference Theory","DyEO","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0068",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which classroom strategy is MOST effective in reducing interference while studying?",
+"options":{
+"A":"Studying similar subjects continuously",
+"B":"Alternating different subjects with appropriate breaks",
+"C":"Avoiding revision",
+"D":"Reading without understanding"
+},
+"correctAnswer":"B",
+"explanation":"Alternating subjects and taking short breaks reduce interference and improve long-term retention.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Study Skills","Interference","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0069",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following statements regarding forgetting are correct?\n\n1. Forgetting is usually rapid immediately after learning.\n2. Regular revision reduces forgetting.\n3. Interference can contribute to forgetting.\n4. Forgetting always indicates poor intelligence.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Forgetting is influenced by many factors and is not simply a sign of low intelligence.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Forgetting","Multiple Statements"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0070",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"During a classroom inspection, a Dy.E.O. notices that teachers conduct frequent revision sessions, cumulative quizzes and spaced practice throughout the academic year. Which principle BEST explains the effectiveness of this approach?",
+"options":{
+"A":"Revision reduces forgetting by strengthening retrieval pathways over time.",
+"B":"Students forget because memory has unlimited capacity.",
+"C":"Only intelligence determines retention.",
+"D":"Forgetting cannot be influenced by teaching methods."
+},
+"correctAnswer":"A",
+"explanation":"Spaced revision and repeated retrieval strengthen memory traces and reduce the rate of forgetting, leading to better long-term retention.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Revision","Spaced Practice","DyEO","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0071",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which theory explains forgetting as a failure to retrieve stored information rather than a permanent loss of memory?",
+"options":{
+"A":"Decay Theory",
+"B":"Retrieval Failure Theory",
+"C":"Interference Theory",
+"D":"Repression Theory"
+},
+"correctAnswer":"B",
+"explanation":"Retrieval Failure Theory proposes that information remains stored in memory but cannot be accessed because appropriate retrieval cues are absent.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Retrieval Failure","Forgetting"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0072",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student cannot remember an answer during the examination but recalls it immediately after leaving the examination hall. This situation BEST illustrates:",
+"options":{
+"A":"Decay",
+"B":"Retrieval Failure",
+"C":"Sensory Memory",
+"D":"Habituation"
+},
+"correctAnswer":"B",
+"explanation":"The information was stored but could not be retrieved at the required moment, indicating retrieval failure.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Retrieval Failure","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0073",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which psychologist is most closely associated with the concept of motivated forgetting through repression?",
+"options":{
+"A":"Jean Piaget",
+"B":"Sigmund Freud",
+"C":"Ivan Pavlov",
+"D":"Jerome Bruner"
+},
+"correctAnswer":"B",
+"explanation":"Freud proposed that unpleasant or anxiety-producing memories may be unconsciously pushed out of awareness through repression.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Freud","Repression","Motivated Forgetting"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0074",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Retrieval cues improve recall.\nReason (R): Retrieval cues reactivate stored memory traces by providing relevant associations.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Retrieval cues facilitate recall by activating associated memory networks.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Retrieval Cues","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0075",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"The 'Tip-of-the-Tongue' phenomenon is BEST explained as:",
+"options":{
+"A":"Permanent loss of memory",
+"B":"A temporary retrieval failure despite knowing that the information has been learned",
+"C":"Failure of sensory memory",
+"D":"Complete forgetting due to decay"
+},
+"correctAnswer":"B",
+"explanation":"In the Tip-of-the-Tongue state, the information exists in memory but cannot be immediately retrieved.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Tip-of-the-Tongue","Retrieval Failure"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0076",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Students who study in a quiet library often recall information better when examinations are conducted in a similar quiet environment. This illustrates:",
+"options":{
+"A":"State-dependent Memory",
+"B":"Context-dependent Memory",
+"C":"Decay Theory",
+"D":"Interference Theory"
+},
+"correctAnswer":"B",
+"explanation":"Context-dependent memory suggests that recall improves when the learning and retrieval environments are similar.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Context-dependent Memory","Retrieval"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0077",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A learner remembers information better when their emotional state during recall matches the emotional state during learning. This phenomenon is known as:",
+"options":{
+"A":"Context-dependent Memory",
+"B":"State-dependent Memory",
+"C":"Retroactive Interference",
+"D":"Recognition"
+},
+"correctAnswer":"B",
+"explanation":"State-dependent memory occurs when recall is enhanced because the learner's internal physiological or emotional state is similar during learning and retrieval.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["State-dependent Memory","Retrieval"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0078",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A Dy.E.O. advises teachers to provide multiple examples, diagrams and real-life situations while teaching new concepts. Which memory principle BEST supports this recommendation?",
+"options":{
+"A":"Providing multiple retrieval cues improves later recall.",
+"B":"Students learn only through repetition.",
+"C":"Forgetting cannot be reduced.",
+"D":"Memory depends only on intelligence."
+},
+"correctAnswer":"A",
+"explanation":"Presenting information in multiple forms creates several retrieval pathways, making later recall more effective.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Retrieval Cues","DyEO","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0079",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following statements regarding forgetting are correct?\n\n1. Retrieval failure does not necessarily mean the memory has been erased.\n2. Context-dependent memory improves recall.\n3. Freud associated repression with motivated forgetting.\n4. Retrieval cues are completely unnecessary for recall.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Retrieval cues often play a vital role in successful recall.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Forgetting","Multiple Statements","Retrieval"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0080",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"During a classroom inspection, a Dy.E.O. notices that teachers frequently connect new lessons with previously taught concepts, encourage students to explain ideas in different contexts and conduct periodic quizzes. Which conclusion BEST reflects modern memory theory?",
+"options":{
+"A":"Multiple retrieval pathways and regular retrieval practice strengthen long-term retention.",
+"B":"Only repetition improves memory.",
+"C":"Forgetting cannot be influenced by teaching methods.",
+"D":"Retrieval cues reduce understanding."
+},
+"correctAnswer":"A",
+"explanation":"Modern memory research shows that retrieval practice, varied retrieval cues and meaningful connections improve long-term retention and reduce forgetting.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Retrieval Practice","DyEO","Educational Application","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0081",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which study technique involves the five steps: Survey, Question, Read, Recite and Review?",
+"options":{
+"A":"SQ3R Method",
+"B":"Mind Mapping",
+"C":"Chunking",
+"D":"Programmed Learning"
+},
+"correctAnswer":"A",
+"explanation":"The SQ3R method is an effective study strategy that promotes active reading and long-term retention.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["SQ3R","Study Skills","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0082",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Using the acronym 'VIBGYOR' to remember the colours of the rainbow is an example of:",
+"options":{
+"A":"Punishment",
+"B":"Mnemonic Technique",
+"C":"Decay Theory",
+"D":"Interference"
+},
+"correctAnswer":"B",
+"explanation":"Mnemonics use meaningful associations, acronyms or imagery to improve encoding and retrieval.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Mnemonics","Memory Improvement"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0083",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which practice generally produces better long-term retention than studying continuously for several hours in one sitting?",
+"options":{
+"A":"Massed Practice",
+"B":"Distributed (Spaced) Practice",
+"C":"Last-minute cramming",
+"D":"Reading without revision"
+},
+"correctAnswer":"B",
+"explanation":"Distributed or spaced practice is more effective than massed practice because it reduces forgetting and strengthens long-term retention.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Spaced Practice","Distributed Practice"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0084",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Overlearning improves long-term retention.\nReason (R): Continued practice after mastery strengthens memory traces.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Overlearning strengthens retrieval pathways by continuing practice even after the material has been mastered.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Overlearning","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0085",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A teacher asks students to prepare concept maps showing relationships among ideas. Which memory strategy is primarily being used?",
+"options":{
+"A":"Mind Mapping",
+"B":"Punishment",
+"C":"Sensory Adaptation",
+"D":"Interference"
+},
+"correctAnswer":"A",
+"explanation":"Mind maps organize information visually, helping learners encode and retrieve concepts more effectively.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Mind Mapping","Organization","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0086",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A Dy.E.O. observes that teachers regularly conduct weekly quizzes instead of relying only on annual examinations. Which memory principle BEST supports this practice?",
+"options":{
+"A":"Retrieval Practice strengthens long-term retention.",
+"B":"Punishment improves recall.",
+"C":"Massed Practice is always superior.",
+"D":"Revision has little effect on memory."
+},
+"correctAnswer":"A",
+"explanation":"Regular low-stakes quizzes encourage retrieval practice, which is one of the most effective ways to strengthen long-term memory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Retrieval Practice","DyEO","Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0087",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which classroom strategy is MOST effective for improving meaningful encoding?",
+"options":{
+"A":"Connecting new concepts with prior knowledge",
+"B":"Reading the same sentence repeatedly without understanding",
+"C":"Avoiding student discussion",
+"D":"Teaching isolated facts only"
+},
+"correctAnswer":"A",
+"explanation":"Meaningful encoding occurs when learners connect new information with existing knowledge structures.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Meaningful Learning","Encoding"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0088",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following are recognised techniques for improving memory?\n\n1. Mnemonics\n2. Spaced Practice\n3. Retrieval Practice\n4. Mind Mapping",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four techniques are supported by educational psychology research as effective methods for improving learning and memory.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Memory Improvement","Multiple Statements"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0089",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student studies for 30 minutes every day over two weeks rather than studying for seven hours the night before the examination. Which principle explains the greater effectiveness of the first approach?",
+"options":{
+"A":"Distributed Practice",
+"B":"Decay Theory",
+"C":"Interference Theory",
+"D":"Sensory Memory"
+},
+"correctAnswer":"A",
+"explanation":"Distributed practice allows repeated consolidation over time and is far more effective than massed practice for long-term retention.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Distributed Practice","Study Skills"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0090",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"During a school inspection, a Dy.E.O. finds that teachers use retrieval practice, concept maps, spaced revision, mnemonic devices and real-life examples in every lesson. Which conclusion BEST reflects current educational psychology?",
+"options":{
+"A":"These evidence-based strategies strengthen encoding, retrieval and long-term retention.",
+"B":"Only repetition is necessary for effective memory.",
+"C":"Memory depends entirely on intelligence.",
+"D":"These strategies reduce meaningful learning."
+},
+"correctAnswer":"A",
+"explanation":"Research consistently shows that combining multiple evidence-based learning strategies produces deeper understanding and durable long-term memory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Memory Improvement","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0091",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which sequence correctly represents the flow of information in the Atkinson-Shiffrin Multi-store Model?",
+"options":{
+"A":"Long-Term Memory → Sensory Memory → Short-Term Memory",
+"B":"Sensory Memory → Short-Term Memory → Long-Term Memory",
+"C":"Short-Term Memory → Sensory Memory → Long-Term Memory",
+"D":"Working Memory → Sensory Memory → Long-Term Memory"
+},
+"correctAnswer":"B",
+"explanation":"According to the Atkinson-Shiffrin model, information passes from Sensory Memory to Short-Term Memory and finally to Long-Term Memory.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Atkinson-Shiffrin","Memory Models"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0092",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Assertion (A): Working Memory is more than temporary storage.\nReason (R): It actively manipulates information during thinking, reasoning and problem solving.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Working Memory is an active processing system that temporarily stores and manipulates information required for complex cognitive tasks.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Working Memory","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0093",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A student learns a poem through repeated rehearsal but remembers it much better after understanding its meaning and relating it to personal experiences. Which principle best explains this improvement?",
+"options":{
+"A":"Elaborative Encoding",
+"B":"Decay Theory",
+"C":"Sensory Adaptation",
+"D":"Retroactive Interference"
+},
+"correctAnswer":"A",
+"explanation":"Elaborative encoding creates meaningful associations, leading to stronger long-term retention than simple repetition.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Elaborative Encoding","Meaningful Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0094",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which combination correctly matches the memory system with its function?\n\n1. Iconic Memory — Visual information\n2. Echoic Memory — Auditory information\n3. Working Memory — Active processing\n4. Long-Term Memory — Permanent storage",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2, 3 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four pairs are correct according to contemporary models of memory.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Memory Systems","Multiple Statements"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0095",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which classroom practice is LEAST likely to improve long-term retention?",
+"options":{
+"A":"Spaced revision",
+"B":"Retrieval practice",
+"C":"Meaningful discussion",
+"D":"Last-minute cramming"
+},
+"correctAnswer":"D",
+"explanation":"Massed practice or cramming generally produces poorer long-term retention than spaced and meaningful learning.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Study Skills","Memory Improvement"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0096",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"A Dy.E.O. notices that teachers frequently ask students to explain concepts, teach classmates and solve unfamiliar problems rather than merely copy notes. Which memory principle is primarily reflected?",
+"options":{
+"A":"Active retrieval and meaningful processing strengthen memory.",
+"B":"Punishment improves retention.",
+"C":"Sensory memory alone determines learning.",
+"D":"Memory depends only on repetition."
+},
+"correctAnswer":"A",
+"explanation":"Explaining concepts and solving problems require active retrieval and elaboration, both of which strengthen long-term memory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Retrieval Practice","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0097",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which memory process is directly assessed when a student writes an essay without any textbook or prompts?",
+"options":{
+"A":"Recognition",
+"B":"Recall",
+"C":"Encoding",
+"D":"Sensory Registration"
+},
+"correctAnswer":"B",
+"explanation":"Essay writing requires free recall because information must be retrieved without external cues.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Recall","Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0098",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which of the following strategies would BEST reduce forgetting throughout an academic year?",
+"options":{
+"A":"Studying only before examinations",
+"B":"Weekly spaced revision combined with retrieval practice",
+"C":"Reading notes once without testing",
+"D":"Learning only through memorization"
+},
+"correctAnswer":"B",
+"explanation":"Regular spaced revision together with retrieval practice consistently produces the strongest long-term retention.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Evaluate",
+"tags":["Spaced Practice","Retrieval Practice"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0099",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"Which statement best summarizes modern educational psychology regarding memory?",
+"options":{
+"A":"Memory depends only on intelligence.",
+"B":"Memory improves through meaningful encoding, active retrieval, spaced practice and appropriate organization of learning.",
+"C":"Repeated copying is the most effective memory strategy.",
+"D":"Forgetting cannot be influenced by teaching."
+},
+"correctAnswer":"B",
+"explanation":"Current research emphasizes meaningful learning, retrieval practice, spacing and organization as evidence-based strategies for improving memory.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Evaluate",
+"tags":["Modern Memory Theory","Educational Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MEM-0100",
+"subject":"Educational Psychology",
+"topic":"Memory",
+"question":"During a district school inspection, a Dy.E.O. finds that teachers use concept maps, retrieval quizzes, spaced revision, mnemonics, collaborative discussion, practical activities and reflective questioning throughout the year. Which conclusion BEST reflects contemporary educational psychology?",
+"options":{
+"A":"The teachers are applying multiple evidence-based principles that strengthen encoding, storage and retrieval of information.",
+"B":"The teachers are relying entirely on rote memorization.",
+"C":"The teaching methods are suitable only for gifted learners.",
+"D":"These strategies have little influence on long-term memory."
+},
+"correctAnswer":"A",
+"explanation":"Combining evidence-based strategies such as meaningful encoding, retrieval practice, spaced revision and elaboration produces durable learning and long-term retention.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","Evidence-based Teaching","Memory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+}
+]
+}
+
+
+
+

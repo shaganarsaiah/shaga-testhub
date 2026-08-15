@@ -34,6 +34,8 @@ if (config.subjects && config.subjects.length > 0) {
 
 console.log("After Subjects:", questions.length);
 
+console.log("Config Topic:", config.topic);
+console.log("Available Topics:", [...new Set(questions.map(q => q.topic))]);
     // Topic
     if (config.topic) {
         questions = questions.filter(q => q.topic === config.topic);

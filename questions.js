@@ -1,1443 +1,152 @@
 const questions = [
     {
-        "question": "Learning is defined as a relatively permanent change in behaviour due to ________.",
+        "question": "Which of the following BEST defines memory in educational psychology?",
         "options": [
-            "Maturation",
-            "Experience and practice",
-            "Heredity",
-            "Growth"
+            "The ability to think creatively.",
+            "The mental process of encoding, storing and retrieving information.",
+            "The ability to solve problems through insight.",
+            "The capacity to respond only to environmental stimuli."
         ],
         "answer": 1,
-        "explanation": "Learning is a relatively permanent change in behaviour resulting from experience and practice.",
+        "explanation": "Memory is the mental process through which information is encoded, stored and later retrieved whenever required.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
         "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Memory",
+            "Definition",
+            "Educational Psychology"
+        ],
+        "id": "EDPSY-MEM-0001"
+    },
+    {
+        "question": "Which sequence correctly represents the three basic processes of memory?",
+        "options": [
+            "Storage → Retrieval → Encoding",
+            "Encoding → Storage → Retrieval",
+            "Retrieval → Encoding → Storage",
+            "Encoding → Retrieval → Storage"
+        ],
+        "answer": 1,
+        "explanation": "Memory consists of three basic processes: encoding (receiving information), storage (retaining information) and retrieval (bringing information back when needed).",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Memory Process",
+            "Encoding",
+            "Storage",
+            "Retrieval"
+        ],
+        "id": "EDPSY-MEM-0002"
+    },
+    {
+        "question": "Assertion (A): Learning and memory are closely related psychological processes.\nReason (R): Learning produces relatively permanent changes, while memory enables those learned experiences to be retained and recalled.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Learning acquires knowledge and skills, whereas memory retains and retrieves them whenever required.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
         "language": "English",
         "tags": [
             "Learning",
-            "Definition"
-        ],
-        "id": "EDPSY-LEARN-0001"
-    },
-    {
-        "question": "Who proposed the Trial and Error theory of learning?",
-        "options": [
-            "Ivan Pavlov",
-            "Edward Thorndike",
-            "Jean Piaget",
-            "Jerome Bruner"
-        ],
-        "answer": 1,
-        "explanation": "Edward Thorndike proposed the Trial and Error theory of learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Trial and Error"
-        ],
-        "id": "EDPSY-LEARN-0002"
-    },
-    {
-        "question": "Classical Conditioning theory was proposed by:",
-        "options": [
-            "B. F. Skinner",
-            "Ivan Pavlov",
-            "Edward Thorndike",
-            "Albert Bandura"
-        ],
-        "answer": 1,
-        "explanation": "Ivan Pavlov developed the Classical Conditioning theory.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Pavlov",
-            "Classical Conditioning"
-        ],
-        "id": "EDPSY-LEARN-0003"
-    },
-    {
-        "question": "Operant Conditioning theory was proposed by:",
-        "options": [
-            "B. F. Skinner",
-            "Jean Piaget",
-            "Kohler",
-            "Gagne"
-        ],
-        "answer": 0,
-        "explanation": "B. F. Skinner developed the Operant Conditioning theory.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Skinner",
-            "Operant Conditioning"
-        ],
-        "id": "EDPSY-LEARN-0004"
-    },
-    {
-        "question": "Insight learning was proposed by:",
-        "options": [
-            "Tolman",
-            "Kohler",
-            "Bandura",
-            "Hull"
-        ],
-        "answer": 1,
-        "explanation": "Wolfgang Kohler proposed Insight Learning through experiments on chimpanzees.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Kohler",
-            "Insight Learning"
-        ],
-        "id": "EDPSY-LEARN-0005"
-    },
-    {
-        "question": "Who proposed the Social Learning Theory?",
-        "options": [
-            "Albert Bandura",
-            "Skinner",
-            "Pavlov",
-            "Thorndike"
-        ],
-        "answer": 0,
-        "explanation": "Albert Bandura proposed Social Learning Theory emphasizing observational learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Bandura",
-            "Social Learning"
-        ],
-        "id": "EDPSY-LEARN-0006"
-    },
-    {
-        "question": "According to Thorndike, the most important law of learning is:",
-        "options": [
-            "Law of Exercise",
-            "Law of Readiness",
-            "Law of Effect",
-            "Law of Reinforcement"
-        ],
-        "answer": 2,
-        "explanation": "Thorndike regarded the Law of Effect as the most important law of learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Law of Effect"
-        ],
-        "id": "EDPSY-LEARN-0007"
-    },
-    {
-        "question": "Learning by observing the behaviour of others is called:",
-        "options": [
-            "Latent Learning",
-            "Observational Learning",
-            "Classical Conditioning",
-            "Insight Learning"
-        ],
-        "answer": 1,
-        "explanation": "Observational learning is learning by watching and imitating others.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Observational Learning",
-            "Bandura"
-        ],
-        "id": "EDPSY-LEARN-0008"
-    },
-    {
-        "question": "Reinforcement is mainly associated with:",
-        "options": [
-            "Piaget",
-            "Skinner",
-            "Bruner",
-            "Freud"
-        ],
-        "answer": 1,
-        "explanation": "Positive and negative reinforcement are key concepts in Skinner's Operant Conditioning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Skinner",
-            "Reinforcement"
-        ],
-        "id": "EDPSY-LEARN-0009"
-    },
-    {
-        "question": "Learning without immediate reinforcement but demonstrated later is known as:",
-        "options": [
-            "Latent Learning",
-            "Insight Learning",
-            "Motor Learning",
-            "Verbal Learning"
-        ],
-        "answer": 0,
-        "explanation": "Edward Tolman introduced the concept of Latent Learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Tolman",
-            "Latent Learning"
-        ],
-        "id": "EDPSY-LEARN-0010"
-    },
-    {
-        "question": "A teacher observes that a student who performs poorly in a mathematics examination due to severe anxiety is nevertheless able to solve similar problems correctly during classroom activities a week later. Which conclusion is most educationally appropriate?",
-        "options": [
-            "The student has not learned because examination performance is the only indicator of learning.",
-            "Learning and performance are identical; therefore poor examination performance proves absence of learning.",
-            "Learning is relatively permanent, whereas performance may be influenced by temporary factors such as anxiety.",
-            "Learning depends only upon intelligence."
-        ],
-        "answer": 2,
-        "explanation": "Learning refers to a relatively permanent change in behaviour or behavioural potential acquired through experience. Performance at any given moment may be influenced by temporary factors such as anxiety, illness, fatigue or lack of motivation.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Nature of Learning",
-            "Learning vs Performance"
-        ],
-        "id": "EDPSY-LRN-0011"
-    },
-    {
-        "question": "Assertion (A): Every behavioural change cannot be regarded as learning.\nReason (R): Learning excludes temporary behavioural changes caused by fatigue, illness or emotional disturbance.",
-        "options": [
-            "Both A and R are true, and R is the correct explanation of A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "Educational psychologists define learning as a relatively permanent behavioural change resulting from experience. Temporary changes caused by physical or emotional conditions are not considered learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Assertion-Reason",
-            "Nature of Learning"
-        ],
-        "id": "EDPSY-LRN-0012"
-    },
-    {
-        "question": "Which one of the following classroom situations provides the strongest evidence of meaningful learning?",
-        "options": [
-            "A student memorises definitions one day before the examination and forgets them the next day.",
-            "A student reproduces textbook paragraphs exactly as taught.",
-            "A student applies a previously learned scientific principle to solve a new real-life problem.",
-            "A student copies answers from the blackboard without understanding."
-        ],
-        "answer": 2,
-        "explanation": "Meaningful learning is demonstrated when previously acquired knowledge is transferred to unfamiliar situations. Mere memorisation or copying does not necessarily indicate conceptual understanding.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Transfer of Learning",
-            "Meaningful Learning"
-        ],
-        "id": "EDPSY-LRN-0013"
-    },
-    {
-        "question": "Which of the following statements regarding learning are correct?\n1. Learning may occur intentionally or incidentally.\n2. Learning always produces immediately observable behaviour.\n3. Learning may involve changes in knowledge, attitudes and skills.\n4. Learning is generally inferred from behaviour rather than directly observed.",
-        "options": [
-            "1, 3 and 4 only",
-            "1 and 2 only",
-            "2 and 3 only",
-            "All four"
-        ],
-        "answer": 0,
-        "explanation": "Learning does not always produce immediate observable behaviour. It may first modify behavioural potential, while changes become evident later in appropriate situations.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Characteristics of Learning",
-            "Multiple Statements"
-        ],
-        "id": "EDPSY-LRN-0014"
-    },
-    {
-        "question": "A Dy.E.O. observes two schools following the same curriculum. In School A, teachers mainly dictate notes. In School B, teachers organise discussions, experiments and collaborative problem-solving. Students in School B consistently demonstrate superior conceptual understanding. Which educational principle best explains this difference?",
-        "options": [
-            "Learning depends exclusively upon heredity.",
-            "Active engagement and meaningful experiences promote deeper learning than passive reception.",
-            "Completion of syllabus alone guarantees learning.",
-            "Learning depends only on intelligence."
-        ],
-        "answer": 1,
-        "explanation": "Educational psychology consistently shows that active participation, discussion, experimentation and meaningful experiences promote conceptual understanding, retention and transfer of learning more effectively than passive note-taking.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Educational Application",
-            "Active Learning",
-            "DyEO"
-        ],
-        "id": "EDPSY-LRN-0015"
-    },
-    {
-        "question": "A teacher notices that a student understands the concept of photosynthesis and explains it accurately during classroom discussion, but fails to answer a similar question in the annual examination due to illness. Which educational principle is BEST illustrated?",
-        "options": [
-            "Learning and performance are identical.",
-            "Performance may vary because of temporary conditions, whereas learning is relatively permanent.",
-            "Learning occurs only when examination marks are high.",
-            "Learning depends solely upon physical health."
-        ],
-        "answer": 1,
-        "explanation": "Learning refers to a relatively permanent change acquired through experience, whereas performance at a particular time may be affected by temporary conditions such as illness, anxiety or fatigue.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Learning vs Performance",
-            "Educational Psychology"
-        ],
-        "id": "EDPSY-LRN-0016"
-    },
-    {
-        "question": "Assertion (A): Learning is considered a lifelong process.\nReason (R): Individuals continuously modify their knowledge, skills and attitudes through interaction with changing environments.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "Learning continues throughout life because people constantly adapt to new experiences and environments, leading to continuous modification of behaviour and understanding.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Lifelong Learning",
+            "Memory",
             "Assertion-Reason"
         ],
-        "id": "EDPSY-LRN-0017"
+        "id": "EDPSY-MEM-0003"
     },
     {
-        "question": "Which of the following classroom practices is MOST likely to promote meaningful learning?",
+        "question": "A student understands a science lesson during class but is unable to remember it during the examination a month later. Which memory process is MOST likely to have failed?",
         "options": [
-            "Encouraging students to memorise answers without discussion.",
-            "Providing opportunities to investigate problems, discuss ideas and apply concepts in real-life situations.",
-            "Giving lengthy notes for repeated copying.",
-            "Conducting only weekly memory-based tests."
+            "Encoding",
+            "Storage",
+            "Retrieval",
+            "Attention"
+        ],
+        "answer": 2,
+        "explanation": "If learning occurred and the information was stored but cannot be recalled during the examination, the difficulty lies mainly in retrieval.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Retrieval",
+            "Educational Application",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0004"
+    },
+    {
+        "question": "Which characteristic of memory is MOST essential for successful classroom learning?",
+        "options": [
+            "Only storing information permanently.",
+            "Accurate encoding, storage and retrieval of learned information.",
+            "Remembering only facts and definitions.",
+            "Learning through trial and error alone."
         ],
         "answer": 1,
-        "explanation": "Meaningful learning occurs when learners actively participate, connect new knowledge with previous experiences and apply concepts in different contexts.",
+        "explanation": "Effective memory depends upon successful encoding, storage and retrieval. Weakness in any one process affects learning performance.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
         "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Characteristics",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0005"
+    },
+    {
+        "question": "A Dy.E.O. observes that students quickly forget lessons taught through rote memorization but remember lessons involving experiments and discussions. Which conclusion is MOST appropriate?",
+        "options": [
+            "Meaningful learning improves memory retention.",
+            "Memory depends only on intelligence.",
+            "Experiments reduce memory.",
+            "Rote learning always produces permanent memory."
+        ],
+        "answer": 0,
+        "explanation": "Meaningful learning creates stronger memory traces than mechanical memorization, resulting in better long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
         "language": "English",
         "tags": [
             "Meaningful Learning",
-            "Constructivism",
-            "Application"
-        ],
-        "id": "EDPSY-LRN-0018"
-    },
-    {
-        "question": "Consider the following statements:\n1. Learning is influenced by motivation.\n2. Learning may occur through formal and informal experiences.\n3. Learning always results in immediate behavioural change.\n4. Learning may involve cognitive, affective and psychomotor domains.\nWhich of the above statements are correct?",
-        "options": [
-            "1, 2 and 4 only",
-            "1 and 3 only",
-            "2 and 3 only",
-            "All four"
-        ],
-        "answer": 0,
-        "explanation": "Learning does not always produce immediate observable behaviour. It influences multiple domains and can occur through both formal and informal experiences.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Domains of Learning",
-            "Multiple Statements"
-        ],
-        "id": "EDPSY-LRN-0019"
-    },
-    {
-        "question": "During a school inspection, a Dy.E.O. finds that students score well in unit tests but struggle to apply concepts during science exhibitions and project work. Which recommendation is MOST appropriate?",
-        "options": [
-            "Increase the frequency of written examinations.",
-            "Replace project work with additional note-writing.",
-            "Provide activity-based, inquiry-oriented and application-focused learning experiences.",
-            "Reduce classroom discussion and complete the syllabus earlier."
-        ],
-        "answer": 2,
-        "explanation": "High test scores alone do not indicate deep learning. Activity-based and inquiry-oriented teaching promotes conceptual understanding, transfer of learning and real-life application.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "DyEO",
-            "Educational Administration",
-            "Transfer of Learning"
-        ],
-        "id": "EDPSY-LRN-0020"
-    },
-    {
-        "question": "A cat placed inside a puzzle box initially scratches, jumps and pushes different parts of the box before accidentally pressing the correct lever and escaping. After several trials, the cat escapes more quickly by directly pressing the lever. According to Thorndike, this pattern of learning is best described as:",
-        "options": [
-            "Learning through Insight",
-            "Learning through Classical Conditioning",
-            "Learning through Trial and Error",
-            "Learning through Observation"
-        ],
-        "answer": 2,
-        "explanation": "Thorndike concluded that learning occurs gradually through trial and error. Incorrect responses are eliminated while successful responses are strengthened through repeated trials.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Puzzle Box",
-            "Trial and Error"
-        ],
-        "id": "EDPSY-LRN-0021"
-    },
-    {
-        "question": "Assertion (A): Thorndike concluded that learning is generally gradual rather than sudden.\nReason (R): In the Puzzle Box experiment, the time taken by the cat to escape decreased progressively over repeated trials.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "The gradual reduction in escape time across repeated trials led Thorndike to conclude that learning develops step by step through strengthening successful responses rather than through sudden insight.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Assertion-Reason",
-            "Puzzle Box"
-        ],
-        "id": "EDPSY-LRN-0022"
-    },
-    {
-        "question": "Which feature of Thorndike's Puzzle Box experiment provided the strongest evidence for Trial and Error Learning?",
-        "options": [
-            "The animal escaped immediately after understanding the mechanism.",
-            "The successful response appeared suddenly without previous attempts.",
-            "Successful responses were gradually strengthened while ineffective responses disappeared through repeated attempts.",
-            "The animal learned mainly by watching another animal."
-        ],
-        "answer": 2,
-        "explanation": "Thorndike observed gradual elimination of ineffective responses and strengthening of successful responses, which became the foundation of the Trial and Error theory.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Puzzle Box",
-            "Stimulus-Response",
-            "Thorndike"
-        ],
-        "id": "EDPSY-LRN-0023"
-    },
-    {
-        "question": "A teacher allows students to solve numerical problems independently. Initially, they make several mistakes, but after repeated attempts and feedback, they consistently arrive at correct solutions. Which educational implication of Thorndike's theory is BEST illustrated?",
-        "options": [
-            "Learning should always occur through imitation.",
-            "Practice combined with feedback strengthens correct responses.",
-            "Learning depends only upon maturation.",
-            "Understanding develops without experience."
-        ],
-        "answer": 1,
-        "explanation": "Thorndike's theory suggests that repeated practice and appropriate feedback strengthen correct stimulus-response connections, leading to improved learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Educational Application",
-            "Practice",
-            "Thorndike"
-        ],
-        "id": "EDPSY-LRN-0024"
-    },
-    {
-        "question": "Which of the following statements regarding Thorndike's Trial and Error Theory are correct?\n1. Learning is gradual.\n2. Correct responses become strengthened through successful outcomes.\n3. Insight is considered the primary mechanism of learning.\n4. Practice contributes to strengthening learning.\nSelect the correct answer.",
-        "options": [
-            "1, 2 and 4 only",
-            "1 and 3 only",
-            "2 and 3 only",
-            "All four"
-        ],
-        "answer": 0,
-        "explanation": "Thorndike emphasized gradual learning, strengthening of successful responses and the importance of practice. Sudden insight is associated with Köhler's Gestalt theory, not Thorndike's theory.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Multiple Statements",
-            "Trial and Error"
-        ],
-        "id": "EDPSY-LRN-0025"
-    },
-    {
-        "question": "A teacher begins teaching fractions only after ensuring that students have mastered addition and subtraction of whole numbers. According to Thorndike, which major law of learning is best illustrated?",
-        "options": [
-            "Law of Exercise",
-            "Law of Effect",
-            "Law of Readiness",
-            "Law of Multiple Response"
-        ],
-        "answer": 2,
-        "explanation": "The Law of Readiness states that learning is most effective when learners are physically, mentally and intellectually prepared. Teaching advanced concepts before learners are ready results in frustration and ineffective learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Law of Readiness",
-            "Educational Application"
-        ],
-        "id": "EDPSY-LRN-0026"
-    },
-    {
-        "question": "Assertion (A): Regular practice improves learning.\nReason (R): According to Thorndike's Law of Exercise, stimulus-response connections become stronger through repeated use.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "Thorndike's Law of Exercise states that repeated use strengthens learning (Law of Use), while lack of practice weakens stimulus-response connections (Law of Disuse).",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Law of Exercise",
-            "Assertion-Reason",
-            "Practice"
-        ],
-        "id": "EDPSY-LRN-0027"
-    },
-    {
-        "question": "A headmaster instructs teachers to appreciate students immediately after they successfully complete classroom activities. Which of Thorndike's major laws is being applied?",
-        "options": [
-            "Law of Readiness",
-            "Law of Effect",
-            "Law of Exercise",
-            "Law of Associative Shifting"
-        ],
-        "answer": 1,
-        "explanation": "The Law of Effect states that responses followed by satisfying consequences are strengthened and become more likely to occur in the future.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Law of Effect",
-            "Reinforcement",
-            "Educational Administration"
-        ],
-        "id": "EDPSY-LRN-0028"
-    },
-    {
-        "question": "Which of the following statements regarding Thorndike's three major laws is/are correct?\n\n1. Law of Readiness emphasizes learner preparedness.\n2. Law of Exercise emphasizes practice.\n3. Law of Effect emphasizes satisfying consequences.\n4. Law of Belongingness is one of Thorndike's three major laws.\n\nSelect the correct answer.",
-        "options": [
-            "1, 2 and 3 only",
-            "1 and 4 only",
-            "2, 3 and 4 only",
-            "All four"
-        ],
-        "answer": 0,
-        "explanation": "Thorndike's three major laws are the Law of Readiness, Law of Exercise and Law of Effect. The Law of Belongingness is a subordinate law, not a major law.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Major Laws",
-            "Multiple Statements",
-            "Thorndike"
-        ],
-        "id": "EDPSY-LRN-0029"
-    },
-    {
-        "question": "During a district classroom observation, a Dy.E.O. notices that teachers explain concepts clearly but provide very little opportunity for students to practise. Students perform poorly in problem-solving tasks. Which recommendation is MOST appropriate according to Thorndike's theory?",
-        "options": [
-            "Increase the number of written examinations.",
-            "Reduce classroom discussion to save time.",
-            "Provide systematic practice with immediate feedback to strengthen correct responses.",
-            "Complete the syllabus more quickly."
-        ],
-        "answer": 2,
-        "explanation": "Thorndike's Law of Exercise emphasizes that learning becomes stronger through meaningful practice, while timely feedback helps strengthen correct stimulus-response connections.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "DyEO",
-            "Law of Exercise",
-            "Educational Application"
-        ],
-        "id": "EDPSY-LRN-0030"
-    },
-    {
-        "question": "A student solving a new mathematics problem tries several different methods before finally arriving at the correct solution. According to Thorndike, which subordinate law best explains this behaviour?",
-        "options": [
-            "Law of Response by Analogy",
-            "Law of Multiple Response",
-            "Law of Associative Shifting",
-            "Law of Belongingness"
-        ],
-        "answer": 1,
-        "explanation": "The Law of Multiple Response states that when faced with a new problem, an individual attempts several responses until the successful one is discovered. This principle forms the basis of trial-and-error learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Law of Multiple Response",
-            "Subordinate Laws"
-        ],
-        "id": "EDPSY-LRN-0031"
-    },
-    {
-        "question": "A teacher notices that two students with similar ability perform differently because one approaches every task with enthusiasm while the other begins with a negative attitude. Which subordinate law of Thorndike best explains this difference?",
-        "options": [
-            "Law of Set or Attitude",
-            "Law of Exercise",
-            "Law of Effect",
-            "Law of Readiness"
-        ],
-        "answer": 0,
-        "explanation": "The Law of Set or Attitude emphasizes that a learner's mental set, interest and attitude influence how learning takes place and how effectively responses are made.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Set or Attitude",
-            "Thorndike",
-            "Educational Psychology"
-        ],
-        "id": "EDPSY-LRN-0032"
-    },
-    {
-        "question": "During a science lesson, a teacher highlights only the essential variables in an experiment and asks students to ignore irrelevant information. Which subordinate law is BEST illustrated?",
-        "options": [
-            "Law of Prepotency of Elements",
-            "Law of Multiple Response",
-            "Law of Response by Analogy",
-            "Law of Associative Shifting"
-        ],
-        "answer": 0,
-        "explanation": "The Law of Prepotency of Elements states that learners respond to the significant or dominant aspects of a situation while ignoring irrelevant details. Effective teaching helps students identify these essential elements.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Prepotency of Elements",
-            "Thorndike",
-            "Educational Application"
-        ],
-        "id": "EDPSY-LRN-0033"
-    },
-    {
-        "question": "Assertion (A): Previous learning often helps learners solve new but similar problems.\nReason (R): According to Thorndike's Law of Response by Analogy, individuals tend to respond to new situations on the basis of similarities with previously experienced situations.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "The Law of Response by Analogy explains that learners use previous experiences to guide responses in similar situations. This principle is closely related to transfer of learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Assertion-Reason",
-            "Response by Analogy",
-            "Transfer of Learning"
-        ],
-        "id": "EDPSY-LRN-0034"
-    },
-    {
-        "question": "A teacher gradually changes the cue for a classroom response. Initially, students stand up when the teacher rings a bell. After several days, the teacher rings the bell and simultaneously raises a hand. Later, students stand up merely on seeing the raised hand even without the bell. Which subordinate law of Thorndike is illustrated?",
-        "options": [
-            "Law of Associative Shifting",
-            "Law of Multiple Response",
-            "Law of Belongingness",
-            "Law of Effect"
-        ],
-        "answer": 0,
-        "explanation": "The Law of Associative Shifting explains how a response can be transferred from one stimulus to another by gradually changing the stimulus while maintaining the same response.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Associative Shifting",
-            "Thorndike",
-            "Educational Application"
-        ],
-        "id": "EDPSY-LRN-0035"
-    },
-    {
-        "question": "A school introduces regular practice sessions, immediate feedback, graded exercises and appreciation for correct responses. Which combination of Thorndike's laws is MOST directly reflected?",
-        "options": [
-            "Law of Readiness and Law of Belongingness",
-            "Law of Exercise and Law of Effect",
-            "Law of Multiple Response and Law of Set",
-            "Law of Response by Analogy and Law of Associative Shifting"
-        ],
-        "answer": 1,
-        "explanation": "Regular practice strengthens stimulus-response connections (Law of Exercise), while immediate appreciation reinforces correct behaviour (Law of Effect). Together, they form the basis of effective classroom instruction.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Educational Application",
-            "Law of Exercise",
-            "Law of Effect"
-        ],
-        "id": "EDPSY-LRN-0036"
-    },
-    {
-        "question": "Which criticism of Thorndike's Trial and Error Theory is MOST widely accepted by modern educational psychologists?",
-        "options": [
-            "The theory completely ignored practice.",
-            "The theory underestimated higher cognitive processes such as reasoning, insight and problem representation.",
-            "The theory rejected environmental influences on learning.",
-            "The theory explained only language learning."
-        ],
-        "answer": 1,
-        "explanation": "Thorndike emphasized stimulus-response connections and gradual learning. Later cognitive and Gestalt psychologists argued that many problems are solved through insight, reasoning and cognitive organisation rather than trial and error alone.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Criticism",
-            "Thorndike",
-            "Cognitive Psychology"
-        ],
-        "id": "EDPSY-LRN-0037"
-    },
-    {
-        "question": "Assertion (A): Thorndike's theory continues to influence classroom teaching.\nReason (R): Practice, feedback and reinforcement remain important principles in modern instructional strategies.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "Although later theories expanded the understanding of learning, Thorndike's emphasis on practice, feedback and reinforcement continues to influence classroom teaching, skill development and assessment.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Assertion-Reason",
-            "Educational Implications",
-            "Thorndike"
-        ],
-        "id": "EDPSY-LRN-0038"
-    },
-    {
-        "question": "A learner suddenly recognises the relationship among different elements of a problem and solves it without repeated trial and error. Which comparison between Thorndike and Köhler is MOST appropriate?",
-        "options": [
-            "Thorndike and Köhler both explained learning through gradual stimulus-response strengthening.",
-            "Thorndike emphasised gradual trial-and-error learning, whereas Köhler explained problem-solving through sudden insight.",
-            "Thorndike explained learning through conditioned reflexes, whereas Köhler explained learning through reinforcement.",
-            "Both theories rejected the role of cognition."
-        ],
-        "answer": 1,
-        "explanation": "Thorndike viewed learning as gradual through trial and error. Köhler proposed that learners may suddenly perceive relationships within a problem, leading to insight.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Köhler",
-            "Comparison"
-        ],
-        "id": "EDPSY-LRN-0039"
-    },
-    {
-        "question": "During a classroom observation, a Dy.E.O. notices that teachers encourage repeated practice but rarely explain the underlying concepts. Students perform routine exercises successfully but struggle when questions are slightly modified. Which recommendation is MOST appropriate?",
-        "options": [
-            "Increase the number of repetitive exercises.",
-            "Reduce classroom interaction and complete the syllabus earlier.",
-            "Combine systematic practice with conceptual understanding and problem-solving activities.",
-            "Replace practice sessions with memorisation exercises."
-        ],
-        "answer": 2,
-        "explanation": "Thorndike's principles support practice, but modern educational psychology also emphasises conceptual understanding and transfer of learning. Combining both approaches produces deeper and more flexible learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "DyEO",
-            "Educational Administration",
-            "Transfer of Learning",
-            "Thorndike"
-        ],
-        "id": "EDPSY-LRN-0040"
-    },
-    {
-        "question": "A mathematics teacher repeatedly humiliates students who make mistakes during class. After several weeks, many students begin to feel anxious immediately upon entering the mathematics classroom, even before any interaction with the teacher. Which learning principle BEST explains this behaviour?",
-        "options": [
-            "Operant Conditioning",
-            "Classical Conditioning",
-            "Trial and Error Learning",
-            "Insight Learning"
-        ],
-        "answer": 1,
-        "explanation": "The classroom, initially a neutral stimulus, became associated with unpleasant experiences (humiliation). Consequently, it elicited anxiety as a conditioned emotional response. This is an example of Classical Conditioning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Pavlov",
-            "Classical Conditioning",
-            "Educational Application"
-        ],
-        "id": "EDPSY-LRN-0041"
-    },
-    {
-        "question": "Assertion (A): Classical Conditioning explains many emotional reactions observed in school settings.\nReason (R): Neutral situations may acquire emotional significance through repeated association with pleasant or unpleasant experiences.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "Repeated pairing of neutral classroom situations with emotional experiences can produce conditioned emotional responses. This explains why students may develop liking or fear towards particular subjects, teachers or classrooms.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Assertion-Reason",
-            "Classical Conditioning",
-            "Emotional Learning"
-        ],
-        "id": "EDPSY-LRN-0042"
-    },
-    {
-        "question": "In Pavlov's theory, learning primarily occurs through:",
-        "options": [
-            "Insight into relationships among problem elements",
-            "Association between two stimuli through repeated pairing",
-            "Strengthening responses through reinforcement schedules",
-            "Selection of successful responses by trial and error"
-        ],
-        "answer": 1,
-        "explanation": "Classical Conditioning is based on forming an association between a previously neutral stimulus and an unconditioned stimulus through repeated pairing until the neutral stimulus alone elicits the conditioned response.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Association",
-            "Pavlov",
-            "Learning Process"
-        ],
-        "id": "EDPSY-LRN-0043"
-    },
-    {
-        "question": "Which comparison correctly distinguishes Pavlov's Classical Conditioning from Thorndike's Trial and Error Theory?",
-        "options": [
-            "Pavlov emphasized stimulus-stimulus association, whereas Thorndike emphasized stimulus-response connections strengthened through successful outcomes.",
-            "Both theories explain learning primarily through insight.",
-            "Pavlov explained voluntary behaviour, whereas Thorndike explained involuntary behaviour.",
-            "Both theories rejected the importance of environmental stimuli."
-        ],
-        "answer": 0,
-        "explanation": "Pavlov focused on associations between stimuli leading to conditioned responses, while Thorndike explained learning as the gradual strengthening of stimulus-response connections through satisfying consequences.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Comparison",
-            "Pavlov",
-            "Thorndike"
-        ],
-        "id": "EDPSY-LRN-0044"
-    },
-    {
-        "question": "A school begins playing soft instrumental music immediately before guided reading sessions every day. After a month, students become calm and attentive as soon as the music begins, even before the teacher gives any instruction. Which educational implication of Classical Conditioning is BEST illustrated?",
-        "options": [
-            "Pleasant environmental cues can become conditioned stimuli that facilitate desirable classroom behaviour.",
-            "Repeated practice alone produces learning.",
-            "Students learn only through external rewards.",
-            "Learning depends entirely upon maturation."
-        ],
-        "answer": 0,
-        "explanation": "The music, initially a neutral stimulus, became associated with a calm reading environment. It later functioned as a conditioned stimulus, eliciting attentiveness and readiness for learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Educational Application",
-            "Conditioned Stimulus",
-            "Pavlov"
-        ],
-        "id": "EDPSY-LRN-0045"
-    },
-    {
-        "question": "A teacher repeatedly begins every science laboratory session by playing a short tune. After several weeks, students become attentive immediately upon hearing the tune, even before any instruction is given. Which stage of Classical Conditioning does this BEST represent?",
-        "options": [
-            "Acquisition",
-            "Extinction",
-            "Generalization",
-            "Spontaneous Recovery"
-        ],
-        "answer": 0,
-        "explanation": "Acquisition is the stage during which a neutral stimulus becomes a conditioned stimulus through repeated pairing with an unconditioned stimulus, resulting in a conditioned response.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Pavlov",
-            "Acquisition",
-            "Educational Application"
-        ],
-        "id": "EDPSY-LRN-0046"
-    },
-    {
-        "question": "Assertion (A): A conditioned response gradually weakens when the conditioned stimulus is repeatedly presented without the unconditioned stimulus.\nReason (R): The association between the conditioned stimulus and the unconditioned stimulus gradually disappears.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "This process is known as extinction. When the conditioned stimulus is repeatedly presented without reinforcement by the unconditioned stimulus, the conditioned response gradually decreases.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Extinction",
-            "Assertion-Reason",
-            "Pavlov"
-        ],
-        "id": "EDPSY-LRN-0047"
-    },
-    {
-        "question": "A student who had overcome examination fear begins to experience mild anxiety again on the first examination conducted after a long vacation, even though no unpleasant experience occurs. Which concept BEST explains this phenomenon?",
-        "options": [
-            "Stimulus Discrimination",
-            "Generalization",
-            "Spontaneous Recovery",
-            "Law of Effect"
-        ],
-        "answer": 2,
-        "explanation": "Spontaneous Recovery refers to the reappearance of a previously extinguished conditioned response after a rest period, even without new conditioning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Spontaneous Recovery",
-            "Educational Psychology",
-            "Pavlov"
-        ],
-        "id": "EDPSY-LRN-0048"
-    },
-    {
-        "question": "A child who was frightened by a barking dog later becomes afraid of all dogs, regardless of their breed or size. Which concept of Classical Conditioning is illustrated?",
-        "options": [
-            "Stimulus Discrimination",
-            "Stimulus Generalization",
-            "Acquisition",
-            "Extinction"
-        ],
-        "answer": 1,
-        "explanation": "Stimulus Generalization occurs when a conditioned response extends to stimuli that resemble the original conditioned stimulus.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Generalization",
-            "Pavlov",
-            "Conditioning"
-        ],
-        "id": "EDPSY-LRN-0049"
-    },
-    {
-        "question": "Which of the following statements regarding Classical Conditioning are correct?\n\n1. Acquisition establishes the conditioned response.\n2. Extinction permanently destroys the possibility of the conditioned response returning.\n3. Spontaneous Recovery may occur after extinction.\n4. Stimulus Discrimination enables an organism to respond differently to similar stimuli.\n\nSelect the correct answer.",
-        "options": [
-            "1, 3 and 4 only",
-            "1 and 2 only",
-            "2, 3 and 4 only",
-            "All four"
-        ],
-        "answer": 0,
-        "explanation": "Statement 2 is incorrect because extinction suppresses the conditioned response but does not necessarily eliminate it permanently. This is demonstrated by spontaneous recovery.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Pavlov",
-            "Multiple Statements",
-            "Generalization",
-            "Discrimination"
-        ],
-        "id": "EDPSY-LRN-0050"
-    },
-    {
-        "question": "A teacher consistently greets students warmly, appreciates their efforts and creates a supportive classroom climate. Over time, students begin to feel enthusiastic and relaxed as soon as they enter the classroom, even before the lesson starts. Which educational principle is BEST illustrated?",
-        "options": [
-            "Operant Conditioning through reinforcement",
-            "Classical Conditioning of positive emotional responses",
-            "Trial and Error Learning",
-            "Insight Learning"
-        ],
-        "answer": 1,
-        "explanation": "The classroom, initially a neutral stimulus, becomes associated with positive experiences and eventually elicits positive emotional responses. This demonstrates Classical Conditioning in an educational setting.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Pavlov",
-            "Educational Application",
-            "Emotional Conditioning"
-        ],
-        "id": "EDPSY-LRN-0051"
-    },
-    {
-        "question": "Assertion (A): Teachers should avoid repeatedly humiliating students in the classroom.\nReason (R): Repeated negative experiences may condition learners to develop fear and avoidance towards the subject itself.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "Negative classroom experiences may become associated with a particular subject or teacher, producing conditioned emotional responses such as anxiety, fear or avoidance.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Assertion-Reason",
-            "Classical Conditioning",
-            "Educational Implications"
-        ],
-        "id": "EDPSY-LRN-0052"
-    },
-    {
-        "question": "Which comparison correctly distinguishes Pavlov's and Skinner's explanations of learning?",
-        "options": [
-            "Pavlov explained learning through stimulus-stimulus association, whereas Skinner emphasized consequences of voluntary behaviour.",
-            "Pavlov emphasized reinforcement schedules, whereas Skinner focused on conditioned reflexes.",
-            "Both explained learning primarily through insight.",
-            "Both rejected environmental influences in learning."
-        ],
-        "answer": 0,
-        "explanation": "Pavlov's Classical Conditioning is based on associations between stimuli and largely involves involuntary responses. Skinner's Operant Conditioning explains voluntary behaviour shaped by reinforcement and consequences.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Pavlov",
-            "Skinner",
-            "Comparison"
-        ],
-        "id": "EDPSY-LRN-0053"
-    },
-    {
-        "question": "A Dy.E.O. observes that students in one school exhibit intense fear of science practical examinations because they have repeatedly experienced harsh criticism during laboratory sessions. Which recommendation is MOST appropriate based on Classical Conditioning?",
-        "options": [
-            "Increase the number of practical examinations.",
-            "Replace negative emotional experiences with supportive guidance and encouraging laboratory experiences.",
-            "Reduce practical work and rely only on theory classes.",
-            "Ignore students' emotional reactions because learning is purely cognitive."
-        ],
-        "answer": 1,
-        "explanation": "Classical Conditioning suggests that repeated positive experiences can help replace conditioned fear with confidence. A supportive environment encourages favourable emotional associations with learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "DyEO",
-            "Educational Administration",
-            "Classical Conditioning"
-        ],
-        "id": "EDPSY-LRN-0054"
-    },
-    {
-        "question": "Which of the following statements regarding Classical Conditioning are correct?\n\n1. It primarily explains involuntary or respondent behaviour.\n2. Emotional reactions in classrooms may develop through conditioning.\n3. Reinforcement schedules form the central principle of Classical Conditioning.\n4. Generalization and discrimination are important concepts in the theory.\n\nSelect the correct answer.",
-        "options": [
-            "1, 2 and 4 only",
-            "1 and 3 only",
-            "2, 3 and 4 only",
-            "All four"
-        ],
-        "answer": 0,
-        "explanation": "Statements 1, 2 and 4 are correct. Reinforcement schedules are a characteristic feature of Skinner's Operant Conditioning, not Pavlov's Classical Conditioning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Pavlov",
-            "Multiple Statements",
-            "Comparison"
-        ],
-        "id": "EDPSY-LRN-0055"
-    },
-    {
-        "question": "A teacher gives immediate verbal appreciation whenever a student answers correctly in class. As a result, the student participates more actively in subsequent lessons. According to Skinner, this is an example of:",
-        "options": [
-            "Negative Reinforcement",
-            "Positive Reinforcement",
-            "Punishment",
-            "Extinction"
-        ],
-        "answer": 1,
-        "explanation": "Positive reinforcement involves presenting a desirable stimulus immediately after a desired behaviour, thereby increasing the likelihood that the behaviour will be repeated.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Skinner",
-            "Positive Reinforcement",
-            "Operant Conditioning"
-        ],
-        "id": "EDPSY-LRN-0056"
-    },
-    {
-        "question": "Assertion (A): Negative reinforcement strengthens behaviour.\nReason (R): It increases the probability of a behaviour by removing an unpleasant stimulus after the desired response occurs.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "Negative reinforcement is often misunderstood. It strengthens behaviour by removing an aversive condition after the desired behaviour. It is different from punishment, which aims to reduce behaviour.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Negative Reinforcement",
-            "Assertion-Reason",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0057"
-    },
-    {
-        "question": "A student completes homework regularly because the teacher excuses the student from an additional practice worksheet whenever homework is submitted on time. Which concept is BEST illustrated?",
-        "options": [
-            "Positive Reinforcement",
-            "Negative Reinforcement",
-            "Positive Punishment",
-            "Extinction"
-        ],
-        "answer": 1,
-        "explanation": "The student increases the desired behaviour because an unpleasant condition (extra worksheet) is removed. This is negative reinforcement, not punishment.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Negative Reinforcement",
-            "Educational Application",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0058"
-    },
-    {
-        "question": "Which comparison correctly distinguishes Thorndike's Law of Effect from Skinner's Operant Conditioning?",
-        "options": [
-            "Thorndike introduced the idea that satisfying consequences strengthen responses, whereas Skinner developed a systematic theory explaining how reinforcement shapes voluntary behaviour.",
-            "Thorndike rejected reinforcement, whereas Skinner accepted it.",
-            "Thorndike explained involuntary behaviour, whereas Skinner explained conditioned reflexes.",
-            "Both theories rejected environmental influences on learning."
-        ],
-        "answer": 0,
-        "explanation": "Thorndike's Law of Effect laid the foundation by proposing that satisfying consequences strengthen behaviour. Skinner extended this idea into a comprehensive theory of operant behaviour and reinforcement.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Skinner",
-            "Comparison",
-            "Law of Effect"
-        ],
-        "id": "EDPSY-LRN-0059"
-    },
-    {
-        "question": "During a school inspection, a Dy.E.O. finds that teachers rely mainly on punishment to maintain discipline. Which recommendation is MOST consistent with Skinner's Operant Conditioning?",
-        "options": [
-            "Increase the severity of punishment so that undesirable behaviour disappears completely.",
-            "Use positive reinforcement to strengthen desirable classroom behaviours while applying corrective measures judiciously when necessary.",
-            "Ignore all student behaviour because behaviour changes naturally over time.",
-            "Replace classroom activities with more written tests."
-        ],
-        "answer": 1,
-        "explanation": "Skinner emphasized that positive reinforcement is generally more effective than punishment in promoting desirable behaviour. Appropriate reinforcement encourages long-term behavioural change and creates a more supportive learning environment.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Skinner",
-            "Educational Administration",
-            "Positive Reinforcement",
+            "Memory",
             "DyEO"
         ],
-        "id": "EDPSY-LRN-0060"
+        "id": "EDPSY-MEM-0006"
     },
     {
-        "question": "A teacher deducts five participation points whenever a student repeatedly interrupts the class without permission. As a result, the disruptive behaviour decreases. Which behavioural principle is illustrated?",
+        "question": "Which statement BEST distinguishes learning from memory?",
         "options": [
-            "Positive Reinforcement",
-            "Negative Reinforcement",
-            "Negative Punishment",
-            "Positive Punishment"
-        ],
-        "answer": 2,
-        "explanation": "Negative punishment involves removing a desirable stimulus (participation points) following an undesirable behaviour, thereby reducing the likelihood of that behaviour occurring again.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Skinner",
-            "Negative Punishment",
-            "Behaviour Modification"
-        ],
-        "id": "EDPSY-LRN-0061"
-    },
-    {
-        "question": "Assertion (A): Punishment may suppress behaviour immediately but does not necessarily teach the desired behaviour.\nReason (R): Skinner recommended that desirable behaviours should be strengthened primarily through reinforcement rather than excessive punishment.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
+            "Learning acquires knowledge, whereas memory retains and retrieves it.",
+            "Learning and memory are exactly the same process.",
+            "Memory always occurs before learning.",
+            "Learning depends only upon memory."
         ],
         "answer": 0,
-        "explanation": "Skinner emphasized reinforcement as the preferred strategy because it strengthens desirable behaviour. Punishment may stop undesirable behaviour temporarily but often fails to develop appropriate alternative behaviours.",
+        "explanation": "Learning involves acquiring new knowledge or skills, while memory involves retaining and recalling what has been learned.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Assertion-Reason",
-            "Punishment",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0062"
-    },
-    {
-        "question": "A teacher first rewards a child for writing individual letters correctly, then for writing words, later sentences, and finally complete paragraphs. Which concept of Operant Conditioning is BEST illustrated?",
-        "options": [
-            "Stimulus Generalization",
-            "Shaping",
-            "Extinction",
-            "Insight"
-        ],
-        "answer": 1,
-        "explanation": "Shaping is the process of reinforcing successive approximations of a desired behaviour until the complete behaviour is acquired.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Shaping",
-            "Skinner",
-            "Educational Application"
-        ],
-        "id": "EDPSY-LRN-0063"
-    },
-    {
-        "question": "Which statement correctly distinguishes respondent behaviour from operant behaviour?",
-        "options": [
-            "Respondent behaviour is emitted voluntarily, whereas operant behaviour is elicited automatically by a stimulus.",
-            "Respondent behaviour is elicited by a specific stimulus, whereas operant behaviour is emitted voluntarily and influenced by its consequences.",
-            "Both respondent and operant behaviours are identical.",
-            "Respondent behaviour occurs only in animals, whereas operant behaviour occurs only in humans."
-        ],
-        "answer": 1,
-        "explanation": "Respondent behaviour is automatically elicited by antecedent stimuli (as in Classical Conditioning), whereas operant behaviour is emitted voluntarily and is shaped by reinforcement and consequences.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Respondent Behaviour",
-            "Operant Behaviour",
-            "Comparison"
-        ],
-        "id": "EDPSY-LRN-0064"
-    },
-    {
-        "question": "During a classroom observation, a Dy.E.O. notices that one teacher consistently recognises punctuality, teamwork and creative thinking through certificates and appreciation. Students gradually display these behaviours more frequently. Which conclusion BEST reflects Skinner's theory?",
-        "options": [
-            "Desired classroom behaviours can be strengthened through systematic positive reinforcement.",
-            "Learning occurs only through maturation.",
-            "Students behave appropriately only because of fear of punishment.",
-            "Behaviour cannot be modified through classroom experiences."
-        ],
-        "answer": 0,
-        "explanation": "Skinner proposed that behaviours followed by reinforcing consequences are more likely to recur. Appropriate recognition and rewards can effectively promote desirable classroom behaviours.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "DyEO",
-            "Positive Reinforcement",
-            "Educational Administration",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0065"
-    },
-    {
-        "question": "A teacher praises students after every correct answer during the initial stage of teaching multiplication tables. Which schedule of reinforcement is BEST illustrated?",
-        "options": [
-            "Continuous Reinforcement",
-            "Fixed Ratio Reinforcement",
-            "Variable Ratio Reinforcement",
-            "Fixed Interval Reinforcement"
-        ],
-        "answer": 0,
-        "explanation": "Continuous reinforcement means every correct response is reinforced. It is especially effective during the acquisition stage of new learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
         "difficulty": "Easy",
         "language": "English",
         "tags": [
-            "Skinner",
-            "Continuous Reinforcement",
-            "Schedules of Reinforcement"
+            "Learning vs Memory",
+            "Comparison"
         ],
-        "id": "EDPSY-LRN-0066"
+        "id": "EDPSY-MEM-0007"
     },
     {
-        "question": "A student receives a reward after correctly solving every fifth mathematics problem. Which schedule of reinforcement does this represent?",
-        "options": [
-            "Continuous Reinforcement",
-            "Fixed Ratio Reinforcement",
-            "Variable Interval Reinforcement",
-            "Fixed Interval Reinforcement"
-        ],
-        "answer": 1,
-        "explanation": "In a Fixed Ratio schedule, reinforcement is delivered after a predetermined number of correct responses. Here, the reward follows every fifth correct response.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Fixed Ratio",
-            "Skinner",
-            "Schedules"
-        ],
-        "id": "EDPSY-LRN-0067"
-    },
-    {
-        "question": "Assertion (A): Behaviour reinforced under a Variable Ratio schedule tends to be highly resistant to extinction.\nReason (R): Learners cannot predict exactly when reinforcement will occur, so they continue responding consistently.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "Variable Ratio reinforcement provides reinforcement after an unpredictable number of responses, producing a high and persistent response rate that is resistant to extinction.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Variable Ratio",
-            "Assertion-Reason",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0068"
-    },
-    {
-        "question": "A teacher conducts a surprise appreciation activity at unpredictable times during the semester for students who maintain good classroom behaviour. Which reinforcement schedule is MOST appropriate?",
-        "options": [
-            "Fixed Ratio",
-            "Fixed Interval",
-            "Variable Interval",
-            "Continuous Reinforcement"
-        ],
-        "answer": 2,
-        "explanation": "Variable Interval reinforcement is based on unpredictable time intervals. It encourages learners to maintain desirable behaviour consistently because reinforcement may occur at any time.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Variable Interval",
-            "Educational Application",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0069"
-    },
-    {
-        "question": "Which of the following statements regarding schedules of reinforcement are correct?\n\n1. Continuous reinforcement is most useful during the initial acquisition of learning.\n2. Fixed Ratio schedules reinforce behaviour after a specified number of responses.\n3. Variable Ratio schedules generally produce behaviour that is highly resistant to extinction.\n4. Fixed Interval schedules reinforce behaviour after unpredictable periods of time.\n\nSelect the correct answer.",
+        "question": "Which of the following statements regarding memory are correct?\n\n1. Memory includes encoding.\n2. Memory includes storage.\n3. Memory includes retrieval.\n4. Retrieval always occurs immediately after learning.\n\nSelect the correct answer.",
         "options": [
             "1, 2 and 3 only",
             "1 and 4 only",
@@ -1445,83 +154,160 @@ const questions = [
             "All four"
         ],
         "answer": 0,
-        "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is incorrect because Fixed Interval reinforcement occurs after fixed, predictable intervals of time, whereas Variable Interval reinforcement occurs after unpredictable intervals.",
+        "explanation": "Encoding, storage and retrieval are the three fundamental processes of memory. Retrieval may occur immediately or much later depending on the situation.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
+        "topic": "Memory",
+        "difficulty": "Moderate",
         "language": "English",
         "tags": [
-            "Schedules of Reinforcement",
             "Multiple Statements",
-            "Skinner"
+            "Memory Process"
         ],
-        "id": "EDPSY-LRN-0070"
+        "id": "EDPSY-MEM-0008"
     },
     {
-        "question": "A teacher rewards every correct response while introducing a completely new mathematical concept. After students master the skill, rewards are given less frequently. Why is this strategy recommended by Skinner?",
+        "question": "A teacher encourages students to relate new concepts to their previous knowledge before introducing a lesson. Which memory process is MOST likely to be strengthened?",
         "options": [
-            "Continuous reinforcement is effective for acquiring new behaviour, whereas intermittent reinforcement helps maintain learned behaviour.",
-            "Continuous reinforcement should always be used throughout learning.",
-            "Intermittent reinforcement is effective only before learning begins.",
-            "Reinforcement has no influence on maintaining behaviour."
+            "Encoding",
+            "Forgetting",
+            "Extinction",
+            "Punishment"
         ],
         "answer": 0,
-        "explanation": "Continuous reinforcement accelerates acquisition of new behaviour, while intermittent reinforcement strengthens persistence and resistance to extinction.",
+        "explanation": "Connecting new information with prior knowledge improves encoding, making later storage and retrieval more effective.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
         "difficulty": "Moderate",
         "language": "English",
         "tags": [
-            "Skinner",
-            "Continuous Reinforcement",
-            "Intermittent Reinforcement"
+            "Encoding",
+            "Educational Application"
         ],
-        "id": "EDPSY-LRN-0071"
+        "id": "EDPSY-MEM-0009"
     },
     {
-        "question": "Which reinforcement schedule generally produces the HIGHEST rate of responding and the greatest resistance to extinction?",
+        "question": "During a classroom inspection, a Dy.E.O. finds that students perform well in practical activities but poorly in recalling concepts during written tests. Which recommendation is MOST appropriate?",
         "options": [
-            "Continuous Reinforcement",
-            "Fixed Interval",
-            "Variable Ratio",
-            "Fixed Ratio"
+            "Reduce practical activities.",
+            "Increase punishment for incorrect answers.",
+            "Provide regular retrieval practice through quizzes, questioning and revision.",
+            "Teach only through lectures."
         ],
         "answer": 2,
-        "explanation": "Variable Ratio schedules reinforce behaviour after an unpredictable number of responses, producing persistent and highly resistant behaviour.",
+        "explanation": "Research in educational psychology shows that retrieval practice strengthens long-term memory and improves examination performance.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Variable Ratio",
-            "Skinner",
-            "Schedules"
-        ],
-        "id": "EDPSY-LRN-0072"
-    },
-    {
-        "question": "A school principal unexpectedly visits classrooms and appreciates teachers demonstrating innovative teaching practices. Since teachers never know when appreciation will occur, they consistently maintain quality instruction. Which reinforcement schedule is illustrated?",
-        "options": [
-            "Fixed Ratio",
-            "Variable Interval",
-            "Continuous Reinforcement",
-            "Fixed Interval"
-        ],
-        "answer": 1,
-        "explanation": "Variable Interval reinforcement is delivered after unpredictable time intervals, encouraging consistent performance.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
         "difficulty": "Difficult",
         "language": "English",
         "tags": [
-            "Variable Interval",
             "DyEO",
-            "Educational Administration"
+            "Retrieval Practice",
+            "Educational Application"
         ],
-        "id": "EDPSY-LRN-0073"
+        "id": "EDPSY-MEM-0010"
     },
     {
-        "question": "Assertion (A): Continuous reinforcement leads to faster learning than intermittent reinforcement.\nReason (R): Every correct response receives reinforcement during the acquisition stage.",
+        "question": "Which memory process involves transforming incoming information into a form that can be stored in the brain?",
+        "options": [
+            "Retrieval",
+            "Encoding",
+            "Recognition",
+            "Recall"
+        ],
+        "answer": 1,
+        "explanation": "Encoding is the process of converting information into a form suitable for storage in memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Encoding",
+            "Memory Process"
+        ],
+        "id": "EDPSY-MEM-0011"
+    },
+    {
+        "question": "A student understands a lesson by relating it to real-life experiences. Which type of encoding is primarily taking place?",
+        "options": [
+            "Acoustic Encoding",
+            "Semantic Encoding",
+            "Visual Encoding",
+            "Mechanical Encoding"
+        ],
+        "answer": 1,
+        "explanation": "Semantic encoding involves attaching meaning to information, leading to better retention than rote memorization.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Semantic Encoding",
+            "Meaningful Learning"
+        ],
+        "id": "EDPSY-MEM-0012"
+    },
+    {
+        "question": "Which memory process is responsible for maintaining information over time?",
+        "options": [
+            "Encoding",
+            "Storage",
+            "Retrieval",
+            "Recognition"
+        ],
+        "answer": 1,
+        "explanation": "Storage refers to retaining encoded information for future use.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Storage",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0013"
+    },
+    {
+        "question": "A student correctly identifies the answer from four alternatives but cannot write it without options. Which memory process is demonstrated?",
+        "options": [
+            "Recall",
+            "Recognition",
+            "Encoding",
+            "Relearning"
+        ],
+        "answer": 1,
+        "explanation": "Recognition involves identifying previously learned information when cues are provided.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Recognition",
+            "Retrieval"
+        ],
+        "id": "EDPSY-MEM-0014"
+    },
+    {
+        "question": "Writing an essay without looking at notes mainly depends upon:",
+        "options": [
+            "Recognition",
+            "Recall",
+            "Encoding",
+            "Sensory Memory"
+        ],
+        "answer": 1,
+        "explanation": "Recall requires retrieving information without external cues.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Recall",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0015"
+    },
+    {
+        "question": "Assertion (A): Retrieval cues improve memory performance.\nReason (R): Retrieval cues activate stored information and make recall easier.",
         "options": [
             "Both A and R are true, and R correctly explains A.",
             "Both A and R are true, but R is not the correct explanation.",
@@ -1529,122 +315,470 @@ const questions = [
             "A is false, but R is true."
         ],
         "answer": 0,
-        "explanation": "Immediate reinforcement after every correct response accelerates acquisition of new behaviours.",
+        "explanation": "Retrieval cues help activate stored memory traces, making information easier to recall.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
         "difficulty": "Moderate",
         "language": "English",
         "tags": [
-            "Assertion-Reason",
-            "Continuous Reinforcement"
+            "Retrieval",
+            "Assertion-Reason"
         ],
-        "id": "EDPSY-LRN-0074"
+        "id": "EDPSY-MEM-0016"
     },
     {
-        "question": "A student receives appreciation after every tenth correct answer. Which reinforcement schedule is represented?",
+        "question": "A Dy.E.O. notices that teachers frequently conduct low-stakes quizzes instead of only end-of-term examinations. Which memory principle best supports this practice?",
         "options": [
-            "Variable Ratio",
-            "Fixed Interval",
-            "Fixed Ratio",
-            "Variable Interval"
+            "Retrieval Practice",
+            "Punishment",
+            "Extinction",
+            "Habituation"
+        ],
+        "answer": 0,
+        "explanation": "Frequent retrieval strengthens long-term retention more effectively than repeated rereading alone.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Retrieval Practice",
+            "DyEO",
+            "Assessment"
+        ],
+        "id": "EDPSY-MEM-0017"
+    },
+    {
+        "question": "Which learning strategy primarily strengthens encoding?",
+        "options": [
+            "Meaningfully organizing information",
+            "Ignoring prior knowledge",
+            "Avoiding revision",
+            "Reading mechanically without understanding"
+        ],
+        "answer": 0,
+        "explanation": "Meaningful organization and association improve encoding and long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Encoding",
+            "Study Skills"
+        ],
+        "id": "EDPSY-MEM-0018"
+    },
+    {
+        "question": "Which of the following are methods of retrieving information from memory?\n\n1. Recall\n2. Recognition\n3. Relearning\n4. Retrieval Practice\n\nChoose the correct answer.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3 only",
+            "1, 2, 3 and 4",
+            "2 and 4 only"
         ],
         "answer": 2,
-        "explanation": "Fixed Ratio schedules reinforce behaviour after a predetermined number of correct responses.",
+        "explanation": "Recall, recognition and relearning are standard retrieval methods, while retrieval practice is an educational technique that repeatedly strengthens retrieval.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Recall",
+            "Recognition",
+            "Relearning",
+            "Retrieval Practice"
+        ],
+        "id": "EDPSY-MEM-0019"
+    },
+    {
+        "question": "During a classroom observation, a Dy.E.O. finds that students are encouraged to explain concepts in their own words, answer oral questions and solve application problems. Which memory process is MOST directly strengthened?",
+        "options": [
+            "Storage alone",
+            "Encoding alone",
+            "Retrieval",
+            "Sensory Registration"
+        ],
+        "answer": 2,
+        "explanation": "Explaining, answering questions and applying concepts require active retrieval, which strengthens long-term memory and improves future recall.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Retrieval",
+            "Educational Application",
+            "DyEO"
+        ],
+        "id": "EDPSY-MEM-0020"
+    },
+    {
+        "question": "Which type of memory briefly stores visual information immediately after it is perceived?",
+        "options": [
+            "Echoic Memory",
+            "Semantic Memory",
+            "Iconic Memory",
+            "Procedural Memory"
+        ],
+        "answer": 2,
+        "explanation": "Iconic memory is the visual sensory store that retains an image for a very brief period, usually less than one second.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
         "difficulty": "Easy",
         "language": "English",
         "tags": [
-            "Fixed Ratio",
-            "Schedules",
-            "Skinner"
+            "Iconic Memory",
+            "Sensory Memory"
         ],
-        "id": "EDPSY-LRN-0075"
+        "id": "EDPSY-MEM-0021"
     },
     {
-        "question": "Which reinforcement schedule is MOST suitable for developing long-term study habits among secondary school students?",
+        "question": "Echoic memory is mainly associated with the retention of:",
         "options": [
-            "Continuous Reinforcement",
-            "Variable Interval Reinforcement",
-            "Only Punishment",
+            "Visual information",
+            "Auditory information",
+            "Motor skills",
+            "Emotional experiences"
+        ],
+        "answer": 1,
+        "explanation": "Echoic memory briefly stores auditory information, usually for about 2–4 seconds.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Echoic Memory",
+            "Auditory Memory"
+        ],
+        "id": "EDPSY-MEM-0022"
+    },
+    {
+        "question": "A student can still 'hear' the last few words of a teacher even after the teacher has stopped speaking. Which type of memory explains this phenomenon?",
+        "options": [
+            "Working Memory",
+            "Echoic Memory",
+            "Semantic Memory",
+            "Long-term Memory"
+        ],
+        "answer": 1,
+        "explanation": "Echoic memory temporarily retains auditory information, allowing listeners to process spoken language.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Echoic Memory",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0023"
+    },
+    {
+        "question": "Which psychologist is best known for experiments that demonstrated the existence of iconic memory using the partial-report technique?",
+        "options": [
+            "Atkinson",
+            "George Sperling",
+            "Baddeley",
+            "Ebbinghaus"
+        ],
+        "answer": 1,
+        "explanation": "George Sperling's partial-report experiments demonstrated the high capacity but very brief duration of iconic memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "George Sperling",
+            "Iconic Memory"
+        ],
+        "id": "EDPSY-MEM-0024"
+    },
+    {
+        "question": "Assertion (A): Sensory memory has a very large capacity.\nReason (R): Information remains in sensory memory for only a very brief duration unless attention is given.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Sensory memory briefly registers a large amount of incoming information, but unattended information fades rapidly.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Sensory Memory",
+            "Assertion-Reason"
+        ],
+        "id": "EDPSY-MEM-0025"
+    },
+    {
+        "question": "Which sensory memory is associated with the sense of touch?",
+        "options": [
+            "Iconic Memory",
+            "Echoic Memory",
+            "Haptic Memory",
+            "Semantic Memory"
+        ],
+        "answer": 2,
+        "explanation": "Haptic memory temporarily stores tactile information received through the sense of touch.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Haptic Memory",
+            "Sensory Memory"
+        ],
+        "id": "EDPSY-MEM-0026"
+    },
+    {
+        "question": "A teacher flashes a diagram on the smart board for one second. Students can still 'see' the image for a fraction of a second after it disappears. Which memory system is operating?",
+        "options": [
+            "Long-term Memory",
+            "Working Memory",
+            "Iconic Memory",
+            "Procedural Memory"
+        ],
+        "answer": 2,
+        "explanation": "The persistence of a visual image immediately after its disappearance is due to iconic memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Iconic Memory",
+            "Classroom Application"
+        ],
+        "id": "EDPSY-MEM-0027"
+    },
+    {
+        "question": "A Dy.E.O. advises teachers to pause briefly after displaying important visual information before changing the slide. Which memory principle supports this recommendation?",
+        "options": [
+            "Long-term memory has unlimited duration.",
+            "Iconic memory is brief and attention helps transfer information for further processing.",
+            "Sensory memory permanently stores all information.",
+            "Echoic memory processes visual information."
+        ],
+        "answer": 1,
+        "explanation": "Allowing time for attention enables information in iconic memory to move into short-term or working memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "DyEO",
+            "Iconic Memory",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0028"
+    },
+    {
+        "question": "Which of the following statements about sensory memory are correct?\n\n1. It is the first stage of memory processing.\n2. It has a very brief duration.\n3. It has a relatively large capacity.\n4. Attention determines whether information proceeds for further processing.\n\nChoose the correct answer.",
+        "options": [
+            "1, 2 and 3 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4",
+            "1 and 4 only"
+        ],
+        "answer": 2,
+        "explanation": "All four statements accurately describe sensory memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Sensory Memory",
+            "Multiple Statements"
+        ],
+        "id": "EDPSY-MEM-0029"
+    },
+    {
+        "question": "Which classroom practice is MOST likely to improve the transfer of information from sensory memory to working memory?",
+        "options": [
+            "Presenting many unrelated diagrams simultaneously.",
+            "Directing students' attention to key ideas using questions, highlighting and discussion.",
+            "Speaking continuously without pauses.",
+            "Changing slides rapidly without explanation."
+        ],
+        "answer": 1,
+        "explanation": "Attention is the gateway through which information moves from sensory memory into working memory. Teachers can facilitate this process by highlighting key concepts and actively engaging learners.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Attention",
+            "Sensory Memory",
+            "Educational Application",
+            "DyEO"
+        ],
+        "id": "EDPSY-MEM-0030"
+    },
+    {
+        "question": "Short-Term Memory (STM) primarily refers to:",
+        "options": [
+            "Permanent storage of information",
+            "Temporary storage of information for a short duration",
+            "Storage of motor skills",
+            "Storage of sensory impressions only"
+        ],
+        "answer": 1,
+        "explanation": "Short-Term Memory temporarily stores information for a brief period, generally around 15–30 seconds without rehearsal.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Short-Term Memory",
+            "STM"
+        ],
+        "id": "EDPSY-MEM-0031"
+    },
+    {
+        "question": "According to Peterson and Peterson, information in Short-Term Memory lasts approximately:",
+        "options": [
+            "Less than 1 second",
+            "2–4 seconds",
+            "15–30 seconds without rehearsal",
+            "Several hours"
+        ],
+        "answer": 2,
+        "explanation": "Peterson and Peterson demonstrated that unrehearsed information in STM fades within about 15–30 seconds.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Peterson & Peterson",
+            "STM Duration"
+        ],
+        "id": "EDPSY-MEM-0032"
+    },
+    {
+        "question": "Who proposed that the capacity of Short-Term Memory is approximately '7 ± 2' meaningful units?",
+        "options": [
+            "George Miller",
+            "Ebbinghaus",
+            "Atkinson",
+            "Sperling"
+        ],
+        "answer": 0,
+        "explanation": "George A. Miller proposed that STM typically holds about seven plus or minus two chunks of information.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "George Miller",
+            "7±2",
+            "STM"
+        ],
+        "id": "EDPSY-MEM-0033"
+    },
+    {
+        "question": "Grouping separate pieces of information into meaningful units to improve memory is called:",
+        "options": [
+            "Encoding",
+            "Chunking",
+            "Recognition",
             "Extinction"
         ],
         "answer": 1,
-        "explanation": "Variable Interval reinforcement encourages consistent behaviour because reinforcement occurs unpredictably over time.",
+        "explanation": "Chunking increases the effective capacity of Short-Term Memory by organizing information into meaningful groups.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Study Habits",
-            "Variable Interval",
-            "Educational Application"
-        ],
-        "id": "EDPSY-LRN-0076"
-    },
-    {
-        "question": "Which schedule of reinforcement is commonly associated with lottery systems and many game-based reward mechanisms?",
-        "options": [
-            "Fixed Ratio",
-            "Continuous Reinforcement",
-            "Variable Ratio",
-            "Fixed Interval"
-        ],
-        "answer": 2,
-        "explanation": "Variable Ratio schedules provide reinforcement after unpredictable numbers of responses and produce persistent responding.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Variable Ratio",
-            "Real Life",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0077"
-    },
-    {
-        "question": "Which one of the following schedules usually produces a 'post-reinforcement pause' after receiving reinforcement?",
-        "options": [
-            "Fixed Ratio",
-            "Variable Ratio",
-            "Variable Interval",
-            "Continuous Reinforcement"
-        ],
-        "answer": 0,
-        "explanation": "In Fixed Ratio schedules, learners often pause briefly after receiving reinforcement before beginning the next sequence of responses.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Fixed Ratio",
-            "Behaviour Pattern"
-        ],
-        "id": "EDPSY-LRN-0078"
-    },
-    {
-        "question": "Which reinforcement schedule provides reinforcement after fixed periods of time, provided the desired response occurs?",
-        "options": [
-            "Fixed Interval",
-            "Variable Interval",
-            "Fixed Ratio",
-            "Variable Ratio"
-        ],
-        "answer": 0,
-        "explanation": "Fixed Interval schedules reinforce the first correct response after a fixed time interval.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
         "difficulty": "Easy",
         "language": "English",
         "tags": [
-            "Fixed Interval",
-            "Schedules"
+            "Chunking",
+            "STM"
         ],
-        "id": "EDPSY-LRN-0079"
+        "id": "EDPSY-MEM-0034"
     },
     {
-        "question": "Which of the following statements regarding reinforcement schedules are correct?\n\n1. Continuous reinforcement is ideal during early learning.\n2. Variable Ratio schedules are highly resistant to extinction.\n3. Fixed Interval schedules reinforce behaviour after predictable time intervals.\n4. Variable Interval schedules reinforce behaviour after a fixed number of responses.\n\nChoose the correct answer.",
+        "question": "A student remembers the mobile number 987-654-3210 by dividing it into three groups. Which memory strategy is being used?",
+        "options": [
+            "Relearning",
+            "Chunking",
+            "Recognition",
+            "Semantic Memory"
+        ],
+        "answer": 1,
+        "explanation": "Breaking information into smaller meaningful groups is an example of chunking.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Chunking",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0035"
+    },
+    {
+        "question": "Assertion (A): Rehearsal helps maintain information in Short-Term Memory.\nReason (R): Repeated rehearsal prevents rapid forgetting of unrehearsed information.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Maintenance rehearsal keeps information active in STM and delays forgetting.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Rehearsal",
+            "Assertion-Reason",
+            "STM"
+        ],
+        "id": "EDPSY-MEM-0036"
+    },
+    {
+        "question": "A teacher divides a lengthy lesson into smaller learning units and reviews each part before moving to the next. Which principle is BEST reflected?",
+        "options": [
+            "Chunking",
+            "Punishment",
+            "Extinction",
+            "Classical Conditioning"
+        ],
+        "answer": 0,
+        "explanation": "Dividing content into manageable chunks reduces cognitive load and improves Short-Term Memory processing.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Chunking",
+            "Classroom Application",
+            "DyEO"
+        ],
+        "id": "EDPSY-MEM-0037"
+    },
+    {
+        "question": "Which classroom practice is MOST likely to overload students' Short-Term Memory?",
+        "options": [
+            "Explaining one concept at a time",
+            "Providing brief summaries after each topic",
+            "Presenting a large amount of unfamiliar information continuously without pauses",
+            "Using diagrams along with explanations"
+        ],
+        "answer": 2,
+        "explanation": "STM has limited capacity. Presenting excessive unfamiliar information without breaks can overload learners and reduce understanding.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "STM",
+            "Cognitive Load",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0038"
+    },
+    {
+        "question": "Which of the following statements about Short-Term Memory are correct?\n\n1. Its capacity is limited.\n2. Rehearsal improves retention.\n3. Chunking increases effective capacity.\n4. Information remains permanently without rehearsal.\n\nChoose the correct answer.",
         "options": [
             "1, 2 and 3 only",
             "2 and 4 only",
@@ -1652,387 +786,203 @@ const questions = [
             "All four"
         ],
         "answer": 0,
-        "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is incorrect because Variable Interval schedules are based on unpredictable time intervals, not number of responses.",
+        "explanation": "Statements 1, 2 and 3 are correct. Information in STM does not remain permanently without rehearsal.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
         "difficulty": "Difficult",
         "language": "English",
         "tags": [
+            "STM",
             "Multiple Statements",
-            "Reinforcement Schedules",
-            "Skinner"
+            "Chunking"
         ],
-        "id": "EDPSY-LRN-0080"
+        "id": "EDPSY-MEM-0039"
     },
     {
-        "question": "Skinner's concept of Programmed Learning is primarily based on which principle?",
+        "question": "During a classroom inspection, a Dy.E.O. observes that teachers use short explanations, frequent questioning, visual organizers and periodic revision instead of long uninterrupted lectures. Which conclusion is MOST appropriate?",
         "options": [
-            "Learning occurs through trial and error alone.",
-            "Learning is most effective when instruction is presented in small sequential steps with immediate feedback.",
-            "Learning depends mainly on insight.",
-            "Learning occurs only through observation."
-        ],
-        "answer": 1,
-        "explanation": "Programmed Learning presents content in carefully sequenced small steps, requiring active learner responses and providing immediate feedback.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Programmed Learning",
-            "Skinner",
-            "Teaching"
-        ],
-        "id": "EDPSY-LRN-0081"
-    },
-    {
-        "question": "Which characteristic is NOT associated with Programmed Learning?",
-        "options": [
-            "Immediate feedback",
-            "Self-paced learning",
-            "Large learning units presented together",
-            "Active learner response"
-        ],
-        "answer": 2,
-        "explanation": "Programmed Learning divides content into small frames rather than presenting large units at once.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Programmed Learning",
-            "Characteristics"
-        ],
-        "id": "EDPSY-LRN-0082"
-    },
-    {
-        "question": "A teaching machine designed by Skinner mainly aims to:",
-        "options": [
-            "Replace teachers completely.",
-            "Provide immediate reinforcement after each learner response.",
-            "Increase punishment for incorrect answers.",
-            "Assess only final examination performance."
-        ],
-        "answer": 1,
-        "explanation": "Skinner's teaching machine was developed to provide immediate feedback and reinforcement after each learner response.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Teaching Machine",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0083"
-    },
-    {
-        "question": "Assertion (A): Immediate feedback improves learning efficiency.\nReason (R): Learners can immediately identify and correct their errors.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
+            "The teachers are effectively supporting the limitations of Short-Term Memory.",
+            "The teachers are reducing students' learning opportunities.",
+            "The teachers are encouraging rote memorization only.",
+            "The teachers are ignoring cognitive principles."
         ],
         "answer": 0,
-        "explanation": "Immediate feedback strengthens correct responses and allows learners to correct mistakes before they become habitual.",
+        "explanation": "Short explanations, questioning, visual organization and revision reduce cognitive overload and support effective processing in Short-Term Memory.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Immediate Feedback",
-            "Assertion-Reason"
-        ],
-        "id": "EDPSY-LRN-0084"
-    },
-    {
-        "question": "Which educational practice is the BEST example of a Token Economy?",
-        "options": [
-            "Giving homework every day.",
-            "Awarding stars or points that students later exchange for privileges or rewards.",
-            "Conducting weekly examinations.",
-            "Explaining the lesson repeatedly."
-        ],
-        "answer": 1,
-        "explanation": "A token economy reinforces desirable behaviour by awarding tokens that can later be exchanged for meaningful rewards.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Token Economy",
-            "Behaviour Modification"
-        ],
-        "id": "EDPSY-LRN-0085"
-    },
-    {
-        "question": "A Dy.E.O. notices that a school uses stars, badges and appreciation cards to improve attendance and discipline. Which behavioural technique is being implemented?",
-        "options": [
-            "Insight Learning",
-            "Token Economy",
-            "Classical Conditioning",
-            "Latent Learning"
-        ],
-        "answer": 1,
-        "explanation": "A token economy uses symbolic rewards to reinforce desirable behaviour in schools and classrooms.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
+        "topic": "Memory",
+        "difficulty": "Difficult",
         "language": "English",
         "tags": [
             "DyEO",
-            "Token Economy",
-            "School Administration"
-        ],
-        "id": "EDPSY-LRN-0086"
-    },
-    {
-        "question": "Which sequence best represents Skinner's behaviour modification process?",
-        "options": [
-            "Behaviour → Consequence → Future Behaviour",
-            "Stimulus → Insight → Behaviour",
-            "Observation → Imitation → Reinforcement",
-            "Memory → Recall → Performance"
-        ],
-        "answer": 0,
-        "explanation": "Behaviour modification focuses on the relationship between behaviour, its consequences and future occurrence of the behaviour.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Behaviour Modification",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0087"
-    },
-    {
-        "question": "Which of the following classroom situations BEST reflects programmed instruction?",
-        "options": [
-            "Students study a complete chapter without interruption.",
-            "Students answer one frame at a time and receive immediate confirmation before moving to the next frame.",
-            "Students only observe the teacher's demonstration.",
-            "Students memorize an entire lesson at home."
-        ],
-        "answer": 1,
-        "explanation": "Programmed instruction presents material frame by frame with active responses and immediate feedback.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Programmed Instruction",
-            "Teaching Machine"
-        ],
-        "id": "EDPSY-LRN-0088"
-    },
-    {
-        "question": "Which statement correctly describes Skinner's Teaching Machine?",
-        "options": [
-            "It emphasizes punishment over reinforcement.",
-            "It enables individualized, self-paced learning with immediate feedback.",
-            "It eliminates learner participation.",
-            "It is designed only for higher education."
-        ],
-        "answer": 1,
-        "explanation": "Teaching machines were designed to individualize instruction by allowing learners to proceed at their own pace while receiving immediate reinforcement.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Teaching Machine",
-            "Individualized Learning"
-        ],
-        "id": "EDPSY-LRN-0089"
-    },
-    {
-        "question": "Which of the following are essential characteristics of Programmed Learning?\n\n1. Small learning steps\n2. Active learner response\n3. Immediate feedback\n4. Self-paced progress\n\nSelect the correct answer.",
-        "options": [
-            "1, 2 and 3 only",
-            "2, 3 and 4 only",
-            "1, 2, 3 and 4",
-            "1 and 4 only"
-        ],
-        "answer": 2,
-        "explanation": "Programmed Learning includes all four characteristics: small sequential steps, active responding, immediate feedback and self-paced learning.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Programmed Learning",
-            "Multiple Statements",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0090"
-    },
-    {
-        "question": "A Dy.E.O. observes that a teacher appreciates every small improvement shown by a slow learner until the learner independently completes the assigned task. Which principle is BEST illustrated?",
-        "options": [
-            "Insight Learning",
-            "Shaping",
-            "Latent Learning",
-            "Classical Conditioning"
-        ],
-        "answer": 1,
-        "explanation": "Shaping involves reinforcing successive approximations of the desired behaviour until the complete behaviour is acquired.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Shaping",
-            "Skinner",
-            "DyEO",
-            "Behaviour Modification"
-        ],
-        "id": "EDPSY-LRN-0091"
-    },
-    {
-        "question": "Which comparison correctly distinguishes Thorndike's Law of Effect from Skinner's Operant Conditioning?",
-        "options": [
-            "Thorndike introduced the Law of Effect, whereas Skinner systematically developed reinforcement as the basis of voluntary behaviour.",
-            "Thorndike rejected reinforcement whereas Skinner accepted it.",
-            "Thorndike explained respondent behaviour whereas Skinner explained reflexes.",
-            "Both theories rejected environmental influence."
-        ],
-        "answer": 0,
-        "explanation": "Thorndike proposed the Law of Effect. Skinner expanded this principle into a comprehensive theory of operant behaviour and reinforcement.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Thorndike",
-            "Skinner",
-            "Comparison"
-        ],
-        "id": "EDPSY-LRN-0092"
-    },
-    {
-        "question": "Assertion (A): Operant Conditioning mainly explains voluntary behaviour.\nReason (R): The consequences of behaviour influence its future occurrence.",
-        "options": [
-            "Both A and R are true, and R correctly explains A.",
-            "Both A and R are true, but R is not the correct explanation.",
-            "A is true, but R is false.",
-            "A is false, but R is true."
-        ],
-        "answer": 0,
-        "explanation": "Operant behaviour is voluntary and is strengthened or weakened depending on its consequences.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Assertion-Reason",
-            "Operant Conditioning"
-        ],
-        "id": "EDPSY-LRN-0093"
-    },
-    {
-        "question": "A school introduces 'Student of the Month' awards based on punctuality, discipline and cooperation. Which behavioural principle is MOST evident?",
-        "options": [
-            "Positive Reinforcement",
-            "Punishment",
-            "Extinction",
-            "Stimulus Generalization"
-        ],
-        "answer": 0,
-        "explanation": "Recognition and rewards increase the probability that desirable behaviours will be repeated.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Positive Reinforcement",
-            "School Practices"
-        ],
-        "id": "EDPSY-LRN-0094"
-    },
-    {
-        "question": "A teacher gradually withdraws reinforcement after students consistently display desirable classroom behaviour. Which outcome is MOST likely if reinforcement is withdrawn too abruptly?",
-        "options": [
-            "Spontaneous Recovery",
-            "Extinction of the behaviour",
-            "Insight Learning",
-            "Latent Learning"
-        ],
-        "answer": 1,
-        "explanation": "When reinforcement is completely withdrawn, previously reinforced behaviour may gradually decrease through extinction.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Difficult",
-        "language": "English",
-        "tags": [
-            "Extinction",
-            "Skinner"
-        ],
-        "id": "EDPSY-LRN-0095"
-    },
-    {
-        "question": "Which learning theory is MOST suitable for explaining the systematic development of classroom behaviour through rewards and consequences?",
-        "options": [
-            "Insight Learning",
-            "Operant Conditioning",
-            "Gestalt Theory",
-            "Latent Learning"
-        ],
-        "answer": 1,
-        "explanation": "Operant Conditioning explains how behaviour is shaped through reinforcement and consequences.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Easy",
-        "language": "English",
-        "tags": [
-            "Operant Conditioning",
-            "Application"
-        ],
-        "id": "EDPSY-LRN-0096"
-    },
-    {
-        "question": "Which one of the following classroom practices reflects the BEST application of Skinner's principles?",
-        "options": [
-            "Giving immediate constructive feedback after each learner response.",
-            "Allowing students to discover everything independently.",
-            "Using punishment as the primary classroom strategy.",
-            "Avoiding reinforcement completely."
-        ],
-        "answer": 0,
-        "explanation": "Immediate feedback and reinforcement strengthen desired learning and improve performance.",
-        "subject": "Educational Psychology",
-        "topic": "Learning",
-        "difficulty": "Moderate",
-        "language": "English",
-        "tags": [
-            "Immediate Feedback",
+            "Short-Term Memory",
             "Educational Application"
         ],
-        "id": "EDPSY-LRN-0097"
+        "id": "EDPSY-MEM-0040"
     },
     {
-        "question": "Which statement BEST distinguishes Classical Conditioning from Operant Conditioning?",
+        "question": "Who proposed the Working Memory Model in 1974?",
         "options": [
-            "Classical Conditioning focuses on involuntary responses, whereas Operant Conditioning focuses on voluntary behaviour influenced by consequences.",
-            "Both explain voluntary behaviour only.",
-            "Both reject reinforcement.",
-            "Operant Conditioning deals only with reflex actions."
+            "Atkinson and Shiffrin",
+            "Baddeley and Hitch",
+            "George Miller",
+            "Ebbinghaus"
+        ],
+        "answer": 1,
+        "explanation": "Alan Baddeley and Graham Hitch proposed the Working Memory Model in 1974 as an improvement over the traditional Short-Term Memory model.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Baddeley",
+            "Hitch",
+            "Working Memory"
+        ],
+        "id": "EDPSY-MEM-0041"
+    },
+    {
+        "question": "According to Baddeley and Hitch, Working Memory is BEST described as:",
+        "options": [
+            "A passive store of information",
+            "A system that temporarily stores and actively processes information",
+            "Permanent storage of experiences",
+            "A sensory register"
+        ],
+        "answer": 1,
+        "explanation": "Working Memory is an active system responsible for both storing and manipulating information needed for ongoing cognitive tasks.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Working Memory",
+            "Definition"
+        ],
+        "id": "EDPSY-MEM-0042"
+    },
+    {
+        "question": "Which component of Working Memory controls attention and coordinates the activities of the other components?",
+        "options": [
+            "Phonological Loop",
+            "Central Executive",
+            "Visuo-spatial Sketchpad",
+            "Episodic Buffer"
+        ],
+        "answer": 1,
+        "explanation": "The Central Executive directs attention, coordinates mental activities and controls the functioning of the other subsystems.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Central Executive",
+            "Working Memory"
+        ],
+        "id": "EDPSY-MEM-0043"
+    },
+    {
+        "question": "The component responsible for temporarily storing and rehearsing verbal and auditory information is:",
+        "options": [
+            "Central Executive",
+            "Phonological Loop",
+            "Visuo-spatial Sketchpad",
+            "Long-Term Memory"
+        ],
+        "answer": 1,
+        "explanation": "The Phonological Loop processes spoken language, sounds and verbal rehearsal.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Phonological Loop",
+            "Working Memory"
+        ],
+        "id": "EDPSY-MEM-0044"
+    },
+    {
+        "question": "A student mentally rotates a geometry figure while solving a mathematics problem. Which component of Working Memory is mainly involved?",
+        "options": [
+            "Central Executive",
+            "Phonological Loop",
+            "Visuo-spatial Sketchpad",
+            "Semantic Memory"
+        ],
+        "answer": 2,
+        "explanation": "The Visuo-spatial Sketchpad temporarily stores and manipulates visual and spatial information.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Visuo-spatial Sketchpad",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0045"
+    },
+    {
+        "question": "The Episodic Buffer was added to Baddeley's model mainly to:",
+        "options": [
+            "Replace the Central Executive",
+            "Integrate information from different sources into a single coherent episode",
+            "Store only visual information",
+            "Increase the capacity of Long-Term Memory"
+        ],
+        "answer": 1,
+        "explanation": "The Episodic Buffer integrates information from the phonological loop, visuo-spatial sketchpad and long-term memory into meaningful episodes.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Episodic Buffer",
+            "Baddeley"
+        ],
+        "id": "EDPSY-MEM-0046"
+    },
+    {
+        "question": "Assertion (A): Working Memory is important for reasoning and problem solving.\nReason (R): It actively manipulates information while cognitive tasks are being performed.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
         ],
         "answer": 0,
-        "explanation": "Classical Conditioning involves elicited (involuntary) responses, whereas Operant Conditioning explains emitted voluntary behaviours shaped by reinforcement.",
+        "explanation": "Working Memory is essential for higher-order thinking because it temporarily stores and manipulates information during reasoning and problem solving.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Working Memory",
+            "Assertion-Reason"
+        ],
+        "id": "EDPSY-MEM-0047"
+    },
+    {
+        "question": "A Dy.E.O. observes that teachers combine diagrams, spoken explanations and questioning while teaching science. Which Working Memory principle BEST supports this approach?",
+        "options": [
+            "Using both verbal and visual processing can improve learning when cognitive load is managed.",
+            "Students learn only through repetition.",
+            "Visual materials should never accompany spoken explanations.",
+            "Working Memory functions independently of attention."
+        ],
+        "answer": 0,
+        "explanation": "Combining verbal and visual information appropriately can enhance learning by engaging different components of Working Memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
         "difficulty": "Difficult",
         "language": "English",
         "tags": [
-            "Pavlov",
-            "Skinner",
-            "Comparison"
+            "Working Memory",
+            "Dual Coding",
+            "DyEO"
         ],
-        "id": "EDPSY-LRN-0098"
+        "id": "EDPSY-MEM-0048"
     },
     {
-        "question": "Which combination correctly matches the psychologist with the central principle?\n\n1. Thorndike — Law of Effect\n2. Pavlov — Classical Conditioning\n3. Skinner — Operant Conditioning\n4. Kohler — Insight Learning",
+        "question": "Which of the following correctly matches the Working Memory component with its primary function?\n\n1. Central Executive — Controls attention\n2. Phonological Loop — Processes verbal information\n3. Visuo-spatial Sketchpad — Processes visual-spatial information\n4. Episodic Buffer — Integrates information from multiple sources",
         "options": [
             "1, 2 and 3 only",
             "2, 3 and 4 only",
@@ -2040,39 +990,1061 @@ const questions = [
             "1 and 4 only"
         ],
         "answer": 2,
-        "explanation": "All four matches are correct and represent the major learning theories frequently tested in competitive examinations.",
+        "explanation": "All four matches correctly describe the major components of Baddeley's Working Memory Model.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
         "difficulty": "Moderate",
         "language": "English",
         "tags": [
-            "Comparison",
-            "Learning Theories",
-            "Multiple Statements"
+            "Working Memory",
+            "Multiple Statements",
+            "Baddeley"
         ],
-        "id": "EDPSY-LRN-0099"
+        "id": "EDPSY-MEM-0049"
     },
     {
-        "question": "During a school inspection, a Dy.E.O. finds that teachers provide immediate feedback, reinforce desirable behaviour, use programmed learning materials, and maintain a token economy to motivate students. Which conclusion BEST reflects Skinner's contribution to education?",
+        "question": "During a classroom inspection, a Dy.E.O. notices that students receive lengthy explanations without visual aids, questioning or pauses. According to the Working Memory Model, what is the BEST recommendation?",
         "options": [
-            "Learning is strengthened when desirable behaviour is systematically reinforced through planned instructional strategies.",
-            "Learning depends entirely on maturation.",
-            "Punishment is the only effective classroom management strategy.",
-            "Rewards have no educational value."
+            "Increase lecture duration further.",
+            "Break content into smaller segments, combine verbal explanations with visuals, and provide opportunities for active processing.",
+            "Avoid questioning students during the lesson.",
+            "Replace all teaching with note copying."
+        ],
+        "answer": 1,
+        "explanation": "Working Memory has limited capacity. Segmenting instruction, combining visual and verbal information, and engaging learners through questioning reduce cognitive overload and improve understanding.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Working Memory",
+            "Educational Application",
+            "DyEO",
+            "Cognitive Load"
+        ],
+        "id": "EDPSY-MEM-0050"
+    },
+    {
+        "question": "Long-Term Memory (LTM) is BEST characterized by:",
+        "options": [
+            "Very limited capacity and brief duration",
+            "Unlimited capacity and relatively permanent storage",
+            "Storage of sensory impressions only",
+            "Storage of information for less than one minute"
+        ],
+        "answer": 1,
+        "explanation": "Long-Term Memory has an enormous capacity and can retain information for years or even a lifetime.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Long-Term Memory",
+            "LTM"
+        ],
+        "id": "EDPSY-MEM-0051"
+    },
+    {
+        "question": "According to the Atkinson-Shiffrin model, information reaches Long-Term Memory mainly through:",
+        "options": [
+            "Punishment",
+            "Maintenance rehearsal and meaningful processing",
+            "Random guessing",
+            "Sensory adaptation"
+        ],
+        "answer": 1,
+        "explanation": "Information enters Long-Term Memory through rehearsal, meaningful encoding and repeated retrieval.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Atkinson-Shiffrin",
+            "LTM",
+            "Encoding"
+        ],
+        "id": "EDPSY-MEM-0052"
+    },
+    {
+        "question": "Which type of Long-Term Memory stores personal life experiences such as your first day at school?",
+        "options": [
+            "Semantic Memory",
+            "Procedural Memory",
+            "Episodic Memory",
+            "Sensory Memory"
+        ],
+        "answer": 2,
+        "explanation": "Episodic memory stores autobiographical events and personal experiences.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Episodic Memory",
+            "LTM"
+        ],
+        "id": "EDPSY-MEM-0053"
+    },
+    {
+        "question": "Remembering that Hyderabad is the capital of Telangana is an example of:",
+        "options": [
+            "Procedural Memory",
+            "Semantic Memory",
+            "Episodic Memory",
+            "Working Memory"
+        ],
+        "answer": 1,
+        "explanation": "Semantic memory stores general knowledge, concepts, meanings and factual information.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Semantic Memory",
+            "General Knowledge"
+        ],
+        "id": "EDPSY-MEM-0054"
+    },
+    {
+        "question": "Knowing how to ride a bicycle even after many years mainly depends upon:",
+        "options": [
+            "Semantic Memory",
+            "Episodic Memory",
+            "Procedural Memory",
+            "Iconic Memory"
+        ],
+        "answer": 2,
+        "explanation": "Procedural memory stores motor skills and learned procedures that are performed automatically.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Procedural Memory",
+            "Skills"
+        ],
+        "id": "EDPSY-MEM-0055"
+    },
+    {
+        "question": "Assertion (A): Semantic memory and episodic memory are components of explicit memory.\nReason (R): Both involve conscious recollection of information.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
         ],
         "answer": 0,
-        "explanation": "Skinner's educational contribution emphasizes reinforcement, immediate feedback, programmed instruction and behaviour modification to improve learning outcomes.",
+        "explanation": "Explicit (declarative) memory includes semantic and episodic memory because both require conscious recall.",
         "subject": "Educational Psychology",
-        "topic": "Learning",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Explicit Memory",
+            "Assertion-Reason"
+        ],
+        "id": "EDPSY-MEM-0056"
+    },
+    {
+        "question": "A teacher encourages students to connect new concepts with previously learned ideas. Which process is MOST likely to strengthen Long-Term Memory?",
+        "options": [
+            "Elaborative Encoding",
+            "Punishment",
+            "Habituation",
+            "Sensory Adaptation"
+        ],
+        "answer": 0,
+        "explanation": "Elaborative encoding strengthens Long-Term Memory by linking new information with existing knowledge.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Elaborative Encoding",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0057"
+    },
+    {
+        "question": "Which of the following correctly matches the type of Long-Term Memory with its example?\n\n1. Semantic Memory — Meaning of 'Democracy'\n2. Episodic Memory — Your school farewell\n3. Procedural Memory — Typing on a keyboard\n4. Working Memory — Permanent storage of facts",
+        "options": [
+            "1, 2 and 3 only",
+            "2 and 4 only",
+            "1 and 4 only",
+            "All four"
+        ],
+        "answer": 0,
+        "explanation": "Working Memory is temporary and active, not a form of Long-Term Memory. The other three matches are correct.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Long-Term Memory",
+            "Multiple Statements"
+        ],
+        "id": "EDPSY-MEM-0058"
+    },
+    {
+        "question": "A Dy.E.O. notices that students remember scientific concepts better when teachers relate them to daily-life experiences. Which principle BEST explains this finding?",
+        "options": [
+            "Meaningful encoding strengthens Long-Term Memory.",
+            "Only repetition improves memory.",
+            "Long-Term Memory has limited capacity.",
+            "Procedural memory stores factual knowledge."
+        ],
+        "answer": 0,
+        "explanation": "Meaningful connections create stronger memory traces, making retrieval easier and improving long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Meaningful Learning",
+            "DyEO",
+            "Long-Term Memory"
+        ],
+        "id": "EDPSY-MEM-0059"
+    },
+    {
+        "question": "Which classroom practice is MOST effective for promoting durable Long-Term Memory?",
+        "options": [
+            "Massed practice immediately before examinations",
+            "Meaningful learning combined with spaced revision and retrieval practice",
+            "Copying notes repeatedly without understanding",
+            "Reading the textbook only once"
+        ],
+        "answer": 1,
+        "explanation": "Research consistently shows that meaningful learning, spaced practice and retrieval practice produce stronger Long-Term Memory than cramming or passive review.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Long-Term Memory",
+            "Spaced Practice",
+            "Retrieval Practice",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0060"
+    },
+    {
+        "question": "Which psychologist is best known for conducting the first scientific experiments on forgetting using nonsense syllables?",
+        "options": [
+            "George Miller",
+            "Hermann Ebbinghaus",
+            "Alan Baddeley",
+            "Ivan Pavlov"
+        ],
+        "answer": 1,
+        "explanation": "Hermann Ebbinghaus pioneered experimental research on memory and forgetting using nonsense syllables and developed the Forgetting Curve.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Ebbinghaus",
+            "Forgetting Curve",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0061"
+    },
+    {
+        "question": "According to Ebbinghaus, forgetting is generally:",
+        "options": [
+            "Slowest immediately after learning and then becomes rapid.",
+            "Rapid immediately after learning and then gradually slows down.",
+            "Constant throughout the retention period.",
+            "Completely random."
+        ],
+        "answer": 1,
+        "explanation": "The Forgetting Curve shows that forgetting is greatest soon after learning and then gradually levels off over time.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Forgetting Curve",
+            "Ebbinghaus"
+        ],
+        "id": "EDPSY-MEM-0062"
+    },
+    {
+        "question": "Which theory explains forgetting as the gradual fading of memory traces when information is not used or rehearsed?",
+        "options": [
+            "Interference Theory",
+            "Decay Theory",
+            "Motivated Forgetting",
+            "Cue-dependent Forgetting"
+        ],
+        "answer": 1,
+        "explanation": "Decay Theory proposes that memory traces weaken over time when they are not activated through rehearsal or use.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Decay Theory",
+            "Forgetting"
+        ],
+        "id": "EDPSY-MEM-0063"
+    },
+    {
+        "question": "Assertion (A): Regular revision reduces forgetting.\nReason (R): Revision strengthens memory traces and improves retrieval.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Regular revision and retrieval practice strengthen memory traces and reduce forgetting over time.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Revision",
+            "Assertion-Reason",
+            "Forgetting"
+        ],
+        "id": "EDPSY-MEM-0064"
+    },
+    {
+        "question": "A student forgets the answer to a question because similar information learned later interferes with recalling the original information. This is an example of:",
+        "options": [
+            "Decay",
+            "Retroactive Interference",
+            "Proactive Interference",
+            "Repression"
+        ],
+        "answer": 1,
+        "explanation": "Retroactive interference occurs when newly learned information interferes with the recall of previously learned information.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Retroactive Interference",
+            "Forgetting"
+        ],
+        "id": "EDPSY-MEM-0065"
+    },
+    {
+        "question": "Old learning interfering with the recall of newly learned information is known as:",
+        "options": [
+            "Retroactive Interference",
+            "Proactive Interference",
+            "Decay",
+            "Retrieval Practice"
+        ],
+        "answer": 1,
+        "explanation": "Proactive interference occurs when earlier learning interferes with remembering new information.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Proactive Interference",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0066"
+    },
+    {
+        "question": "A Dy.E.O. finds that students study several very similar subjects continuously without breaks and later confuse concepts during examinations. Which explanation is MOST appropriate?",
+        "options": [
+            "Interference between similar learning materials",
+            "Lack of intelligence",
+            "Sensory memory failure",
+            "Working memory overload alone"
+        ],
+        "answer": 0,
+        "explanation": "Studying similar materials consecutively increases proactive and retroactive interference, leading to forgetting and confusion.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Interference Theory",
+            "DyEO",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0067"
+    },
+    {
+        "question": "Which classroom strategy is MOST effective in reducing interference while studying?",
+        "options": [
+            "Studying similar subjects continuously",
+            "Alternating different subjects with appropriate breaks",
+            "Avoiding revision",
+            "Reading without understanding"
+        ],
+        "answer": 1,
+        "explanation": "Alternating subjects and taking short breaks reduce interference and improve long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Study Skills",
+            "Interference",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0068"
+    },
+    {
+        "question": "Which of the following statements regarding forgetting are correct?\n\n1. Forgetting is usually rapid immediately after learning.\n2. Regular revision reduces forgetting.\n3. Interference can contribute to forgetting.\n4. Forgetting always indicates poor intelligence.\n\nChoose the correct answer.",
+        "options": [
+            "1, 2 and 3 only",
+            "2 and 4 only",
+            "1 and 4 only",
+            "All four"
+        ],
+        "answer": 0,
+        "explanation": "Statements 1, 2 and 3 are correct. Forgetting is influenced by many factors and is not simply a sign of low intelligence.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Forgetting",
+            "Multiple Statements"
+        ],
+        "id": "EDPSY-MEM-0069"
+    },
+    {
+        "question": "During a classroom inspection, a Dy.E.O. notices that teachers conduct frequent revision sessions, cumulative quizzes and spaced practice throughout the academic year. Which principle BEST explains the effectiveness of this approach?",
+        "options": [
+            "Revision reduces forgetting by strengthening retrieval pathways over time.",
+            "Students forget because memory has unlimited capacity.",
+            "Only intelligence determines retention.",
+            "Forgetting cannot be influenced by teaching methods."
+        ],
+        "answer": 0,
+        "explanation": "Spaced revision and repeated retrieval strengthen memory traces and reduce the rate of forgetting, leading to better long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Revision",
+            "Spaced Practice",
+            "DyEO",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0070"
+    },
+    {
+        "question": "Which theory explains forgetting as a failure to retrieve stored information rather than a permanent loss of memory?",
+        "options": [
+            "Decay Theory",
+            "Retrieval Failure Theory",
+            "Interference Theory",
+            "Repression Theory"
+        ],
+        "answer": 1,
+        "explanation": "Retrieval Failure Theory proposes that information remains stored in memory but cannot be accessed because appropriate retrieval cues are absent.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Retrieval Failure",
+            "Forgetting"
+        ],
+        "id": "EDPSY-MEM-0071"
+    },
+    {
+        "question": "A student cannot remember an answer during the examination but recalls it immediately after leaving the examination hall. This situation BEST illustrates:",
+        "options": [
+            "Decay",
+            "Retrieval Failure",
+            "Sensory Memory",
+            "Habituation"
+        ],
+        "answer": 1,
+        "explanation": "The information was stored but could not be retrieved at the required moment, indicating retrieval failure.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Retrieval Failure",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0072"
+    },
+    {
+        "question": "Which psychologist is most closely associated with the concept of motivated forgetting through repression?",
+        "options": [
+            "Jean Piaget",
+            "Sigmund Freud",
+            "Ivan Pavlov",
+            "Jerome Bruner"
+        ],
+        "answer": 1,
+        "explanation": "Freud proposed that unpleasant or anxiety-producing memories may be unconsciously pushed out of awareness through repression.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Freud",
+            "Repression",
+            "Motivated Forgetting"
+        ],
+        "id": "EDPSY-MEM-0073"
+    },
+    {
+        "question": "Assertion (A): Retrieval cues improve recall.\nReason (R): Retrieval cues reactivate stored memory traces by providing relevant associations.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Retrieval cues facilitate recall by activating associated memory networks.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Retrieval Cues",
+            "Assertion-Reason"
+        ],
+        "id": "EDPSY-MEM-0074"
+    },
+    {
+        "question": "The 'Tip-of-the-Tongue' phenomenon is BEST explained as:",
+        "options": [
+            "Permanent loss of memory",
+            "A temporary retrieval failure despite knowing that the information has been learned",
+            "Failure of sensory memory",
+            "Complete forgetting due to decay"
+        ],
+        "answer": 1,
+        "explanation": "In the Tip-of-the-Tongue state, the information exists in memory but cannot be immediately retrieved.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Tip-of-the-Tongue",
+            "Retrieval Failure"
+        ],
+        "id": "EDPSY-MEM-0075"
+    },
+    {
+        "question": "Students who study in a quiet library often recall information better when examinations are conducted in a similar quiet environment. This illustrates:",
+        "options": [
+            "State-dependent Memory",
+            "Context-dependent Memory",
+            "Decay Theory",
+            "Interference Theory"
+        ],
+        "answer": 1,
+        "explanation": "Context-dependent memory suggests that recall improves when the learning and retrieval environments are similar.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Context-dependent Memory",
+            "Retrieval"
+        ],
+        "id": "EDPSY-MEM-0076"
+    },
+    {
+        "question": "A learner remembers information better when their emotional state during recall matches the emotional state during learning. This phenomenon is known as:",
+        "options": [
+            "Context-dependent Memory",
+            "State-dependent Memory",
+            "Retroactive Interference",
+            "Recognition"
+        ],
+        "answer": 1,
+        "explanation": "State-dependent memory occurs when recall is enhanced because the learner's internal physiological or emotional state is similar during learning and retrieval.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "State-dependent Memory",
+            "Retrieval"
+        ],
+        "id": "EDPSY-MEM-0077"
+    },
+    {
+        "question": "A Dy.E.O. advises teachers to provide multiple examples, diagrams and real-life situations while teaching new concepts. Which memory principle BEST supports this recommendation?",
+        "options": [
+            "Providing multiple retrieval cues improves later recall.",
+            "Students learn only through repetition.",
+            "Forgetting cannot be reduced.",
+            "Memory depends only on intelligence."
+        ],
+        "answer": 0,
+        "explanation": "Presenting information in multiple forms creates several retrieval pathways, making later recall more effective.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Retrieval Cues",
+            "DyEO",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0078"
+    },
+    {
+        "question": "Which of the following statements regarding forgetting are correct?\n\n1. Retrieval failure does not necessarily mean the memory has been erased.\n2. Context-dependent memory improves recall.\n3. Freud associated repression with motivated forgetting.\n4. Retrieval cues are completely unnecessary for recall.\n\nChoose the correct answer.",
+        "options": [
+            "1, 2 and 3 only",
+            "2 and 4 only",
+            "1 and 4 only",
+            "All four"
+        ],
+        "answer": 0,
+        "explanation": "Statements 1, 2 and 3 are correct. Retrieval cues often play a vital role in successful recall.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Forgetting",
+            "Multiple Statements",
+            "Retrieval"
+        ],
+        "id": "EDPSY-MEM-0079"
+    },
+    {
+        "question": "During a classroom inspection, a Dy.E.O. notices that teachers frequently connect new lessons with previously taught concepts, encourage students to explain ideas in different contexts and conduct periodic quizzes. Which conclusion BEST reflects modern memory theory?",
+        "options": [
+            "Multiple retrieval pathways and regular retrieval practice strengthen long-term retention.",
+            "Only repetition improves memory.",
+            "Forgetting cannot be influenced by teaching methods.",
+            "Retrieval cues reduce understanding."
+        ],
+        "answer": 0,
+        "explanation": "Modern memory research shows that retrieval practice, varied retrieval cues and meaningful connections improve long-term retention and reduce forgetting.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Retrieval Practice",
+            "DyEO",
+            "Educational Application",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0080"
+    },
+    {
+        "question": "Which study technique involves the five steps: Survey, Question, Read, Recite and Review?",
+        "options": [
+            "SQ3R Method",
+            "Mind Mapping",
+            "Chunking",
+            "Programmed Learning"
+        ],
+        "answer": 0,
+        "explanation": "The SQ3R method is an effective study strategy that promotes active reading and long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "SQ3R",
+            "Study Skills",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0081"
+    },
+    {
+        "question": "Using the acronym 'VIBGYOR' to remember the colours of the rainbow is an example of:",
+        "options": [
+            "Punishment",
+            "Mnemonic Technique",
+            "Decay Theory",
+            "Interference"
+        ],
+        "answer": 1,
+        "explanation": "Mnemonics use meaningful associations, acronyms or imagery to improve encoding and retrieval.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Mnemonics",
+            "Memory Improvement"
+        ],
+        "id": "EDPSY-MEM-0082"
+    },
+    {
+        "question": "Which practice generally produces better long-term retention than studying continuously for several hours in one sitting?",
+        "options": [
+            "Massed Practice",
+            "Distributed (Spaced) Practice",
+            "Last-minute cramming",
+            "Reading without revision"
+        ],
+        "answer": 1,
+        "explanation": "Distributed or spaced practice is more effective than massed practice because it reduces forgetting and strengthens long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Spaced Practice",
+            "Distributed Practice"
+        ],
+        "id": "EDPSY-MEM-0083"
+    },
+    {
+        "question": "Assertion (A): Overlearning improves long-term retention.\nReason (R): Continued practice after mastery strengthens memory traces.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Overlearning strengthens retrieval pathways by continuing practice even after the material has been mastered.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Overlearning",
+            "Assertion-Reason"
+        ],
+        "id": "EDPSY-MEM-0084"
+    },
+    {
+        "question": "A teacher asks students to prepare concept maps showing relationships among ideas. Which memory strategy is primarily being used?",
+        "options": [
+            "Mind Mapping",
+            "Punishment",
+            "Sensory Adaptation",
+            "Interference"
+        ],
+        "answer": 0,
+        "explanation": "Mind maps organize information visually, helping learners encode and retrieve concepts more effectively.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Mind Mapping",
+            "Organization",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0085"
+    },
+    {
+        "question": "A Dy.E.O. observes that teachers regularly conduct weekly quizzes instead of relying only on annual examinations. Which memory principle BEST supports this practice?",
+        "options": [
+            "Retrieval Practice strengthens long-term retention.",
+            "Punishment improves recall.",
+            "Massed Practice is always superior.",
+            "Revision has little effect on memory."
+        ],
+        "answer": 0,
+        "explanation": "Regular low-stakes quizzes encourage retrieval practice, which is one of the most effective ways to strengthen long-term memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Retrieval Practice",
+            "DyEO",
+            "Assessment"
+        ],
+        "id": "EDPSY-MEM-0086"
+    },
+    {
+        "question": "Which classroom strategy is MOST effective for improving meaningful encoding?",
+        "options": [
+            "Connecting new concepts with prior knowledge",
+            "Reading the same sentence repeatedly without understanding",
+            "Avoiding student discussion",
+            "Teaching isolated facts only"
+        ],
+        "answer": 0,
+        "explanation": "Meaningful encoding occurs when learners connect new information with existing knowledge structures.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Meaningful Learning",
+            "Encoding"
+        ],
+        "id": "EDPSY-MEM-0087"
+    },
+    {
+        "question": "Which of the following are recognised techniques for improving memory?\n\n1. Mnemonics\n2. Spaced Practice\n3. Retrieval Practice\n4. Mind Mapping",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2, 3 and 4",
+            "1, 3 and 4 only"
+        ],
+        "answer": 2,
+        "explanation": "All four techniques are supported by educational psychology research as effective methods for improving learning and memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Memory Improvement",
+            "Multiple Statements"
+        ],
+        "id": "EDPSY-MEM-0088"
+    },
+    {
+        "question": "A student studies for 30 minutes every day over two weeks rather than studying for seven hours the night before the examination. Which principle explains the greater effectiveness of the first approach?",
+        "options": [
+            "Distributed Practice",
+            "Decay Theory",
+            "Interference Theory",
+            "Sensory Memory"
+        ],
+        "answer": 0,
+        "explanation": "Distributed practice allows repeated consolidation over time and is far more effective than massed practice for long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Distributed Practice",
+            "Study Skills"
+        ],
+        "id": "EDPSY-MEM-0089"
+    },
+    {
+        "question": "During a school inspection, a Dy.E.O. finds that teachers use retrieval practice, concept maps, spaced revision, mnemonic devices and real-life examples in every lesson. Which conclusion BEST reflects current educational psychology?",
+        "options": [
+            "These evidence-based strategies strengthen encoding, retrieval and long-term retention.",
+            "Only repetition is necessary for effective memory.",
+            "Memory depends entirely on intelligence.",
+            "These strategies reduce meaningful learning."
+        ],
+        "answer": 0,
+        "explanation": "Research consistently shows that combining multiple evidence-based learning strategies produces deeper understanding and durable long-term memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
         "difficulty": "Difficult",
         "language": "English",
         "tags": [
             "DyEO",
-            "Educational Applications",
-            "Skinner",
-            "Programmed Learning"
+            "Memory Improvement",
+            "Educational Application"
         ],
-        "id": "EDPSY-LRN-0100"
+        "id": "EDPSY-MEM-0090"
+    },
+    {
+        "question": "Which sequence correctly represents the flow of information in the Atkinson-Shiffrin Multi-store Model?",
+        "options": [
+            "Long-Term Memory → Sensory Memory → Short-Term Memory",
+            "Sensory Memory → Short-Term Memory → Long-Term Memory",
+            "Short-Term Memory → Sensory Memory → Long-Term Memory",
+            "Working Memory → Sensory Memory → Long-Term Memory"
+        ],
+        "answer": 1,
+        "explanation": "According to the Atkinson-Shiffrin model, information passes from Sensory Memory to Short-Term Memory and finally to Long-Term Memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Atkinson-Shiffrin",
+            "Memory Models"
+        ],
+        "id": "EDPSY-MEM-0091"
+    },
+    {
+        "question": "Assertion (A): Working Memory is more than temporary storage.\nReason (R): It actively manipulates information during thinking, reasoning and problem solving.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Working Memory is an active processing system that temporarily stores and manipulates information required for complex cognitive tasks.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Working Memory",
+            "Assertion-Reason"
+        ],
+        "id": "EDPSY-MEM-0092"
+    },
+    {
+        "question": "A student learns a poem through repeated rehearsal but remembers it much better after understanding its meaning and relating it to personal experiences. Which principle best explains this improvement?",
+        "options": [
+            "Elaborative Encoding",
+            "Decay Theory",
+            "Sensory Adaptation",
+            "Retroactive Interference"
+        ],
+        "answer": 0,
+        "explanation": "Elaborative encoding creates meaningful associations, leading to stronger long-term retention than simple repetition.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Elaborative Encoding",
+            "Meaningful Learning"
+        ],
+        "id": "EDPSY-MEM-0093"
+    },
+    {
+        "question": "Which combination correctly matches the memory system with its function?\n\n1. Iconic Memory — Visual information\n2. Echoic Memory — Auditory information\n3. Working Memory — Active processing\n4. Long-Term Memory — Permanent storage",
+        "options": [
+            "1, 2 and 3 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4",
+            "1 and 4 only"
+        ],
+        "answer": 2,
+        "explanation": "All four pairs are correct according to contemporary models of memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Memory Systems",
+            "Multiple Statements"
+        ],
+        "id": "EDPSY-MEM-0094"
+    },
+    {
+        "question": "Which classroom practice is LEAST likely to improve long-term retention?",
+        "options": [
+            "Spaced revision",
+            "Retrieval practice",
+            "Meaningful discussion",
+            "Last-minute cramming"
+        ],
+        "answer": 3,
+        "explanation": "Massed practice or cramming generally produces poorer long-term retention than spaced and meaningful learning.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Study Skills",
+            "Memory Improvement"
+        ],
+        "id": "EDPSY-MEM-0095"
+    },
+    {
+        "question": "A Dy.E.O. notices that teachers frequently ask students to explain concepts, teach classmates and solve unfamiliar problems rather than merely copy notes. Which memory principle is primarily reflected?",
+        "options": [
+            "Active retrieval and meaningful processing strengthen memory.",
+            "Punishment improves retention.",
+            "Sensory memory alone determines learning.",
+            "Memory depends only on repetition."
+        ],
+        "answer": 0,
+        "explanation": "Explaining concepts and solving problems require active retrieval and elaboration, both of which strengthen long-term memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "DyEO",
+            "Retrieval Practice",
+            "Educational Application"
+        ],
+        "id": "EDPSY-MEM-0096"
+    },
+    {
+        "question": "Which memory process is directly assessed when a student writes an essay without any textbook or prompts?",
+        "options": [
+            "Recognition",
+            "Recall",
+            "Encoding",
+            "Sensory Registration"
+        ],
+        "answer": 1,
+        "explanation": "Essay writing requires free recall because information must be retrieved without external cues.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Recall",
+            "Assessment"
+        ],
+        "id": "EDPSY-MEM-0097"
+    },
+    {
+        "question": "Which of the following strategies would BEST reduce forgetting throughout an academic year?",
+        "options": [
+            "Studying only before examinations",
+            "Weekly spaced revision combined with retrieval practice",
+            "Reading notes once without testing",
+            "Learning only through memorization"
+        ],
+        "answer": 1,
+        "explanation": "Regular spaced revision together with retrieval practice consistently produces the strongest long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Spaced Practice",
+            "Retrieval Practice"
+        ],
+        "id": "EDPSY-MEM-0098"
+    },
+    {
+        "question": "Which statement best summarizes modern educational psychology regarding memory?",
+        "options": [
+            "Memory depends only on intelligence.",
+            "Memory improves through meaningful encoding, active retrieval, spaced practice and appropriate organization of learning.",
+            "Repeated copying is the most effective memory strategy.",
+            "Forgetting cannot be influenced by teaching."
+        ],
+        "answer": 1,
+        "explanation": "Current research emphasizes meaningful learning, retrieval practice, spacing and organization as evidence-based strategies for improving memory.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Modern Memory Theory",
+            "Educational Psychology"
+        ],
+        "id": "EDPSY-MEM-0099"
+    },
+    {
+        "question": "During a district school inspection, a Dy.E.O. finds that teachers use concept maps, retrieval quizzes, spaced revision, mnemonics, collaborative discussion, practical activities and reflective questioning throughout the year. Which conclusion BEST reflects contemporary educational psychology?",
+        "options": [
+            "The teachers are applying multiple evidence-based principles that strengthen encoding, storage and retrieval of information.",
+            "The teachers are relying entirely on rote memorization.",
+            "The teaching methods are suitable only for gifted learners.",
+            "These strategies have little influence on long-term memory."
+        ],
+        "answer": 0,
+        "explanation": "Combining evidence-based strategies such as meaningful encoding, retrieval practice, spaced revision and elaboration produces durable learning and long-term retention.",
+        "subject": "Educational Psychology",
+        "topic": "Memory",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "DyEO",
+            "Educational Application",
+            "Evidence-based Teaching",
+            "Memory"
+        ],
+        "id": "EDPSY-MEM-0100"
     }
 ];
 
