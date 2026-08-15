@@ -1,0 +1,2111 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "topic": "Intelligence",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed",
+    "version": "1.0"
+  },
+  "questions": [
+
+  {
+"id":"EDPSY-INT-0001",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following BEST defines intelligence?",
+"options":{
+"A":"The ability to memorize facts only",
+"B":"The ability to learn from experience, solve problems and adapt effectively to the environment",
+"C":"The ability to speak many languages",
+"D":"The ability to perform physical activities"
+},
+"correctAnswer":"B",
+"explanation":"Intelligence refers to the capacity to learn, reason, solve problems and adapt effectively to new situations.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Definition","Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0002",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which psychologist defined intelligence as 'the aggregate or global capacity of the individual to act purposefully, think rationally and deal effectively with the environment'?",
+"options":{
+"A":"Charles Spearman",
+"B":"Alfred Binet",
+"C":"David Wechsler",
+"D":"Howard Gardner"
+},
+"correctAnswer":"C",
+"explanation":"David Wechsler defined intelligence as the aggregate or global capacity to act purposefully, think rationally and deal effectively with the environment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Wechsler","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0003",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"According to Alfred Binet, intelligence is BEST understood as the ability to:",
+"options":{
+"A":"Remember facts permanently",
+"B":"Judge well, understand well and reason well",
+"C":"Speak fluently",
+"D":"Develop physical strength"
+},
+"correctAnswer":"B",
+"explanation":"Alfred Binet emphasized judgment, understanding and reasoning as the essential components of intelligence.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Binet","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0004",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): Intelligence enables individuals to adapt successfully to new situations.\nReason (R): Intelligent behaviour involves flexible thinking and effective problem-solving.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Adaptation and problem-solving are fundamental characteristics of intelligent behaviour.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Adaptation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0005",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which characteristic is MOST closely associated with intelligence?",
+"options":{
+"A":"Rigid thinking",
+"B":"Ability to adapt to changing situations",
+"C":"Physical strength",
+"D":"Mechanical repetition"
+},
+"correctAnswer":"B",
+"explanation":"Adaptability is one of the most important characteristics of intelligence.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Characteristics","Adaptation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0006",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student applies previously learned mathematical concepts to solve a new real-life problem. Which characteristic of intelligence is BEST illustrated?",
+"options":{
+"A":"Adaptation and transfer of learning",
+"B":"Mechanical memorization",
+"C":"Conditioned response",
+"D":"Trial and error"
+},
+"correctAnswer":"A",
+"explanation":"Applying prior knowledge to novel situations demonstrates adaptive intelligence and transfer of learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Application","Adaptation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0007",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. observes that teachers encourage students to analyse problems, generate multiple solutions and justify their answers. Which aspect of intelligence is primarily being developed?",
+"options":{
+"A":"Rote memory",
+"B":"Reasoning and problem-solving",
+"C":"Habit formation",
+"D":"Motor coordination"
+},
+"correctAnswer":"B",
+"explanation":"Reasoning and problem-solving are core indicators of intelligent behaviour.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0008",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which statement BEST distinguishes intelligence from mere acquisition of knowledge?",
+"options":{
+"A":"Knowledge and intelligence are identical.",
+"B":"Intelligence involves the effective use of knowledge to solve problems, whereas knowledge refers to accumulated information.",
+"C":"Knowledge is inherited, intelligence is learned.",
+"D":"Only intelligence can be measured."
+},
+"correctAnswer":"B",
+"explanation":"Knowledge represents information acquired, whereas intelligence is the ability to use that knowledge effectively.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Knowledge vs Intelligence","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0009",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following statements are correct?\n\n1. Intelligence involves reasoning.\n2. Intelligence supports adaptation.\n3. Intelligence facilitates problem-solving.\n4. Intelligence is limited only to academic performance.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Reasoning, adaptation and problem-solving are essential aspects of intelligence. It is not limited to academic achievement.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Characteristics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0010",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a school inspection, a Dy.E.O. notices that classroom activities encourage critical thinking, creativity, decision-making and application of knowledge to unfamiliar situations. Which conclusion BEST reflects modern educational psychology?",
+"options":{
+"A":"The school is fostering the development of intelligence through higher-order thinking skills.",
+"B":"The school focuses only on memorization.",
+"C":"Intelligence develops only through examinations.",
+"D":"Creativity is unrelated to intelligence."
+},
+"correctAnswer":"A",
+"explanation":"Higher-order thinking, application, creativity and critical reasoning are key indicators of intelligent behaviour and are central to modern educational practice.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Higher-Order Thinking","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+  
+{
+"id":"EDPSY-INT-0011",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Who defined intelligence as 'the ability to carry on abstract thinking'?",
+"options":{
+"A":"Edward L. Thorndike",
+"B":"Lewis M. Terman",
+"C":"Charles Spearman",
+"D":"Alfred Adler"
+},
+"correctAnswer":"B",
+"explanation":"Lewis M. Terman defined intelligence as the ability to carry on abstract thinking.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Terman","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0012",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"According to Edward L. Thorndike, intelligence is primarily the ability to:",
+"options":{
+"A":"Form useful connections and respond successfully to situations",
+"B":"Memorize facts quickly",
+"C":"Develop physical coordination",
+"D":"Acquire language automatically"
+},
+"correctAnswer":"A",
+"explanation":"Thorndike viewed intelligence as the power of making good responses from the standpoint of truth or facts through appropriate connections.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Thorndike","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0013",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following is NOT considered a characteristic of intelligence?",
+"options":{
+"A":"Ability to reason logically",
+"B":"Capacity to adapt to new situations",
+"C":"Permanent resistance to change",
+"D":"Problem-solving ability"
+},
+"correctAnswer":"C",
+"explanation":"Intelligence promotes flexibility and adaptation, not resistance to change.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Characteristics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0014",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): Intelligent individuals generally learn from experience.\nReason (R): Intelligence involves modifying behaviour based on previous experiences.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Learning from experience and adapting behaviour accordingly are important characteristics of intelligence.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Learning"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0015",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student quickly understands a new scientific concept and successfully applies it in an unfamiliar situation. Which characteristic of intelligence is BEST demonstrated?",
+"options":{
+"A":"Mechanical learning",
+"B":"Transfer and application of knowledge",
+"C":"Habit formation",
+"D":"Simple conditioning"
+},
+"correctAnswer":"B",
+"explanation":"The effective transfer of knowledge to new situations is a major indicator of intelligence.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Transfer of Learning","Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0016",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which characteristic MOST clearly distinguishes intelligence from memory?",
+"options":{
+"A":"Both involve only recall.",
+"B":"Intelligence emphasizes reasoning and problem-solving, whereas memory emphasizes retention and recall.",
+"C":"Memory measures creativity.",
+"D":"There is no difference between them."
+},
+"correctAnswer":"B",
+"explanation":"Memory concerns storage and retrieval of information, whereas intelligence involves reasoning, judgment and adaptation.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Memory vs Intelligence","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0017",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. observes that teachers regularly encourage students to analyse, evaluate and justify their answers instead of memorizing textbook content. Which aspect of intelligence is primarily being developed?",
+"options":{
+"A":"Rote learning",
+"B":"Higher-order reasoning",
+"C":"Conditioned responses",
+"D":"Mechanical practice"
+},
+"correctAnswer":"B",
+"explanation":"Analysis, evaluation and justification develop reasoning, which is a major component of intelligence.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Higher-order Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0018",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which statement BEST reflects the modern educational view of intelligence?",
+"options":{
+"A":"Intelligence is fixed at birth and cannot change.",
+"B":"Intelligence consists only of language and mathematics.",
+"C":"Intelligence includes reasoning, problem-solving, creativity and successful adaptation.",
+"D":"Only examination marks indicate intelligence."
+},
+"correctAnswer":"C",
+"explanation":"Modern psychology views intelligence as a broad capacity involving reasoning, creativity, adaptation and effective problem-solving.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Modern View","Characteristics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0019",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following statements are correct?\n\n1. Intelligence helps individuals adapt to changing situations.\n2. Intelligence includes reasoning and judgment.\n3. Intelligence is broader than academic achievement.\n4. Intelligence is measured only through memory tests.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Intelligence is broader than memory or academic performance and includes reasoning, judgment and adaptation.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Characteristics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0020",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a district inspection, a Dy.E.O. notices that classrooms emphasize inquiry-based learning, critical thinking, creativity and collaborative problem-solving instead of rote memorization. Which conclusion BEST reflects current educational psychology?",
+"options":{
+"A":"The schools are promoting the development of intelligence through meaningful learning experiences.",
+"B":"The schools are reducing academic standards.",
+"C":"Only memory contributes to intelligence.",
+"D":"Intelligence develops only through examinations."
+},
+"correctAnswer":"A",
+"explanation":"Inquiry, critical thinking and authentic problem-solving develop intelligence more effectively than rote memorization.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","Critical Thinking"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0021",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Who proposed the Two-Factor Theory of Intelligence?",
+"options":{
+"A":"L. L. Thurstone",
+"B":"Charles Spearman",
+"C":"J. P. Guilford",
+"D":"Howard Gardner"
+},
+"correctAnswer":"B",
+"explanation":"Charles Spearman proposed the Two-Factor Theory in 1904, stating that intelligence consists of a General Factor (g) and Specific Factors (s).",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Spearman","Two-Factor Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0022",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"According to Spearman, the General Factor (g) refers to:",
+"options":{
+"A":"A specific skill required for one task",
+"B":"A common mental ability underlying performance in different intellectual activities",
+"C":"Physical strength",
+"D":"Memory alone"
+},
+"correctAnswer":"B",
+"explanation":"The General Factor (g) is a common mental ability that influences performance across various intellectual tasks.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["General Factor","Spearman"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0023",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"According to Spearman, the Specific Factor (s) refers to:",
+"options":{
+"A":"General reasoning ability",
+"B":"Ability common to all tasks",
+"C":"Ability required for a particular task or activity",
+"D":"Emotional intelligence"
+},
+"correctAnswer":"C",
+"explanation":"Specific factors are abilities unique to a particular task such as solving a mathematics problem or playing a musical instrument.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Specific Factor","Spearman"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0024",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): Every intellectual activity requires both General and Specific factors.\nReason (R): General intelligence alone is sufficient to perform every task successfully.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"C",
+"explanation":"According to Spearman, every task requires both g and s factors. General intelligence alone is not sufficient for every activity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Spearman"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0025",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student performs well in mathematics, science and reasoning tests because of strong general intellectual ability. Which factor primarily explains this performance?",
+"options":{
+"A":"Specific Factor",
+"B":"General Factor",
+"C":"Social Intelligence",
+"D":"Practical Intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Performance across different intellectual activities is mainly influenced by Spearman's General Factor (g).",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["General Intelligence","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0026",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student excels in painting but performs only average in other academic subjects. According to Spearman, this excellence is mainly due to:",
+"options":{
+"A":"General Factor",
+"B":"Specific Factor",
+"C":"Fluid Intelligence",
+"D":"Emotional Intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Exceptional performance in a particular area is explained by a strong Specific Factor (s).",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Specific Ability","Spearman"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0027",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. notices that a student consistently performs well across languages, mathematics, science and logical reasoning. Which theory BEST explains this pattern?",
+"options":{
+"A":"Gardner's Multiple Intelligences",
+"B":"Spearman's Two-Factor Theory",
+"C":"Thurstone's Primary Mental Abilities",
+"D":"Sternberg's Triarchic Theory"
+},
+"correctAnswer":"B",
+"explanation":"Spearman's theory explains consistently high performance across subjects through the General Factor (g).",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Spearman","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0028",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which statement BEST distinguishes General Factor (g) from Specific Factor (s)?",
+"options":{
+"A":"Both represent the same mental ability.",
+"B":"General Factor influences all intellectual tasks, whereas Specific Factor is unique to a particular task.",
+"C":"Specific Factor influences all activities equally.",
+"D":"General Factor exists only in mathematics."
+},
+"correctAnswer":"B",
+"explanation":"The General Factor contributes to performance across tasks, while the Specific Factor is unique to individual activities.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","g Factor","s Factor"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0029",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following statements are correct?\n\n1. Spearman proposed the Two-Factor Theory.\n2. General Factor influences all intellectual activities.\n3. Specific Factor is unique to particular tasks.\n4. Spearman rejected the existence of General Intelligence.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Spearman strongly supported the existence of General Intelligence (g).",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Spearman"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0030",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a district inspection, a Dy.E.O. observes that one student performs consistently well in almost every subject, while another excels only in music. Which conclusion BEST reflects Spearman's theory?",
+"options":{
+"A":"The first student has a strong General Factor (g), whereas the second demonstrates a strong Specific Factor (s).",
+"B":"Both students possess only Specific Factors.",
+"C":"Both students possess only General Intelligence.",
+"D":"The theory cannot explain differences in performance."
+},
+"correctAnswer":"A",
+"explanation":"Spearman's theory explains broad academic success through the General Factor and exceptional ability in a specific area through the Specific Factor.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Spearman","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0031",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Who proposed the Theory of Primary Mental Abilities (PMA)?",
+"options":{
+"A":"Charles Spearman",
+"B":"L. L. Thurstone",
+"C":"J. P. Guilford",
+"D":"Howard Gardner"
+},
+"correctAnswer":"B",
+"explanation":"L. L. Thurstone proposed the Primary Mental Abilities Theory, arguing that intelligence consists of several relatively independent mental abilities rather than one general factor.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Thurstone","Primary Mental Abilities"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0032",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"How many Primary Mental Abilities were originally identified by Thurstone?",
+"options":{
+"A":"Five",
+"B":"Six",
+"C":"Seven",
+"D":"Nine"
+},
+"correctAnswer":"C",
+"explanation":"Thurstone identified seven Primary Mental Abilities: Verbal Comprehension, Word Fluency, Number, Spatial Visualization, Associative Memory, Perceptual Speed and Reasoning.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Seven PMAs","Thurstone"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0033",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which Primary Mental Ability refers to understanding the meaning of words and language?",
+"options":{
+"A":"Number",
+"B":"Verbal Comprehension",
+"C":"Spatial Visualization",
+"D":"Perceptual Speed"
+},
+"correctAnswer":"B",
+"explanation":"Verbal Comprehension is the ability to understand words, language and verbal relationships.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Verbal Comprehension","Thurstone"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0034",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): Thurstone rejected the idea that intelligence depends entirely on one general factor.\nReason (R): He proposed several relatively independent primary mental abilities.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Thurstone challenged Spearman's single general intelligence by proposing multiple primary mental abilities.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Thurstone"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0035",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student performs exceptionally well in geometry, map reading and mental rotation tasks. Which Primary Mental Ability is most evident?",
+"options":{
+"A":"Number",
+"B":"Reasoning",
+"C":"Spatial Visualization",
+"D":"Word Fluency"
+},
+"correctAnswer":"C",
+"explanation":"Spatial Visualization refers to the ability to imagine, manipulate and understand spatial relationships.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Spatial Visualization","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0036",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which Primary Mental Ability is mainly involved in solving arithmetic and numerical problems?",
+"options":{
+"A":"Associative Memory",
+"B":"Number",
+"C":"Word Fluency",
+"D":"Perceptual Speed"
+},
+"correctAnswer":"B",
+"explanation":"The Number ability refers to speed and accuracy in numerical computations.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Number Ability","Thurstone"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0037",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. observes that one student excels in language, another in mathematics and another in spatial tasks. Which theory BEST explains these differences?",
+"options":{
+"A":"Spearman's Two-Factor Theory",
+"B":"Thurstone's Primary Mental Abilities",
+"C":"Drive Reduction Theory",
+"D":"Classical Conditioning"
+},
+"correctAnswer":"B",
+"explanation":"Thurstone's theory explains intelligence as a set of several relatively independent mental abilities.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Thurstone","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0038",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which statement BEST distinguishes Thurstone's theory from Spearman's theory?",
+"options":{
+"A":"Thurstone emphasized several primary abilities, whereas Spearman emphasized one General Factor with Specific Factors.",
+"B":"Both theories are identical.",
+"C":"Spearman rejected intelligence testing.",
+"D":"Thurstone proposed only one intelligence factor."
+},
+"correctAnswer":"A",
+"explanation":"Thurstone proposed multiple primary abilities, while Spearman proposed one general factor (g) supported by specific factors (s).",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Spearman vs Thurstone"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0039",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following are Primary Mental Abilities according to Thurstone?\n\n1. Verbal Comprehension\n2. Spatial Visualization\n3. Number\n4. Word Fluency\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four listed abilities are included among Thurstone's Primary Mental Abilities.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Thurstone"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0040",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a district inspection, a Dy.E.O. finds that schools assess students through language tasks, numerical reasoning, spatial activities, memory exercises and logical thinking instead of relying on a single test. Which conclusion BEST reflects Thurstone's theory?",
+"options":{
+"A":"The schools are recognising multiple primary mental abilities rather than depending on a single general intelligence score.",
+"B":"The schools are rejecting intelligence assessment.",
+"C":"Only memory determines intelligence.",
+"D":"All students possess identical abilities."
+},
+"correctAnswer":"A",
+"explanation":"Thurstone believed intelligence consists of several relatively independent mental abilities, each of which should be assessed appropriately.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Thurstone","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0041",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Who proposed the Structure of Intellect (SOI) Model of Intelligence?",
+"options":{
+"A":"Charles Spearman",
+"B":"L. L. Thurstone",
+"C":"J. P. Guilford",
+"D":"Howard Gardner"
+},
+"correctAnswer":"C",
+"explanation":"J. P. Guilford proposed the Structure of Intellect Model, explaining intelligence through the interaction of Operations, Contents and Products.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Guilford","SOI Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0042",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"According to Guilford, intelligence is the interaction of:",
+"options":{
+"A":"General and Specific Factors",
+"B":"Needs and Drives",
+"C":"Operations, Contents and Products",
+"D":"Verbal and Non-verbal Abilities"
+},
+"correctAnswer":"C",
+"explanation":"Guilford explained intelligence through three dimensions: Operations, Contents and Products.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Operations","Contents","Products"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0043",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following is NOT one of Guilford's three dimensions of intelligence?",
+"options":{
+"A":"Operations",
+"B":"Contents",
+"C":"Products",
+"D":"Hierarchy"
+},
+"correctAnswer":"D",
+"explanation":"Hierarchy is not one of Guilford's dimensions. His model consists of Operations, Contents and Products.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["SOI Model"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0044",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): Guilford believed intelligence consists of many independent abilities.\nReason (R): Different combinations of Operations, Contents and Products produce numerous intellectual abilities.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Guilford proposed that intelligence consists of many distinct abilities formed by combinations of the three dimensions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","SOI"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0045",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which operation in Guilford's model is most closely associated with creativity and generating many possible solutions?",
+"options":{
+"A":"Memory",
+"B":"Evaluation",
+"C":"Divergent Production",
+"D":"Cognition"
+},
+"correctAnswer":"C",
+"explanation":"Divergent Production is the ability to generate multiple, varied and original solutions, making it closely related to creativity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Divergent Thinking","Creativity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0046",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which operation is mainly involved in selecting the single best answer to a problem?",
+"options":{
+"A":"Divergent Production",
+"B":"Convergent Production",
+"C":"Memory",
+"D":"Evaluation"
+},
+"correctAnswer":"B",
+"explanation":"Convergent Production focuses on arriving at one correct or best solution.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Convergent Thinking","SOI"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0047",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. observes that teachers encourage brainstorming, multiple solutions and creative projects. Which aspect of Guilford's theory is mainly reflected?",
+"options":{
+"A":"Convergent Production",
+"B":"Evaluation",
+"C":"Divergent Production",
+"D":"Memory"
+},
+"correctAnswer":"C",
+"explanation":"Brainstorming and generating many possible ideas are examples of Divergent Production.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Creativity","Guilford"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0048",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which statement BEST distinguishes Guilford's theory from Spearman's theory?",
+"options":{
+"A":"Guilford proposed numerous independent intellectual abilities, whereas Spearman emphasized one General Factor.",
+"B":"Both theories describe only one intelligence factor.",
+"C":"Spearman rejected intelligence testing.",
+"D":"Guilford ignored creativity."
+},
+"correctAnswer":"A",
+"explanation":"Unlike Spearman's General Intelligence, Guilford proposed a multidimensional model consisting of many independent abilities.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Spearman vs Guilford"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0049",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following statements are correct?\n\n1. Guilford proposed the Structure of Intellect Model.\n2. Divergent Production is associated with creativity.\n3. Intelligence consists of Operations, Contents and Products.\n4. Guilford accepted only one General Intelligence.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Guilford rejected the idea that intelligence consists of only one general factor.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","SOI"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0050",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a district inspection, a Dy.E.O. notices that schools assess students through creative writing, problem-solving, visual reasoning, memory tasks and evaluation activities. Which conclusion BEST reflects Guilford's Structure of Intellect Theory?",
+"options":{
+"A":"The schools are recognising multiple dimensions of intelligence through different operations, contents and products.",
+"B":"The schools rely only on General Intelligence.",
+"C":"Creativity has no role in intelligence assessment.",
+"D":"Only memory should be assessed."
+},
+"correctAnswer":"A",
+"explanation":"Guilford's SOI model supports assessing multiple intellectual abilities rather than relying on a single intelligence score.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","SOI","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0051",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Who proposed the Theory of Multiple Intelligences?",
+"options":{
+"A":"Charles Spearman",
+"B":"Howard Gardner",
+"C":"J. P. Guilford",
+"D":"L. L. Thurstone"
+},
+"correctAnswer":"B",
+"explanation":"Howard Gardner proposed the Theory of Multiple Intelligences in 1983, arguing that intelligence is multidimensional rather than a single general ability.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Howard Gardner","Multiple Intelligences"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0052",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"According to Gardner's original theory, how many intelligences were initially proposed?",
+"options":{
+"A":"Five",
+"B":"Seven",
+"C":"Eight",
+"D":"Nine"
+},
+"correctAnswer":"B",
+"explanation":"Gardner initially proposed seven intelligences in 1983. Later he added Naturalistic Intelligence and discussed Existential Intelligence as a possible addition.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Gardner","Original Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0053",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which intelligence is primarily associated with effective use of language in speaking, reading and writing?",
+"options":{
+"A":"Logical-Mathematical Intelligence",
+"B":"Linguistic Intelligence",
+"C":"Spatial Intelligence",
+"D":"Naturalistic Intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Linguistic Intelligence refers to sensitivity to spoken and written language and the ability to use language effectively.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Linguistic Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0054",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): Gardner believed every individual possesses more than one type of intelligence.\nReason (R): Different individuals demonstrate different strengths across various domains.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Gardner argued that intelligence is multifaceted and individuals show different profiles of strengths.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Gardner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0055",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student excels in solving mathematical puzzles and identifying logical patterns. Which intelligence is most dominant?",
+"options":{
+"A":"Musical Intelligence",
+"B":"Logical-Mathematical Intelligence",
+"C":"Interpersonal Intelligence",
+"D":"Bodily-Kinesthetic Intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Logical-Mathematical Intelligence involves reasoning, numerical ability and logical problem-solving.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Logical-Mathematical Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0056",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which intelligence enables a person to understand the feelings, intentions and behaviour of other people?",
+"options":{
+"A":"Intrapersonal Intelligence",
+"B":"Interpersonal Intelligence",
+"C":"Spatial Intelligence",
+"D":"Naturalistic Intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Interpersonal Intelligence involves understanding and interacting effectively with others.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Interpersonal Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0057",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. observes that a school provides music clubs, sports, debates, gardening, science laboratories and drama activities. Which theory BEST supports such a curriculum?",
+"options":{
+"A":"Spearman's Two-Factor Theory",
+"B":"Gardner's Multiple Intelligences Theory",
+"C":"Thurstone's PMA Theory",
+"D":"Drive Reduction Theory"
+},
+"correctAnswer":"B",
+"explanation":"Gardner's theory recommends providing diverse learning experiences that nurture different kinds of intelligence.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Gardner","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0058",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which comparison correctly distinguishes Interpersonal Intelligence from Intrapersonal Intelligence?",
+"options":{
+"A":"Interpersonal Intelligence concerns understanding oneself, whereas Intrapersonal Intelligence concerns understanding others.",
+"B":"Interpersonal Intelligence concerns understanding others, whereas Intrapersonal Intelligence concerns understanding oneself.",
+"C":"Both are identical.",
+"D":"Neither relates to emotions."
+},
+"correctAnswer":"B",
+"explanation":"Interpersonal Intelligence involves understanding others, whereas Intrapersonal Intelligence involves self-awareness and understanding one's own feelings and motivations.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Interpersonal","Intrapersonal","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0059",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following are included in Gardner's Multiple Intelligences?\n\n1. Linguistic Intelligence\n2. Logical-Mathematical Intelligence\n3. Musical Intelligence\n4. Bodily-Kinesthetic Intelligence\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four are among Gardner's Multiple Intelligences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Gardner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0060",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a district inspection, a Dy.E.O. finds that teachers assess students using debates, projects, experiments, artwork, music, sports, nature observation and reflective journals instead of only written examinations. Which conclusion BEST reflects Gardner's theory?",
+"options":{
+"A":"The schools are recognising multiple forms of intelligence and providing varied opportunities for students to demonstrate their strengths.",
+"B":"Only linguistic ability determines intelligence.",
+"C":"Written examinations alone measure intelligence accurately.",
+"D":"Creativity has little relationship with intelligence."
+},
+"correctAnswer":"A",
+"explanation":"Gardner's theory supports diversified instruction and assessment because learners possess different combinations of intelligences.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Gardner","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0061",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Who proposed the Triarchic Theory of Intelligence?",
+"options":{
+"A":"Howard Gardner",
+"B":"Robert J. Sternberg",
+"C":"Charles Spearman",
+"D":"J. P. Guilford"
+},
+"correctAnswer":"B",
+"explanation":"Robert J. Sternberg proposed the Triarchic Theory, which classifies intelligence into Analytical, Creative and Practical intelligence.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Sternberg","Triarchic Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0062",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"According to Sternberg, intelligence consists of which three components?",
+"options":{
+"A":"General, Specific and Emotional",
+"B":"Analytical, Creative and Practical",
+"C":"Verbal, Numerical and Spatial",
+"D":"Fluid, Crystallized and Emotional"
+},
+"correctAnswer":"B",
+"explanation":"Sternberg proposed that intelligence has three interacting components: Analytical, Creative and Practical intelligence.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Analytical","Creative","Practical"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0063",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student performs exceptionally well in solving examination problems using logical reasoning. Which component of Sternberg's theory is MOST evident?",
+"options":{
+"A":"Creative Intelligence",
+"B":"Practical Intelligence",
+"C":"Analytical Intelligence",
+"D":"Naturalistic Intelligence"
+},
+"correctAnswer":"C",
+"explanation":"Analytical Intelligence refers to analysing, evaluating and solving academic or logical problems.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Analytical Intelligence","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0064",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): Creative intelligence helps individuals deal with novel situations.\nReason (R): Creative intelligence enables people to generate original ideas and adapt to unfamiliar problems.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Creative Intelligence helps individuals respond effectively to new situations by generating innovative solutions.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Creative Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0065",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student designs a unique low-cost science model using locally available materials. Which component of Sternberg's theory is BEST illustrated?",
+"options":{
+"A":"Analytical Intelligence",
+"B":"Creative Intelligence",
+"C":"Practical Intelligence",
+"D":"Verbal Intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Creative Intelligence involves originality, imagination and finding innovative solutions to problems.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Creative Intelligence","Innovation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0066",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which component of Sternberg's theory is commonly described as 'street smart'?",
+"options":{
+"A":"Analytical Intelligence",
+"B":"Creative Intelligence",
+"C":"Practical Intelligence",
+"D":"Emotional Intelligence"
+},
+"correctAnswer":"C",
+"explanation":"Practical Intelligence refers to applying knowledge effectively in everyday life and adapting to real-world situations.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Practical Intelligence","Street Smart"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0067",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. observes that students solve textbook problems, develop innovative projects and successfully organize community awareness programmes. Which theory BEST explains these diverse abilities?",
+"options":{
+"A":"Spearman's Two-Factor Theory",
+"B":"Sternberg's Triarchic Theory",
+"C":"Thurstone's PMA Theory",
+"D":"Drive Reduction Theory"
+},
+"correctAnswer":"B",
+"explanation":"Analytical, Creative and Practical intelligence together explain academic performance, innovation and real-life application.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Triarchic Theory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0068",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which statement BEST distinguishes Analytical Intelligence from Practical Intelligence?",
+"options":{
+"A":"Analytical Intelligence is used in daily life, whereas Practical Intelligence is used in examinations.",
+"B":"Analytical Intelligence focuses on problem analysis and evaluation, whereas Practical Intelligence focuses on applying knowledge effectively in real-life situations.",
+"C":"Both are identical.",
+"D":"Practical Intelligence refers only to creativity."
+},
+"correctAnswer":"B",
+"explanation":"Analytical Intelligence deals with analysing problems, while Practical Intelligence involves applying knowledge successfully in everyday contexts.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Analytical vs Practical"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0069",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following statements are correct?\n\n1. Analytical Intelligence emphasizes reasoning.\n2. Creative Intelligence emphasizes originality.\n3. Practical Intelligence emphasizes adaptation to real-life situations.\n4. Sternberg rejected the existence of practical abilities.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 correctly describe Sternberg's theory. Statement 4 is incorrect because Practical Intelligence is one of the three major components.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Triarchic Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0070",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a district inspection, a Dy.E.O. finds that teachers encourage logical reasoning, innovation, entrepreneurship and community-based problem solving. Which conclusion BEST reflects Sternberg's theory?",
+"options":{
+"A":"The schools are developing analytical, creative and practical intelligence in an integrated manner.",
+"B":"Only analytical intelligence is being developed.",
+"C":"Creativity has little role in intelligence.",
+"D":"Practical skills are unrelated to intelligence."
+},
+"correctAnswer":"A",
+"explanation":"The activities promote all three components of Sternberg's Triarchic Theory, supporting balanced intellectual development.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Triarchic Theory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-INT-0071",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Who first introduced the concept of Emotional Intelligence (EI) in psychology?",
+"options":{
+"A":"Howard Gardner",
+"B":"Peter Salovey and John D. Mayer",
+"C":"Daniel Goleman",
+"D":"Robert Sternberg"
+},
+"correctAnswer":"B",
+"explanation":"Peter Salovey and John D. Mayer introduced the concept of Emotional Intelligence in 1990. Daniel Goleman later popularized it through his 1995 book 'Emotional Intelligence'.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Emotional Intelligence","Salovey","Mayer"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0072",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"According to Daniel Goleman, which of the following is NOT one of the major components of Emotional Intelligence?",
+"options":{
+"A":"Self-awareness",
+"B":"Self-regulation",
+"C":"Logical-Mathematical Ability",
+"D":"Empathy"
+},
+"correctAnswer":"C",
+"explanation":"Goleman's model includes Self-awareness, Self-regulation, Motivation, Empathy and Social Skills. Logical-Mathematical Ability belongs to Gardner's theory.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Goleman","Components of EI"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0073",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A teacher remains calm during classroom conflicts, manages emotions effectively and responds thoughtfully. Which component of Emotional Intelligence is BEST demonstrated?",
+"options":{
+"A":"Empathy",
+"B":"Self-regulation",
+"C":"Social Skills",
+"D":"Creativity"
+},
+"correctAnswer":"B",
+"explanation":"Self-regulation refers to controlling and managing one's emotions appropriately in different situations.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Self-regulation","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0074",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): Emotional Intelligence contributes to effective teaching and leadership.\nReason (R): Teachers with high Emotional Intelligence understand emotions, build relationships and manage classroom situations effectively.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Emotionally intelligent teachers communicate effectively, resolve conflicts and build positive learning environments.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Emotional Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0075",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student understands classmates' feelings and helps resolve disagreements peacefully. Which component of Emotional Intelligence is primarily reflected?",
+"options":{
+"A":"Self-awareness",
+"B":"Empathy",
+"C":"Logical Reasoning",
+"D":"Spatial Intelligence"
+},
+"correctAnswer":"B",
+"explanation":"Empathy is the ability to understand and respond appropriately to the emotions of others.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Empathy","EI"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0076",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which component of Emotional Intelligence enables an individual to recognize and understand his or her own emotions?",
+"options":{
+"A":"Social Skills",
+"B":"Empathy",
+"C":"Self-awareness",
+"D":"Practical Intelligence"
+},
+"correctAnswer":"C",
+"explanation":"Self-awareness is the ability to recognize one's own emotions, strengths and limitations.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Self-awareness","EI"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0077",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. notices that a Headmaster motivates teachers, manages conflicts fairly, listens carefully to concerns and maintains positive relationships with parents. Which theory BEST explains these leadership qualities?",
+"options":{
+"A":"Spearman's Two-Factor Theory",
+"B":"Emotional Intelligence Theory",
+"C":"Thurstone's PMA Theory",
+"D":"Drive Reduction Theory"
+},
+"correctAnswer":"B",
+"explanation":"Leadership qualities such as empathy, emotional control, motivation and social skills are central to Emotional Intelligence.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Leadership","Emotional Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0078",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which statement BEST distinguishes Emotional Intelligence from traditional IQ?",
+"options":{
+"A":"Emotional Intelligence measures only academic achievement.",
+"B":"IQ focuses mainly on cognitive abilities, whereas Emotional Intelligence focuses on understanding and managing emotions.",
+"C":"Both are exactly the same.",
+"D":"IQ measures empathy better than Emotional Intelligence."
+},
+"correctAnswer":"B",
+"explanation":"IQ measures cognitive abilities, while Emotional Intelligence emphasizes emotional awareness, regulation and interpersonal effectiveness.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["IQ vs EI","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0079",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following statements are correct?\n\n1. Self-awareness is a component of Emotional Intelligence.\n2. Empathy helps build positive relationships.\n3. Self-regulation involves controlling emotions appropriately.\n4. Emotional Intelligence completely replaces IQ.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Emotional Intelligence complements rather than replaces IQ.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Emotional Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0080",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a district inspection, a Dy.E.O. observes that teachers encourage emotional expression, conflict resolution, peer cooperation, self-reflection and respectful communication. Which conclusion BEST reflects Emotional Intelligence theory?",
+"options":{
+"A":"The schools are developing emotional competencies that support effective learning, leadership and social adjustment.",
+"B":"Only academic intelligence is being developed.",
+"C":"Emotions interfere with learning and should be ignored.",
+"D":"Emotional Intelligence has little educational value."
+},
+"correctAnswer":"A",
+"explanation":"Developing emotional competencies improves learning, classroom climate, leadership and interpersonal relationships.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Emotional Intelligence","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0081",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Who developed the first practical intelligence test for identifying school children needing special educational assistance?",
+"options":{
+"A":"David Wechsler",
+"B":"Alfred Binet and Theodore Simon",
+"C":"Lewis Terman",
+"D":"Charles Spearman"
+},
+"correctAnswer":"B",
+"explanation":"Alfred Binet and Theodore Simon developed the Binet-Simon Intelligence Scale in 1905, the first practical intelligence test.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Binet","Simon","Intelligence Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0082",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Who introduced the Intelligence Quotient (IQ) formula based on Mental Age and Chronological Age?",
+"options":{
+"A":"David Wechsler",
+"B":"Lewis M. Terman",
+"C":"Howard Gardner",
+"D":"Robert Sternberg"
+},
+"correctAnswer":"B",
+"explanation":"Lewis Terman introduced the IQ formula while revising the Binet test into the Stanford-Binet Intelligence Scale.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["IQ","Terman","Stanford-Binet"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0083",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"The traditional Intelligence Quotient (IQ) is calculated by the formula:",
+"options":{
+"A":"IQ = (Chronological Age ÷ Mental Age) × 100",
+"B":"IQ = (Mental Age ÷ Chronological Age) × 100",
+"C":"IQ = Mental Age + Chronological Age",
+"D":"IQ = Mental Age × Chronological Age"
+},
+"correctAnswer":"B",
+"explanation":"The traditional IQ formula proposed by Terman is IQ = (Mental Age ÷ Chronological Age) × 100.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["IQ Formula","Mental Age"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0084",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A child has a Mental Age of 12 years and a Chronological Age of 10 years. According to Terman's formula, the IQ is:",
+"options":{
+"A":"80",
+"B":"100",
+"C":"110",
+"D":"120"
+},
+"correctAnswer":"D",
+"explanation":"IQ = (12 ÷ 10) × 100 = 120.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["IQ Calculation","Numerical"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0085",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): David Wechsler criticized the traditional IQ formula.\nReason (R): Mental Age becomes less meaningful for adults, so Wechsler introduced the concept of Deviation IQ.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Wechsler developed Deviation IQ because the Mental Age concept is not suitable for measuring adult intelligence.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Wechsler","Deviation IQ","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0086",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which intelligence scale developed by David Wechsler is specifically designed for children?",
+"options":{
+"A":"WAIS",
+"B":"WISC",
+"C":"WPPSI",
+"D":"Stanford-Binet"
+},
+"correctAnswer":"B",
+"explanation":"WISC (Wechsler Intelligence Scale for Children) is designed for school-age children. WAIS is for adults, and WPPSI is for preschool and primary children.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["WISC","Wechsler"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0087",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. recommends that schools should not judge a student's ability solely by IQ scores but should also consider creativity, emotional skills, interests and classroom performance. Which educational principle does this recommendation reflect?",
+"options":{
+"A":"IQ alone measures all aspects of intelligence.",
+"B":"Intelligence assessment should be comprehensive and multidimensional.",
+"C":"Only intelligence tests predict achievement.",
+"D":"Academic marks and IQ are identical."
+},
+"correctAnswer":"B",
+"explanation":"Modern educational assessment recognizes that intelligence is only one aspect of learner potential and should be interpreted along with other characteristics.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Assessment","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0088",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which statement BEST distinguishes Stanford-Binet and Wechsler intelligence tests?",
+"options":{
+"A":"Stanford-Binet mainly used the Mental Age concept, whereas Wechsler emphasized Deviation IQ.",
+"B":"Both use only Mental Age.",
+"C":"Wechsler rejected intelligence testing completely.",
+"D":"Stanford-Binet measures only verbal intelligence."
+},
+"correctAnswer":"A",
+"explanation":"The Stanford-Binet test is based on the Mental Age concept, whereas Wechsler introduced Deviation IQ for better assessment across age groups.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Stanford-Binet","Wechsler","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0089",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following statements are correct?\n\n1. Binet and Simon developed the first practical intelligence test.\n2. Terman introduced the IQ formula.\n3. Wechsler introduced Deviation IQ.\n4. WISC is designed for school-age children.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2, 3 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements are correct and represent key milestones in intelligence testing.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Intelligence Testing"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0090",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a district inspection, a Dy.E.O. finds that schools use standardized intelligence tests along with classroom observation, achievement records, creativity tasks and teacher feedback while planning remedial programmes. Which conclusion BEST reflects contemporary educational assessment?",
+"options":{
+"A":"Comprehensive assessment provides a more valid understanding of learner potential than relying only on IQ scores.",
+"B":"Only standardized IQ tests should determine educational placement.",
+"C":"Classroom observation has no educational value.",
+"D":"Creativity and achievement are unrelated to intelligence."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational psychology recommends combining standardized tests with multiple sources of evidence for fair and comprehensive assessment.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Assessment","Intelligence Testing"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0091",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which theory explains intelligence as consisting of one General Factor (g) and several Specific Factors (s)?",
+"options":{
+"A":"Gardner's Multiple Intelligences",
+"B":"Spearman's Two-Factor Theory",
+"C":"Thurstone's Primary Mental Abilities",
+"D":"Sternberg's Triarchic Theory"
+},
+"correctAnswer":"B",
+"explanation":"Spearman proposed that every intellectual activity depends on a General Factor (g) along with Specific Factors (s).",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Spearman","Revision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0092",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which comparison is correctly matched?",
+"options":{
+"A":"Spearman—Multiple Intelligences; Gardner—General Intelligence",
+"B":"Thurstone—Primary Mental Abilities; Gardner—Multiple Intelligences",
+"C":"Sternberg—Two-Factor Theory; Guilford—Hierarchy Theory",
+"D":"Wechsler—Primary Mental Abilities; Binet—Triarchic Theory"
+},
+"correctAnswer":"B",
+"explanation":"Thurstone proposed Primary Mental Abilities, while Gardner proposed the Theory of Multiple Intelligences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Theories"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0093",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A student performs exceptionally well in analytical reasoning, develops innovative science projects and successfully solves practical community problems. Which theory BEST explains these three strengths?",
+"options":{
+"A":"Spearman's Two-Factor Theory",
+"B":"Sternberg's Triarchic Theory",
+"C":"Thorndike's Multifactor Theory",
+"D":"Drive Reduction Theory"
+},
+"correctAnswer":"B",
+"explanation":"Sternberg's Triarchic Theory includes Analytical, Creative and Practical Intelligence.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Sternberg","Triarchic Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0094",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Assertion (A): Modern educational psychology recognizes that intelligence is multidimensional.\nReason (R): Different theories explain intelligence from different perspectives such as general ability, multiple abilities and practical adaptation.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Modern psychology accepts that intelligence can be understood through multiple complementary theories rather than a single explanation.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Integrated Revision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0095",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which psychologist is correctly matched with the corresponding contribution?",
+"options":{
+"A":"Binet—Deviation IQ",
+"B":"Wechsler—Deviation IQ",
+"C":"Gardner—Two-Factor Theory",
+"D":"Spearman—Multiple Intelligences"
+},
+"correctAnswer":"B",
+"explanation":"David Wechsler introduced the concept of Deviation IQ. Binet developed the first practical intelligence test, Gardner proposed Multiple Intelligences and Spearman proposed the Two-Factor Theory.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Wechsler","Deviation IQ"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0096",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A teacher uses debates, experiments, music, sports, art, gardening and group projects so that every learner gets opportunities to demonstrate strengths. Which theory BEST supports this practice?",
+"options":{
+"A":"Gardner's Multiple Intelligences",
+"B":"Spearman's Two-Factor Theory",
+"C":"Thorndike's Connectionism",
+"D":"Classical Conditioning"
+},
+"correctAnswer":"A",
+"explanation":"Gardner advocated providing varied learning experiences because learners possess different combinations of intelligences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Gardner","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0097",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"A Dy.E.O. finds that schools encourage critical thinking, creativity, emotional regulation, leadership, problem-solving and real-life application of knowledge. Which conclusion BEST reflects current educational psychology?",
+"options":{
+"A":"Schools are promoting holistic intelligence using multiple theoretical perspectives.",
+"B":"Only IQ determines success.",
+"C":"Creativity is unrelated to intelligence.",
+"D":"Emotional abilities have no educational significance."
+},
+"correctAnswer":"A",
+"explanation":"Modern education integrates cognitive, creative, emotional and practical aspects of intelligence for holistic learner development.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Holistic Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0098",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which of the following statements are correct?\n\n1. Spearman proposed the General Factor.\n2. Gardner proposed Multiple Intelligences.\n3. Sternberg proposed the Triarchic Theory.\n4. Wechsler introduced Deviation IQ.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2, 3 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly match the psychologist with the corresponding contribution.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Integrated Revision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0099",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"Which educational practice is LEAST consistent with modern theories of intelligence?",
+"options":{
+"A":"Providing diverse learning experiences",
+"B":"Assessing only memorization through one written examination",
+"C":"Encouraging creativity and problem-solving",
+"D":"Recognising individual differences in learners"
+},
+"correctAnswer":"B",
+"explanation":"Modern theories emphasize multiple abilities and authentic assessment rather than relying solely on rote memorization or a single written examination.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Assessment","Modern Intelligence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-INT-0100",
+"subject":"Educational Psychology",
+"topic":"Intelligence",
+"question":"During a comprehensive district inspection, a Dy.E.O. observes that schools assess learners using standardized intelligence tests, project work, creative tasks, practical problem-solving, emotional competencies, collaborative learning and classroom performance. Which conclusion BEST represents contemporary educational psychology?",
+"options":{
+"A":"Learner potential should be assessed through multiple dimensions of intelligence rather than relying on a single measure.",
+"B":"Only IQ scores should determine educational decisions.",
+"C":"Academic marks alone represent intelligence.",
+"D":"Creativity and emotional intelligence should not influence educational planning."
+},
+"correctAnswer":"A",
+"explanation":"Current educational psychology supports multidimensional assessment by integrating cognitive, creative, practical and emotional aspects of learner development.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Integrated Intelligence","Educational Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+}
+  ]
+}
