@@ -1456,6 +1456,623 @@ const questions = [
             "Skinner"
         ],
         "id": "EDPSY-LRN-0070"
+    },
+    {
+        "question": "A teacher rewards every correct response while introducing a completely new mathematical concept. After students master the skill, rewards are given less frequently. Why is this strategy recommended by Skinner?",
+        "options": [
+            "Continuous reinforcement is effective for acquiring new behaviour, whereas intermittent reinforcement helps maintain learned behaviour.",
+            "Continuous reinforcement should always be used throughout learning.",
+            "Intermittent reinforcement is effective only before learning begins.",
+            "Reinforcement has no influence on maintaining behaviour."
+        ],
+        "answer": 0,
+        "explanation": "Continuous reinforcement accelerates acquisition of new behaviour, while intermittent reinforcement strengthens persistence and resistance to extinction.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Skinner",
+            "Continuous Reinforcement",
+            "Intermittent Reinforcement"
+        ],
+        "id": "EDPSY-LRN-0071"
+    },
+    {
+        "question": "Which reinforcement schedule generally produces the HIGHEST rate of responding and the greatest resistance to extinction?",
+        "options": [
+            "Continuous Reinforcement",
+            "Fixed Interval",
+            "Variable Ratio",
+            "Fixed Ratio"
+        ],
+        "answer": 2,
+        "explanation": "Variable Ratio schedules reinforce behaviour after an unpredictable number of responses, producing persistent and highly resistant behaviour.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Variable Ratio",
+            "Skinner",
+            "Schedules"
+        ],
+        "id": "EDPSY-LRN-0072"
+    },
+    {
+        "question": "A school principal unexpectedly visits classrooms and appreciates teachers demonstrating innovative teaching practices. Since teachers never know when appreciation will occur, they consistently maintain quality instruction. Which reinforcement schedule is illustrated?",
+        "options": [
+            "Fixed Ratio",
+            "Variable Interval",
+            "Continuous Reinforcement",
+            "Fixed Interval"
+        ],
+        "answer": 1,
+        "explanation": "Variable Interval reinforcement is delivered after unpredictable time intervals, encouraging consistent performance.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Variable Interval",
+            "DyEO",
+            "Educational Administration"
+        ],
+        "id": "EDPSY-LRN-0073"
+    },
+    {
+        "question": "Assertion (A): Continuous reinforcement leads to faster learning than intermittent reinforcement.\nReason (R): Every correct response receives reinforcement during the acquisition stage.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Immediate reinforcement after every correct response accelerates acquisition of new behaviours.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Assertion-Reason",
+            "Continuous Reinforcement"
+        ],
+        "id": "EDPSY-LRN-0074"
+    },
+    {
+        "question": "A student receives appreciation after every tenth correct answer. Which reinforcement schedule is represented?",
+        "options": [
+            "Variable Ratio",
+            "Fixed Interval",
+            "Fixed Ratio",
+            "Variable Interval"
+        ],
+        "answer": 2,
+        "explanation": "Fixed Ratio schedules reinforce behaviour after a predetermined number of correct responses.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Fixed Ratio",
+            "Schedules",
+            "Skinner"
+        ],
+        "id": "EDPSY-LRN-0075"
+    },
+    {
+        "question": "Which reinforcement schedule is MOST suitable for developing long-term study habits among secondary school students?",
+        "options": [
+            "Continuous Reinforcement",
+            "Variable Interval Reinforcement",
+            "Only Punishment",
+            "Extinction"
+        ],
+        "answer": 1,
+        "explanation": "Variable Interval reinforcement encourages consistent behaviour because reinforcement occurs unpredictably over time.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Study Habits",
+            "Variable Interval",
+            "Educational Application"
+        ],
+        "id": "EDPSY-LRN-0076"
+    },
+    {
+        "question": "Which schedule of reinforcement is commonly associated with lottery systems and many game-based reward mechanisms?",
+        "options": [
+            "Fixed Ratio",
+            "Continuous Reinforcement",
+            "Variable Ratio",
+            "Fixed Interval"
+        ],
+        "answer": 2,
+        "explanation": "Variable Ratio schedules provide reinforcement after unpredictable numbers of responses and produce persistent responding.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Variable Ratio",
+            "Real Life",
+            "Skinner"
+        ],
+        "id": "EDPSY-LRN-0077"
+    },
+    {
+        "question": "Which one of the following schedules usually produces a 'post-reinforcement pause' after receiving reinforcement?",
+        "options": [
+            "Fixed Ratio",
+            "Variable Ratio",
+            "Variable Interval",
+            "Continuous Reinforcement"
+        ],
+        "answer": 0,
+        "explanation": "In Fixed Ratio schedules, learners often pause briefly after receiving reinforcement before beginning the next sequence of responses.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Fixed Ratio",
+            "Behaviour Pattern"
+        ],
+        "id": "EDPSY-LRN-0078"
+    },
+    {
+        "question": "Which reinforcement schedule provides reinforcement after fixed periods of time, provided the desired response occurs?",
+        "options": [
+            "Fixed Interval",
+            "Variable Interval",
+            "Fixed Ratio",
+            "Variable Ratio"
+        ],
+        "answer": 0,
+        "explanation": "Fixed Interval schedules reinforce the first correct response after a fixed time interval.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Fixed Interval",
+            "Schedules"
+        ],
+        "id": "EDPSY-LRN-0079"
+    },
+    {
+        "question": "Which of the following statements regarding reinforcement schedules are correct?\n\n1. Continuous reinforcement is ideal during early learning.\n2. Variable Ratio schedules are highly resistant to extinction.\n3. Fixed Interval schedules reinforce behaviour after predictable time intervals.\n4. Variable Interval schedules reinforce behaviour after a fixed number of responses.\n\nChoose the correct answer.",
+        "options": [
+            "1, 2 and 3 only",
+            "2 and 4 only",
+            "1 and 4 only",
+            "All four"
+        ],
+        "answer": 0,
+        "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is incorrect because Variable Interval schedules are based on unpredictable time intervals, not number of responses.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Multiple Statements",
+            "Reinforcement Schedules",
+            "Skinner"
+        ],
+        "id": "EDPSY-LRN-0080"
+    },
+    {
+        "question": "Skinner's concept of Programmed Learning is primarily based on which principle?",
+        "options": [
+            "Learning occurs through trial and error alone.",
+            "Learning is most effective when instruction is presented in small sequential steps with immediate feedback.",
+            "Learning depends mainly on insight.",
+            "Learning occurs only through observation."
+        ],
+        "answer": 1,
+        "explanation": "Programmed Learning presents content in carefully sequenced small steps, requiring active learner responses and providing immediate feedback.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Programmed Learning",
+            "Skinner",
+            "Teaching"
+        ],
+        "id": "EDPSY-LRN-0081"
+    },
+    {
+        "question": "Which characteristic is NOT associated with Programmed Learning?",
+        "options": [
+            "Immediate feedback",
+            "Self-paced learning",
+            "Large learning units presented together",
+            "Active learner response"
+        ],
+        "answer": 2,
+        "explanation": "Programmed Learning divides content into small frames rather than presenting large units at once.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Programmed Learning",
+            "Characteristics"
+        ],
+        "id": "EDPSY-LRN-0082"
+    },
+    {
+        "question": "A teaching machine designed by Skinner mainly aims to:",
+        "options": [
+            "Replace teachers completely.",
+            "Provide immediate reinforcement after each learner response.",
+            "Increase punishment for incorrect answers.",
+            "Assess only final examination performance."
+        ],
+        "answer": 1,
+        "explanation": "Skinner's teaching machine was developed to provide immediate feedback and reinforcement after each learner response.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Teaching Machine",
+            "Skinner"
+        ],
+        "id": "EDPSY-LRN-0083"
+    },
+    {
+        "question": "Assertion (A): Immediate feedback improves learning efficiency.\nReason (R): Learners can immediately identify and correct their errors.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Immediate feedback strengthens correct responses and allows learners to correct mistakes before they become habitual.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Immediate Feedback",
+            "Assertion-Reason"
+        ],
+        "id": "EDPSY-LRN-0084"
+    },
+    {
+        "question": "Which educational practice is the BEST example of a Token Economy?",
+        "options": [
+            "Giving homework every day.",
+            "Awarding stars or points that students later exchange for privileges or rewards.",
+            "Conducting weekly examinations.",
+            "Explaining the lesson repeatedly."
+        ],
+        "answer": 1,
+        "explanation": "A token economy reinforces desirable behaviour by awarding tokens that can later be exchanged for meaningful rewards.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Token Economy",
+            "Behaviour Modification"
+        ],
+        "id": "EDPSY-LRN-0085"
+    },
+    {
+        "question": "A Dy.E.O. notices that a school uses stars, badges and appreciation cards to improve attendance and discipline. Which behavioural technique is being implemented?",
+        "options": [
+            "Insight Learning",
+            "Token Economy",
+            "Classical Conditioning",
+            "Latent Learning"
+        ],
+        "answer": 1,
+        "explanation": "A token economy uses symbolic rewards to reinforce desirable behaviour in schools and classrooms.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "DyEO",
+            "Token Economy",
+            "School Administration"
+        ],
+        "id": "EDPSY-LRN-0086"
+    },
+    {
+        "question": "Which sequence best represents Skinner's behaviour modification process?",
+        "options": [
+            "Behaviour → Consequence → Future Behaviour",
+            "Stimulus → Insight → Behaviour",
+            "Observation → Imitation → Reinforcement",
+            "Memory → Recall → Performance"
+        ],
+        "answer": 0,
+        "explanation": "Behaviour modification focuses on the relationship between behaviour, its consequences and future occurrence of the behaviour.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Behaviour Modification",
+            "Skinner"
+        ],
+        "id": "EDPSY-LRN-0087"
+    },
+    {
+        "question": "Which of the following classroom situations BEST reflects programmed instruction?",
+        "options": [
+            "Students study a complete chapter without interruption.",
+            "Students answer one frame at a time and receive immediate confirmation before moving to the next frame.",
+            "Students only observe the teacher's demonstration.",
+            "Students memorize an entire lesson at home."
+        ],
+        "answer": 1,
+        "explanation": "Programmed instruction presents material frame by frame with active responses and immediate feedback.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Programmed Instruction",
+            "Teaching Machine"
+        ],
+        "id": "EDPSY-LRN-0088"
+    },
+    {
+        "question": "Which statement correctly describes Skinner's Teaching Machine?",
+        "options": [
+            "It emphasizes punishment over reinforcement.",
+            "It enables individualized, self-paced learning with immediate feedback.",
+            "It eliminates learner participation.",
+            "It is designed only for higher education."
+        ],
+        "answer": 1,
+        "explanation": "Teaching machines were designed to individualize instruction by allowing learners to proceed at their own pace while receiving immediate reinforcement.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Teaching Machine",
+            "Individualized Learning"
+        ],
+        "id": "EDPSY-LRN-0089"
+    },
+    {
+        "question": "Which of the following are essential characteristics of Programmed Learning?\n\n1. Small learning steps\n2. Active learner response\n3. Immediate feedback\n4. Self-paced progress\n\nSelect the correct answer.",
+        "options": [
+            "1, 2 and 3 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4",
+            "1 and 4 only"
+        ],
+        "answer": 2,
+        "explanation": "Programmed Learning includes all four characteristics: small sequential steps, active responding, immediate feedback and self-paced learning.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Programmed Learning",
+            "Multiple Statements",
+            "Skinner"
+        ],
+        "id": "EDPSY-LRN-0090"
+    },
+    {
+        "question": "A Dy.E.O. observes that a teacher appreciates every small improvement shown by a slow learner until the learner independently completes the assigned task. Which principle is BEST illustrated?",
+        "options": [
+            "Insight Learning",
+            "Shaping",
+            "Latent Learning",
+            "Classical Conditioning"
+        ],
+        "answer": 1,
+        "explanation": "Shaping involves reinforcing successive approximations of the desired behaviour until the complete behaviour is acquired.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Shaping",
+            "Skinner",
+            "DyEO",
+            "Behaviour Modification"
+        ],
+        "id": "EDPSY-LRN-0091"
+    },
+    {
+        "question": "Which comparison correctly distinguishes Thorndike's Law of Effect from Skinner's Operant Conditioning?",
+        "options": [
+            "Thorndike introduced the Law of Effect, whereas Skinner systematically developed reinforcement as the basis of voluntary behaviour.",
+            "Thorndike rejected reinforcement whereas Skinner accepted it.",
+            "Thorndike explained respondent behaviour whereas Skinner explained reflexes.",
+            "Both theories rejected environmental influence."
+        ],
+        "answer": 0,
+        "explanation": "Thorndike proposed the Law of Effect. Skinner expanded this principle into a comprehensive theory of operant behaviour and reinforcement.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Thorndike",
+            "Skinner",
+            "Comparison"
+        ],
+        "id": "EDPSY-LRN-0092"
+    },
+    {
+        "question": "Assertion (A): Operant Conditioning mainly explains voluntary behaviour.\nReason (R): The consequences of behaviour influence its future occurrence.",
+        "options": [
+            "Both A and R are true, and R correctly explains A.",
+            "Both A and R are true, but R is not the correct explanation.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+        ],
+        "answer": 0,
+        "explanation": "Operant behaviour is voluntary and is strengthened or weakened depending on its consequences.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Assertion-Reason",
+            "Operant Conditioning"
+        ],
+        "id": "EDPSY-LRN-0093"
+    },
+    {
+        "question": "A school introduces 'Student of the Month' awards based on punctuality, discipline and cooperation. Which behavioural principle is MOST evident?",
+        "options": [
+            "Positive Reinforcement",
+            "Punishment",
+            "Extinction",
+            "Stimulus Generalization"
+        ],
+        "answer": 0,
+        "explanation": "Recognition and rewards increase the probability that desirable behaviours will be repeated.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Positive Reinforcement",
+            "School Practices"
+        ],
+        "id": "EDPSY-LRN-0094"
+    },
+    {
+        "question": "A teacher gradually withdraws reinforcement after students consistently display desirable classroom behaviour. Which outcome is MOST likely if reinforcement is withdrawn too abruptly?",
+        "options": [
+            "Spontaneous Recovery",
+            "Extinction of the behaviour",
+            "Insight Learning",
+            "Latent Learning"
+        ],
+        "answer": 1,
+        "explanation": "When reinforcement is completely withdrawn, previously reinforced behaviour may gradually decrease through extinction.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Extinction",
+            "Skinner"
+        ],
+        "id": "EDPSY-LRN-0095"
+    },
+    {
+        "question": "Which learning theory is MOST suitable for explaining the systematic development of classroom behaviour through rewards and consequences?",
+        "options": [
+            "Insight Learning",
+            "Operant Conditioning",
+            "Gestalt Theory",
+            "Latent Learning"
+        ],
+        "answer": 1,
+        "explanation": "Operant Conditioning explains how behaviour is shaped through reinforcement and consequences.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Easy",
+        "language": "English",
+        "tags": [
+            "Operant Conditioning",
+            "Application"
+        ],
+        "id": "EDPSY-LRN-0096"
+    },
+    {
+        "question": "Which one of the following classroom practices reflects the BEST application of Skinner's principles?",
+        "options": [
+            "Giving immediate constructive feedback after each learner response.",
+            "Allowing students to discover everything independently.",
+            "Using punishment as the primary classroom strategy.",
+            "Avoiding reinforcement completely."
+        ],
+        "answer": 0,
+        "explanation": "Immediate feedback and reinforcement strengthen desired learning and improve performance.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Immediate Feedback",
+            "Educational Application"
+        ],
+        "id": "EDPSY-LRN-0097"
+    },
+    {
+        "question": "Which statement BEST distinguishes Classical Conditioning from Operant Conditioning?",
+        "options": [
+            "Classical Conditioning focuses on involuntary responses, whereas Operant Conditioning focuses on voluntary behaviour influenced by consequences.",
+            "Both explain voluntary behaviour only.",
+            "Both reject reinforcement.",
+            "Operant Conditioning deals only with reflex actions."
+        ],
+        "answer": 0,
+        "explanation": "Classical Conditioning involves elicited (involuntary) responses, whereas Operant Conditioning explains emitted voluntary behaviours shaped by reinforcement.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "Pavlov",
+            "Skinner",
+            "Comparison"
+        ],
+        "id": "EDPSY-LRN-0098"
+    },
+    {
+        "question": "Which combination correctly matches the psychologist with the central principle?\n\n1. Thorndike — Law of Effect\n2. Pavlov — Classical Conditioning\n3. Skinner — Operant Conditioning\n4. Kohler — Insight Learning",
+        "options": [
+            "1, 2 and 3 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4",
+            "1 and 4 only"
+        ],
+        "answer": 2,
+        "explanation": "All four matches are correct and represent the major learning theories frequently tested in competitive examinations.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Moderate",
+        "language": "English",
+        "tags": [
+            "Comparison",
+            "Learning Theories",
+            "Multiple Statements"
+        ],
+        "id": "EDPSY-LRN-0099"
+    },
+    {
+        "question": "During a school inspection, a Dy.E.O. finds that teachers provide immediate feedback, reinforce desirable behaviour, use programmed learning materials, and maintain a token economy to motivate students. Which conclusion BEST reflects Skinner's contribution to education?",
+        "options": [
+            "Learning is strengthened when desirable behaviour is systematically reinforced through planned instructional strategies.",
+            "Learning depends entirely on maturation.",
+            "Punishment is the only effective classroom management strategy.",
+            "Rewards have no educational value."
+        ],
+        "answer": 0,
+        "explanation": "Skinner's educational contribution emphasizes reinforcement, immediate feedback, programmed instruction and behaviour modification to improve learning outcomes.",
+        "subject": "Educational Psychology",
+        "topic": "Learning",
+        "difficulty": "Difficult",
+        "language": "English",
+        "tags": [
+            "DyEO",
+            "Educational Applications",
+            "Skinner",
+            "Programmed Learning"
+        ],
+        "id": "EDPSY-LRN-0100"
     }
 ];
 
