@@ -10,7 +10,8 @@ import repositoryCatalog from "./repository.json" with { type: "json" };
 
 import growthDevelopment from "../question-bank/subjects/educational-psychology/growth-development.json" with { type: "json" };
 import learning from "../question-bank/subjects/educational-psychology/learning.json" with { type: "json" };
-import memory from "../question-bank/subjects/educational-psychology/memory.json" with { type: "json" };
+import memory from "../question-bank/subjects/educational-psychology/memory.json" with { type: "json" }
+import motivation from "../question-bank/subjects/educational-psychology/motivation.json" with { type: "json" };
 import idealism from "../question-bank/subjects/educational-philosophy/idealism.json" with { type: "json" };
 
 class RepositoryLoader {
@@ -37,6 +38,7 @@ class RepositoryLoader {
     growthDevelopment,
     learning,
     memory,
+    motivation,
     idealism
 );
 

@@ -1,0 +1,2112 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "topic": "Motivation",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed",
+    "version": "1.0"
+  },
+  "questions": [
+    
+{
+"id":"EDPSY-MOT-0001",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following BEST defines motivation?",
+"options":{
+"A":"The ability to remember information",
+"B":"An internal process that energizes, directs and sustains behaviour toward a goal",
+"C":"The capacity to solve mathematical problems",
+"D":"The process of sensory perception"
+},
+"correctAnswer":"B",
+"explanation":"Motivation is an internal psychological process that initiates, directs and sustains goal-oriented behaviour.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Motivation","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0002",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following is NOT considered a characteristic of motivation?",
+"options":{
+"A":"Goal-directed behaviour",
+"B":"Persistence",
+"C":"Purposefulness",
+"D":"Permanent personality trait"
+},
+"correctAnswer":"D",
+"explanation":"Motivation is a dynamic process that changes with needs and situations; it is not a permanent personality trait.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Characteristics","Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0003",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Motivation is essential for effective learning.\nReason (R): Motivation increases attention, persistence and effort during learning.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A",
+"B":"Both A and R are true, but R is not the correct explanation",
+"C":"A is true, but R is false",
+"D":"A is false, but R is true"
+},
+"correctAnswer":"A",
+"explanation":"Motivated learners invest greater effort, maintain attention and persist longer, resulting in improved learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Learning","Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0004",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A student spends hours reading astronomy books simply because the subject fascinates her. This is an example of:",
+"options":{
+"A":"Extrinsic Motivation",
+"B":"Intrinsic Motivation",
+"C":"Negative Motivation",
+"D":"Achievement Pressure"
+},
+"correctAnswer":"B",
+"explanation":"Intrinsic motivation originates from genuine interest, enjoyment or satisfaction in the activity itself.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Intrinsic Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0005",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A student prepares thoroughly for an examination mainly to obtain a government scholarship. This illustrates:",
+"options":{
+"A":"Intrinsic Motivation",
+"B":"Extrinsic Motivation",
+"C":"Need for Affiliation",
+"D":"Curiosity"
+},
+"correctAnswer":"B",
+"explanation":"The student's behaviour is driven by an external reward (scholarship), indicating extrinsic motivation.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Extrinsic Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0006",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which classroom practice is MOST likely to promote intrinsic motivation?",
+"options":{
+"A":"Providing meaningful choices and encouraging curiosity",
+"B":"Threatening punishment for mistakes",
+"C":"Comparing students publicly",
+"D":"Rewarding every small activity with prizes"
+},
+"correctAnswer":"A",
+"explanation":"Autonomy, meaningful choices and curiosity support intrinsic motivation more effectively than excessive rewards or punishment.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Intrinsic Motivation","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0007",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. observes that teachers appreciate effort, provide constructive feedback and encourage student participation. Which outcome is MOST likely?",
+"options":{
+"A":"Reduced classroom engagement",
+"B":"Improved motivation and active participation",
+"C":"Lower academic confidence",
+"D":"Increased dependence on punishment"
+},
+"correctAnswer":"B",
+"explanation":"Constructive feedback and recognition of effort improve students' motivation, confidence and classroom engagement.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0008",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which statement correctly distinguishes intrinsic motivation from extrinsic motivation?",
+"options":{
+"A":"Intrinsic motivation depends on rewards and punishments",
+"B":"Extrinsic motivation arises from enjoyment of the activity",
+"C":"Intrinsic motivation is internally driven, whereas extrinsic motivation depends on external incentives",
+"D":"There is no meaningful difference between the two"
+},
+"correctAnswer":"C",
+"explanation":"Intrinsic motivation comes from within the learner, whereas extrinsic motivation depends on external rewards or consequences.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Intrinsic vs Extrinsic","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0009",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following statements are correct?\n\n1. Motivation energizes behaviour.\n2. Motivation directs behaviour towards goals.\n3. Motivation helps sustain effort.\n4. Motivation has no relationship with learning.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Motivation energizes, directs and sustains behaviour and plays a vital role in learning. Statement 4 is incorrect.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0010",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a school inspection, a Dy.E.O. finds that teachers connect lessons with students' daily lives, allow students to choose project topics and recognise improvement instead of only high marks. Which conclusion BEST reflects contemporary educational psychology?",
+"options":{
+"A":"The teachers are applying evidence-based practices that strengthen intrinsic motivation and learner engagement.",
+"B":"The teachers are reducing academic standards.",
+"C":"Only external rewards motivate students effectively.",
+"D":"Student choice has little influence on learning."
+},
+"correctAnswer":"A",
+"explanation":"Autonomy, relevance, recognition of progress and meaningful learning experiences enhance intrinsic motivation, engagement and long-term learning.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Intrinsic Motivation","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0011",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which type of motivation is driven primarily by curiosity, enjoyment and personal satisfaction?",
+"options":{
+"A":"Extrinsic Motivation",
+"B":"Intrinsic Motivation",
+"C":"Negative Motivation",
+"D":"Achievement Pressure"
+},
+"correctAnswer":"B",
+"explanation":"Intrinsic motivation originates within the individual and is driven by interest, enjoyment and satisfaction rather than external rewards.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Intrinsic Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0012",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A student studies hard mainly to avoid criticism from parents. This is an example of:",
+"options":{
+"A":"Intrinsic Motivation",
+"B":"Extrinsic Motivation",
+"C":"Mastery Motivation",
+"D":"Need for Achievement"
+},
+"correctAnswer":"B",
+"explanation":"The behaviour is influenced by an external consequence (avoiding criticism), making it extrinsically motivated.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Extrinsic Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0013",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which characteristic is MOST closely associated with highly motivated learners?",
+"options":{
+"A":"Avoidance of all challenges",
+"B":"Persistence despite difficulties",
+"C":"Dependence only on rewards",
+"D":"Lack of concentration"
+},
+"correctAnswer":"B",
+"explanation":"Motivated learners generally persist in the face of obstacles and continue working toward their goals.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Characteristics","Persistence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0014",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Motivation influences academic achievement.\nReason (R): Motivation affects the direction, intensity and persistence of behaviour.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Motivation directs effort, increases persistence and supports sustained learning, thereby improving achievement.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Academic Achievement"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0015",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which classroom situation BEST illustrates intrinsic motivation?",
+"options":{
+"A":"Completing homework only for marks",
+"B":"Participating in a science exhibition because of genuine interest in experimentation",
+"C":"Studying to avoid punishment",
+"D":"Memorising answers only for examinations"
+},
+"correctAnswer":"B",
+"explanation":"The learner participates because of personal interest rather than external rewards.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Intrinsic Motivation","Classroom Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0016",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which classroom practice is LEAST likely to promote intrinsic motivation?",
+"options":{
+"A":"Providing meaningful choices",
+"B":"Encouraging curiosity",
+"C":"Using excessive rewards for every small task",
+"D":"Allowing students to explore real-life problems"
+},
+"correctAnswer":"C",
+"explanation":"Overuse of external rewards can reduce intrinsic motivation by shifting attention from learning to rewards.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Evaluate",
+"tags":["Intrinsic vs Extrinsic","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0017",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. observes that teachers provide students with opportunities to set their own learning goals and monitor their progress. Which motivational principle is MOST strongly reflected?",
+"options":{
+"A":"Promoting learner autonomy",
+"B":"Increasing punishment",
+"C":"Reducing classroom interaction",
+"D":"Relying only on external rewards"
+},
+"correctAnswer":"A",
+"explanation":"Providing autonomy and goal-setting opportunities enhances students' intrinsic motivation and self-regulation.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Autonomy","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0018",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which statement BEST distinguishes intrinsic motivation from extrinsic motivation?",
+"options":{
+"A":"Intrinsic motivation depends on external rewards.",
+"B":"Extrinsic motivation arises from enjoyment of the task.",
+"C":"Intrinsic motivation is internally driven, whereas extrinsic motivation is influenced by external rewards or consequences.",
+"D":"Both are identical in all learning situations."
+},
+"correctAnswer":"C",
+"explanation":"Intrinsic motivation comes from within the learner, whereas extrinsic motivation depends on external incentives or pressures.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Intrinsic vs Extrinsic"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0019",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following statements are correct?\n\n1. Motivation energizes behaviour.\n2. Motivation influences persistence.\n3. Intrinsic motivation is generally associated with deeper learning.\n4. External rewards always improve intrinsic motivation.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Excessive external rewards may reduce intrinsic motivation in some situations.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0020",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a classroom inspection, a Dy.E.O. finds that teachers encourage curiosity, provide constructive feedback, recognise effort, and relate lessons to students' lives. Which conclusion is MOST appropriate?",
+"options":{
+"A":"The teachers are applying evidence-based motivational practices that enhance engagement and meaningful learning.",
+"B":"The teachers are depending entirely on punishment.",
+"C":"The teachers are reducing learner autonomy.",
+"D":"The practices have little influence on motivation."
+},
+"correctAnswer":"A",
+"explanation":"Connecting learning with students' experiences, recognising effort and providing supportive feedback are evidence-based strategies that promote motivation and sustained engagement.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0021",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Who proposed the Hierarchy of Needs Theory of Motivation?",
+"options":{
+"A":"David McClelland",
+"B":"Abraham Maslow",
+"C":"Frederick Herzberg",
+"D":"B.F. Skinner"
+},
+"correctAnswer":"B",
+"explanation":"Abraham Maslow proposed the Hierarchy of Needs Theory in 1943, explaining that human needs are arranged in a hierarchical order.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Maslow","Hierarchy of Needs"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0022",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"According to Maslow, which need occupies the lowest level in the hierarchy?",
+"options":{
+"A":"Safety Needs",
+"B":"Love and Belonging Needs",
+"C":"Physiological Needs",
+"D":"Esteem Needs"
+},
+"correctAnswer":"C",
+"explanation":"Physiological needs such as food, water, sleep and shelter are the most basic needs and form the foundation of Maslow's hierarchy.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Physiological Needs","Maslow"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0023",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A student who is hungry during class finds it difficult to concentrate on the lesson. According to Maslow, which need is preventing effective learning?",
+"options":{
+"A":"Esteem Need",
+"B":"Safety Need",
+"C":"Physiological Need",
+"D":"Self-Actualization Need"
+},
+"correctAnswer":"C",
+"explanation":"Unmet physiological needs such as hunger reduce attention and learning because they are the most fundamental human needs.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Physiological Needs","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0024",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which level of Maslow's hierarchy includes protection from danger, stability and security?",
+"options":{
+"A":"Love and Belonging",
+"B":"Safety Needs",
+"C":"Esteem Needs",
+"D":"Cognitive Needs"
+},
+"correctAnswer":"B",
+"explanation":"Safety needs include physical security, emotional security, health and protection from danger.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Safety Needs","Maslow"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0025",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Students learn more effectively in a safe classroom environment.\nReason (R): Satisfaction of safety needs allows learners to focus on higher-level educational goals.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Maslow proposed that lower-level needs such as safety should be reasonably satisfied before learners can effectively pursue higher-order learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Safety Needs"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0026",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which level of Maslow's hierarchy is primarily concerned with friendship, affection and acceptance?",
+"options":{
+"A":"Esteem Needs",
+"B":"Love and Belonging Needs",
+"C":"Physiological Needs",
+"D":"Safety Needs"
+},
+"correctAnswer":"B",
+"explanation":"Love and belonging needs involve friendship, affection, family relationships and acceptance within social groups.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Love and Belonging","Maslow"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0027",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A teacher encourages group projects and cooperative learning to satisfy which level of Maslow's hierarchy?",
+"options":{
+"A":"Physiological Needs",
+"B":"Safety Needs",
+"C":"Love and Belonging Needs",
+"D":"Self-Actualization"
+},
+"correctAnswer":"C",
+"explanation":"Group activities promote friendship, acceptance and social belonging, thereby satisfying love and belonging needs.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Love and Belonging","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0028",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. observes that a school provides a nutritious mid-day meal, a safe campus and an inclusive classroom environment before expecting high academic performance. Which educational principle does this BEST reflect?",
+"options":{
+"A":"Thorndike's Law of Effect",
+"B":"Maslow's Hierarchy of Needs",
+"C":"Skinner's Operant Conditioning",
+"D":"Piaget's Cognitive Development"
+},
+"correctAnswer":"B",
+"explanation":"The school is addressing students' lower-level needs before expecting them to achieve higher-level academic goals, consistent with Maslow's theory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Maslow","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0029",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following statements are correct?\n\n1. Physiological needs form the foundation of Maslow's hierarchy.\n2. Safety needs include protection and stability.\n3. Love and belonging needs involve friendship and acceptance.\n4. Self-actualization is the lowest level of the hierarchy.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Self-actualization is the highest level in Maslow's original hierarchy.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Maslow"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0030",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a classroom inspection, a Dy.E.O. finds that teachers ensure students' basic needs are met, maintain a secure and inclusive classroom, and encourage positive peer relationships. Which conclusion BEST reflects Maslow's theory?",
+"options":{
+"A":"The teachers are creating conditions that support higher levels of motivation and learning.",
+"B":"Only academic content determines achievement.",
+"C":"Social interaction has little educational value.",
+"D":"Rewards are more important than students' basic needs."
+},
+"correctAnswer":"A",
+"explanation":"Meeting students' physiological, safety and belonging needs creates a foundation for higher motivation, engagement and academic achievement.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Maslow","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0031",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"According to Maslow, which need is concerned with self-respect, confidence, recognition and achievement?",
+"options":{
+"A":"Safety Needs",
+"B":"Love and Belonging Needs",
+"C":"Esteem Needs",
+"D":"Self-Actualization"
+},
+"correctAnswer":"C",
+"explanation":"Esteem needs include self-respect, confidence, achievement, recognition and appreciation from others.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Maslow","Esteem Needs"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0032",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which level of Maslow's hierarchy represents the desire to realize one's fullest potential?",
+"options":{
+"A":"Safety Needs",
+"B":"Esteem Needs",
+"C":"Love and Belonging Needs",
+"D":"Self-Actualization"
+},
+"correctAnswer":"D",
+"explanation":"Self-actualization is the highest level in Maslow's original hierarchy and refers to realizing one's maximum potential.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Self-Actualization","Maslow"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0033",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A teacher gives students opportunities to create original science projects instead of simply memorizing facts. Which need is primarily being addressed?",
+"options":{
+"A":"Physiological Needs",
+"B":"Safety Needs",
+"C":"Esteem Needs",
+"D":"Self-Actualization"
+},
+"correctAnswer":"D",
+"explanation":"Creative expression, innovation and realizing one's abilities are characteristics of self-actualization.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Self-Actualization","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0034",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Students whose esteem needs are satisfied often show greater confidence in learning.\nReason (R): Recognition and achievement contribute to positive self-esteem.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Recognition, success and appreciation strengthen students' confidence and willingness to participate in learning.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Esteem Needs"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0035",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Maslow classified physiological, safety, love and esteem needs together as:",
+"options":{
+"A":"Growth Needs",
+"B":"Deficiency Needs",
+"C":"Cognitive Needs",
+"D":"Aesthetic Needs"
+},
+"correctAnswer":"B",
+"explanation":"Maslow referred to physiological, safety, belonging and esteem needs as deficiency (D) needs because they arise from a lack or deficiency.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Deficiency Needs","Maslow"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0036",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following is considered a Growth Need according to Maslow?",
+"options":{
+"A":"Safety",
+"B":"Love and Belonging",
+"C":"Self-Actualization",
+"D":"Esteem"
+},
+"correctAnswer":"C",
+"explanation":"Growth needs are associated with personal development and realizing one's potential. Self-actualization is the primary growth need in Maslow's original theory.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Growth Needs","Self-Actualization"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0037",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. observes that a school recognises student achievements, encourages leadership opportunities and provides platforms for creativity. Which levels of Maslow's hierarchy are mainly supported?",
+"options":{
+"A":"Physiological and Safety Needs",
+"B":"Safety and Belonging Needs",
+"C":"Esteem and Self-Actualization Needs",
+"D":"Only Physiological Needs"
+},
+"correctAnswer":"C",
+"explanation":"Recognition develops esteem, while opportunities for leadership and creativity promote self-actualization.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Maslow","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0038",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which criticism of Maslow's theory is most widely accepted by psychologists?",
+"options":{
+"A":"Needs always occur in a rigid sequence for every individual.",
+"B":"People may pursue higher-level needs even when some lower-level needs are unmet.",
+"C":"Motivation has no relationship with needs.",
+"D":"The theory completely ignores human behaviour."
+},
+"correctAnswer":"B",
+"explanation":"Research suggests that human needs do not always follow a fixed hierarchy; individuals may seek higher-level goals despite unmet lower-level needs.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Criticism","Maslow"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0039",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following statements are correct?\n\n1. Esteem needs involve recognition and achievement.\n2. Self-actualization refers to realizing one's full potential.\n3. Deficiency needs arise from unmet basic requirements.\n4. Maslow believed every individual always satisfies all lower needs before pursuing higher ones.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Statement 4 is too absolute and does not reflect modern interpretations or criticisms of Maslow's theory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Maslow","Multiple Statements"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0040",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a district inspection, a Dy.E.O. finds that schools provide nutritious meals, safe classrooms, supportive peer groups, recognition of achievement and opportunities for innovation. Which conclusion BEST reflects Maslow's motivational theory?",
+"options":{
+"A":"The schools are addressing multiple levels of human needs to promote holistic learning and development.",
+"B":"Academic achievement depends only on intelligence.",
+"C":"Rewards alone determine motivation.",
+"D":"Only self-actualization influences learning."
+},
+"correctAnswer":"A",
+"explanation":"By addressing physiological, safety, belonging, esteem and self-actualization needs, schools create conditions that support comprehensive learning and personal growth.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Maslow","Holistic Development","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0041",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Who proposed the Two-Factor Theory of Motivation?",
+"options":{
+"A":"Abraham Maslow",
+"B":"Frederick Herzberg",
+"C":"David McClelland",
+"D":"Victor Vroom"
+},
+"correctAnswer":"B",
+"explanation":"Frederick Herzberg proposed the Two-Factor Theory, also known as the Motivation-Hygiene Theory, in 1959.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Herzberg","Two-Factor Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0042",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"According to Herzberg, which of the following is a Hygiene Factor?",
+"options":{
+"A":"Achievement",
+"B":"Recognition",
+"C":"Salary",
+"D":"Responsibility"
+},
+"correctAnswer":"C",
+"explanation":"Salary is a hygiene factor. Hygiene factors prevent dissatisfaction but do not necessarily motivate employees.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Hygiene Factors","Herzberg"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0043",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following is classified as a Motivator according to Herzberg?",
+"options":{
+"A":"Working Conditions",
+"B":"Company Policy",
+"C":"Achievement",
+"D":"Job Security"
+},
+"correctAnswer":"C",
+"explanation":"Achievement, recognition, responsibility and advancement are motivators that increase job satisfaction.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Motivators","Herzberg"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0044",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Improving salary alone does not guarantee long-term motivation.\nReason (R): Herzberg considered salary a hygiene factor rather than a true motivator.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"According to Herzberg, hygiene factors remove dissatisfaction, whereas motivators create genuine satisfaction and motivation.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Herzberg"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0045",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A school improves classroom infrastructure, provides clean drinking water and ensures a safe working environment for teachers. According to Herzberg, these improvements mainly address:",
+"options":{
+"A":"Motivators",
+"B":"Hygiene Factors",
+"C":"Growth Needs",
+"D":"Self-Actualization"
+},
+"correctAnswer":"B",
+"explanation":"Physical working conditions and safety are hygiene factors that reduce dissatisfaction.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Educational Application","Hygiene Factors"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0046",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which practice is MOST likely to increase teachers' intrinsic motivation according to Herzberg?",
+"options":{
+"A":"Increasing supervision",
+"B":"Giving opportunities for professional growth and responsibility",
+"C":"Strict attendance monitoring",
+"D":"Changing office timings"
+},
+"correctAnswer":"B",
+"explanation":"Responsibility, achievement and advancement are motivators that improve genuine job satisfaction.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Motivators","Educational Administration"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0047",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. recommends recognising innovative teachers through awards, leadership opportunities and professional development programmes. Which Herzberg factor is primarily being strengthened?",
+"options":{
+"A":"Hygiene Factors",
+"B":"Motivators",
+"C":"Physiological Needs",
+"D":"Safety Needs"
+},
+"correctAnswer":"B",
+"explanation":"Recognition, achievement and advancement are motivators that increase satisfaction and performance.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Motivators","Educational Leadership"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0048",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which statement BEST distinguishes Hygiene Factors from Motivators?",
+"options":{
+"A":"Both produce long-term job satisfaction.",
+"B":"Hygiene factors prevent dissatisfaction, whereas motivators create satisfaction.",
+"C":"Motivators only reduce dissatisfaction.",
+"D":"There is no difference between them."
+},
+"correctAnswer":"B",
+"explanation":"Herzberg argued that removing dissatisfaction and creating satisfaction are two different processes.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Herzberg"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0049",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following are Hygiene Factors according to Herzberg?\n\n1. Salary\n2. Working Conditions\n3. Company Policy\n4. Recognition\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Recognition is a motivator, whereas salary, working conditions and company policy are hygiene factors.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Herzberg"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0050",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a district inspection, a Dy.E.O. observes that schools have improved salaries, infrastructure and policies but teachers still show little enthusiasm. Which recommendation BEST reflects Herzberg's theory?",
+"options":{
+"A":"Further increase salaries only.",
+"B":"Introduce greater responsibility, recognition, achievement and opportunities for professional growth.",
+"C":"Increase supervision and inspections.",
+"D":"Reduce teachers' autonomy."
+},
+"correctAnswer":"B",
+"explanation":"Herzberg argued that hygiene factors alone cannot create motivation. Motivators such as recognition, achievement and responsibility are necessary for sustained job satisfaction.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Herzberg","Educational Administration"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0051",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Who proposed the Theory of Needs based on Achievement, Affiliation and Power?",
+"options":{
+"A":"Abraham Maslow",
+"B":"Frederick Herzberg",
+"C":"David McClelland",
+"D":"Victor Vroom"
+},
+"correctAnswer":"C",
+"explanation":"David McClelland proposed the Acquired Needs Theory, identifying the needs for Achievement, Affiliation and Power as major motivators.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["McClelland","Theory of Needs"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0052",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"According to McClelland, which need is associated with the desire to excel, accomplish challenging tasks and achieve high standards?",
+"options":{
+"A":"Need for Affiliation",
+"B":"Need for Power",
+"C":"Need for Achievement",
+"D":"Need for Security"
+},
+"correctAnswer":"C",
+"explanation":"Individuals with a high Need for Achievement (nAch) prefer challenging but attainable goals and seek personal accomplishment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Need for Achievement","McClelland"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0053",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A teacher consistently sets challenging goals, seeks feedback and enjoys solving difficult problems. Which need is MOST dominant?",
+"options":{
+"A":"Need for Affiliation",
+"B":"Need for Achievement",
+"C":"Need for Power",
+"D":"Need for Safety"
+},
+"correctAnswer":"B",
+"explanation":"People with a high Need for Achievement seek excellence, challenging tasks and regular feedback on performance.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Achievement Motivation","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0054",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Individuals with a high Need for Achievement generally prefer moderate levels of risk.\nReason (R): Extremely easy or extremely difficult tasks provide little information about personal competence.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"McClelland observed that high achievers prefer moderately difficult tasks because success depends mainly on their own effort and ability.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Need for Achievement"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0055",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which need is characterized by the desire to establish friendly relationships and gain social acceptance?",
+"options":{
+"A":"Need for Power",
+"B":"Need for Achievement",
+"C":"Need for Affiliation",
+"D":"Need for Recognition"
+},
+"correctAnswer":"C",
+"explanation":"Need for Affiliation (nAff) reflects the desire for friendship, cooperation and positive interpersonal relationships.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Need for Affiliation","McClelland"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0056",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which need reflects a person's desire to influence, lead or control others?",
+"options":{
+"A":"Need for Affiliation",
+"B":"Need for Achievement",
+"C":"Need for Power",
+"D":"Need for Security"
+},
+"correctAnswer":"C",
+"explanation":"The Need for Power (nPow) involves influencing others, leading groups and having an impact on decisions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Need for Power","McClelland"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0057",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. notices that a Headmaster enjoys mentoring teachers, leading school improvement programmes and influencing educational policies. Which need appears to be strongest?",
+"options":{
+"A":"Need for Achievement",
+"B":"Need for Affiliation",
+"C":"Need for Power",
+"D":"Need for Security"
+},
+"correctAnswer":"C",
+"explanation":"Leading others and influencing decisions are characteristics of a strong Need for Power.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Leadership","Need for Power"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0058",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which statement BEST distinguishes the Need for Achievement from the Need for Affiliation?",
+"options":{
+"A":"Achievement focuses on social acceptance, whereas affiliation focuses on competition.",
+"B":"Achievement emphasizes excellence and accomplishment, whereas affiliation emphasizes interpersonal relationships.",
+"C":"Achievement seeks power, whereas affiliation seeks rewards.",
+"D":"There is no meaningful difference between them."
+},
+"correctAnswer":"B",
+"explanation":"The Need for Achievement emphasizes success and excellence, while the Need for Affiliation emphasizes harmonious relationships.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","McClelland"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0059",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following statements are correct?\n\n1. McClelland proposed three learned needs.\n2. Need for Achievement encourages challenging goal-setting.\n3. Need for Affiliation emphasizes social relationships.\n4. Need for Power involves influencing others.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2, 3 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements accurately describe McClelland's Theory of Needs.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","McClelland"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0060",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a district review meeting, a Dy.E.O. finds that one teacher prefers difficult assignments with measurable outcomes, another focuses on maintaining harmonious relationships, and a third enjoys coordinating school-wide initiatives. Which theory BEST explains these differing motivational patterns?",
+"options":{
+"A":"Maslow's Hierarchy of Needs",
+"B":"Herzberg's Two-Factor Theory",
+"C":"McClelland's Theory of Needs",
+"D":"Skinner's Operant Conditioning"
+},
+"correctAnswer":"C",
+"explanation":"McClelland's theory explains individual differences in motivation through the Needs for Achievement, Affiliation and Power.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","McClelland","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0061",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which type of motivation arises from genuine interest and enjoyment in the activity itself?",
+"options":{
+"A":"Extrinsic Motivation",
+"B":"Intrinsic Motivation",
+"C":"Negative Motivation",
+"D":"Achievement Pressure"
+},
+"correctAnswer":"B",
+"explanation":"Intrinsic motivation comes from within the learner and is driven by curiosity, interest and personal satisfaction.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Intrinsic Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0062",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A student studies mainly to secure first rank and receive a cash prize. This is an example of:",
+"options":{
+"A":"Intrinsic Motivation",
+"B":"Extrinsic Motivation",
+"C":"Need for Affiliation",
+"D":"Need for Achievement"
+},
+"correctAnswer":"B",
+"explanation":"The student's behaviour is influenced by an external reward, making it an example of extrinsic motivation.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["Extrinsic Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0063",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which classroom practice is MOST likely to strengthen intrinsic motivation?",
+"options":{
+"A":"Providing meaningful choices and encouraging curiosity",
+"B":"Giving prizes for every small task",
+"C":"Comparing students publicly",
+"D":"Frequent threats of punishment"
+},
+"correctAnswer":"A",
+"explanation":"Autonomy, curiosity and meaningful learning experiences promote intrinsic motivation more effectively than excessive rewards or punishment.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Intrinsic Motivation","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0064",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Excessive external rewards may reduce intrinsic motivation.\nReason (R): Learners may begin to perform an activity only for rewards instead of personal interest.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"This phenomenon is known as the overjustification effect, where excessive rewards may reduce internal interest in an activity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Overjustification Effect"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0065",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which statement BEST describes the overjustification effect?",
+"options":{
+"A":"Punishment always improves learning.",
+"B":"Excessive external rewards can reduce intrinsic interest in an activity.",
+"C":"External rewards always increase intrinsic motivation.",
+"D":"Motivation depends only on intelligence."
+},
+"correctAnswer":"B",
+"explanation":"The overjustification effect suggests that excessive rewards may shift attention from enjoyment of the task to obtaining rewards.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Overjustification","Intrinsic Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0066",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which teacher strategy is LEAST effective for developing long-term intrinsic motivation?",
+"options":{
+"A":"Connecting lessons with real-life situations",
+"B":"Encouraging independent thinking",
+"C":"Rewarding every activity with prizes regardless of effort",
+"D":"Providing opportunities for exploration"
+},
+"correctAnswer":"C",
+"explanation":"Overdependence on rewards may reduce students' internal interest and autonomy.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Evaluate",
+"tags":["Educational Application","Intrinsic Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0067",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. observes that teachers allow students to select project topics, encourage creative thinking and praise genuine effort instead of only marks. Which type of motivation is primarily promoted?",
+"options":{
+"A":"Extrinsic Motivation",
+"B":"Intrinsic Motivation",
+"C":"Negative Motivation",
+"D":"Fear Motivation"
+},
+"correctAnswer":"B",
+"explanation":"Providing autonomy, creativity and recognition of effort promotes intrinsic motivation.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Intrinsic Motivation","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0068",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which comparison correctly distinguishes intrinsic motivation from extrinsic motivation?",
+"options":{
+"A":"Intrinsic motivation depends mainly on rewards.",
+"B":"Extrinsic motivation arises from curiosity.",
+"C":"Intrinsic motivation is internally driven, whereas extrinsic motivation depends on external incentives or consequences.",
+"D":"Both forms of motivation are identical."
+},
+"correctAnswer":"C",
+"explanation":"Intrinsic motivation originates within the learner, whereas extrinsic motivation depends on rewards, recognition or avoidance of punishment.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Intrinsic vs Extrinsic"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0069",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following statements are correct?\n\n1. Intrinsic motivation promotes deeper learning.\n2. Extrinsic motivation is always harmful.\n3. Excessive rewards may reduce intrinsic motivation.\n4. Student autonomy supports intrinsic motivation.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 3 and 4 only",
+"B":"2 and 4 only",
+"C":"1 and 2 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 3 and 4 are correct. Extrinsic motivation is not always harmful; its effectiveness depends on how it is used.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Intrinsic Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0070",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a school inspection, a Dy.E.O. recommends reducing unnecessary rewards, increasing learner autonomy, encouraging creativity and recognising effort rather than only examination marks. Which educational principle BEST supports this recommendation?",
+"options":{
+"A":"Strengthening intrinsic motivation leads to deeper and more sustained learning.",
+"B":"Only external rewards improve achievement.",
+"C":"Punishment is the strongest motivator.",
+"D":"Motivation has little influence on classroom learning."
+},
+"correctAnswer":"A",
+"explanation":"Educational research consistently shows that learner autonomy, meaningful engagement and recognition of effort promote long-term intrinsic motivation and deeper learning.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Intrinsic Motivation","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0071",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Who proposed the Attribution Theory of Achievement Motivation?",
+"options":{
+"A":"Abraham Maslow",
+"B":"Bernard Weiner",
+"C":"David McClelland",
+"D":"Victor Vroom"
+},
+"correctAnswer":"B",
+"explanation":"Bernard Weiner developed Attribution Theory, explaining how people interpret the causes of success and failure.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Weiner","Attribution Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0072",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"According to Weiner, attributing success to one's own effort is an example of:",
+"options":{
+"A":"External Attribution",
+"B":"Internal Attribution",
+"C":"Uncontrollable Attribution",
+"D":"Chance Attribution"
+},
+"correctAnswer":"B",
+"explanation":"Effort originates within the individual; therefore, it is an internal attribution.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Internal Attribution","Weiner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0073",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A student says, 'I failed because I did not study enough.' Which attribution does this statement BEST represent?",
+"options":{
+"A":"External, Stable",
+"B":"Internal, Controllable",
+"C":"External, Uncontrollable",
+"D":"Internal, Stable"
+},
+"correctAnswer":"B",
+"explanation":"Lack of effort is an internal and controllable cause because the learner can change future effort.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Effort","Controllable Causes"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0074",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which attribution is generally considered stable and internal?",
+"options":{
+"A":"Luck",
+"B":"Task Difficulty",
+"C":"Ability",
+"D":"Effort"
+},
+"correctAnswer":"C",
+"explanation":"Ability is usually viewed as an internal and relatively stable cause, whereas effort is internal but unstable.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Ability","Stable Causes"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0075",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Students who attribute failure to lack of effort are more likely to improve.\nReason (R): Effort is a controllable cause that can be increased in future attempts.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Since effort is controllable, students who attribute failure to insufficient effort are more likely to persist and improve.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Effort","Attribution"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0076",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A student says, 'The examination was unfair, so I failed.' This is primarily an example of:",
+"options":{
+"A":"Internal Attribution",
+"B":"External Attribution",
+"C":"Stable Internal Attribution",
+"D":"Achievement Motivation"
+},
+"correctAnswer":"B",
+"explanation":"Blaming the examination represents an external attribution because the cause lies outside the learner.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["External Attribution","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0077",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. advises teachers to praise students for effort rather than fixed ability. Which principle of Attribution Theory supports this advice?",
+"options":{
+"A":"Effort is controllable and encourages persistence.",
+"B":"Ability is the only predictor of success.",
+"C":"Luck determines achievement.",
+"D":"Task difficulty cannot influence motivation."
+},
+"correctAnswer":"A",
+"explanation":"Recognising effort encourages students to believe they can improve through hard work, promoting persistence and resilience.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Attribution Theory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0078",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which comparison correctly distinguishes ability and effort in Weiner's Attribution Theory?",
+"options":{
+"A":"Both are stable and uncontrollable.",
+"B":"Ability is generally stable, whereas effort is unstable and controllable.",
+"C":"Ability is external, whereas effort is internal.",
+"D":"There is no difference between them."
+},
+"correctAnswer":"B",
+"explanation":"Ability is generally viewed as a stable internal factor, whereas effort is an internal factor that can change from one situation to another.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Ability","Effort","Comparison"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0079",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following statements are correct?\n\n1. Ability is usually internal and stable.\n2. Effort is internal and controllable.\n3. Luck is external and unstable.\n4. Task difficulty is external and generally stable.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2, 3 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly represent Weiner's dimensions of attribution.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Weiner"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0080",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a classroom observation, a Dy.E.O. notices that teachers consistently attribute students' improvement to sustained effort and effective learning strategies rather than innate ability alone. Which conclusion BEST reflects Weiner's Attribution Theory?",
+"options":{
+"A":"Emphasising controllable causes is likely to strengthen motivation, persistence and future achievement.",
+"B":"Only ability determines academic success.",
+"C":"Luck should be highlighted as the major cause of achievement.",
+"D":"External factors always produce better motivation than internal factors."
+},
+"correctAnswer":"A",
+"explanation":"Focusing on controllable causes such as effort encourages learners to believe that success is achievable through persistence and appropriate strategies.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Attribution Theory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0081",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Who proposed the Self-Determination Theory (SDT) of Motivation?",
+"options":{
+"A":"Abraham Maslow",
+"B":"Edward Deci and Richard Ryan",
+"C":"Bernard Weiner",
+"D":"David McClelland"
+},
+"correctAnswer":"B",
+"explanation":"Edward Deci and Richard Ryan developed Self-Determination Theory, emphasizing intrinsic motivation and psychological needs.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Self-Determination Theory","Deci","Ryan"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0082",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"According to Self-Determination Theory, which three basic psychological needs support intrinsic motivation?",
+"options":{
+"A":"Achievement, Power and Affiliation",
+"B":"Autonomy, Competence and Relatedness",
+"C":"Safety, Esteem and Self-Actualization",
+"D":"Recognition, Salary and Responsibility"
+},
+"correctAnswer":"B",
+"explanation":"Deci and Ryan identified autonomy, competence and relatedness as the three universal psychological needs that foster intrinsic motivation.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Autonomy","Competence","Relatedness"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0083",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A teacher allows students to choose project topics according to their interests. Which psychological need is primarily supported?",
+"options":{
+"A":"Competence",
+"B":"Relatedness",
+"C":"Autonomy",
+"D":"Achievement"
+},
+"correctAnswer":"C",
+"explanation":"Giving learners meaningful choices supports autonomy, an essential psychological need in Self-Determination Theory.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Autonomy","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0084",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Students become more intrinsically motivated when they feel competent.\nReason (R): Experiencing success increases confidence and willingness to engage in future learning.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"A sense of competence encourages learners to participate willingly and persist in learning tasks.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Competence"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0085",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which classroom practice BEST supports the psychological need for relatedness?",
+"options":{
+"A":"Competitive ranking of students",
+"B":"Collaborative learning and respectful teacher-student relationships",
+"C":"Frequent punishment",
+"D":"Individual memorization only"
+},
+"correctAnswer":"B",
+"explanation":"Relatedness refers to feeling connected, respected and accepted by others. Cooperative learning promotes this need.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Relatedness","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0086",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following teacher behaviours is LEAST consistent with Self-Determination Theory?",
+"options":{
+"A":"Providing meaningful choices",
+"B":"Encouraging independent thinking",
+"C":"Using excessive controlling behaviour",
+"D":"Giving constructive feedback"
+},
+"correctAnswer":"C",
+"explanation":"Highly controlling environments reduce students' autonomy and intrinsic motivation.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Evaluate",
+"tags":["Self-Determination Theory","Autonomy"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0087",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. observes that teachers encourage student choice, provide timely feedback and maintain warm classroom relationships. Which theory BEST supports these practices?",
+"options":{
+"A":"Skinner's Operant Conditioning",
+"B":"Self-Determination Theory",
+"C":"Herzberg's Two-Factor Theory",
+"D":"Drive Reduction Theory"
+},
+"correctAnswer":"B",
+"explanation":"Autonomy, competence and relatedness are central principles of Self-Determination Theory.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Self-Determination Theory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0088",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which comparison correctly distinguishes Self-Determination Theory from behaviourist approaches?",
+"options":{
+"A":"Self-Determination Theory emphasizes internal psychological needs, whereas behaviourist approaches mainly emphasize external reinforcement.",
+"B":"Both theories reject reinforcement.",
+"C":"Behaviourism focuses only on cognition.",
+"D":"There is no difference between them."
+},
+"correctAnswer":"A",
+"explanation":"SDT explains motivation through internal psychological needs, whereas behaviourism primarily explains behaviour through reinforcement and consequences.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Behaviourism","SDT"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0089",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following statements are correct?\n\n1. Autonomy supports intrinsic motivation.\n2. Competence promotes persistence.\n3. Relatedness strengthens classroom engagement.\n4. Self-Determination Theory ignores intrinsic motivation.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2 and 4 only",
+"C":"1 and 4 only",
+"D":"All four"
+},
+"correctAnswer":"A",
+"explanation":"Statements 1, 2 and 3 are correct. Self-Determination Theory is fundamentally concerned with intrinsic motivation.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","SDT"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0090",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a district inspection, a Dy.E.O. finds that schools promote student voice, collaborative learning, constructive feedback and independent problem-solving. Which conclusion BEST reflects Self-Determination Theory?",
+"options":{
+"A":"The schools are satisfying learners' psychological needs for autonomy, competence and relatedness, thereby strengthening intrinsic motivation.",
+"B":"Only external rewards influence learning.",
+"C":"Strict control always produces better motivation.",
+"D":"Student autonomy has little educational value."
+},
+"correctAnswer":"A",
+"explanation":"The observed practices satisfy the three core psychological needs identified by Deci and Ryan, promoting sustained intrinsic motivation and deeper learning.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Self-Determination Theory","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0091",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which motivational theory emphasizes that human behaviour is influenced by a hierarchy of progressively higher needs?",
+"options":{
+"A":"Herzberg's Two-Factor Theory",
+"B":"Maslow's Hierarchy of Needs",
+"C":"Attribution Theory",
+"D":"Self-Determination Theory"
+},
+"correctAnswer":"B",
+"explanation":"Maslow proposed that human needs are arranged in a hierarchy from physiological needs to self-actualization.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Maslow","Revision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0092",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which comparison correctly matches the theorist with the central concept?",
+"options":{
+"A":"Maslow—Achievement, Herzberg—Hierarchy of Needs",
+"B":"McClelland—Achievement Needs, Herzberg—Motivators and Hygiene Factors",
+"C":"Weiner—Self-Determination, Deci & Ryan—Attribution",
+"D":"Skinner—Hierarchy of Needs"
+},
+"correctAnswer":"B",
+"explanation":"McClelland proposed Achievement, Affiliation and Power needs, whereas Herzberg proposed Motivators and Hygiene Factors.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Comparison","Theories"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0093",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A student says, 'I improved because I worked harder this time.' According to Weiner, this attribution is:",
+"options":{
+"A":"Internal and Controllable",
+"B":"External and Stable",
+"C":"External and Uncontrollable",
+"D":"Internal and Stable"
+},
+"correctAnswer":"A",
+"explanation":"Effort is an internal, controllable and unstable cause that learners can change.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Weiner","Effort"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0094",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Assertion (A): Learner autonomy generally strengthens intrinsic motivation.\nReason (R): Students become more engaged when they experience ownership of their learning.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Self-Determination Theory emphasizes autonomy as one of the three basic psychological needs supporting intrinsic motivation.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Self-Determination Theory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0095",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A teacher repeatedly rewards every small classroom activity with prizes. Over time, students participate only when prizes are announced. Which concept BEST explains this outcome?",
+"options":{
+"A":"Need for Achievement",
+"B":"Overjustification Effect",
+"C":"Law of Readiness",
+"D":"Insight Learning"
+},
+"correctAnswer":"B",
+"explanation":"Excessive dependence on external rewards may reduce intrinsic motivation, producing the overjustification effect.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Apply",
+"tags":["Intrinsic Motivation","Overjustification"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0096",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which motivational theory would MOST strongly recommend satisfying learners' basic needs before expecting high academic achievement?",
+"options":{
+"A":"Herzberg's Two-Factor Theory",
+"B":"Maslow's Hierarchy of Needs",
+"C":"McClelland's Theory of Needs",
+"D":"Weiner's Attribution Theory"
+},
+"correctAnswer":"B",
+"explanation":"Maslow argued that lower-level needs should be reasonably satisfied before higher-order learning and self-development can occur.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Maslow","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0097",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"A Dy.E.O. observes that a Headmaster improves school facilities, recognises outstanding teachers, provides leadership opportunities and encourages innovation. Which theories are MOST directly reflected?",
+"options":{
+"A":"Herzberg and Maslow",
+"B":"Skinner and Pavlov",
+"C":"Piaget and Bruner",
+"D":"Thorndike and Kohler"
+},
+"correctAnswer":"A",
+"explanation":"Improving facilities reflects Herzberg's hygiene factors, while recognition, leadership and growth opportunities support Herzberg's motivators and Maslow's higher-level needs.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Herzberg","Maslow"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0098",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which of the following statements are correct?\n\n1. Autonomy supports intrinsic motivation.\n2. Ability is generally an internal, stable attribution.\n3. Recognition is a motivator in Herzberg's theory.\n4. Need for Achievement is one of McClelland's learned needs.\n\nChoose the correct answer.",
+"options":{
+"A":"1, 2 and 3 only",
+"B":"2, 3 and 4 only",
+"C":"1, 2, 3 and 4",
+"D":"1 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly represent their respective motivational theories.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Integrated Revision"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0099",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"Which recommendation would BEST increase long-term motivation among school students?",
+"options":{
+"A":"Depend only on material rewards.",
+"B":"Create a safe environment, support autonomy, recognise effort and provide meaningful learning experiences.",
+"C":"Increase punishment for mistakes.",
+"D":"Reduce student participation in decision-making."
+},
+"correctAnswer":"B",
+"explanation":"Research across motivational theories consistently supports safe environments, autonomy, recognition of effort and meaningful learning as key motivators.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Educational Application","Integrated Motivation"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-MOT-0100",
+"subject":"Educational Psychology",
+"topic":"Motivation",
+"question":"During a comprehensive school inspection, a Dy.E.O. finds that schools provide nutritious meals, ensure safety, promote cooperative learning, recognise achievement, encourage student choice, give constructive feedback and emphasise effort over innate ability. Which conclusion BEST reflects contemporary educational psychology?",
+"options":{
+"A":"The schools are integrating principles from Maslow, Herzberg, McClelland, Weiner and Self-Determination Theory to promote holistic motivation and learning.",
+"B":"Only behaviourist principles are being applied.",
+"C":"Motivation depends entirely on external rewards.",
+"D":"Academic achievement is unrelated to classroom climate."
+},
+"correctAnswer":"A",
+"explanation":"The practices described combine multiple evidence-based motivational theories, creating conditions for sustained engagement, achievement and holistic learner development.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Integrated Motivation","Educational Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+}
+  ]
+}
