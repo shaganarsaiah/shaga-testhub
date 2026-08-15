@@ -1,0 +1,2103 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "topic": "Psychological Testing",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed",
+    "version": "1.0"
+  },
+  "questions": [
+    {
+"id":"EDPSY-PT-0001",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A psychological test is BEST defined as:",
+"options":{
+"A":"An informal conversation with a student",
+"B":"A standardized instrument used to measure behaviour, abilities or personality",
+"C":"A classroom discussion",
+"D":"A teacher's personal opinion"
+},
+"correctAnswer":"B",
+"explanation":"A psychological test is a standardized and objective instrument used to measure behaviour, intelligence, aptitude, personality and other psychological traits.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Definition","Psychological Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0002",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which characteristic is ESSENTIAL for every standardized psychological test?",
+"options":{
+"A":"Subjective scoring",
+"B":"Uniform administration",
+"C":"Changing questions for each student",
+"D":"Teacher's personal judgment"
+},
+"correctAnswer":"B",
+"explanation":"A standardized test must be administered under uniform conditions to ensure fairness and comparability.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Standardization"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0003",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who is regarded as the Father of Mental Testing?",
+"options":{
+"A":"Charles Spearman",
+"B":"James McKeen Cattell",
+"C":"Alfred Binet",
+"D":"David Wechsler"
+},
+"correctAnswer":"B",
+"explanation":"James McKeen Cattell introduced the term 'Mental Test' in 1890 and is regarded as the Father of Mental Testing.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["James McKeen Cattell"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0004",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): Psychological tests should be objective.\nReason (R): Scores should not depend on the examiner's personal opinion.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Objectivity ensures that test scores are independent of examiner bias.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Objectivity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0005",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following is NOT a characteristic of a good psychological test?",
+"options":{
+"A":"Reliability",
+"B":"Validity",
+"C":"Standardization",
+"D":"Examiner bias"
+},
+"correctAnswer":"D",
+"explanation":"A good psychological test should be reliable, valid, objective and standardized. Examiner bias reduces test quality.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Characteristics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0006",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which branch of psychology makes the greatest use of standardized psychological tests?",
+"options":{
+"A":"Educational Psychology",
+"B":"Social Psychology",
+"C":"Health Psychology",
+"D":"Environmental Psychology"
+},
+"correctAnswer":"A",
+"explanation":"Educational Psychology extensively uses psychological tests for assessment, guidance and educational planning.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Educational Psychology"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0007",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A school counsellor administers the same aptitude test under identical conditions to all students. Which principle is being followed?",
+"options":{
+"A":"Flexibility",
+"B":"Standardization",
+"C":"Randomization",
+"D":"Experimentation"
+},
+"correctAnswer":"B",
+"explanation":"Administering a test under identical conditions reflects standardization.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Standardization","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0008",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following is the PRIMARY purpose of psychological testing in schools?",
+"options":{
+"A":"Punishing students",
+"B":"Understanding learner characteristics for educational decisions",
+"C":"Comparing teachers",
+"D":"Increasing homework"
+},
+"correctAnswer":"B",
+"explanation":"Psychological testing helps understand learners' abilities, interests and needs for educational planning.",
+"difficulty":"Easy",
+"cognitiveLevel":"Understand",
+"tags":["Purpose","Schools"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0009",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. Psychological tests are standardized.\n2. Objectivity is an essential characteristic.\n3. James McKeen Cattell introduced the term 'Mental Test'.\n4. Psychological tests assist educational decision-making.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe psychological testing.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Psychological Testing"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0010",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A Dy.E.O. observes that schools use psychological tests only after proper training, maintain confidentiality and interpret scores carefully. Which educational principle is BEST reflected?",
+"options":{
+"A":"Ethical use of psychological testing",
+"B":"Mechanical assessment",
+"C":"Punitive evaluation",
+"D":"Random testing"
+},
+"correctAnswer":"A",
+"explanation":"Psychological tests should be administered ethically, confidentially and by trained personnel.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Ethics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PT-0011",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who developed the first practical intelligence test for identifying school children needing special educational assistance?",
+"options":{
+"A":"James McKeen Cattell",
+"B":"Alfred Binet and Theodore Simon",
+"C":"David Wechsler",
+"D":"Charles Spearman"
+},
+"correctAnswer":"B",
+"explanation":"Alfred Binet and Theodore Simon developed the first practical intelligence test in 1905 for identifying children requiring educational support.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Binet","Simon","History"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0012",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"The primary purpose of standardization is to:",
+"options":{
+"A":"Increase the difficulty level",
+"B":"Ensure uniform administration and scoring",
+"C":"Reduce the number of questions",
+"D":"Allow every examiner to use different procedures"
+},
+"correctAnswer":"B",
+"explanation":"Standardization ensures that all examinees are tested under similar conditions, making scores comparable.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Standardization"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0013",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which characteristic ensures that a test measures consistently over repeated administrations?",
+"options":{
+"A":"Validity",
+"B":"Reliability",
+"C":"Norms",
+"D":"Objectivity"
+},
+"correctAnswer":"B",
+"explanation":"Reliability refers to the consistency and stability of test scores over time or across equivalent forms.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Reliability"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0014",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): A test may be reliable but not valid.\nReason (R): Consistency alone does not guarantee that the test measures the intended construct.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"A test can consistently measure something (reliable) without actually measuring what it is intended to measure (valid).",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Reliability","Validity","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0015",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which characteristic refers to the extent to which a test measures what it claims to measure?",
+"options":{
+"A":"Reliability",
+"B":"Objectivity",
+"C":"Validity",
+"D":"Practicability"
+},
+"correctAnswer":"C",
+"explanation":"Validity is the degree to which a test actually measures the intended psychological construct.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Validity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0016",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A school psychologist administers the same intelligence test twice to the same students and obtains nearly identical scores. Which property is demonstrated?",
+"options":{
+"A":"Validity",
+"B":"Reliability",
+"C":"Norms",
+"D":"Usability"
+},
+"correctAnswer":"B",
+"explanation":"Obtaining similar scores on repeated testing demonstrates test-retest reliability.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Reliability","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0017",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which quality ensures that personal bias of the examiner does not affect test scores?",
+"options":{
+"A":"Objectivity",
+"B":"Reliability",
+"C":"Validity",
+"D":"Norming"
+},
+"correctAnswer":"A",
+"explanation":"Objectivity means scoring and interpretation are independent of the examiner's personal opinions.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Objectivity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0018",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A Dy.E.O. observes that a school uses trained psychologists, follows standardized procedures and interprets test results carefully before making educational decisions. Which principle is BEST illustrated?",
+"options":{
+"A":"Scientific use of psychological tests",
+"B":"Mechanical evaluation",
+"C":"Random assessment",
+"D":"Teacher intuition"
+},
+"correctAnswer":"A",
+"explanation":"Psychological tests should be administered and interpreted scientifically by trained professionals.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Scientific Testing"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0019",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. Reliability refers to consistency.\n2. Validity refers to accuracy.\n3. Objectivity reduces examiner bias.\n4. Standardization ensures uniform administration.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the essential characteristics of psychological tests.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Test Characteristics"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0020",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"During a district inspection, a Dy.E.O. finds that schools administer psychological tests ethically, maintain confidentiality, interpret results scientifically and use them to support learners rather than label them. Which conclusion BEST reflects good educational practice?",
+"options":{
+"A":"Psychological testing should guide educational planning and learner development.",
+"B":"Psychological tests should be used only to rank students.",
+"C":"Test scores should determine a student's future permanently.",
+"D":"Psychological testing is useful only for examinations."
+},
+"correctAnswer":"A",
+"explanation":"The purpose of psychological testing is to understand learners, provide guidance and improve educational planning rather than to stigmatize or label students.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Ethics","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PT-0021",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who developed the first practical Intelligence Test in 1905?",
+"options":{
+"A":"James McKeen Cattell",
+"B":"Alfred Binet and Theodore Simon",
+"C":"David Wechsler",
+"D":"Charles Spearman"
+},
+"correctAnswer":"B",
+"explanation":"Alfred Binet and Theodore Simon developed the first practical intelligence test in France in 1905 to identify children requiring special educational assistance.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Binet-Simon","Intelligence Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0022",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who introduced the concept of Mental Age (MA)?",
+"options":{
+"A":"David Wechsler",
+"B":"Charles Spearman",
+"C":"Alfred Binet",
+"D":"Lewis Terman"
+},
+"correctAnswer":"C",
+"explanation":"Alfred Binet introduced the concept of Mental Age while developing intelligence tests.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Mental Age"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0023",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who introduced the Intelligence Quotient (IQ) formula IQ = (MA/CA) × 100?",
+"options":{
+"A":"William Stern",
+"B":"David Wechsler",
+"C":"Alfred Binet",
+"D":"J.P. Guilford"
+},
+"correctAnswer":"A",
+"explanation":"William Stern proposed the Intelligence Quotient (IQ) formula based on Mental Age and Chronological Age.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["IQ","William Stern"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0024",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): David Wechsler replaced the traditional IQ formula with Deviation IQ.\nReason (R): Mental Age becomes less meaningful in adulthood.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Wechsler introduced Deviation IQ because Mental Age is not appropriate for measuring adult intelligence.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Wechsler"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0025",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which psychologist revised the Binet-Simon Scale into the Stanford-Binet Intelligence Scale?",
+"options":{
+"A":"Lewis Terman",
+"B":"David Wechsler",
+"C":"Spearman",
+"D":"Thorndike"
+},
+"correctAnswer":"A",
+"explanation":"Lewis Terman of Stanford University revised the Binet-Simon Scale into the Stanford-Binet Intelligence Scale in 1916.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Stanford-Binet","Lewis Terman"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0026",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which intelligence test is primarily designed for adults?",
+"options":{
+"A":"Stanford-Binet",
+"B":"WAIS",
+"C":"WISC",
+"D":"WPPSI"
+},
+"correctAnswer":"B",
+"explanation":"WAIS (Wechsler Adult Intelligence Scale) is designed for assessing adult intelligence.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["WAIS"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0027",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A psychologist administers the Wechsler Intelligence Scale for Children. Which test is being used?",
+"options":{
+"A":"WAIS",
+"B":"WPPSI",
+"C":"WISC",
+"D":"SBIS"
+},
+"correctAnswer":"C",
+"explanation":"WISC stands for Wechsler Intelligence Scale for Children.",
+"difficulty":"Easy",
+"cognitiveLevel":"Apply",
+"tags":["WISC","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0028",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which Wechsler scale is specifically developed for preschool and primary-age children?",
+"options":{
+"A":"WAIS",
+"B":"WISC",
+"C":"WPPSI",
+"D":"Stanford-Binet"
+},
+"correctAnswer":"C",
+"explanation":"WPPSI stands for Wechsler Preschool and Primary Scale of Intelligence.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["WPPSI"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0029",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. Binet introduced Mental Age.\n2. William Stern proposed the IQ formula.\n3. Lewis Terman developed Stanford-Binet.\n4. Wechsler introduced Deviation IQ.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe important milestones in intelligence testing.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Intelligence Tests"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0030",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A Dy.E.O. observes that schools use standardized intelligence tests only for identifying learning needs and planning educational support rather than labelling children. Which principle is BEST reflected?",
+"options":{
+"A":"Educational use of intelligence testing",
+"B":"Ranking students permanently",
+"C":"Punishment based on IQ",
+"D":"Ignoring individual differences"
+},
+"correctAnswer":"A",
+"explanation":"Intelligence tests should be used to support educational planning and identify learner needs, not to stigmatize students.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","IQ"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PT-0031",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which intelligence test is considered an individual test?",
+"options":{
+"A":"Army Alpha Test",
+"B":"Army Beta Test",
+"C":"Stanford-Binet Intelligence Scale",
+"D":"Otis Group Intelligence Test"
+},
+"correctAnswer":"C",
+"explanation":"The Stanford-Binet Intelligence Scale is administered individually by a trained examiner.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Individual Intelligence Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0032",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which intelligence test was designed mainly for literate army recruits during World War I?",
+"options":{
+"A":"Army Beta",
+"B":"Stanford-Binet",
+"C":"Army Alpha",
+"D":"WISC"
+},
+"correctAnswer":"C",
+"explanation":"Army Alpha was developed for literate recruits, whereas Army Beta was prepared for illiterate or non-English-speaking recruits.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Army Alpha"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0033",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Army Beta Test was mainly designed for:",
+"options":{
+"A":"Gifted children",
+"B":"Illiterate and non-English-speaking recruits",
+"C":"Preschool children",
+"D":"College students"
+},
+"correctAnswer":"B",
+"explanation":"Army Beta was developed for illiterate and non-English-speaking military recruits.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Army Beta"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0034",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): Group intelligence tests save time.\nReason (R): Many individuals can be tested simultaneously.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Group intelligence tests are economical because they allow simultaneous testing of many individuals.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Group Intelligence Test","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0035",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which type of intelligence test minimizes the influence of language?",
+"options":{
+"A":"Verbal Test",
+"B":"Language Test",
+"C":"Non-verbal Test",
+"D":"Essay Test"
+},
+"correctAnswer":"C",
+"explanation":"Non-verbal intelligence tests use figures, diagrams and symbols, reducing language dependency.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Non-verbal Intelligence Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0036",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A psychologist administers an intelligence test using only pictures and geometric figures. Which type of test is being used?",
+"options":{
+"A":"Verbal Test",
+"B":"Essay Test",
+"C":"Non-verbal Test",
+"D":"Achievement Test"
+},
+"correctAnswer":"C",
+"explanation":"Non-verbal intelligence tests rely on visual material rather than language.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Non-verbal Test","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0037",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which intelligence test is MOST suitable for learners with hearing impairment or language barriers?",
+"options":{
+"A":"Verbal Intelligence Test",
+"B":"Essay Examination",
+"C":"Non-verbal Intelligence Test",
+"D":"Language Proficiency Test"
+},
+"correctAnswer":"C",
+"explanation":"Non-verbal intelligence tests reduce the influence of language and are suitable for learners with communication difficulties.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Inclusive Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0038",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A Dy.E.O. observes that schools use intelligence tests together with classroom performance, teacher observations and psychological counselling before making educational decisions. Which principle is BEST reflected?",
+"options":{
+"A":"Comprehensive assessment",
+"B":"Single-test evaluation",
+"C":"Random decision making",
+"D":"Mechanical testing"
+},
+"correctAnswer":"A",
+"explanation":"Educational decisions should be based on multiple sources of evidence rather than a single intelligence test.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Comprehensive Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0039",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. Stanford-Binet is an individual intelligence test.\n2. Army Alpha is for literate recruits.\n3. Army Beta is for illiterate recruits.\n4. Non-verbal tests reduce language influence.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe important intelligence tests and their uses.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Intelligence Tests"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0040",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"During a district inspection, a Dy.E.O. finds that schools avoid labelling learners solely on IQ scores, use intelligence tests responsibly and combine them with other assessment methods. Which conclusion BEST reflects contemporary educational psychology?",
+"options":{
+"A":"Intelligence tests should support educational planning but should never be the sole basis for judging a learner.",
+"B":"IQ alone determines future success.",
+"C":"Only intelligence tests should be used for admission.",
+"D":"Teacher observations are unnecessary."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational psychology recommends using intelligence tests as one component of comprehensive assessment rather than as the only criterion.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Application","Intelligence Testing"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PT-0041",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Personality tests are primarily used to assess:",
+"options":{
+"A":"Academic achievement only",
+"B":"Relatively stable patterns of behaviour, emotions and personality traits",
+"C":"Physical fitness",
+"D":"Handwriting speed"
+},
+"correctAnswer":"B",
+"explanation":"Personality tests measure enduring characteristics such as behaviour, emotions, attitudes and personality traits.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Personality Test","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0042",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Personality tests are broadly classified into:",
+"options":{
+"A":"Verbal and Non-verbal",
+"B":"Objective and Projective",
+"C":"Essay and Objective",
+"D":"Individual and Group"
+},
+"correctAnswer":"B",
+"explanation":"Personality tests are commonly classified as Objective Tests and Projective Tests.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Classification"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0043",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who developed the Rorschach Inkblot Test?",
+"options":{
+"A":"Henry Murray",
+"B":"Hermann Rorschach",
+"C":"Raymond Cattell",
+"D":"Hans Eysenck"
+},
+"correctAnswer":"B",
+"explanation":"Hermann Rorschach developed the Inkblot Test in 1921 to study personality through responses to ambiguous inkblots.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Rorschach","Projective Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0044",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): Projective tests use ambiguous stimuli.\nReason (R): Individuals project unconscious motives and feelings while responding.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Projective tests are based on the assumption that people project unconscious feelings onto ambiguous stimuli.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Projective Tests"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0045",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who developed the Thematic Apperception Test (TAT)?",
+"options":{
+"A":"Henry Murray and Christiana Morgan",
+"B":"Hermann Rorschach",
+"C":"David Wechsler",
+"D":"Lewis Terman"
+},
+"correctAnswer":"A",
+"explanation":"Henry Murray and Christiana Morgan developed the TAT to assess personality through storytelling.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["TAT"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0046",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A psychologist asks a student to tell stories based on pictures to understand motives and emotions. Which test is being administered?",
+"options":{
+"A":"MMPI",
+"B":"16PF",
+"C":"TAT",
+"D":"EPQ"
+},
+"correctAnswer":"C",
+"explanation":"The TAT requires examinees to create stories about ambiguous pictures to reveal personality dynamics.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["TAT","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0047",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which personality inventory was developed by Hathaway and McKinley?",
+"options":{
+"A":"16PF",
+"B":"MMPI",
+"C":"EPQ",
+"D":"TAT"
+},
+"correctAnswer":"B",
+"explanation":"The Minnesota Multiphasic Personality Inventory (MMPI) was developed by Hathaway and McKinley.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["MMPI"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0048",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which personality test was developed by Raymond B. Cattell?",
+"options":{
+"A":"16 Personality Factor Questionnaire (16PF)",
+"B":"MMPI",
+"C":"TAT",
+"D":"EPQ"
+},
+"correctAnswer":"A",
+"explanation":"Raymond B. Cattell developed the 16 Personality Factor Questionnaire (16PF).",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["16PF","Cattell"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0049",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. Rorschach is a projective test.\n2. TAT was developed by Murray and Morgan.\n3. MMPI is an objective personality inventory.\n4. 16PF was developed by Raymond Cattell.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe major personality tests and their developers.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Personality Tests"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0050",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A Dy.E.O. observes that schools use personality tests only through trained counsellors, maintain confidentiality and never use them to label students. Which educational principle is BEST reflected?",
+"options":{
+"A":"Ethical use of personality testing",
+"B":"Ranking students",
+"C":"Punitive assessment",
+"D":"Random classification"
+},
+"correctAnswer":"A",
+"explanation":"Personality tests should be administered ethically, interpreted carefully and used for guidance rather than labelling.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Ethics","Personality Tests"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PT-0051",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which personality inventory was developed by Hans J. Eysenck?",
+"options":{
+"A":"MMPI",
+"B":"16PF",
+"C":"Eysenck Personality Questionnaire (EPQ)",
+"D":"TAT"
+},
+"correctAnswer":"C",
+"explanation":"Hans J. Eysenck developed the Eysenck Personality Questionnaire (EPQ) to measure dimensions such as Extraversion, Neuroticism and Psychoticism.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["EPQ","Eysenck"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0052",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which type of personality test generally uses standardized questions with fixed response options?",
+"options":{
+"A":"Projective Test",
+"B":"Objective Personality Inventory",
+"C":"Inkblot Test",
+"D":"Story Completion Test"
+},
+"correctAnswer":"B",
+"explanation":"Objective personality inventories use standardized questions and objective scoring procedures.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Objective Personality Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0053",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following is an example of a projective personality test?",
+"options":{
+"A":"MMPI",
+"B":"16PF",
+"C":"Rorschach Inkblot Test",
+"D":"EPQ"
+},
+"correctAnswer":"C",
+"explanation":"The Rorschach Inkblot Test is a classic projective personality assessment.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Projective Test","Rorschach"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0054",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): Objective personality tests generally have higher scoring reliability.\nReason (R): They use standardized scoring procedures.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Objective tests use standardized items and scoring keys, improving reliability.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Objective Tests"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0055",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A psychologist presents inkblots to a student and asks, 'What does this look like?' Which assessment method is being used?",
+"options":{
+"A":"16PF",
+"B":"MMPI",
+"C":"Rorschach Inkblot Test",
+"D":"EPQ"
+},
+"correctAnswer":"C",
+"explanation":"The Rorschach Inkblot Test asks individuals to interpret ambiguous inkblots to explore personality.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Rorschach","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0056",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which personality assessment is MOST appropriate when objective measurement with standardized scoring is required?",
+"options":{
+"A":"TAT",
+"B":"Rorschach Inkblot Test",
+"C":"MMPI",
+"D":"Sentence Completion Test"
+},
+"correctAnswer":"C",
+"explanation":"MMPI is a standardized objective personality inventory with established scoring procedures.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["MMPI","Objective Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0057",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A school counsellor combines interviews, classroom observations and personality tests before giving guidance. Which principle is illustrated?",
+"options":{
+"A":"Single-test evaluation",
+"B":"Comprehensive personality assessment",
+"C":"Random diagnosis",
+"D":"Mechanical scoring"
+},
+"correctAnswer":"B",
+"explanation":"Educational decisions should be based on multiple sources of information rather than one test alone.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Counselling","Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0058",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which personality test is primarily based on storytelling from ambiguous pictures?",
+"options":{
+"A":"MMPI",
+"B":"EPQ",
+"C":"TAT",
+"D":"16PF"
+},
+"correctAnswer":"C",
+"explanation":"The Thematic Apperception Test (TAT) requires individuals to tell stories based on ambiguous pictures.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["TAT"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0059",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. EPQ was developed by Hans Eysenck.\n2. MMPI is an objective personality inventory.\n3. Rorschach is a projective test.\n4. Personality assessment should use multiple sources of evidence.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe personality tests and good assessment practices.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Personality Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0060",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"During a district inspection, a Dy.E.O. observes that schools use personality assessments only for counselling, maintain confidentiality, involve trained professionals and never use test results for discrimination. Which conclusion BEST reflects contemporary educational psychology?",
+"options":{
+"A":"Personality tests should support learner guidance and well-being, not labelling or discrimination.",
+"B":"Personality tests should determine admission decisions alone.",
+"C":"Personality traits are fixed and cannot change.",
+"D":"One personality test is sufficient for all educational decisions."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational psychology emphasizes ethical, confidential and supportive use of personality assessments for learner development.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Ethics","Counselling","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PT-0061",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"An aptitude test primarily measures:",
+"options":{
+"A":"Past achievement",
+"B":"Present knowledge",
+"C":"Future potential to learn or perform",
+"D":"Personality traits"
+},
+"correctAnswer":"C",
+"explanation":"Aptitude tests measure an individual's potential to acquire specific knowledge or skills in the future.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Aptitude Test","Definition"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0062",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who developed the Differential Aptitude Tests (DAT)?",
+"options":{
+"A":"George K. Bennett and colleagues",
+"B":"David Wechsler",
+"C":"Henry Murray",
+"D":"Lewis Terman"
+},
+"correctAnswer":"A",
+"explanation":"The Differential Aptitude Tests (DAT) were developed by George K. Bennett, Harold G. Seashore and Alexander G. Wesman.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["DAT"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0063",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which battery is widely used for vocational aptitude assessment?",
+"options":{
+"A":"GATB",
+"B":"MMPI",
+"C":"TAT",
+"D":"Stanford-Binet"
+},
+"correctAnswer":"A",
+"explanation":"The General Aptitude Test Battery (GATB) is widely used for vocational guidance and occupational selection.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["GATB","Vocational Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0064",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): Aptitude tests help in educational and vocational guidance.\nReason (R): They estimate an individual's potential for future performance.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Aptitude tests estimate future potential, making them useful for educational and career guidance.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Aptitude"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0065",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Interest inventories are mainly used to identify:",
+"options":{
+"A":"Intelligence level",
+"B":"Academic achievement",
+"C":"Areas of personal preference and occupational interest",
+"D":"Personality disorders"
+},
+"correctAnswer":"C",
+"explanation":"Interest inventories identify activities, occupations and subjects preferred by an individual.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Interest Inventory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0066",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which psychologist developed the Strong Interest Inventory?",
+"options":{
+"A":"Edward K. Strong Jr.",
+"B":"Raymond Cattell",
+"C":"Hans Eysenck",
+"D":"David Wechsler"
+},
+"correctAnswer":"A",
+"explanation":"Edward K. Strong Jr. developed the Strong Interest Inventory for career guidance.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Strong Interest Inventory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0067",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"An attitude scale is primarily designed to measure:",
+"options":{
+"A":"Intelligence",
+"B":"Potential ability",
+"C":"Feelings, beliefs and opinions toward an object or issue",
+"D":"Motor coordination"
+},
+"correctAnswer":"C",
+"explanation":"Attitude scales measure an individual's favourable or unfavourable feelings toward people, objects or issues.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Attitude Scale"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0068",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which attitude scale was developed by Rensis Likert?",
+"options":{
+"A":"Likert Scale",
+"B":"Thurstone Scale",
+"C":"Guttman Scale",
+"D":"Semantic Differential Scale"
+},
+"correctAnswer":"A",
+"explanation":"The Likert Scale, developed by Rensis Likert, is one of the most widely used attitude scales.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Likert Scale"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0069",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. Aptitude predicts future performance.\n2. Interest inventories help career guidance.\n3. Likert developed the Likert Scale.\n4. GATB is used for vocational guidance.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe aptitude, interest and attitude assessment.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Aptitude","Interest","Attitude"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0070",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A Dy.E.O. observes that schools use aptitude tests, interest inventories and counselling together before advising students on subject selection. Which educational principle is BEST reflected?",
+"options":{
+"A":"Scientific educational guidance",
+"B":"Random placement",
+"C":"Teacher preference",
+"D":"Admission based only on marks"
+},
+"correctAnswer":"A",
+"explanation":"Educational guidance should consider aptitude, interests and counselling together for informed decision-making.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Educational Guidance"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PT-0071",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who developed the Thurstone Attitude Scale?",
+"options":{
+"A":"Louis L. Thurstone",
+"B":"Rensis Likert",
+"C":"Charles Osgood",
+"D":"Edward Strong"
+},
+"correctAnswer":"A",
+"explanation":"Louis L. Thurstone developed the Equal-Appearing Interval Scale, popularly known as the Thurstone Attitude Scale.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Thurstone Scale"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0072",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which attitude scale was developed by Louis Guttman?",
+"options":{
+"A":"Likert Scale",
+"B":"Semantic Differential",
+"C":"Guttman Scalogram",
+"D":"Thurstone Scale"
+},
+"correctAnswer":"C",
+"explanation":"Louis Guttman developed the Scalogram or Cumulative Scale.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Guttman Scale"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0073",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Who developed the Semantic Differential Scale?",
+"options":{
+"A":"Charles E. Osgood",
+"B":"Rensis Likert",
+"C":"Louis Thurstone",
+"D":"David Wechsler"
+},
+"correctAnswer":"A",
+"explanation":"Charles E. Osgood developed the Semantic Differential Scale to measure attitudes using bipolar adjective pairs.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Semantic Differential","Osgood"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0074",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): Interest inventories help students choose suitable careers.\nReason (R): They identify areas that individuals enjoy and prefer.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Interest inventories identify personal preferences, which support educational and vocational guidance.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Interest Inventory"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0075",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which interest inventory was developed by G. Frederic Kuder?",
+"options":{
+"A":"Strong Interest Inventory",
+"B":"Kuder Preference Record",
+"C":"MMPI",
+"D":"16PF"
+},
+"correctAnswer":"B",
+"explanation":"G. Frederic Kuder developed the Kuder Preference Record to measure vocational interests.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Kuder Preference Record"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0076",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"An achievement test primarily measures:",
+"options":{
+"A":"Future potential",
+"B":"Present level of learning after instruction",
+"C":"Personality traits",
+"D":"Vocational interests"
+},
+"correctAnswer":"B",
+"explanation":"Achievement tests measure what a learner has already learned through instruction.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Achievement Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0077",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which test is mainly used to identify specific learning difficulties and their causes?",
+"options":{
+"A":"Achievement Test",
+"B":"Diagnostic Test",
+"C":"Aptitude Test",
+"D":"Interest Inventory"
+},
+"correctAnswer":"B",
+"explanation":"Diagnostic tests identify strengths, weaknesses and specific learning difficulties for remedial teaching.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Diagnostic Test"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0078",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A school counsellor administers aptitude tests, interest inventories and achievement tests before advising a student about subject selection. Which educational principle is BEST illustrated?",
+"options":{
+"A":"Comprehensive educational guidance",
+"B":"Random placement",
+"C":"Selection based only on marks",
+"D":"Teacher preference"
+},
+"correctAnswer":"A",
+"explanation":"Educational guidance should consider multiple assessments before making recommendations.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["Educational Guidance","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0079",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. Thurstone developed the Equal-Appearing Interval Scale.\n2. Likert developed the Likert Scale.\n3. Osgood developed the Semantic Differential Scale.\n4. Kuder developed the Kuder Preference Record.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly match the developers with their respective scales or inventories.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Attitude Scales"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0080",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"During a district inspection, a Dy.E.O. finds that schools use aptitude tests, achievement tests, diagnostic tests and interest inventories together before recommending remedial teaching or career guidance. Which conclusion BEST reflects good educational practice?",
+"options":{
+"A":"Educational decisions should be based on comprehensive assessment using multiple tools.",
+"B":"One test is sufficient for all decisions.",
+"C":"Achievement tests alone determine future careers.",
+"D":"Interest tests measure intelligence."
+},
+"correctAnswer":"A",
+"explanation":"Modern educational assessment integrates multiple tools to understand learners comprehensively and provide appropriate guidance.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Comprehensive Assessment","Educational Application"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+{
+"id":"EDPSY-PT-0081",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Reliability of a psychological test refers to:",
+"options":{
+"A":"Its popularity",
+"B":"Its consistency in measurement",
+"C":"Its length",
+"D":"Its difficulty level"
+},
+"correctAnswer":"B",
+"explanation":"Reliability refers to the consistency, stability and dependability of test scores.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Reliability"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0082",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which method estimates reliability by administering the same test twice to the same group?",
+"options":{
+"A":"Split-half",
+"B":"Parallel Forms",
+"C":"Test-Retest",
+"D":"Inter-rater"
+},
+"correctAnswer":"C",
+"explanation":"Test-Retest reliability measures score stability over time.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Test-Retest"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0083",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which reliability method divides a test into two equivalent halves?",
+"options":{
+"A":"Split-half",
+"B":"Test-Retest",
+"C":"Parallel Forms",
+"D":"Inter-rater"
+},
+"correctAnswer":"A",
+"explanation":"Split-half reliability estimates internal consistency by correlating two halves of the same test.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Split-half"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0084",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): A test may be reliable but not valid.\nReason (R): Consistent measurement does not necessarily measure the intended construct.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Reliability is necessary but not sufficient for validity.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Reliability","Validity","Assertion-Reason"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0085",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Validity refers to:",
+"options":{
+"A":"Consistency of scores",
+"B":"Accuracy in measuring the intended construct",
+"C":"Length of the test",
+"D":"Ease of administration"
+},
+"correctAnswer":"B",
+"explanation":"Validity indicates whether a test measures what it claims to measure.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Validity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0086",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which type of validity examines whether test items adequately represent the content domain?",
+"options":{
+"A":"Criterion Validity",
+"B":"Construct Validity",
+"C":"Content Validity",
+"D":"Face Validity"
+},
+"correctAnswer":"C",
+"explanation":"Content validity ensures that the test adequately samples the intended content area.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Content Validity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0087",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Norms in psychological testing are:",
+"options":{
+"A":"Personal opinions",
+"B":"Reference scores obtained from a representative group",
+"C":"Teacher comments",
+"D":"Exam rules"
+},
+"correctAnswer":"B",
+"explanation":"Norms provide a basis for interpreting an individual's score by comparison with a representative sample.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Norms"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0088",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Standardization refers to:",
+"options":{
+"A":"Preparing difficult questions",
+"B":"Uniform administration, scoring and interpretation procedures",
+"C":"Using only objective questions",
+"D":"Reducing test length"
+},
+"correctAnswer":"B",
+"explanation":"Standardization ensures fairness and comparability of test scores.",
+"difficulty":"Easy",
+"cognitiveLevel":"Remember",
+"tags":["Standardization"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0089",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. Reliability means consistency.\n2. Validity means accuracy.\n3. Norms help interpret scores.\n4. Standardization ensures uniform administration.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe the major concepts of psychological testing.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Multiple Statements","Testing Principles"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0090",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A Dy.E.O. finds that schools use only standardized, valid and reliable tests interpreted by trained professionals. Which educational principle is BEST reflected?",
+"options":{
+"A":"Scientific assessment",
+"B":"Mechanical testing",
+"C":"Random evaluation",
+"D":"Teacher intuition"
+},
+"correctAnswer":"A",
+"explanation":"Educational assessment should use scientifically developed and standardized tests.",
+"difficulty":"Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Scientific Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0091",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which type of validity examines whether a test appears appropriate on the surface?",
+"options":{
+"A":"Construct Validity",
+"B":"Face Validity",
+"C":"Content Validity",
+"D":"Criterion Validity"
+},
+"correctAnswer":"B",
+"explanation":"Face validity refers to the apparent suitability of a test as judged by examinees or experts.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Face Validity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0092",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Criterion validity is determined by:",
+"options":{
+"A":"Comparing test scores with an external criterion",
+"B":"Examining item difficulty",
+"C":"Calculating mean scores only",
+"D":"Reducing examiner bias"
+},
+"correctAnswer":"A",
+"explanation":"Criterion validity measures how well test scores predict or correspond with an external criterion.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Criterion Validity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0093",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Construct validity is concerned with:",
+"options":{
+"A":"Whether the test measures the intended psychological construct",
+"B":"Length of the test",
+"C":"Ease of administration",
+"D":"Printing quality"
+},
+"correctAnswer":"A",
+"explanation":"Construct validity evaluates whether the test truly measures the theoretical trait or construct.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Construct Validity"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0094",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Assertion (A): Standardization improves fairness in testing.\nReason (R): Every examinee receives identical testing conditions.",
+"options":{
+"A":"Both A and R are true, and R correctly explains A.",
+"B":"Both A and R are true, but R is not the correct explanation.",
+"C":"A is true, but R is false.",
+"D":"A is false, but R is true."
+},
+"correctAnswer":"A",
+"explanation":"Uniform procedures reduce bias and improve fairness.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Assertion-Reason","Standardization"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0095",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which reliability method compares scores from two equivalent forms of the same test?",
+"options":{
+"A":"Split-half",
+"B":"Parallel Forms",
+"C":"Test-Retest",
+"D":"Inter-rater"
+},
+"correctAnswer":"B",
+"explanation":"Parallel Forms reliability measures consistency across two equivalent versions of a test.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Parallel Forms"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0096",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Inter-rater reliability measures:",
+"options":{
+"A":"Consistency between different scorers",
+"B":"Consistency over time",
+"C":"Accuracy of measurement",
+"D":"Content coverage"
+},
+"correctAnswer":"A",
+"explanation":"Inter-rater reliability examines agreement among different evaluators.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Remember",
+"tags":["Inter-rater Reliability"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0097",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"A school compares students' test scores with national norms before interpreting results. Which concept is being applied?",
+"options":{
+"A":"Reliability",
+"B":"Norm-referenced interpretation",
+"C":"Criterion validity",
+"D":"Objectivity"
+},
+"correctAnswer":"B",
+"explanation":"Norm-referenced interpretation compares an individual's score with a representative group.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Apply",
+"tags":["Norms","Case Study"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0098",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"Which of the following statements are correct?\n\n1. Reliability concerns consistency.\n2. Validity concerns accuracy.\n3. Standardization promotes fairness.\n4. Norms assist interpretation.\n\nChoose the correct answer.",
+"options":{
+"A":"1 and 2 only",
+"B":"2 and 3 only",
+"C":"1, 2, 3 and 4",
+"D":"1, 3 and 4 only"
+},
+"correctAnswer":"C",
+"explanation":"All four statements correctly describe fundamental principles of psychological testing.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Analyze",
+"tags":["Grand Revision","Multiple Statements"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0099",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"According to ethical principles, psychological test results should primarily be used to:",
+"options":{
+"A":"Label learners permanently",
+"B":"Support guidance, counselling and educational planning",
+"C":"Publicly rank students",
+"D":"Punish low-performing learners"
+},
+"correctAnswer":"B",
+"explanation":"Ethical testing emphasizes learner welfare, confidentiality and educational support.",
+"difficulty":"Moderate",
+"cognitiveLevel":"Understand",
+"tags":["Ethics","Counselling"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+},
+
+{
+"id":"EDPSY-PT-0100",
+"subject":"Educational Psychology",
+"topic":"Psychological Testing",
+"question":"During a district inspection, a Dy.E.O. observes that schools use reliable, valid, standardized and ethically administered psychological tests together with teacher observations, classroom performance and counselling before making educational decisions. Which conclusion BEST represents modern educational assessment?",
+"options":{
+"A":"Educational decisions should be based on comprehensive, scientific and ethical assessment rather than a single test score.",
+"B":"One psychological test is sufficient for every educational decision.",
+"C":"IQ alone determines educational success.",
+"D":"Psychological tests should replace classroom assessment."
+},
+"correctAnswer":"A",
+"explanation":"Contemporary educational psychology advocates multiple sources of evidence, scientific assessment and ethical use of test results to support learner development.",
+"difficulty":"Very Difficult",
+"cognitiveLevel":"Evaluate",
+"tags":["DyEO","Grand Revision","Educational Assessment"],
+"source":{"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+"isPreviousYearQuestion":false,
+"language":"English"
+}
+  ]
+}
