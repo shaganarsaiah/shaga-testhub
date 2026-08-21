@@ -24,11 +24,19 @@
     },
 
     {
-      "id": "educational-philosophy",
-      "name": "Educational Philosophy",
-      "topics": []
-    },
-
+  "id": "educational-philosophy",
+  "name": "Educational Philosophy",
+  "topics": [
+    "constitution-education",
+    "historical-perspective",
+    "religious-implications",
+    "epistemological-foundations",
+    "educational-thinkers",
+    "education-values",
+    "society-education",
+    "idealism"
+  ]
+},
     {
       "id": "educational-sociology",
       "name": "Educational Sociology",

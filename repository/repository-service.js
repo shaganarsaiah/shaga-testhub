@@ -47,8 +47,14 @@ class RepositoryService {
 
     const convertedQuestion = this.converter.convertQuestion(question);
 
-    convertedQuestion.subject = bank.metadata.subject;
-    convertedQuestion.topic = bank.metadata.topic;
+    const subjectMap = {
+    "Foundations of Education": "Educational Philosophy"
+};
+
+convertedQuestion.subject =
+    subjectMap[bank.metadata.subject] || bank.metadata.subject;
+
+convertedQuestion.topic = bank.metadata.topic;
 
     allQuestions.push(convertedQuestion);
 

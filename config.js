@@ -4,11 +4,21 @@ const repository = {
 
         "Educational Psychology": [
             "Growth and Development",
-            "Learning"
+            "Learning",
+            "Memory",
+            "Motivation",
+            "Intelligence",
+            "Personality & Adjustment",
+            "Creativity & Thinking",
+            "Psychological Testing",
+            "Individual Differences",
+            "Guidance and Counselling"
         ],
 
         "Educational Philosophy": [
-            "Idealism"
+            "Religious Implications",
+            "Epistemological Foundations",
+            "Educational Thinkers"
         ],
 
         "Educational Sociology": [],
@@ -29,8 +39,13 @@ const repository = {
 
 };
 
-const subjectsContainer = document.getElementById("subjects");
-const topic = document.getElementById("topic");
+
+const subjectsContainer =
+    document.getElementById("subjects");
+
+const topicsContainer =
+    document.getElementById("topics");
+
 
 function getSelectedSubjects() {
 
@@ -42,23 +57,41 @@ function getSelectedSubjects() {
 
 }
 
+
+function getSelectedTopics() {
+
+    return Array.from(
+        topicsContainer.querySelectorAll(
+            'input[type="checkbox"]:checked'
+        )
+    ).map(cb => cb.value);
+
+}
+
+
 function loadTopics() {
 
-    topic.innerHTML = "";
+    const previouslySelected =
+        new Set(getSelectedTopics());
 
-    const selectedSubjects = getSelectedSubjects();
+    topicsContainer.innerHTML = "";
+
+    const selectedSubjects =
+        getSelectedSubjects();
 
     const allTopics = [];
 
+
     selectedSubjects.forEach(subject => {
 
-        const topics = repository.subjects[subject] || [];
+        const subjectTopics =
+            repository.subjects[subject] || [];
 
-        topics.forEach(t => {
+        subjectTopics.forEach(topicName => {
 
-            if (!allTopics.includes(t)) {
+            if (!allTopics.includes(topicName)) {
 
-                allTopics.push(t);
+                allTopics.push(topicName);
 
             }
 
@@ -66,90 +99,200 @@ function loadTopics() {
 
     });
 
-    allTopics.forEach(t => {
 
-        const option = document.createElement("option");
+    if (allTopics.length === 0) {
 
-        option.textContent = t;
+        topicsContainer.innerHTML =
+            "<small>No topics available for the selected subject(s).</small>";
 
-        option.value = t;
+        return;
 
-        topic.appendChild(option);
+    }
+
+
+    allTopics.forEach(topicName => {
+
+        const label =
+            document.createElement("label");
+
+        const checkbox =
+            document.createElement("input");
+
+        checkbox.type = "checkbox";
+        checkbox.value = topicName;
+
+        /*
+         * Preserve previously selected topics.
+         * If loading for the first time,
+         * leave topics available for manual selection.
+         */
+        if (previouslySelected.has(topicName)) {
+            checkbox.checked = true;
+        }
+
+        label.appendChild(checkbox);
+
+        label.appendChild(
+            document.createTextNode(
+                " " + topicName
+            )
+        );
+
+        topicsContainer.appendChild(label);
 
     });
 
 }
 
+
 subjectsContainer
-.querySelectorAll('input[type="checkbox"]')
-.forEach(cb => {
+    .querySelectorAll(
+        'input[type="checkbox"]'
+    )
+    .forEach(cb => {
 
-    cb.addEventListener("change", loadTopics);
+        cb.addEventListener(
+            "change",
+            loadTopics
+        );
 
-});
+    });
+
 
 loadTopics();
 
-const startBtn = document.getElementById("startBtn");
-startBtn.addEventListener("click", async () => {
 
-    const config = {
+const startBtn =
+    document.getElementById("startBtn");
 
-        subjects: getSelectedSubjects(),
 
-        topic: topic.value,
+startBtn.addEventListener(
+    "click",
+    async () => {
 
-        questionCount: parseInt(
-            document.getElementById("questions").value
-        ),
+        const selectedSubjects =
+            getSelectedSubjects();
 
-        difficulty: document.getElementById("difficulty").value,
+        const selectedTopics =
+            getSelectedTopics();
 
-        language: document.getElementById("language").value,
 
-        time: parseInt(
-            document.getElementById("time").value
-        )
+        if (selectedSubjects.length === 0) {
 
-    };
+            alert(
+                "Please select at least one subject."
+            );
 
-    localStorage.setItem(
-        "testConfig",
-        JSON.stringify(config)
-    );
-
-    try {
-
-        const response = await fetch("/generate-test", {
-
-            method: "POST",
-
-            headers: {
-                "Content-Type": "application/json"
-            },
-
-            body: JSON.stringify(config)
-
-        });
-
-        const result = await response.json();
-
-        if (result.success) {
-
-            window.location.href = "index.html";
-
-        } else {
-
-            alert("Test generation failed.");
+            return;
 
         }
 
-    } catch (err) {
 
-        console.error(err);
+        if (selectedTopics.length === 0) {
 
-        alert("Server not running.");
+            alert(
+                "Please select at least one topic."
+            );
+
+            return;
+
+        }
+
+
+        const config = {
+
+            subjects: selectedSubjects,
+
+            /*
+             * NEW:
+             * multiple topics
+             */
+            topics: selectedTopics,
+
+            /*
+             * Backward compatibility
+             * with older TestHub code.
+             */
+            topic: selectedTopics[0] || "",
+
+            questionCount: parseInt(
+                document
+                    .getElementById("questions")
+                    .value
+            ),
+
+            difficulty:
+                document
+                    .getElementById("difficulty")
+                    .value,
+
+            language:
+                document
+                    .getElementById("language")
+                    .value,
+
+            time: parseInt(
+                document
+                    .getElementById("time")
+                    .value
+            )
+
+        };
+
+
+        localStorage.setItem(
+            "testConfig",
+            JSON.stringify(config)
+        );
+
+
+        try {
+
+            const response =
+                await fetch(
+                    "/generate-test",
+                    {
+
+                        method: "POST",
+
+                        headers: {
+                            "Content-Type":
+                                "application/json"
+                        },
+
+                        body:
+                            JSON.stringify(config)
+
+                    }
+                );
+
+
+            const result =
+                await response.json();
+
+
+            if (result.success) {
+
+                window.location.href =
+                    "index.html";
+
+            } else {
+
+                alert(
+                    "Test generation failed."
+                );
+
+            }
+
+        } catch (err) {
+
+            console.error(err);
+
+            alert(
+                "Server not running."
+            );
+
+        }
 
     }
-
-});
+);
