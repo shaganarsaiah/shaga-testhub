@@ -241,58 +241,10 @@ startBtn.addEventListener(
 
 
         localStorage.setItem(
-            "testConfig",
-            JSON.stringify(config)
-        );
-
-
-        try {
-
-            const response =
-                await fetch(
-                    "/generate-test",
-                    {
-
-                        method: "POST",
-
-                        headers: {
-                            "Content-Type":
-                                "application/json"
-                        },
-
-                        body:
-                            JSON.stringify(config)
-
-                    }
-                );
-
-
-            const result =
-                await response.json();
-
-
-            if (result.success) {
-
-                window.location.href =
-                    "index.html";
-
-            } else {
-
-                alert(
-                    "Test generation failed."
-                );
-
-            }
-
-        } catch (err) {
-
-            console.error(err);
-
-            alert(
-                "Server not running."
-            );
-
-        }
-
-    }
+    "testConfig",
+    JSON.stringify(config)
 );
+
+window.location.href = "index.html";
+
+});
