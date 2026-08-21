@@ -1,0 +1,2991 @@
+{
+  "metadata": {
+    "subject": "Foundations of Education",
+    "unit": "Epistemological Foundations",
+    "chapter": "Epistemological Foundations",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "2.0",
+    "repository": "SHAGA GOLD"
+  },
+  "questions": [
+    {
+      "id": "FOE-EPI-0001",
+      "question": "A teacher treats the learner's mind as an active system that interprets, organizes and connects new experiences with prior understanding rather than as a passive container of information. Which educational view is MOST clearly reflected?",
+      "options": {
+        "A": "The mind actively constructs and organizes knowledge",
+        "B": "The mind merely stores impressions without interpretation",
+        "C": "Learning occurs independently of prior knowledge",
+        "D": "Thinking has no role in learning"
+      },
+      "correctAnswer": "A",
+      "explanation": "The scenario presents the mind as an active organizer of experience. This view emphasizes interpretation, prior knowledge and construction of meaning rather than passive reception of information.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": [
+        "Mind",
+        "Knowledge Construction",
+        "Learning",
+        "Case Study"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EPI-0002",
+      "question": "Assertion (A): Educational understanding of the mind influences the way teachers design learning experiences. Reason (R): Different conceptions of the mind lead to different assumptions about how learners acquire, interpret and use knowledge. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true, and R is the correct explanation of A",
+        "B": "Both A and R are true, but R is not the correct explanation of A",
+        "C": "A is true, but R is false",
+        "D": "A is false, but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both statements are true. A teacher's conception of the mind affects assumptions about learning, thinking, memory, interpretation and instruction. Therefore, the Reason correctly explains the Assertion.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": [
+        "Mind",
+        "Teaching",
+        "Learning",
+        "Assertion-Reason"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EPI-0003",
+      "question": "Consider the following statements about the role of the mind in learning: 1. Prior knowledge can influence interpretation of new information. 2. Attention and reflection can influence learning. 3. The learner's mind always receives information in exactly the same way regardless of context. 4. Meaning-making can involve active cognitive processing. Which statements are correct?",
+      "options": {
+        "A": "1 and 3 only",
+        "B": "1, 2 and 4 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Prior knowledge, attention, reflection and active cognitive processing all influence learning. The claim that information is always received identically regardless of context is incorrect.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": [
+        "Mind",
+        "Prior Knowledge",
+        "Attention",
+        "Reflection",
+        "Statement Based"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EPI-0004",
+      "question": "A child gives an incorrect answer that nevertheless reveals a consistent pattern of reasoning. Which teacher response BEST reflects an educationally productive view of the mind?",
+      "options": {
+        "A": "Treat the response as meaningless because it is incorrect",
+        "B": "Examine the reasoning behind the response and use it to guide further learning",
+        "C": "Punish the child for thinking differently",
+        "D": "Replace all reasoning activities with memorization"
+      },
+      "correctAnswer": "B",
+      "explanation": "An incorrect answer may reveal the learner's current mental representation or reasoning process. Examining that reasoning allows the teacher to understand misconceptions and design appropriate instruction.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": [
+        "Mind",
+        "Misconception",
+        "Reasoning",
+        "Educational Scenario"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EPI-0005",
+      "question": "Which statement BEST distinguishes an active conception of the mind from a passive one?",
+      "options": {
+        "A": "An active mind interprets and organizes experience, whereas a passive conception emphasizes mere reception",
+        "B": "An active mind never requires experience",
+        "C": "A passive mind always reasons better than an active mind",
+        "D": "There is no educational difference between the two conceptions"
+      },
+      "correctAnswer": "A",
+      "explanation": "An active conception sees the mind as interpreting, organizing and constructing meaning from experience. A passive conception treats learning more as reception or storage of externally supplied information.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": [
+        "Mind",
+        "Active Learning",
+        "Passive Learning",
+        "Conceptual Analysis"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EPI-0006",
+      "question": "A Deputy Educational Officer observes that a school relies almost entirely on copying notes and repeating definitions. Which change would BEST reflect the view that the learner's mind should actively process knowledge?",
+      "options": {
+        "A": "Increase the number of copied pages",
+        "B": "Introduce questioning, comparison, explanation and problem-solving tasks",
+        "C": "Reduce opportunities for student discussion",
+        "D": "Require students to memorize longer passages"
+      },
+      "correctAnswer": "B",
+      "explanation": "Questioning, comparison, explanation and problem solving require learners to process, organize and use knowledge actively. These practices better reflect an active conception of the mind than repetitive copying.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": [
+        "Mind",
+        "Active Processing",
+        "Administrative Scenario",
+        "Teaching Method"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EPI-0007",
+      "question": "Assertion (A): Prior knowledge can both support and distort new learning. Reason (R): Learners interpret new information through existing mental frameworks that may be accurate or inaccurate. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true, and R is the correct explanation of A",
+        "B": "Both A and R are true, but R is not the correct explanation of A",
+        "C": "A is true, but R is false",
+        "D": "A is false, but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Existing knowledge can help learners connect new ideas, but misconceptions can also interfere with learning. The Reason directly explains why prior knowledge may have both beneficial and misleading effects.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": [
+        "Mind",
+        "Prior Knowledge",
+        "Misconceptions",
+        "Assertion-Reason"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EPI-0008",
+      "question": "A teacher asks students to explain how they arrived at an answer rather than merely state the answer. Which aspect of mind is the teacher MOST directly trying to make visible?",
+      "options": {
+        "A": "The learner's reasoning process",
+        "B": "The learner's physical growth",
+        "C": "The learner's handwriting speed",
+        "D": "The learner's attendance record"
+      },
+      "correctAnswer": "A",
+      "explanation": "Asking learners to explain how they reached an answer reveals their reasoning, mental representations and possible misconceptions. This provides deeper evidence of thinking than the final answer alone.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": [
+        "Mind",
+        "Reasoning",
+        "Metacognition",
+        "Teaching Practice"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EPI-0009",
+      "question": "Consider the following classroom practices: 1. Asking learners to connect new ideas with previous knowledge. 2. Encouraging explanation of reasoning. 3. Using errors diagnostically. 4. Assuming every learner interprets the same lesson identically. Which practices are consistent with an active conception of mind?",
+      "options": {
+        "A": "1 and 4 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Connecting prior knowledge, explaining reasoning and using errors diagnostically all recognize active mental processing. Assuming identical interpretation ignores differences in prior knowledge and cognitive processing.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": [
+        "Mind",
+        "Active Learning",
+        "Prior Knowledge",
+        "Errors",
+        "Statement Based"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EPI-0010",
+      "question": "Which educational principle BEST summarizes the epistemological importance of the mind?",
+      "options": {
+        "A": "Knowledge is learned only through mechanical repetition",
+        "B": "The learner's mental processes influence how experience becomes meaningful knowledge",
+        "C": "Thinking is irrelevant once information is presented",
+        "D": "The mind has no relationship with interpretation or understanding"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mind plays a central role in attending to, interpreting, organizing and integrating experience. Therefore, educational epistemology must consider how mental processes contribute to the formation of understanding and knowledge.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": [
+        "Mind",
+        "Epistemology",
+        "Knowledge",
+        "Understanding"
+      ],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+  "id": "FOE-EPI-0011",
+  "question": "A teacher presents students with two conflicting explanations of the same educational problem and asks them to examine assumptions, compare evidence and justify which explanation is more defensible. Which epistemological capacity is being developed MOST directly?",
+  "options": {
+    "A": "Reason",
+    "B": "Mechanical memory",
+    "C": "Habit formation",
+    "D": "Sensory adaptation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reason enables learners to examine assumptions, compare evidence, identify relationships and arrive at justified conclusions. The activity requires rational evaluation rather than mere recall.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Reason",
+    "Epistemology",
+    "Critical Thinking",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0012",
+  "question": "Assertion (A): Reason has an important place in education because learners should be able to justify beliefs rather than merely possess them. Reason (R): Rational inquiry involves examining grounds, relationships and implications before accepting a conclusion. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Both statements are correct. Reason contributes to justified belief by requiring examination of grounds and implications rather than uncritical acceptance. The Reason therefore correctly explains the Assertion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Reason",
+    "Justification",
+    "Rational Inquiry",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0013",
+  "question": "A learner argues, 'Every student who attended the remedial programme improved; therefore, the programme alone caused the improvement.' Which response BEST demonstrates rational educational inquiry?",
+  "options": {
+    "A": "Accept the conclusion because improvement occurred",
+    "B": "Reject all educational programmes because causation can never be studied",
+    "C": "Examine whether other factors could have contributed before accepting the causal conclusion",
+    "D": "Accept the conclusion if the majority of teachers agree"
+  },
+  "correctAnswer": "C",
+  "explanation": "Rational inquiry requires distinguishing association from adequately established causation. Other variables such as additional practice, teacher support or learner motivation should be considered before concluding that one factor alone caused the improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Reason",
+    "Causation",
+    "Evidence",
+    "Educational Scenario",
+    "Critical Thinking"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0014",
+  "question": "Consider the following characteristics of rational inquiry: 1. Examination of reasons supporting a claim. 2. Willingness to revise a conclusion when stronger evidence emerges. 3. Acceptance of authority as sufficient proof in every situation. 4. Consideration of consistency between conclusions and evidence. Which are appropriate?",
+  "options": {
+    "A": "1 and 3 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Rational inquiry involves reasons, evidence, consistency and openness to revision. Authority may sometimes provide useful information, but treating authority as sufficient proof in every situation is inconsistent with critical rational inquiry.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Reason",
+    "Evidence",
+    "Justification",
+    "Critical Inquiry",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0015",
+  "question": "A textbook states a controversial educational claim. A teacher asks students, 'What reasons support this statement? What evidence could challenge it?' Which educational principle is BEST represented?",
+  "options": {
+    "A": "Knowledge claims should be subjected to rational examination",
+    "B": "Every printed statement must be accepted as final truth",
+    "C": "Reasoning should be avoided when authority is available",
+    "D": "Evidence is unnecessary if a claim appears familiar"
+  },
+  "correctAnswer": "A",
+  "explanation": "The teacher encourages students to examine the justification for a knowledge claim rather than accept it merely because it appears in a textbook. This develops rational and critical inquiry.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Reason",
+    "Knowledge Claims",
+    "Critical Inquiry",
+    "Textbook",
+    "Educational Application"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0016",
+  "question": "A Deputy Educational Officer receives a proposal stating that a new teaching method should be implemented district-wide because one school obtained excellent results after using it. What should be the MOST rational administrative response?",
+  "options": {
+    "A": "Implement it immediately because one successful case proves universal effectiveness",
+    "B": "Reject it because no teaching innovation can be evaluated rationally",
+    "C": "Examine broader evidence, contextual factors and alternative explanations before scaling it up",
+    "D": "Approve it only because the headmaster strongly supports it"
+  },
+  "correctAnswer": "C",
+  "explanation": "A single successful case is insufficient to establish universal effectiveness. Rational administrative decision-making requires examination of broader evidence, relevant conditions, alternative explanations and applicability to different contexts.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Reason",
+    "Administrative Scenario",
+    "Evidence Based Decision",
+    "Educational Administration"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0017",
+  "question": "Assertion (A): Rational thinking does not require a learner to refuse every claim made by an authority. Reason (R): Rationality requires evaluating the grounds for accepting a claim, and reliable expertise itself may constitute relevant evidence when appropriately assessed. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Critical reasoning is not identical with automatic rejection of authority. Credible expertise may provide relevant evidence, but its reliability, relevance and grounds should be considered rather than accepted blindly.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Reason",
+    "Authority",
+    "Evidence",
+    "Critical Thinking",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0018",
+  "question": "Two students reach opposite conclusions after examining the same issue. Which teacher response BEST promotes the educational use of reason?",
+  "options": {
+    "A": "Select the answer of the higher-scoring student without discussion",
+    "B": "Ask each student to state assumptions, evidence and reasoning so that the arguments can be compared",
+    "C": "Declare that disagreement proves reasoning is useless",
+    "D": "Prevent students from discussing controversial issues"
+  },
+  "correctAnswer": "B",
+  "explanation": "Reasoned disagreement can be educationally valuable when learners articulate assumptions, evidence and inferential steps. Comparing arguments allows conclusions to be evaluated on their justification rather than on status or authority.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Reason",
+    "Argumentation",
+    "Evidence",
+    "Classroom Discussion",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0019",
+  "question": "Consider the following classroom situations: 1. Students are asked to provide evidence for conclusions. 2. Students compare competing explanations. 3. Students revise judgments when counter-evidence is convincing. 4. Students are rewarded for accepting every claim without questioning. Which situations promote rational inquiry?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Providing evidence, comparing explanations and revising conclusions in response to stronger evidence are central to rational inquiry. Unquestioning acceptance of every claim works against the development of reason.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Reason",
+    "Rational Inquiry",
+    "Evidence",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0020",
+  "question": "Which statement BEST summarizes the educational significance of reason within epistemological foundations?",
+  "options": {
+    "A": "Reason enables learners to examine, justify and revise knowledge claims through coherent thinking and evidence",
+    "B": "Reason requires learners to reject all experience",
+    "C": "Reason means accepting only those claims that agree with one's prior beliefs",
+    "D": "Reason is useful for examinations but irrelevant to educational decision-making"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reason enables learners to assess knowledge claims, examine evidence, identify relationships, construct arguments and revise conclusions when warranted. It is therefore fundamental to both learning and informed educational decision-making.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Reason",
+    "Epistemology",
+    "Knowledge",
+    "Justification",
+    "Educational Implications"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0021",
+  "question": "A teacher tells students, 'All members of the school cabinet are students. Ravi is a member of the school cabinet. Therefore, Ravi is a student.' Which feature makes this argument logically valid?",
+  "options": {
+    "A": "The conclusion necessarily follows from the stated premises",
+    "B": "The conclusion is based only on observation",
+    "C": "The conclusion is popular among students",
+    "D": "The conclusion contains a factual statement"
+  },
+  "correctAnswer": "A",
+  "explanation": "In a valid deductive argument, if the premises are true, the conclusion necessarily follows from them. Logical validity concerns the relationship between premises and conclusion rather than popularity or mere factual content.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Logic",
+    "Deduction",
+    "Validity",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0022",
+  "question": "Assertion (A): A logically valid argument can contain a false premise. Reason (R): Logical validity concerns whether the conclusion follows from the premises, whereas the truth of the premises is a separate question. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Validity concerns the logical structure of an argument. A deductive argument may be valid even when one or more premises are actually false. Soundness additionally requires true premises.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Logic",
+    "Validity",
+    "Truth",
+    "Soundness",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0023",
+  "question": "After observing that students in five schools improved following a new teaching strategy, an officer concludes that the strategy is likely to improve achievement in similar schools. Which form of reasoning is MOST directly involved?",
+  "options": {
+    "A": "Inductive reasoning",
+    "B": "Deductive reasoning",
+    "C": "Circular reasoning",
+    "D": "Contradictory reasoning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inductive reasoning moves from observations or particular cases toward a broader probable generalization. The conclusion extends beyond the observed schools and is therefore probable rather than logically necessary.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Logic",
+    "Induction",
+    "Generalization",
+    "Educational Scenario"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0024",
+  "question": "Consider the following statements: 1. Deductive reasoning can move from general premises to a logically entailed conclusion. 2. Inductive conclusions are generally probabilistic rather than logically necessary. 3. A valid deductive argument must necessarily have factually true premises. 4. Logic helps examine the relationship between reasons and conclusions. Which statements are correct?",
+  "options": {
+    "A": "1 and 3 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Statements 1, 2 and 4 are correct. Validity concerns whether a conclusion follows from premises; it does not itself guarantee that the premises are factually true.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Logic",
+    "Deduction",
+    "Induction",
+    "Validity",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0025",
+  "question": "During a staff meeting, a teacher argues, 'This proposal must be wrong because the teacher who suggested it is inexperienced.' Which logical error is MOST clearly illustrated?",
+  "options": {
+    "A": "Ad hominem reasoning",
+    "B": "Valid deduction",
+    "C": "Inductive generalization",
+    "D": "Modus ponens"
+  },
+  "correctAnswer": "A",
+  "explanation": "The argument attacks or dismisses the person proposing the idea instead of evaluating the merits of the proposal itself. This is an ad hominem fallacy.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Logic",
+    "Fallacy",
+    "Ad Hominem",
+    "Administrative Scenario"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0026",
+  "question": "A principal argues, 'Either we prohibit mobile phones completely or students will stop learning altogether.' The argument ignores several possible intermediate policies. Which weakness is MOST evident?",
+  "options": {
+    "A": "False dilemma",
+    "B": "Sound deduction",
+    "C": "Analogical reasoning",
+    "D": "Valid generalization"
+  },
+  "correctAnswer": "A",
+  "explanation": "A false dilemma presents an issue as though only two alternatives exist when other reasonable possibilities are available. Regulated or limited educational use, for example, represents an intermediate possibility.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Logic",
+    "False Dilemma",
+    "Fallacy",
+    "School Administration"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0027",
+  "question": "Assertion (A): Teaching logic can contribute to critical thinking in students. Reason (R): Logic helps learners distinguish conclusions that are adequately supported from those based on inconsistent or fallacious reasoning. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Both statements are true. Logical analysis helps learners examine the quality of arguments, detect fallacies and assess whether conclusions are supported by appropriate reasons.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Logic",
+    "Critical Thinking",
+    "Fallacies",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0028",
+  "question": "A Deputy Educational Officer is told, 'School A introduced smart boards and its results improved; therefore, installing smart boards will necessarily improve results in every school.' Which evaluation is MOST logically appropriate?",
+  "options": {
+    "A": "The conclusion is certain because one successful case establishes a universal rule",
+    "B": "The conclusion overgeneralizes from insufficient evidence and ignores other possible factors",
+    "C": "The conclusion is deductively valid because examination results are numerical",
+    "D": "The conclusion must be accepted because technology always determines achievement"
+  },
+  "correctAnswer": "B",
+  "explanation": "A single case does not establish a universal causal rule. Other factors such as teaching quality, student background, implementation and school context may contribute to the observed improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Logic",
+    "Hasty Generalization",
+    "Causation",
+    "Administrative Scenario",
+    "Evaluation"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0029",
+  "question": "Consider the argument: 'If a school satisfies all prescribed recognition requirements, it is eligible for recognition. School X satisfies all prescribed recognition requirements. Therefore, School X is eligible for recognition.' Which logical form does this MOST closely represent?",
+  "options": {
+    "A": "Modus ponens",
+    "B": "False dilemma",
+    "C": "Ad hominem",
+    "D": "Hasty generalization"
+  },
+  "correctAnswer": "A",
+  "explanation": "The structure is: If P, then Q; P; therefore Q. This is the valid deductive form known as modus ponens.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Logic",
+    "Modus Ponens",
+    "Deduction",
+    "Administrative Application"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0030",
+  "question": "Which statement BEST summarizes the educational significance of logic within epistemological foundations?",
+  "options": {
+    "A": "Logic enables learners to examine the structure of arguments, evaluate inferences and distinguish sound reasoning from fallacious reasoning",
+    "B": "Logic requires learners to memorize conclusions without examining premises",
+    "C": "Logic proves that every strongly held belief is true",
+    "D": "Logic eliminates the need for evidence and experience"
+  },
+  "correctAnswer": "A",
+  "explanation": "Logic provides principles for examining arguments and inferences. Educationally, it strengthens critical thinking by helping learners evaluate relationships between premises and conclusions and recognize defective reasoning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Logic",
+    "Epistemology",
+    "Inference",
+    "Critical Thinking",
+    "Educational Implications"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0031",
+  "question": "A Class III child explains that a tall, narrow glass contains more water than a short, wide glass even after watching the same water being transferred between them. What should the teacher infer MOST appropriately about the child's thinking?",
+  "options": {
+    "A": "The child is necessarily inattentive and should memorize the correct answer",
+    "B": "The child's reasoning may be influenced by perceptual appearance rather than conservation",
+    "C": "The child has fully developed abstract propositional reasoning",
+    "D": "The response proves that experience has no role in thinking"
+  },
+  "correctAnswer": "B",
+  "explanation": "The child is focusing on perceptually dominant features such as height and has not fully coordinated the relevant dimensions required for conservation. The response should be interpreted as evidence about the structure of the child's thinking rather than simply as carelessness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Thinking in Children",
+    "Conservation",
+    "Perception",
+    "Piaget",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0032",
+  "question": "Assertion (A): Children's incorrect answers can provide valuable evidence about their thinking. Reason (R): An error may arise from an internally consistent way of interpreting a problem rather than from absence of thought. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Children's errors may reveal their assumptions, concepts and reasoning strategies. Teachers can therefore use errors diagnostically to understand how a child is thinking and to plan appropriate learning experiences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Thinking in Children",
+    "Errors",
+    "Reasoning",
+    "Diagnostic Teaching",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0033",
+  "question": "A teacher asks children to predict whether different objects will float, explain their predictions, test the objects and then reconsider their explanations. Which aspect of children's thinking is MOST strongly promoted?",
+  "options": {
+    "A": "Construction and revision of explanations through evidence",
+    "B": "Mechanical reproduction of teacher statements",
+    "C": "Dependence on authority without inquiry",
+    "D": "Avoidance of conceptual conflict"
+  },
+  "correctAnswer": "A",
+  "explanation": "Prediction, explanation, testing and reconsideration require children to make their thinking explicit and revise ideas in response to evidence. This promotes active conceptual development.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Thinking in Children",
+    "Inquiry",
+    "Evidence",
+    "Conceptual Change",
+    "Educational Scenario"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0034",
+  "question": "Consider the following statements about thinking in children: 1. Children may construct explanations from their experiences. 2. Prior conceptions can influence interpretation of new information. 3. Children's thinking is simply an incomplete copy of adult thinking in every respect. 4. Social interaction can contribute to the development of thinking. Which statements are correct?",
+  "options": {
+    "A": "1 and 3 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Children actively construct ideas, interpret new experiences through existing understandings and can develop thinking through social interaction. Their thinking should not simply be regarded as a quantitatively deficient version of adult thought.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Thinking in Children",
+    "Prior Knowledge",
+    "Social Interaction",
+    "Constructive Learning",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0035",
+  "question": "A child cannot solve a problem independently but succeeds when the teacher provides carefully graded hints and later performs a similar task without assistance. Which interpretation BEST explains the development of the child's thinking?",
+  "options": {
+    "A": "Appropriate scaffolding can support performance beyond the child's current independent level",
+    "B": "Assistance prevents all cognitive development",
+    "C": "Only tasks already mastered independently should be taught",
+    "D": "Thinking develops independently of interaction with more knowledgeable persons"
+  },
+  "correctAnswer": "A",
+  "explanation": "The scenario reflects the educational significance of guided participation and scaffolding within the learner's Zone of Proximal Development. Support is gradually reduced as competence increases.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Thinking in Children",
+    "Vygotsky",
+    "ZPD",
+    "Scaffolding",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0036",
+  "question": "A young child talks aloud while completing a difficult puzzle, saying, 'This one goes here... no, turn it... now try this.' From a Vygotskian perspective, what is the MOST appropriate interpretation?",
+  "options": {
+    "A": "The speech is necessarily meaningless and should be stopped",
+    "B": "The child may be using private speech to guide and regulate thinking",
+    "C": "The speech proves that the child cannot think independently",
+    "D": "Language and thought develop without any relationship"
+  },
+  "correctAnswer": "B",
+  "explanation": "Vygotsky viewed private speech as having an important self-regulatory function. Children may use language overtly to organize actions and guide problem solving, with such regulation later becoming increasingly internalized.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Thinking in Children",
+    "Vygotsky",
+    "Private Speech",
+    "Self Regulation",
+    "Language"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0037",
+  "question": "Assertion (A): Classroom dialogue can contribute to the development of children's thinking. Reason (R): Language can function as a cultural and psychological tool through which children participate in shared reasoning and gradually regulate their own thought. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "From a sociocultural perspective, language and social interaction contribute to cognitive development. Dialogue allows children to encounter ways of reasoning that can gradually become part of their own thinking.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Thinking in Children",
+    "Language",
+    "Social Interaction",
+    "Vygotsky",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0038",
+  "question": "A Deputy Educational Officer observes a primary classroom where the teacher immediately supplies the correct answer whenever children hesitate. Which recommendation would BEST support the development of children's thinking?",
+  "options": {
+    "A": "Give answers even faster so children never experience uncertainty",
+    "B": "Use probing questions, suitable materials, peer discussion and graded support before supplying solutions",
+    "C": "Replace all problem-solving activities with copying",
+    "D": "Avoid asking children to explain their reasoning"
+  },
+  "correctAnswer": "B",
+  "explanation": "Probing questions, concrete experiences, peer interaction and appropriate scaffolding create opportunities for children to reason and construct understanding. Immediately supplying answers can unnecessarily reduce opportunities for productive thinking.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Thinking in Children",
+    "Scaffolding",
+    "Questioning",
+    "Administrative Scenario",
+    "Pedagogy"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0039",
+  "question": "Consider the following classroom practices: 1. Asking children to explain how they reached an answer. 2. Providing opportunities to manipulate concrete materials. 3. Encouraging discussion of alternative strategies. 4. Treating every incorrect response as evidence of laziness. Which practices are MOST supportive of understanding children's thinking?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Explanation, concrete exploration and discussion reveal and develop children's reasoning. Incorrect responses should be investigated for their underlying reasoning rather than automatically attributed to laziness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Thinking in Children",
+    "Concrete Experience",
+    "Reasoning",
+    "Errors",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0040",
+  "question": "Which principle BEST summarizes the educational significance of studying thinking in children?",
+  "options": {
+    "A": "Teaching should begin from how children actually understand and reason, and should provide experiences and support that progressively reorganize and extend their thinking",
+    "B": "Children should receive adult conclusions without opportunities to reason",
+    "C": "All children think identically when they are of the same chronological age",
+    "D": "The primary purpose of teaching is to replace children's thinking with memorized statements"
+  },
+  "correctAnswer": "A",
+  "explanation": "Understanding children's thinking helps teachers identify existing conceptions and developmental possibilities. Effective teaching builds on these while using inquiry, interaction, experience and appropriate support to extend understanding.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Thinking in Children",
+    "Epistemology",
+    "Child Development",
+    "Pedagogy",
+    "Educational Implications"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0041",
+  "question": "Students observe that seeds kept near a window grow faster than seeds kept in a dark cupboard. A teacher asks them to propose explanations, identify variables, conduct controlled investigations and revise their conclusions on the basis of evidence. Which characteristic of scientific knowledge is MOST strongly represented?",
+  "options": {
+    "A": "Systematic empirical inquiry",
+    "B": "Acceptance of conclusions through authority alone",
+    "C": "Dependence on intuition without verification",
+    "D": "Preservation of an explanation regardless of contrary evidence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Scientific knowledge relies on systematic inquiry involving observation, hypotheses, investigation, evidence and critical evaluation. The students are expected to test explanations rather than merely accept them.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Scientific Knowledge",
+    "Empirical Inquiry",
+    "Evidence",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0042",
+  "question": "Assertion (A): Scientific knowledge should generally be regarded as open to revision rather than absolutely final. Reason (R): New evidence, improved methods or better explanations may require modification of previously accepted scientific claims. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Scientific knowledge is generally regarded as tentative or revisable rather than infallible. Stronger evidence and improved explanations may lead to refinement, modification or replacement of existing scientific claims.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Scientific Knowledge",
+    "Tentativeness",
+    "Evidence",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0043",
+  "question": "A school adopts a new teaching programme because examination results increased after its introduction. Which additional evidence would be MOST important before scientifically concluding that the programme caused the improvement?",
+  "options": {
+    "A": "Whether other relevant variables and alternative explanations were adequately considered",
+    "B": "Whether the programme has an attractive name",
+    "C": "Whether most teachers personally like the programme",
+    "D": "Whether the programme was introduced by a senior officer"
+  },
+  "correctAnswer": "A",
+  "explanation": "Scientific causal inference requires consideration of alternative explanations and relevant variables. Improvement occurring after an intervention does not by itself establish that the intervention caused the improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Scientific Knowledge",
+    "Causation",
+    "Variables",
+    "Evidence",
+    "Educational Scenario"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0044",
+  "question": "Consider the following characteristics of scientific knowledge: 1. It seeks evidence for claims. 2. It permits critical examination of explanations. 3. It treats every current conclusion as permanently immune to revision. 4. It values systematic observation and investigation. Which statements are correct?",
+  "options": {
+    "A": "1 and 3 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Scientific knowledge emphasizes evidence, systematic inquiry and critical examination. Scientific conclusions may be strongly supported but remain open to reconsideration when warranted by new evidence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Scientific Knowledge",
+    "Evidence",
+    "Scientific Inquiry",
+    "Tentativeness",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0045",
+  "question": "A learner says, 'Scientists sometimes change their explanations; therefore, scientific knowledge is unreliable.' Which response is MOST epistemologically appropriate?",
+  "options": {
+    "A": "The learner is correct because reliable knowledge can never change",
+    "B": "Revision in response to stronger evidence is a strength of scientific inquiry rather than proof that it is arbitrary",
+    "C": "Scientific explanations change only because scientists disagree personally",
+    "D": "Scientific knowledge should never be questioned once published"
+  },
+  "correctAnswer": "B",
+  "explanation": "The revisability of scientific knowledge reflects responsiveness to evidence. Scientific claims are evaluated and refined through continuing inquiry, so warranted revision is a strength rather than evidence of arbitrariness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Scientific Knowledge",
+    "Tentativeness",
+    "Nature of Science",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0046",
+  "question": "A Deputy Educational Officer is presented with four claims about a remedial programme. Which claim has the STRONGEST scientific basis?",
+  "options": {
+    "A": "It works because an experienced teacher believes that it works",
+    "B": "It works because students said that they enjoyed it",
+    "C": "Its effects were systematically studied using appropriate evidence and competing explanations were examined",
+    "D": "It works because a similar programme is popular in another district"
+  },
+  "correctAnswer": "C",
+  "explanation": "Scientific evaluation requires systematic evidence, appropriate methods and consideration of alternative explanations. Expertise, popularity and satisfaction may be relevant information but are insufficient by themselves to establish effectiveness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Scientific Knowledge",
+    "Evidence",
+    "Programme Evaluation",
+    "Administrative Scenario"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0047",
+  "question": "Assertion (A): Reproducibility or replicability strengthens confidence in scientific findings. Reason (R): Findings that can withstand independent examination under appropriately similar conditions are less dependent on a single investigator or isolated observation. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Independent scrutiny and replication can increase confidence that findings are not merely products of accidental circumstances, individual bias or isolated observations. The Reason correctly explains the Assertion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Scientific Knowledge",
+    "Replication",
+    "Reliability",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0048",
+  "question": "Two explanations account for the same classroom phenomenon. Explanation I makes testable predictions and is supported by repeated evidence. Explanation II cannot be examined against any possible observation. From the standpoint of scientific knowledge, which evaluation is MOST appropriate?",
+  "options": {
+    "A": "Explanation I has greater scientific strength because it is empirically testable",
+    "B": "Explanation II is stronger because it cannot be challenged",
+    "C": "Both must be equally scientific because both are explanations",
+    "D": "Testability has no relevance to scientific inquiry"
+  },
+  "correctAnswer": "A",
+  "explanation": "Empirical testability is an important feature of scientific claims. An explanation that generates claims capable of being examined against evidence has greater scientific status than one insulated from every possible observation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Scientific Knowledge",
+    "Testability",
+    "Evidence",
+    "Scientific Explanation"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0049",
+  "question": "Consider the following practices in science education: 1. Asking students to distinguish observation from inference. 2. Encouraging them to test predictions. 3. Asking them to compare explanations with evidence. 4. Teaching them that scientific authority makes questioning unnecessary. Which practices develop an appropriate understanding of scientific knowledge?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Distinguishing observation from inference, testing predictions and evaluating explanations against evidence are central scientific practices. Scientific expertise is important, but scientific claims remain open to reasoned scrutiny.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Scientific Knowledge",
+    "Observation",
+    "Inference",
+    "Testing",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0050",
+  "question": "Which statement BEST summarizes the educational significance of scientific knowledge within epistemological foundations?",
+  "options": {
+    "A": "Learners should understand scientific knowledge as evidence-based, systematically investigated, critically examinable and open to warranted revision",
+    "B": "Scientific knowledge consists mainly of permanently fixed facts that should be memorized without questioning",
+    "C": "Scientific knowledge depends primarily on the authority of individual scientists",
+    "D": "Scientific knowledge eliminates the need for reasoning because observation alone automatically produces conclusions"
+  },
+  "correctAnswer": "A",
+  "explanation": "Scientific knowledge involves systematic inquiry, evidence, reasoning, critical scrutiny and openness to revision. Science education should therefore develop understanding of how knowledge is generated and justified, not merely memorization of conclusions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Scientific Knowledge",
+    "Epistemology",
+    "Evidence",
+    "Scientific Inquiry",
+    "Educational Implications"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0051",
+  "question": "During a classroom discussion, one student argues that every meaningful knowledge claim must be established through controlled empirical testing. Another points out that religious traditions may also appeal to faith, revelation, spiritual experience and interpretation. Which epistemological conclusion is MOST appropriate?",
+  "options": {
+    "A": "All forms of knowledge necessarily use identical methods of justification",
+    "B": "Different domains of knowledge may employ different sources and modes of justification",
+    "C": "Religious knowledge and scientific knowledge are methodologically identical",
+    "D": "Any belief automatically becomes knowledge when sincerely held"
+  },
+  "correctAnswer": "B",
+  "explanation": "Scientific and religious knowledge may involve different epistemological sources and methods. Scientific inquiry characteristically emphasizes empirical investigation, while religious knowledge may additionally involve faith, revelation, tradition and spiritual experience. This does not imply that every sincerely held belief automatically constitutes knowledge.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Religious Knowledge",
+    "Epistemology",
+    "Faith",
+    "Revelation",
+    "Scientific Knowledge"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0052",
+  "question": "Assertion (A): Religious knowledge cannot be adequately understood merely by applying the criteria of laboratory verification used in experimental science. Reason (R): Religious knowledge may involve sources such as revelation, faith, tradition and spiritual experience that operate within different epistemological frameworks. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Both statements are correct. Experimental science characteristically emphasizes empirical testing, whereas religious knowledge may also draw upon revelation, faith, tradition and spiritual experience. The Reason therefore explains why identical criteria cannot simply be applied to every knowledge domain.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Religious Knowledge",
+    "Scientific Knowledge",
+    "Faith",
+    "Revelation",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0053",
+  "question": "A teacher discussing religious knowledge in a culturally diverse classroom wants students to understand different traditions without requiring them to personally accept any particular religious belief. Which approach is MOST educationally appropriate?",
+  "options": {
+    "A": "Comparative and reflective study conducted with respect for different traditions",
+    "B": "Compelling all learners to affirm one religious doctrine",
+    "C": "Preventing students from asking questions about religious ideas",
+    "D": "Treating followers of one tradition as intellectually superior to others"
+  },
+  "correctAnswer": "A",
+  "explanation": "In a plural educational setting, religious ideas can be studied comparatively, critically and respectfully without compelling personal adherence. This allows learners to understand different knowledge traditions while respecting freedom of belief.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Religious Knowledge",
+    "Pluralism",
+    "Comparative Education",
+    "Educational Scenario"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0054",
+  "question": "Consider the following statements about religious knowledge: 1. Revelation may function as a source of knowledge within religious traditions. 2. Faith may have epistemological significance within religious frameworks. 3. Religious knowledge is necessarily produced only through controlled experimentation. 4. Interpretation and tradition may influence understanding of religious claims. Which statements are correct?",
+  "options": {
+    "A": "1 and 3 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Religious traditions may appeal to revelation, faith, tradition, interpretation and religious experience. Controlled experimentation is characteristic of particular forms of scientific inquiry and is not the exclusive means through which religious knowledge claims are understood.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Religious Knowledge",
+    "Revelation",
+    "Faith",
+    "Tradition",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0055",
+  "question": "A student says, 'Science uses evidence, whereas religion involves faith; therefore, rational discussion of religious knowledge is impossible.' Which response is MOST epistemologically defensible?",
+  "options": {
+    "A": "Correct, because faith necessarily eliminates every form of reasoning",
+    "B": "Incorrect, because religious claims and traditions can also be interpreted, compared and rationally examined even when their grounds differ from experimental science",
+    "C": "Correct, because only experimentally testable statements can ever be discussed rationally",
+    "D": "Incorrect, because religious and scientific claims always use exactly the same standards of evidence"
+  },
+  "correctAnswer": "B",
+  "explanation": "Differences between scientific and religious modes of knowing do not make rational discussion impossible. Religious claims can be examined conceptually, historically, interpretively and philosophically even where their grounds differ from those of experimental science.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Religious Knowledge",
+    "Reason",
+    "Faith",
+    "Critical Inquiry",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0056",
+  "question": "A Deputy Educational Officer observes that a teacher presents the beliefs of one religious tradition as unquestionable facts that every student must personally accept. Which recommendation is MOST appropriate in a plural and constitutionally sensitive educational setting?",
+  "options": {
+    "A": "Continue the practice because education requires uniformity of belief",
+    "B": "Teach about religious ideas in an educational, comparative and respectful manner without compelling personal adherence",
+    "C": "Assess students according to the sincerity of their religious commitment",
+    "D": "Permit the teacher to declare other traditions false as part of classroom assessment"
+  },
+  "correctAnswer": "B",
+  "explanation": "A plural educational setting should distinguish educational study of religions from compulsory adherence to a particular faith. Comparative and respectful treatment protects intellectual inquiry as well as freedom of belief.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Religious Knowledge",
+    "Pluralism",
+    "Administrative Scenario",
+    "Freedom of Belief",
+    "Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0057",
+  "question": "Assertion (A): Personal religious experience may be highly meaningful to the person who undergoes it but may present special challenges as public evidence for others. Reason (R): First-person experiences are not necessarily accessible to independent observers in the same manner as publicly observable phenomena. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Personal religious experiences may carry strong significance for individuals while posing epistemological questions concerning public verification and intersubjective accessibility. The Reason correctly identifies why such experiences differ from publicly observable evidence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Religious Knowledge",
+    "Religious Experience",
+    "Evidence",
+    "Epistemology",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0058",
+  "question": "Students compare accounts of creation from religious traditions with scientific explanations concerning the development of the universe. Which teacher strategy demonstrates the GREATEST epistemological maturity?",
+  "options": {
+    "A": "Ask how the different accounts formulate questions, what kinds of claims they make and what forms of justification they employ",
+    "B": "Tell students that every account must be evaluated only as a laboratory hypothesis",
+    "C": "Require students to select a religious identity before participating",
+    "D": "Prevent comparison because different forms of knowledge can never be discussed together"
+  },
+  "correctAnswer": "A",
+  "explanation": "Epistemological analysis examines the nature of claims, questions, methods and forms of justification used within different domains. Comparing these carefully is more sophisticated than assuming that all claims necessarily perform identical functions or use identical methods.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Religious Knowledge",
+    "Scientific Knowledge",
+    "Epistemology",
+    "Comparison",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0059",
+  "question": "Consider the following educational principles for studying religious knowledge: 1. Distinguish understanding a belief from personally accepting it. 2. Examine the sources and grounds on which religious claims are made. 3. Respect the existence of diverse traditions and interpretations. 4. Require every learner to reach the same religious conclusion. Which principles are appropriate?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Educational study of religious knowledge should distinguish understanding from adherence, examine epistemological grounds and recognize diversity. Requiring identical religious conclusions would conflict with intellectual freedom and pluralism.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Religious Knowledge",
+    "Pluralism",
+    "Critical Inquiry",
+    "Freedom of Belief",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0060",
+  "question": "Which statement BEST summarizes the educational significance of religious knowledge within epistemological foundations?",
+  "options": {
+    "A": "Learners should examine how religious traditions understand and justify knowledge while developing respectful, critical and comparative understanding",
+    "B": "Religious knowledge should be taught by requiring all learners to adopt identical beliefs",
+    "C": "Religious and scientific knowledge must always be treated as methodologically identical",
+    "D": "Religious knowledge has educational value only when its claims can be reproduced through laboratory experiments"
+  },
+  "correctAnswer": "A",
+  "explanation": "Epistemological study of religious knowledge examines sources such as faith, revelation, tradition, interpretation and experience while encouraging critical and respectful comparison. Educational understanding does not require compulsory adherence to a particular religious belief.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Religious Knowledge",
+    "Epistemology",
+    "Faith",
+    "Revelation",
+    "Pluralism",
+    "Educational Implications"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0061",
+  "question": "A science teacher begins a lesson on soil by asking students to examine soil samples collected from their surroundings, compare their properties, discuss previous observations and then develop concepts from these activities. Which epistemological position is MOST clearly reflected?",
+  "options": {
+    "A": "Experience can provide an important basis for the development of knowledge",
+    "B": "Knowledge develops independently of sensory interaction with the world",
+    "C": "Concepts should always be transmitted before learners encounter phenomena",
+    "D": "Experience has no legitimate role in education"
+  },
+  "correctAnswer": "A",
+  "explanation": "The activity recognizes experience, observation and interaction with the environment as important sources for developing knowledge. Learners move from encounters with phenomena toward conceptual understanding.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Experience",
+    "Epistemology",
+    "Experiential Learning",
+    "Observation",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0062",
+  "question": "Assertion (A): Experience alone does not automatically produce educationally valuable knowledge. Reason (R): Learners may need reflection, conceptual organization and critical examination to interpret what they experience. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Experience becomes educationally powerful when it is interpreted and reflected upon. Merely undergoing an activity does not guarantee understanding; reflection and conceptualization help transform experience into meaningful learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Experience",
+    "Reflection",
+    "Knowledge",
+    "Experiential Learning",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0063",
+  "question": "Students participate in a school cleanliness programme. One teacher treats it merely as assigned physical work, while another asks students to investigate waste generation, reflect on community habits and develop solutions. Why is the second approach epistemologically richer?",
+  "options": {
+    "A": "It connects experience with inquiry, reflection and reconstruction of understanding",
+    "B": "It eliminates the need for experience",
+    "C": "It converts all knowledge into memorization",
+    "D": "It prevents learners from interpreting their own experiences"
+  },
+  "correctAnswer": "A",
+  "explanation": "Experience becomes more educational when learners inquire into it, reflect upon it and reconstruct their understanding. The second approach moves beyond activity for its own sake toward meaningful learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Experience",
+    "Reflection",
+    "Inquiry",
+    "Educational Scenario",
+    "Experiential Learning"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0064",
+  "question": "Consider the following statements about experience and knowledge: 1. Experience may provide material for learning. 2. Reflection can transform experience into deeper understanding. 3. Every experience necessarily produces accurate knowledge. 4. Previous experiences can influence interpretation of new situations. Which statements are correct?",
+  "options": {
+    "A": "1 and 3 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Experience is an important source of learning, and previous experience influences interpretation. However, experiences may be misunderstood or interpreted incorrectly, so experience does not automatically guarantee accurate knowledge.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Experience",
+    "Knowledge",
+    "Reflection",
+    "Prior Experience",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0065",
+  "question": "A learner says, 'I have personally seen one child learn better without attending school; therefore, schooling is unnecessary for every child.' What is the BEST epistemological evaluation of this claim?",
+  "options": {
+    "A": "Personal experience is sufficient to establish a universal conclusion",
+    "B": "Experience is irrelevant to knowledge and should be completely ignored",
+    "C": "Personal experience can provide evidence, but its interpretation and generalization require critical examination",
+    "D": "Any conclusion based on experience is necessarily scientific"
+  },
+  "correctAnswer": "C",
+  "explanation": "Experience may provide meaningful evidence, but conclusions drawn from it require interpretation. Generalizing from one personal case to all children is not justified without broader evidence and reasoning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Experience",
+    "Generalization",
+    "Evidence",
+    "Critical Thinking",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0066",
+  "question": "A Deputy Educational Officer observes that environmental education is taught entirely through definitions copied from the textbook. Which recommendation BEST reflects an experience-centred epistemology?",
+  "options": {
+    "A": "Increase the number of definitions students copy",
+    "B": "Connect concepts with field observations, local environmental problems, investigation and reflective discussion",
+    "C": "Remove all contact between students and their local environment",
+    "D": "Assess students exclusively through verbatim reproduction"
+  },
+  "correctAnswer": "B",
+  "explanation": "Experience-centred learning connects concepts with meaningful encounters, investigation and reflection. Local environmental observation can provide experiential material that students analyze and relate to conceptual knowledge.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Experience",
+    "Environmental Education",
+    "Administrative Scenario",
+    "Experiential Learning",
+    "Reflection"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0067",
+  "question": "Assertion (A): John Dewey regarded experience as central to education but did not consider every experience equally educative. Reason (R): Some experiences may promote further growth, while others may restrict or distort the possibilities for subsequent experience. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Dewey distinguished between educative and miseducative experiences. An experience is educationally valuable when it contributes constructively to further growth and future experience. Thus, merely providing activity is insufficient.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Experience",
+    "John Dewey",
+    "Educative Experience",
+    "Growth",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0068",
+  "question": "A school conducts an educational excursion. Which design would MOST effectively transform the excursion from mere activity into an educative experience?",
+  "options": {
+    "A": "Allow students to visit the place without any preparation, inquiry or follow-up",
+    "B": "Give students questions to investigate, encourage observation and interaction, and conduct reflection after the visit",
+    "C": "Ask students only to take attendance photographs",
+    "D": "Replace all observation with a teacher's dictated description of the place"
+  },
+  "correctAnswer": "B",
+  "explanation": "An educative excursion connects preparation, direct experience, purposeful inquiry and subsequent reflection. These processes help learners organize experience and construct deeper understanding.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Experience",
+    "Educational Excursion",
+    "Reflection",
+    "Inquiry",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0069",
+  "question": "Consider the following classroom practices: 1. Connecting lessons with learners' previous experiences. 2. Providing opportunities for direct investigation. 3. Encouraging reflection after an activity. 4. Assuming that activity alone guarantees understanding. Which practices are consistent with an educationally sound use of experience?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Previous experience, direct investigation and reflection can contribute to meaningful learning. Activity alone does not guarantee understanding because learners must interpret and organize what they experience.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Experience",
+    "Prior Experience",
+    "Investigation",
+    "Reflection",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0070",
+  "question": "Which statement BEST summarizes the epistemological significance of experience for education?",
+  "options": {
+    "A": "Knowledge can develop through interaction with experience when learners observe, inquire, reflect and reconstruct understanding",
+    "B": "Every experience automatically produces valid knowledge without interpretation",
+    "C": "Experience should replace all reasoning and conceptual knowledge",
+    "D": "Educational knowledge should remain completely disconnected from learners' lived experiences"
+  },
+  "correctAnswer": "A",
+  "explanation": "Experience provides an important basis for learning, but meaningful knowledge develops through interpretation, inquiry, reflection and conceptual reconstruction. Educationally, experience and reflective thinking should therefore be connected.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Experience",
+    "Epistemology",
+    "Reflection",
+    "Knowledge Construction",
+    "Educational Implications"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0071",
+  "question": "A school redesigns its curriculum to move beyond unquestioning dependence on inherited authority. Students study classical literature, observe nature, examine evidence, appreciate art and debate ideas about human life. Which intellectual movement is MOST clearly reflected?",
+  "options": {
+    "A": "Renaissance",
+    "B": "Scholasticism",
+    "C": "Behaviourism",
+    "D": "Structural Functionalism"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Renaissance encouraged renewed engagement with classical learning, humanism, inquiry, artistic creativity and increasing interest in observation and the natural world. Educationally, it helped broaden learning beyond unquestioning acceptance of inherited authority.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Renaissance",
+    "Humanism",
+    "Classical Learning",
+    "Inquiry",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0072",
+  "question": "Assertion (A): Renaissance humanism contributed to an educational emphasis on the development of human capacities. Reason (R): Humanists renewed interest in classical literature and emphasized human intellectual, linguistic, moral and creative potential. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Renaissance humanism emphasized the study of classical texts and the cultivation of human capacities. This contributed to educational attention to language, literature, reasoning, moral formation and intellectual development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Renaissance",
+    "Humanism",
+    "Education",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0073",
+  "question": "Which educational change BEST represents the influence of Renaissance humanism?",
+  "options": {
+    "A": "Greater attention to classical languages, literature, history, rhetoric and human intellectual development",
+    "B": "Complete elimination of literature and the arts from education",
+    "C": "Restriction of education exclusively to mechanical vocational drills",
+    "D": "Rejection of all classical texts as educationally irrelevant"
+  },
+  "correctAnswer": "A",
+  "explanation": "Renaissance humanist education placed considerable emphasis on the studia humanitatis, including grammar, rhetoric, poetry, history and moral philosophy, drawing heavily upon classical Greek and Roman traditions.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Renaissance",
+    "Humanism",
+    "Studia Humanitatis",
+    "Curriculum"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0074",
+  "question": "Consider the following developments associated with the Renaissance: 1. Revival of interest in Greek and Roman learning. 2. Growth of humanism. 3. Increased interest in observation and inquiry into nature. 4. Complete rejection of human reason in favour of unquestioned authority. Which statements are correct?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "The Renaissance involved renewed classical learning, humanism and expanding intellectual inquiry. It cannot appropriately be characterized as a movement advocating complete rejection of reason in favour of unquestioned authority.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Renaissance",
+    "Classical Learning",
+    "Humanism",
+    "Inquiry",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0075",
+  "question": "The spread of printing in Renaissance Europe had which MOST significant educational implication?",
+  "options": {
+    "A": "It facilitated wider circulation of texts and contributed to the dissemination of knowledge",
+    "B": "It permanently restricted books to a smaller group of readers",
+    "C": "It eliminated the need for literacy",
+    "D": "It prevented scholars from comparing different texts and interpretations"
+  },
+  "correctAnswer": "A",
+  "explanation": "Printing greatly increased the capacity to reproduce and circulate texts. Over time, this supported wider access to books, dissemination of ideas, scholarship and literacy, although access remained socially unequal.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Renaissance",
+    "Printing Press",
+    "Knowledge Dissemination",
+    "Literacy",
+    "Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0076",
+  "question": "A Deputy Educational Officer wants to incorporate a Renaissance-inspired educational principle without simply reproducing Renaissance-era schooling. Which proposal is MOST appropriate?",
+  "options": {
+    "A": "Develop learners' language, reasoning, creativity and appreciation of humanities while encouraging critical engagement with knowledge",
+    "B": "Require students to accept every traditional text without interpretation",
+    "C": "Remove art and literature because only examination subjects matter",
+    "D": "Replace intellectual inquiry entirely with mechanical repetition"
+  },
+  "correctAnswer": "A",
+  "explanation": "A contemporary educational application of Renaissance humanism would emphasize broad human development, humanities, language, creativity and critical intellectual engagement rather than merely copying historical curricular forms.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Renaissance",
+    "Humanism",
+    "Curriculum",
+    "Administrative Scenario",
+    "Educational Application"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0077",
+  "question": "Assertion (A): The Renaissance contributed to changes in the European intellectual climate that later supported the development of modern scientific inquiry. Reason (R): Renaissance developments included renewed study of nature, classical scholarship and growing willingness in some fields to examine established claims critically. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Renaissance was not identical with the later Scientific Revolution, but changes in scholarship, observation, inquiry and attitudes toward inherited knowledge helped create an intellectual environment in which modern scientific inquiry subsequently developed.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Renaissance",
+    "Scientific Inquiry",
+    "Knowledge",
+    "Intellectual History",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0078",
+  "question": "A student says, 'The Renaissance simply replaced religion with science.' Which evaluation is MOST historically and epistemologically appropriate?",
+  "options": {
+    "A": "Correct, because Renaissance thinkers uniformly rejected religion",
+    "B": "Incorrect, because the Renaissance was a complex intellectual and cultural movement involving humanism, classical revival, art and inquiry, while religious thought continued to remain influential",
+    "C": "Correct, because modern experimental science was fully established at the beginning of the Renaissance",
+    "D": "Incorrect, because the Renaissance opposed all forms of intellectual change"
+  },
+  "correctAnswer": "B",
+  "explanation": "The Renaissance should not be reduced to a simple replacement of religion by science. Religious belief remained influential, while humanism, classical scholarship, artistic innovation and new forms of inquiry developed in complex interaction with existing traditions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Renaissance",
+    "Religion",
+    "Science",
+    "Humanism",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0079",
+  "question": "Consider the following possible educational legacies of the Renaissance: 1. Broadening intellectual engagement with humanities. 2. Increased attention to human capacities and creativity. 3. Wider dissemination of texts through printing. 4. Establishment of unquestioning obedience to authority as the defining principle of knowledge. Which are appropriate?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Humanistic learning, attention to human capacities and the expanded circulation of texts are important educational legacies associated with the Renaissance. Unquestioning obedience to authority does not capture its broader intellectual significance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Renaissance",
+    "Humanities",
+    "Creativity",
+    "Printing",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0080",
+  "question": "Which statement BEST summarizes the epistemological significance of the Renaissance for education?",
+  "options": {
+    "A": "It contributed to renewed classical learning, humanism, intellectual inquiry and broader development of human capacities, helping reshape approaches to knowledge and education",
+    "B": "It established memorization as the only legitimate method of obtaining knowledge",
+    "C": "It demonstrated that human reason and creativity should have no role in education",
+    "D": "It made all previous knowledge irrelevant and created modern science instantaneously"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Renaissance contributed to major changes in European intellectual and educational life through humanism, classical revival, artistic creativity and expanding inquiry. Its significance lies in this broad transformation rather than in an instantaneous or complete break with the past.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Renaissance",
+    "Epistemology",
+    "Humanism",
+    "Knowledge",
+    "Educational Implications"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0081",
+  "question": "A school encourages students to question inherited assumptions, demand reasons for claims, examine evidence and participate in discussions as rational individuals rather than accept ideas merely because they come from authority. Which intellectual movement is MOST clearly reflected?",
+  "options": {
+    "A": "Enlightenment",
+    "B": "Medieval Scholasticism",
+    "C": "Romanticism",
+    "D": "Feudalism"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Enlightenment placed major emphasis on reason, critical inquiry and examination of inherited authority. Educationally, it encouraged the development of rational and autonomous individuals capable of evaluating claims.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Enlightenment",
+    "Reason",
+    "Critical Inquiry",
+    "Authority",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0082",
+  "question": "Assertion (A): The Enlightenment strengthened the educational importance of developing independent judgment. Reason (R): Enlightenment thought emphasized the capacity of human beings to use reason rather than remain permanently dependent on unquestioned authority. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Both statements are correct. A central Enlightenment theme was confidence in the capacity of individuals to use reason and exercise independent judgment, giving education an important role in developing intellectual autonomy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Enlightenment",
+    "Reason",
+    "Independent Judgment",
+    "Autonomy",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0083",
+  "question": "A teacher tells students, 'Do not accept a statement merely because I am your teacher. Ask what reasons and evidence support it.' Which Enlightenment principle is MOST directly represented?",
+  "options": {
+    "A": "Critical use of reason",
+    "B": "Hereditary authority",
+    "C": "Intellectual conformity",
+    "D": "Rejection of individual judgment"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Enlightenment encouraged critical use of reason and challenged unquestioned reliance on authority. The teacher is developing learners' capacity to examine the grounds for knowledge claims.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Enlightenment",
+    "Reason",
+    "Authority",
+    "Critical Thinking",
+    "Educational Scenario"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0084",
+  "question": "Consider the following ideas commonly associated with Enlightenment thought: 1. Confidence in human reason. 2. Critical examination of traditional authority. 3. Interest in liberty and individual rights. 4. Acceptance of inherited social arrangements as permanently beyond rational criticism. Which statements are correct?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Reason, criticism of inherited authority, liberty and rights are important Enlightenment themes. The movement did not generally treat inherited arrangements as permanently immune from rational examination.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Enlightenment",
+    "Reason",
+    "Liberty",
+    "Rights",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0085",
+  "question": "A curriculum committee proposes that education should prepare learners not merely to obey rules but to understand their justification, examine public issues and participate intelligently in civic life. Which Enlightenment legacy is MOST strongly reflected?",
+  "options": {
+    "A": "Education for rational and autonomous citizenship",
+    "B": "Education for unquestioning submission",
+    "C": "Education for hereditary privilege",
+    "D": "Education divorced from public life"
+  },
+  "correctAnswer": "A",
+  "explanation": "Enlightenment ideas concerning reason, liberty and citizenship contributed to conceptions of education that prepare individuals for informed judgment and participation in public life.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Enlightenment",
+    "Citizenship",
+    "Autonomy",
+    "Curriculum",
+    "Application"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0086",
+  "question": "A Deputy Educational Officer observes a school in which students are discouraged from asking why a rule exists and are told that authority itself is sufficient justification. Which reform would MOST closely reflect an Enlightenment-oriented educational approach?",
+  "options": {
+    "A": "Provide opportunities to examine reasons, discuss rules and develop informed judgment",
+    "B": "Increase penalties for asking questions",
+    "C": "Require students to memorize rules without understanding them",
+    "D": "Eliminate all discussion of rights and responsibilities"
+  },
+  "correctAnswer": "A",
+  "explanation": "An Enlightenment-oriented approach values reasoned understanding and autonomous judgment. Students can learn to examine the purposes and justification of rules while also understanding responsibilities within institutional life.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Enlightenment",
+    "Reason",
+    "School Administration",
+    "Autonomy",
+    "Administrative Scenario"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0087",
+  "question": "Assertion (A): Enlightenment thought contributed to arguments for wider access to education. Reason (R): If individuals possess capacities for reason and citizenship, education can be viewed as important for developing those capacities rather than as a privilege justified solely by birth. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Enlightenment ideas about reason, citizenship and human capacities contributed to later arguments for broader education. The historical development was uneven and Enlightenment societies did not immediately achieve universal equality, but the intellectual connection described in the Reason is valid.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Enlightenment",
+    "Education",
+    "Citizenship",
+    "Equality",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0088",
+  "question": "A student argues, 'Because the Enlightenment emphasized reason and universal human principles, Enlightenment societies immediately eliminated inequality, colonial domination and exclusion.' Which evaluation is MOST appropriate?",
+  "options": {
+    "A": "Correct, because Enlightenment principles were completely realized in practice",
+    "B": "Incorrect, because Enlightenment ideals of reason and rights coexisted historically with significant inequalities, exclusions and colonial practices",
+    "C": "Correct, because colonialism ended before Enlightenment thought developed",
+    "D": "Incorrect, because Enlightenment thinkers rejected all discussion of human rights"
+  },
+  "correctAnswer": "B",
+  "explanation": "Enlightenment ideals should be distinguished from their historical realization. Ideas concerning reason, liberty and universal rights developed alongside societies that continued to exhibit major inequalities, exclusions and colonial domination.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Enlightenment",
+    "Colonialism",
+    "Rights",
+    "Contradictions",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0089",
+  "question": "Consider the following educational implications associated with Enlightenment thought: 1. Development of rational judgment. 2. Critical examination of authority. 3. Education for informed citizenship. 4. Treating learners as incapable of independent thought and therefore permanently dependent on authority. Which are appropriate?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Rational judgment, critical examination and preparation for citizenship are consistent with important Enlightenment educational implications. Permanent intellectual dependence on authority contradicts the ideal of developing autonomous reason.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Enlightenment",
+    "Reason",
+    "Citizenship",
+    "Authority",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0090",
+  "question": "Which statement BEST summarizes the epistemological significance of the Enlightenment for education?",
+  "options": {
+    "A": "It strengthened the emphasis on reason, critical inquiry, intellectual autonomy and examination of inherited authority, while its universal ideals also require critical evaluation in light of historical exclusions",
+    "B": "It established unquestioned tradition as the only legitimate source of knowledge",
+    "C": "It demonstrated that rational inquiry has no connection with education or citizenship",
+    "D": "It immediately produced a completely equal and non-colonial educational order throughout the world"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Enlightenment significantly strengthened ideas of reason, critical inquiry, autonomy, liberty and citizenship. At the same time, a sophisticated educational understanding recognizes tensions between universal Enlightenment ideals and historical realities of exclusion and colonial domination.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Enlightenment",
+    "Epistemology",
+    "Reason",
+    "Autonomy",
+    "Critical Inquiry",
+    "Educational Implications"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0091",
+  "question": "A colonial curriculum presents European knowledge as universally superior while describing indigenous knowledge traditions as primitive and intellectually insignificant. Which epistemological criticism is MOST appropriate?",
+  "options": {
+    "A": "The curriculum establishes neutrality by privileging one knowledge tradition",
+    "B": "The curriculum reflects epistemic hierarchy by treating European knowledge as the universal standard and marginalizing other knowledge systems",
+    "C": "The curriculum promotes plurality because it distinguishes superior and inferior cultures",
+    "D": "The curriculum is purely scientific because colonial institutions selected its content"
+  },
+  "correctAnswer": "B",
+  "explanation": "A major critique of Eurocentric colonial models is that European categories and knowledge traditions were often presented as universal while indigenous and local knowledge systems were marginalized, devalued or represented as inferior.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Eurocentrism",
+    "Colonial Education",
+    "Epistemic Hierarchy",
+    "Indigenous Knowledge",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0092",
+  "question": "Assertion (A): Colonial education can be examined not only as a system for transmitting knowledge but also as a mechanism through which particular forms of knowledge gained authority. Reason (R): Curriculum selection, language policies and institutional structures can determine which knowledge is legitimized and which knowledge is marginalized. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Colonial education involved questions of knowledge and power. Decisions concerning curriculum, language and institutions influenced which knowledge traditions received official legitimacy and which were marginalized. The Reason therefore correctly explains the Assertion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Colonial Education",
+    "Knowledge and Power",
+    "Curriculum",
+    "Eurocentrism",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0093",
+  "question": "A teacher notices that a textbook discusses scientific and intellectual developments almost entirely through European examples even where relevant Indian, Asian, African and indigenous traditions could enrich the topic. Which curricular response is MOST appropriate?",
+  "options": {
+    "A": "Remove all European contributions from the curriculum",
+    "B": "Retain only local knowledge regardless of evidence",
+    "C": "Broaden the curriculum to include multiple knowledge traditions and examine their contributions critically and contextually",
+    "D": "Continue the textbook unchanged because curriculum knowledge can never reflect cultural assumptions"
+  },
+  "correctAnswer": "C",
+  "explanation": "Critiquing Eurocentrism does not require replacing one exclusive canon with another. A more educationally defensible approach broadens knowledge representation and critically examines contributions from multiple intellectual and cultural traditions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Eurocentrism",
+    "Curriculum",
+    "Knowledge Diversity",
+    "Indigenous Knowledge",
+    "Educational Scenario"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0094",
+  "question": "Consider the following features that may characterize Eurocentric colonial models of knowledge: 1. Treating European historical experience as a universal norm. 2. Marginalizing indigenous knowledge systems. 3. Representing colonized peoples primarily through colonial categories. 4. Providing equal epistemic authority to all knowledge traditions by definition. Which statements are appropriate?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Eurocentrism may universalize European historical experiences and categories while marginalizing other knowledge traditions. Equal epistemic authority to all traditions is therefore not a defining characteristic of a Eurocentric colonial model.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Eurocentrism",
+    "Colonial Models",
+    "Indigenous Knowledge",
+    "Epistemology",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0095",
+  "question": "A student argues, 'If we criticize Eurocentrism, we must reject every idea that originated in Europe.' Which response BEST reflects a sound epistemological critique?",
+  "options": {
+    "A": "Correct, because the geographical origin of an idea determines whether it is true",
+    "B": "Incorrect, because critique of Eurocentrism questions unjustified universalization and exclusion rather than requiring automatic rejection of European knowledge",
+    "C": "Correct, because knowledge systems should never interact across cultures",
+    "D": "Incorrect, because European knowledge should instead be accepted without criticism"
+  },
+  "correctAnswer": "B",
+  "explanation": "Critique of Eurocentrism is not reverse exclusion. It questions the assumption that one historically situated tradition should automatically function as the universal standard, while allowing all knowledge claims to be examined critically on appropriate grounds.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Eurocentrism",
+    "Knowledge",
+    "Critical Inquiry",
+    "Decolonization",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0096",
+  "question": "A Deputy Educational Officer finds that locally developed agricultural and ecological knowledge is excluded from school projects solely because it is not derived from Western textbooks. Which response is MOST appropriate?",
+  "options": {
+    "A": "Continue exclusion because local knowledge is automatically unscientific",
+    "B": "Include every local belief as unquestionable truth",
+    "C": "Create opportunities to document, examine and critically relate local knowledge to other forms of knowledge and evidence",
+    "D": "Remove scientific knowledge so that only indigenous knowledge remains"
+  },
+  "correctAnswer": "C",
+  "explanation": "An epistemologically balanced approach neither dismisses local knowledge because of its origin nor accepts every local claim uncritically. Indigenous and local knowledge can be documented, investigated and placed in dialogue with other forms of knowledge.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Eurocentrism",
+    "Indigenous Knowledge",
+    "Local Knowledge",
+    "Administrative Scenario",
+    "Curriculum"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0097",
+  "question": "Assertion (A): Language can become an important issue in critiques of colonial education. Reason (R): When one language is institutionally privileged, access to officially recognized knowledge and the status of knowledge expressed in other languages may be affected. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true, and R is the correct explanation of A",
+    "B": "Both A and R are true, but R is not the correct explanation of A",
+    "C": "A is true, but R is false",
+    "D": "A is false, but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Language policies influence access, status and representation of knowledge. Colonial privileging of particular languages could affect both educational opportunities and the legitimacy accorded to knowledge expressed through local languages.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Colonial Education",
+    "Language",
+    "Knowledge",
+    "Power",
+    "Assertion-Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0098",
+  "question": "Which curriculum reform BEST represents decolonizing knowledge without abandoning critical standards?",
+  "options": {
+    "A": "Replace one unquestionable canon with another unquestionable canon",
+    "B": "Include historically marginalized knowledge traditions, examine how power shaped the curriculum and subject all relevant claims to critical inquiry",
+    "C": "Treat every traditional claim as equally valid regardless of evidence or context",
+    "D": "Exclude international knowledge so that learners encounter only local traditions"
+  },
+  "correctAnswer": "B",
+  "explanation": "Decolonizing curriculum involves broadening whose knowledge is represented and critically examining historical relations of knowledge and power. It does not require abandoning evidence, reasoning or critical scrutiny.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Decolonization",
+    "Curriculum",
+    "Knowledge and Power",
+    "Critical Inquiry",
+    "Educational Application"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0099",
+  "question": "Consider the following principles for critically responding to Eurocentric colonial models in education: 1. Examine whose knowledge is represented in the curriculum. 2. Investigate historical relationships between knowledge and colonial power. 3. Create space for indigenous and marginalized perspectives. 4. Assume that every non-European knowledge claim is automatically correct. Which principles are appropriate?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "A critical approach examines representation, power and marginalized perspectives while retaining critical standards. Correcting Eurocentric exclusion does not require treating every alternative claim as automatically true.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Eurocentrism",
+    "Colonial Education",
+    "Indigenous Knowledge",
+    "Curriculum",
+    "Statement Based"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EPI-0100",
+  "question": "Which statement BEST summarizes the educational significance of critiquing Eurocentric colonial models within epistemological foundations?",
+  "options": {
+    "A": "Education should critically examine how colonial power shaped the production and legitimization of knowledge, broaden recognition of diverse knowledge traditions and retain reasoned evaluation of knowledge claims",
+    "B": "All knowledge produced in Europe should be rejected solely because of its geographical origin",
+    "C": "Every indigenous belief should automatically be treated as universally valid knowledge",
+    "D": "Colonial history has no relationship with curriculum, language or the authority assigned to different forms of knowledge"
+  },
+  "correctAnswer": "A",
+  "explanation": "Critiquing Eurocentric colonial models involves examining relations among knowledge, power, language and curriculum and recovering marginalized perspectives. A balanced epistemological approach avoids both Eurocentric superiority and uncritical romanticization of alternative traditions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Eurocentrism",
+    "Colonial Models",
+    "Epistemology",
+    "Decolonization",
+    "Knowledge and Power",
+    "Educational Implications"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}
