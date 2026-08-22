@@ -83,7 +83,11 @@
             "question-bank/subjects/educational-philosophy/epistemological-foundations.json",
 
         "Educational Thinkers":
-            "question-bank/subjects/educational-philosophy/educational-thinkers.json"
+            "question-bank/subjects/educational-philosophy/educational-thinkers.json",
+            
+        "Education and Values":
+            "question-bank/subjects/educational-philosophy/education-values.json"
+    
 
     };
 

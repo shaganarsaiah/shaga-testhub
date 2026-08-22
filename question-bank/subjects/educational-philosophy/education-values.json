@@ -1,0 +1,2418 @@
+{
+  "metadata": {
+    "subject": "Educational Philosophy",
+    "unit": "Foundations of Education",
+    "chapter": "Education and Values",
+    "topic": "Education and Values",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Dy.E.O. Standard - Difficult to Very Difficult",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "Education and Values",
+    "questionIdPrefix": "FOE-EV"
+  },
+  "questions": [
+    {
+      "id": "FOE-EV-0001",
+      "question": "A school introduces regular classroom discussions in which students examine real-life moral dilemmas, justify their choices and listen to alternative viewpoints. Which approach to value education is most clearly reflected?",
+      "options": {
+        "A": "Direct moral instruction",
+        "B": "Value clarification",
+        "C": "Mechanical conditioning",
+        "D": "Rote moralization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Value clarification encourages learners to examine alternatives, reflect on consequences, make choices and justify the values underlying those choices.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Value Education", "Value Clarification"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0002",
+      "question": "Which statement best distinguishes a value from a mere preference?",
+      "options": {
+        "A": "A value is always legally enforceable",
+        "B": "A value serves as a relatively enduring standard for judging desirable conduct or goals",
+        "C": "A preference must necessarily be morally correct",
+        "D": "A value changes every time circumstances change"
+      },
+      "correctAnswer": "B",
+      "explanation": "Values are relatively enduring beliefs or standards concerning what is desirable, worthwhile or preferable and they guide judgments and behaviour.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Meaning of Values", "Nature of Values"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0003",
+      "question": "Consider the following statements about values: 1. Values influence choices and behaviour. 2. Values are completely independent of social experience. 3. Values may be arranged in a hierarchy of importance. 4. Values can influence educational aims. Which statements are correct?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 3 and 4 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Values influence behaviour, may be hierarchically organised and shape educational aims. They are not completely independent of social and cultural experience.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Nature of Values", "Educational Aims", "Statement Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0004",
+      "question": "A head teacher distributes school resources according to the differing educational needs of children rather than giving every child exactly the same quantity. Which principle is being applied most directly?",
+      "options": {
+        "A": "Uniformity",
+        "B": "Equity",
+        "C": "Competition",
+        "D": "Authority"
+      },
+      "correctAnswer": "B",
+      "explanation": "Equity recognises differences in need and provides appropriate support so that learners have fair educational opportunities.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Equity", "Justice", "School Administration"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0005",
+      "question": "Assertion A: Value education cannot be effectively confined to a separate period in the school timetable. Reason R: Values are also transmitted through teacher behaviour, school relationships, rules and institutional practices. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Value education operates through the entire school culture. Teacher behaviour, relationships and institutional practices can transmit values in addition to explicit instruction.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Value Education", "Hidden Curriculum", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0006",
+      "question": "Students are officially taught that all occupations deserve equal respect, but teachers repeatedly praise only high-status professions and ridicule manual work. This contradiction is best explained through the concept of:",
+      "options": {
+        "A": "Spiral curriculum",
+        "B": "Hidden curriculum",
+        "C": "Mastery learning",
+        "D": "Programmed instruction"
+      },
+      "correctAnswer": "B",
+      "explanation": "The hidden curriculum consists of implicit messages, attitudes and values communicated through school practices rather than through the formally prescribed curriculum.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Hidden Curriculum", "School Culture", "Values"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0007",
+      "question": "Which classroom practice most strongly promotes democratic values?",
+      "options": {
+        "A": "The teacher makes every decision without consultation",
+        "B": "Students participate responsibly in framing reasonable classroom norms",
+        "C": "Only academically high-performing students are allowed to express opinions",
+        "D": "Disagreement with the teacher is prohibited"
+      },
+      "correctAnswer": "B",
+      "explanation": "Responsible participation, dialogue, shared decision-making and respect for different viewpoints are important expressions of democratic values.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Democratic Values", "Participation", "Classroom"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0008",
+      "question": "Which of the following is primarily an instrumental value according to Rokeach's classification?",
+      "options": {
+        "A": "A desired ultimate state of peace",
+        "B": "A desired ultimate state of freedom",
+        "C": "Honesty as a preferred mode of conduct",
+        "D": "A desired ultimate state of equality"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rokeach distinguished terminal values, which are desirable end-states of existence, from instrumental values, which are preferable modes of conduct. Honesty is an instrumental value.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Rokeach", "Instrumental Values", "Terminal Values"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0009",
+      "question": "A student returns a lost wallet even though nobody saw him find it and no reward is expected. The behaviour most strongly indicates:",
+      "options": {
+        "A": "External regulation alone",
+        "B": "Internalisation of a moral value",
+        "C": "Fear-based discipline",
+        "D": "Competitive motivation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acting consistently with a moral principle without surveillance, punishment or reward indicates that the value has been internalised.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Internalisation", "Moral Values", "Honesty"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0010",
+      "question": "Which sequence correctly represents the affective-domain progression associated with Krathwohl and colleagues?",
+      "options": {
+        "A": "Receiving - Responding - Valuing - Organization - Characterization",
+        "B": "Receiving - Valuing - Responding - Characterization - Organization",
+        "C": "Responding - Receiving - Organization - Valuing - Characterization",
+        "D": "Valuing - Receiving - Responding - Organization - Characterization"
+      },
+      "correctAnswer": "A",
+      "explanation": "The affective-domain hierarchy progresses from Receiving to Responding, Valuing, Organization and finally Characterization by a value or value complex.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Remember",
+      "tags": ["Krathwohl", "Affective Domain", "Values"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0011",
+      "question": "At which level of the affective domain does a value become sufficiently integrated into an individual's lifestyle to produce consistent behaviour?",
+      "options": {
+        "A": "Receiving",
+        "B": "Responding",
+        "C": "Valuing",
+        "D": "Characterization"
+      },
+      "correctAnswer": "D",
+      "explanation": "Characterization is the highest affective level, where an organised value system consistently influences an individual's behaviour and way of life.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Affective Domain", "Characterization", "Krathwohl"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0012",
+      "question": "A school celebrates festivals of different communities, enables students to understand diverse traditions and avoids privileging one religion over another. Which constitutional value is most directly strengthened?",
+      "options": {
+        "A": "Secularism",
+        "B": "Centralization",
+        "C": "Economic competition",
+        "D": "Administrative secrecy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Respect for religious diversity without institutional preference for a particular religion supports the constitutional value of secularism.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Secularism", "Constitutional Values", "Diversity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0013",
+      "question": "A teacher wants students to develop respect for human dignity. Which practice would be least consistent with that objective?",
+      "options": {
+        "A": "Listening respectfully to student opinions",
+        "B": "Avoiding humiliating punishment",
+        "C": "Publicly labelling weak learners as failures",
+        "D": "Providing opportunities for all students to participate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Public humiliation and negative labelling violate the dignity of learners and undermine value-oriented education.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Human Dignity", "Teacher Behaviour", "Values"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0014",
+      "question": "Which combination represents the constitutional ideals explicitly stated in the Preamble to the Constitution of India?",
+      "options": {
+        "A": "Justice, Liberty, Equality and Fraternity",
+        "B": "Discipline, Obedience, Competition and Uniformity",
+        "C": "Authority, Centralization, Efficiency and Selection",
+        "D": "Tradition, Examination, Ranking and Standardization"
+      },
+      "correctAnswer": "A",
+      "explanation": "Justice, Liberty, Equality and Fraternity are explicitly stated among the central ideals of the Preamble to the Constitution of India.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Remember",
+      "tags": ["Preamble", "Constitutional Values", "Indian Constitution"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0015",
+      "question": "A teacher gives students freedom to express different interpretations of a social issue, provided that they respect the rights and dignity of others. This illustrates the relationship between:",
+      "options": {
+        "A": "Liberty and responsibility",
+        "B": "Liberty and arbitrariness",
+        "C": "Equality and uniformity",
+        "D": "Authority and censorship"
+      },
+      "correctAnswer": "A",
+      "explanation": "Democratic liberty is exercised within a framework of responsibility and respect for the rights and dignity of others.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Liberty", "Responsibility", "Democratic Values"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0016",
+      "question": "Which school activity is most likely to develop environmental values through direct experience rather than verbal instruction alone?",
+      "options": {
+        "A": "Memorising definitions of pollution",
+        "B": "Copying environmental slogans",
+        "C": "Students jointly conducting a local waste audit and implementing a reduction plan",
+        "D": "Writing the word environment repeatedly"
+      },
+      "correctAnswer": "C",
+      "explanation": "Experiential participation in identifying and solving an environmental problem can develop responsibility, concern and environmentally responsible behaviour.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Environmental Values", "Experiential Learning", "Responsibility"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0017",
+      "question": "Consider the following methods of promoting values in schools: 1. Teacher modelling 2. Cooperative activities 3. Reflective discussion 4. Humiliation as punishment. Which are educationally appropriate?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Teacher modelling, cooperation and reflective discussion support value development. Humiliation violates dignity and is inconsistent with sound value education.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Value Education", "Teacher Modelling", "Statement Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0018",
+      "question": "Two students from different social groups are involved in the same type of misconduct. The head teacher gives one a severe punishment and excuses the other because of family influence. Which value is most directly violated?",
+      "options": {
+        "A": "Justice",
+        "B": "Creativity",
+        "C": "Aesthetic appreciation",
+        "D": "Achievement motivation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arbitrary differential treatment based on social influence violates fairness, impartiality and the value of justice.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Justice", "Fairness", "School Administration"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0019",
+      "question": "Assertion A: The teacher is an important agent of value education. Reason R: Students may learn values by observing how teachers actually behave in interpersonal and professional situations. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Teachers influence value formation through explicit teaching as well as modelling. Students observe fairness, honesty, respect and responsibility in teachers' conduct.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Teacher Role", "Value Education", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0020",
+      "question": "Which situation best represents fraternity in a school context?",
+      "options": {
+        "A": "Students are permanently separated according to social background",
+        "B": "Students develop a sense of common belonging while respecting individual dignity",
+        "C": "Only the highest-ranking students receive opportunities to participate",
+        "D": "Different groups are encouraged to compete through mutual hostility"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fraternity involves common belonging, solidarity and brotherhood while supporting the dignity of individuals.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Fraternity", "Constitutional Values", "Dignity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0021",
+      "question": "A learner says, 'I obey the rule mainly because I want my teacher and classmates to think that I am a good student.' In Kohlberg's framework, this reasoning is most closely associated with:",
+      "options": {
+        "A": "Punishment-and-obedience orientation",
+        "B": "Interpersonal concordance or good boy-good girl orientation",
+        "C": "Social-contract orientation",
+        "D": "Universal ethical-principle orientation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Seeking approval by being viewed as a good person corresponds to Kohlberg's interpersonal concordance orientation at the conventional level.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Kohlberg", "Moral Development", "Conventional Morality"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0022",
+      "question": "Which statement most accurately describes value internalisation?",
+      "options": {
+        "A": "Repeating a moral statement without understanding it",
+        "B": "Following a rule only while an authority figure is present",
+        "C": "Integrating a value into one's value system so that it guides behaviour",
+        "D": "Memorising socially approved behaviours for an examination"
+      },
+      "correctAnswer": "C",
+      "explanation": "Internalisation occurs when a value is accepted and integrated into the person's value system and consequently influences conduct.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Internalisation", "Value Development"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0023",
+      "question": "A principal must select students for a limited number of scholarships. Which procedure best reflects justice and transparency?",
+      "options": {
+        "A": "Selecting students secretly according to personal preference",
+        "B": "Changing criteria after applications have been received",
+        "C": "Publishing relevant criteria in advance and applying them consistently",
+        "D": "Giving preference to students recommended by influential persons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Transparent criteria known in advance and applied consistently promote procedural fairness and reduce arbitrary decision-making.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Justice", "Transparency", "Educational Administration"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0024",
+      "question": "A student values academic achievement but also believes that helping an injured classmate immediately is morally important. During an examination-related activity, the classmate suddenly needs assistance. The student's difficulty in choosing between competing valued goals is an example of:",
+      "options": {
+        "A": "Value conflict",
+        "B": "Value neutrality",
+        "C": "Value absence",
+        "D": "Cognitive disability"
+      },
+      "correctAnswer": "A",
+      "explanation": "A value conflict occurs when two or more valued goals or principles point toward competing courses of action.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Value Conflict", "Decision Making", "Ethical Reasoning"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EV-0025",
+      "question": "Which educational strategy is most likely to produce durable value development?",
+      "options": {
+        "A": "Compelling students to memorise moral slogans for marks",
+        "B": "Using punishment whenever students disagree with the teacher",
+        "C": "Combining reflection, opportunities for practice, democratic school experiences and credible adult modelling",
+        "D": "Teaching values exclusively through one annual lecture"
+      },
+      "correctAnswer": "C",
+      "explanation": "Durable value development is supported when cognitive understanding, emotional commitment, practical experience and consistent modelling operate together.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Value Education", "Internalisation", "School Culture"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+  "id": "FOE-EV-0026",
+  "question": "A teacher notices that students speak about equality in the classroom but exclude a child from a disadvantaged social group during group activities. What should be the most appropriate value-education response?",
+  "options": {
+    "A": "Ask students to memorise the definition of equality",
+    "B": "Ignore the behaviour because equality has already been taught",
+    "C": "Create cooperative experiences that require inclusive participation and facilitate reflection on the exclusion",
+    "D": "Punish the entire class without discussion"
+  },
+  "correctAnswer": "C",
+  "explanation": "Value education becomes meaningful when learners connect principles with actual behaviour. Cooperative experience followed by reflection can help transform verbal acceptance of equality into practice.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Equality", "Inclusion", "Value Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0027",
+  "question": "Which of the following best represents the cognitive component of a value?",
+  "options": {
+    "A": "Understanding why honesty is desirable",
+    "B": "Feeling emotionally committed to honesty",
+    "C": "Actually behaving honestly in difficult situations",
+    "D": "Receiving a reward for honest behaviour"
+  },
+  "correctAnswer": "A",
+  "explanation": "The cognitive component concerns knowledge, understanding and judgement regarding a value. Emotional commitment belongs to the affective component, while actual conduct reflects the behavioural component.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Components of Values", "Cognitive Component", "Value Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0028",
+  "question": "Consider the following statements: 1. Values can influence decision-making. 2. Value education is concerned only with moral values. 3. School practices can contribute to value formation. 4. Values may be influenced by family and society. Which statements are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 3 and 4 only",
+    "C": "2 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Values influence decisions and are shaped through multiple social institutions. Value education extends beyond moral values to social, democratic, aesthetic, environmental and other values.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Nature of Values", "Value Formation", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0029",
+  "question": "A school requires students to participate in community service and subsequently reflect on what they learned about social responsibility. The approach primarily combines:",
+  "options": {
+    "A": "Rote learning and examination",
+    "B": "Experience and reflection",
+    "C": "Punishment and obedience",
+    "D": "Competition and ranking"
+  },
+  "correctAnswer": "B",
+  "explanation": "Community service provides direct experience, while structured reflection enables students to examine its social and ethical significance.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Community Service", "Social Responsibility", "Reflection"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0030",
+  "question": "Assertion A: Democratic values are strengthened when students are provided meaningful opportunities to participate in school decision-making. Reason R: Democratic values are learned partly through democratic experiences. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Participation gives students direct experience of dialogue, responsibility, cooperation and shared decision-making, thereby supporting democratic value development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Democratic Values", "Participation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0031",
+  "question": "Which of the following is the best example of an aesthetic value?",
+  "options": {
+    "A": "Appreciation of harmony and beauty in art and nature",
+    "B": "Obedience resulting from fear of punishment",
+    "C": "Preference for higher examination marks",
+    "D": "Compliance with an administrative order"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aesthetic values relate to appreciation of beauty, harmony, artistic expression and related experiences.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Aesthetic Values", "Types of Values"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0032",
+  "question": "A principal discovers that a highly successful teacher has manipulated student attendance records. Which response best reflects ethical educational leadership?",
+  "options": {
+    "A": "Ignore the issue because the teacher produces good examination results",
+    "B": "Apply established procedures fairly while protecting due process",
+    "C": "Publicly condemn the teacher before verifying the facts",
+    "D": "Destroy the records to protect the school's reputation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Ethical leadership requires integrity, fairness, accountability and due process. Neither institutional reputation nor performance should justify ignoring misconduct.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Ethical Leadership", "Integrity", "Accountability", "Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0033",
+  "question": "Which statement best describes the relationship between education and social values?",
+  "options": {
+    "A": "Education merely reproduces existing values and can never question them",
+    "B": "Education is completely independent of social values",
+    "C": "Education can transmit, critically examine and contribute to the reconstruction of social values",
+    "D": "Social values have no relevance to educational aims"
+  },
+  "correctAnswer": "C",
+  "explanation": "Education can transmit cultural and social values while also enabling learners to critically examine and reconstruct values in response to changing social needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Education and Society", "Social Values", "Social Change"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0034",
+  "question": "Which practice most clearly demonstrates respect for diversity?",
+  "options": {
+    "A": "Requiring every learner to suppress cultural differences",
+    "B": "Recognising differences while ensuring equal dignity and educational participation",
+    "C": "Separating students permanently according to community background",
+    "D": "Treating the dominant culture as inherently superior"
+  },
+  "correctAnswer": "B",
+  "explanation": "Respect for diversity involves recognising differences without converting them into discrimination or unequal dignity.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Diversity", "Equality", "Dignity", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0035",
+  "question": "A teacher tells students that honesty is important but routinely changes internal assessment marks under pressure from influential parents. What is the most likely educational consequence?",
+  "options": {
+    "A": "The teacher's verbal instruction will automatically override the behaviour",
+    "B": "Students may receive a contradictory value message through teacher modelling",
+    "C": "The behaviour has no connection with value education",
+    "D": "Students will necessarily become more honest"
+  },
+  "correctAnswer": "B",
+  "explanation": "Learners observe adult behaviour. Inconsistency between proclaimed and practised values creates contradictory messages and can weaken the credibility of value instruction.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Modelling", "Hidden Curriculum", "Honesty"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0036",
+  "question": "Which value is most directly involved when a student willingly accepts the consequences of his or her own decisions?",
+  "options": {
+    "A": "Responsibility",
+    "B": "Aesthetic appreciation",
+    "C": "Uniformity",
+    "D": "Conformity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Responsibility includes recognising one's duties, making accountable choices and accepting appropriate consequences.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Responsibility", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0037",
+  "question": "A teacher uses stories of historical personalities exclusively to tell students which values they must accept, without permitting discussion or critical reflection. What is the major limitation of this method?",
+  "options": {
+    "A": "Stories can never communicate values",
+    "B": "It may promote passive acceptance rather than reflective value development",
+    "C": "Historical personalities cannot be discussed in schools",
+    "D": "Value education must never include examples"
+  },
+  "correctAnswer": "B",
+  "explanation": "Stories and biographies can be valuable, but when used only for one-way moralising they may encourage passive acceptance rather than thoughtful examination and internalisation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Value Education Methods", "Reflection", "Moral Reasoning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0038",
+  "question": "Consider the following: 1. Honesty 2. Compassion 3. Justice 4. Exploitation. Which of these are generally regarded as positive ethical or social values in education?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Honesty, compassion and justice are positive values, whereas exploitation contradicts human dignity and social justice.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Ethical Values", "Social Values", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0039",
+  "question": "A school council allows students to question a proposed rule, present evidence and suggest alternatives before a final decision is made. Which combination of values is most evident?",
+  "options": {
+    "A": "Liberty, participation and responsibility",
+    "B": "Submission, secrecy and conformity",
+    "C": "Competition, ranking and exclusion",
+    "D": "Uniformity, censorship and obedience"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reasoned participation in decision-making reflects democratic liberty combined with responsible engagement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Democracy", "Liberty", "Participation", "Responsibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0040",
+  "question": "Assertion A: Fear can sometimes produce immediate compliance with a rule. Reason R: Immediate compliance necessarily proves that the underlying value has been internalised. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "C",
+  "explanation": "Fear may produce outward compliance, but internalisation requires acceptance of the value so that it guides behaviour beyond external control.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Internalisation", "Discipline", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0041",
+  "question": "Which of the following is most consistent with peace education?",
+  "options": {
+    "A": "Developing dialogue, empathy and non-violent conflict resolution",
+    "B": "Teaching students to avoid all disagreement",
+    "C": "Encouraging domination of weaker groups",
+    "D": "Treating conflict as solvable only through punishment"
+  },
+  "correctAnswer": "A",
+  "explanation": "Peace education develops capacities such as empathy, dialogue, cooperation and constructive non-violent approaches to conflict.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Peace Education", "Empathy", "Conflict Resolution"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0042",
+  "question": "During a conflict between two student groups, the head teacher listens to both sides, verifies evidence and applies the same established principles to each group. Which value is most clearly demonstrated?",
+  "options": {
+    "A": "Impartiality",
+    "B": "Favoritism",
+    "C": "Authoritarianism",
+    "D": "Competition"
+  },
+  "correctAnswer": "A",
+  "explanation": "Listening to all parties and applying established principles without bias reflects impartiality and procedural justice.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Impartiality", "Justice", "School Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0043",
+  "question": "Which of the following best illustrates empathy?",
+  "options": {
+    "A": "Agreeing with every action of another person",
+    "B": "Attempting to understand another person's feelings and perspective",
+    "C": "Feeling superior to someone experiencing difficulty",
+    "D": "Avoiding interaction with people who disagree"
+  },
+  "correctAnswer": "B",
+  "explanation": "Empathy involves understanding another person's feelings, experiences or perspective. It does not necessarily require agreement.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Empathy", "Social Values"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0044",
+  "question": "A school wants to evaluate whether its value-education programme is effective. Which evidence would be most meaningful?",
+  "options": {
+    "A": "Only the number of moral quotations students can reproduce",
+    "B": "Only student attendance on Value Education Day",
+    "C": "Changes in reasoning, participation and consistent behaviour across relevant situations",
+    "D": "The number of posters displayed on school walls"
+  },
+  "correctAnswer": "C",
+  "explanation": "Value development involves understanding, commitment and behaviour. Therefore, evidence should go beyond recall and include reasoning and consistent conduct.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Assessment", "Value Education", "Behaviour"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0045",
+  "question": "A student refuses to participate in bullying even when close friends pressure him to join. This behaviour most strongly demonstrates:",
+  "options": {
+    "A": "Moral courage",
+    "B": "Blind conformity",
+    "C": "Value neutrality",
+    "D": "External obedience"
+  },
+  "correctAnswer": "A",
+  "explanation": "Moral courage involves acting according to ethical convictions despite social pressure or possible personal cost.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Moral Courage", "Peer Pressure", "Bullying"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0046",
+  "question": "Which statement regarding equality and equity in education is most accurate?",
+  "options": {
+    "A": "Equality and equity always require identical treatment",
+    "B": "Equity may require differentiated support to achieve fairness",
+    "C": "Equity means giving greater opportunities only to high achievers",
+    "D": "Equality necessarily ignores human dignity"
+  },
+  "correctAnswer": "B",
+  "explanation": "Equity focuses on fairness and may require different levels or forms of support depending on learner needs and disadvantages.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Equality", "Equity", "Social Justice"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0047",
+  "question": "A principal introduces a rule against discrimination but permits teachers to make derogatory remarks about certain communities. Why is the initiative likely to fail as value education?",
+  "options": {
+    "A": "Rules have no role in schools",
+    "B": "The formal rule is contradicted by institutional behaviour",
+    "C": "Teachers should never discuss social issues",
+    "D": "Values can be developed only at home"
+  },
+  "correctAnswer": "B",
+  "explanation": "The formal curriculum and institutional practices must be reasonably consistent. Contradictory adult behaviour can undermine the stated value of non-discrimination.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["School Culture", "Discrimination", "Hidden Curriculum"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0048",
+  "question": "Which educational activity most directly encourages critical examination of values rather than simple acceptance?",
+  "options": {
+    "A": "Copying moral statements from the board",
+    "B": "Discussing a dilemma by examining competing principles and consequences",
+    "C": "Repeating the teacher's opinion word for word",
+    "D": "Memorising definitions without application"
+  },
+  "correctAnswer": "B",
+  "explanation": "Moral dilemmas require learners to examine reasons, competing values and consequences and therefore promote reflective moral reasoning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Moral Dilemma", "Critical Thinking", "Value Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0049",
+  "question": "Consider the following statements about the role of the school in value development: 1. The school influences values through formal curriculum. 2. Peer relationships can influence value formation. 3. Institutional rules and practices may communicate values. 4. Value development occurs only through explicit moral instruction. Which statements are correct?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Formal teaching, peers, institutional culture and school practices all contribute to value formation. It is therefore incorrect to restrict value development to explicit moral lessons.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["School", "Value Formation", "Hidden Curriculum", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0050",
+  "question": "A Deputy Educational Officer observes that a school displays slogans about democracy, equality and dignity, but students have no voice, discriminatory practices persist and corporal humiliation is common. Which conclusion is most educationally defensible?",
+  "options": {
+    "A": "The school has successfully implemented value education because slogans are displayed",
+    "B": "The school needs no intervention because values are purely private matters",
+    "C": "There is a serious gap between proclaimed values and institutional practice",
+    "D": "Value education should be replaced entirely by examination coaching"
+  },
+  "correctAnswer": "C",
+  "explanation": "Effective value education requires institutional practices to embody proclaimed values. Participation, non-discrimination and respect for dignity must be reflected in everyday school life.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "School Inspection", "Value Education", "School Culture"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0051",
+  "question": "Which statement best explains the role of the family in value formation?",
+  "options": {
+    "A": "The family has no influence once formal schooling begins",
+    "B": "The family is often one of the earliest and most powerful agencies of value socialization",
+    "C": "The family influences only academic achievement",
+    "D": "The family can influence values only through explicit lectures"
+  },
+  "correctAnswer": "B",
+  "explanation": "The family is a major primary socializing agency. Children often acquire early attitudes, beliefs, habits and values through observation, interaction and expectations within the family.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Family", "Value Formation", "Socialization"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0052",
+  "question": "A learner follows a rule only because the teacher is watching. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The value has necessarily been internalised",
+    "B": "The learner may be showing externally controlled compliance rather than internalisation",
+    "C": "The learner has reached the highest affective level",
+    "D": "The learner is demonstrating autonomous morality"
+  },
+  "correctAnswer": "B",
+  "explanation": "Behaviour that depends mainly on external supervision may indicate compliance rather than genuine internalisation of the underlying value.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Internalisation", "Compliance", "Moral Behaviour"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0053",
+  "question": "Which school practice would most directly promote the value of cooperation?",
+  "options": {
+    "A": "Structuring tasks where students must work interdependently toward a shared goal",
+    "B": "Rewarding only individual competition",
+    "C": "Discouraging peer interaction",
+    "D": "Ranking students publicly after every activity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Cooperative learning structures can promote mutual responsibility, interdependence and shared achievement.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Cooperation", "School Practice", "Group Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0054",
+  "question": "Assertion A: Value conflicts are educationally significant. Reason R: Learners may face situations in which two desirable principles point toward different courses of action. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Value conflicts occur when competing desirable principles or goals create a difficult choice. Such situations are important for developing ethical reasoning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Value Conflict", "Assertion Reason", "Ethical Reasoning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0055",
+  "question": "Which concept is most closely associated with the consistent application of ethical principles regardless of personal advantage?",
+  "options": {
+    "A": "Integrity",
+    "B": "Conformity",
+    "C": "Obedience",
+    "D": "Competition"
+  },
+  "correctAnswer": "A",
+  "explanation": "Integrity involves consistency between ethical principles and conduct, especially when adherence may not bring personal benefit.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Integrity", "Ethical Values"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0056",
+  "question": "A principal refuses to alter scholarship criteria for a politically influential person. Which value is most strongly demonstrated?",
+  "options": {
+    "A": "Integrity",
+    "B": "Favoritism",
+    "C": "Conformity",
+    "D": "Status consciousness"
+  },
+  "correctAnswer": "A",
+  "explanation": "Refusing improper influence and adhering to fair criteria reflects integrity and ethical courage in administration.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Integrity", "Educational Administration", "Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0057",
+  "question": "Which of the following is most consistent with value clarification?",
+  "options": {
+    "A": "Forcing learners to accept the teacher's personal values",
+    "B": "Helping learners examine alternatives and consequences before making choices",
+    "C": "Punishing learners for expressing disagreement",
+    "D": "Avoiding discussion of values altogether"
+  },
+  "correctAnswer": "B",
+  "explanation": "Value clarification helps learners identify, examine and reflect upon their own values through reasoned choice and consideration of alternatives.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Value Clarification", "Value Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0058",
+  "question": "Which school practice best supports the constitutional value of equality?",
+  "options": {
+    "A": "Providing educational opportunities without discrimination",
+    "B": "Creating separate expectations based on caste",
+    "C": "Giving privileges only to influential families",
+    "D": "Excluding weaker students from participation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equality in education requires non-discrimination and equal dignity and opportunity for all learners.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Equality", "Constitutional Values", "Non-discrimination"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0059",
+  "question": "Consider the following statements about the hidden curriculum. 1. It includes implicit messages communicated through school practices. 2. It may reinforce or contradict formally taught values. 3. It consists only of officially prescribed textbook content. 4. Teacher behaviour may form part of it. Which statements are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "The hidden curriculum consists of implicit norms, attitudes, expectations and messages communicated through institutional culture and behaviour. It is not limited to formal textbook content.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Hidden Curriculum", "Statement Based", "School Culture"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0060",
+  "question": "Which principle is most appropriate when resolving conflicts between freedom of expression and respect for others in a school?",
+  "options": {
+    "A": "Freedom should be exercised with responsibility and respect for dignity",
+    "B": "Freedom should always override every other value",
+    "C": "All disagreement should be prohibited",
+    "D": "Only the majority should be allowed to speak"
+  },
+  "correctAnswer": "A",
+  "explanation": "Democratic liberty is not absolute arbitrariness. It is exercised within a framework of responsibility, rights and respect for others.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Liberty", "Responsibility", "Dignity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0061",
+  "question": "A student argues that a school rule should be obeyed because maintaining social order is important. In Kohlberg's theory, this reasoning most closely reflects:",
+  "options": {
+    "A": "Stage 1: Punishment and obedience",
+    "B": "Stage 2: Instrumental purpose",
+    "C": "Stage 4: Law-and-order orientation",
+    "D": "Stage 6: Universal ethical principles"
+  },
+  "correctAnswer": "C",
+  "explanation": "Stage 4 of Kohlberg's conventional morality emphasizes duty, law, authority and maintenance of social order.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Kohlberg", "Moral Development", "Law and Order"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0062",
+  "question": "Which of the following is the strongest indicator that a democratic value has been internalised?",
+  "options": {
+    "A": "The learner can reproduce the textbook definition of democracy",
+    "B": "The learner respects different viewpoints even when no teacher is present",
+    "C": "The learner attends a democracy-day programme",
+    "D": "The learner memorises the Preamble"
+  },
+  "correctAnswer": "B",
+  "explanation": "Internalisation is reflected when the value consistently guides behaviour without dependence on external supervision.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Democracy", "Internalisation", "Behaviour"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0063",
+  "question": "A school resolves disputes through peer mediation and dialogue rather than humiliation or retaliation. Which educational value is being deliberately cultivated?",
+  "options": {
+    "A": "Peace",
+    "B": "Status competition",
+    "C": "Authoritarianism",
+    "D": "Exclusion"
+  },
+  "correctAnswer": "A",
+  "explanation": "Peer mediation, dialogue and constructive conflict resolution are important practices in peace education.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Peace Education", "Conflict Resolution", "Dialogue"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0064",
+  "question": "Assertion A: Environmental value education should involve more than information about environmental problems. Reason R: Sustainable behaviour requires concern, responsibility and opportunities for action in addition to knowledge. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Environmental value education seeks not only knowledge but also attitudes, responsibility and environmentally responsible action.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Environmental Values", "Assertion Reason", "Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0065",
+  "question": "Which value is most directly reflected when a teacher gives every student an opportunity to be heard before making a disciplinary decision?",
+  "options": {
+    "A": "Fairness",
+    "B": "Secrecy",
+    "C": "Favoritism",
+    "D": "Status hierarchy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Giving all concerned individuals an opportunity to present their perspective reflects fairness and procedural justice.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Fairness", "Discipline", "Procedural Justice"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0066",
+  "question": "Which statement is most accurate regarding moral education?",
+  "options": {
+    "A": "It is effective only when learners obey without reasoning",
+    "B": "It can include development of moral reasoning, sensitivity and responsible action",
+    "C": "It should exclude discussion of real dilemmas",
+    "D": "It is identical to punishment-based discipline"
+  },
+  "correctAnswer": "B",
+  "explanation": "Moral education includes understanding ethical issues, reasoning about principles, developing moral sensitivity and translating values into responsible action.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Moral Education", "Moral Reasoning", "Responsible Action"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0067",
+  "question": "A teacher asks students to analyse whether a school rule is fair, consider its consequences and suggest modifications. Which approach is most strongly reflected?",
+  "options": {
+    "A": "Reflective value education",
+    "B": "Blind obedience",
+    "C": "Mechanical conditioning",
+    "D": "Value avoidance"
+  },
+  "correctAnswer": "A",
+  "explanation": "The activity asks learners to reason about fairness, consequences and alternatives, thereby promoting reflective value development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Reflection", "Fairness", "Value Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0068",
+  "question": "Which of the following best represents accountability in educational administration?",
+  "options": {
+    "A": "Being answerable for decisions and their consequences",
+    "B": "Avoiding documentation of decisions",
+    "C": "Delegating blame whenever a decision fails",
+    "D": "Keeping criteria secret from stakeholders"
+  },
+  "correctAnswer": "A",
+  "explanation": "Accountability means being answerable for decisions, actions and consequences and being willing to justify them transparently.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Accountability", "Educational Administration", "Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0069",
+  "question": "Which administrative action best reflects transparency?",
+  "options": {
+    "A": "Publishing selection criteria and communicating reasons for decisions",
+    "B": "Changing criteria secretly after selection",
+    "C": "Withholding all information from stakeholders",
+    "D": "Making decisions only through informal influence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Transparency involves openness about procedures, criteria and reasons so that decisions can be understood and scrutinized.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Transparency", "Administration", "Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0070",
+  "question": "Consider the following values in school administration. 1. Integrity 2. Transparency 3. Accountability 4. Favoritism. Which combination represents desirable administrative values?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Integrity, transparency and accountability are desirable ethical values in administration, while favoritism undermines fairness and justice.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Administrative Values", "Integrity", "Transparency", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0071",
+  "question": "A student protects a younger child from bullying despite the risk of becoming unpopular. Which value is most clearly reflected?",
+  "options": {
+    "A": "Moral courage",
+    "B": "Blind conformity",
+    "C": "Value neutrality",
+    "D": "Competitive achievement"
+  },
+  "correctAnswer": "A",
+  "explanation": "Moral courage involves acting in accordance with ethical principles despite social pressure or personal risk.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Moral Courage", "Bullying", "Ethical Values"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0072",
+  "question": "Which conclusion is most appropriate regarding punishment and value development?",
+  "options": {
+    "A": "Punishment alone guarantees internalisation of values",
+    "B": "Punishment may influence behaviour but does not by itself ensure reflective acceptance of values",
+    "C": "Punishment and value education are identical",
+    "D": "The harsher the punishment, the deeper the value internalisation"
+  },
+  "correctAnswer": "B",
+  "explanation": "External consequences can regulate behaviour, but genuine value internalisation requires understanding, acceptance and consistent self-guided conduct.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Punishment", "Internalisation", "Value Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0073",
+  "question": "A school states that it values inclusion but routinely excludes children with disabilities from extracurricular programmes. This is best described as:",
+  "options": {
+    "A": "Congruence between stated and practised values",
+    "B": "A gap between proclaimed values and institutional practice",
+    "C": "Successful internalisation",
+    "D": "Value neutrality"
+  },
+  "correctAnswer": "B",
+  "explanation": "The institution's stated commitment to inclusion is contradicted by exclusionary practice, revealing a gap between proclaimed and enacted values.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inclusion", "School Culture", "Institutional Values"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0074",
+  "question": "Which statement best reflects fraternity in the Indian constitutional context?",
+  "options": {
+    "A": "Promoting common belonging while assuring the dignity of the individual",
+    "B": "Eliminating all individual differences",
+    "C": "Restricting participation to one social group",
+    "D": "Replacing liberty with compulsory uniformity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Fraternity promotes a sense of common brotherhood and unity while assuring individual dignity.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Fraternity", "Constitutional Values", "Dignity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0075",
+  "question": "A Dy.E.O. wants to assess whether a school's declared values are genuinely reflected in institutional life. Which evidence would be most useful?",
+  "options": {
+    "A": "Only the number of value slogans painted on walls",
+    "B": "Patterns of student participation, disciplinary practices, teacher behaviour, inclusion and decision-making",
+    "C": "Only the number of moral-science periods in the timetable",
+    "D": "Only examination marks in value education"
+  },
+  "correctAnswer": "B",
+  "explanation": "Institutional values are best judged through actual practices such as participation, inclusion, fairness, discipline and teacher behaviour rather than through slogans or timetable entries alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "School Inspection", "Institutional Values", "Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}, 
+{
+  "id": "FOE-EV-0076",
+  "question": "Which statement best explains the educational significance of human rights values?",
+  "options": {
+    "A": "They apply only to adults and not to school children",
+    "B": "They support dignity, equality, freedom and protection from discrimination",
+    "C": "They require schools to avoid all forms of discipline",
+    "D": "They are unrelated to educational administration"
+  },
+  "correctAnswer": "B",
+  "explanation": "Human rights values are closely related to dignity, equality, freedom, non-discrimination and respect for the inherent worth of every person.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Human Rights", "Dignity", "Equality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0077",
+  "question": "A school consistently protects the right of every child to participate regardless of caste, religion, gender or disability. Which combination of values is most directly reflected?",
+  "options": {
+    "A": "Equality and non-discrimination",
+    "B": "Competition and ranking",
+    "C": "Uniformity and conformity",
+    "D": "Authority and secrecy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equal participation without discrimination reflects the values of equality, dignity and inclusion.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Equality", "Non-discrimination", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0078",
+  "question": "Assertion A: Professional ethics is important for educational administrators. Reason R: Educational decisions often affect rights, opportunities and welfare of learners and staff. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational administrators exercise authority over decisions that affect people significantly, making professional ethics essential for fairness, accountability and public trust.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Professional Ethics", "Educational Administration", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0079",
+  "question": "A Dy.E.O. receives confidential information about a teacher during an official enquiry. Which action best reflects professional ethics?",
+  "options": {
+    "A": "Share the information casually with unrelated persons",
+    "B": "Use the information only for legitimate official purposes and protect confidentiality",
+    "C": "Publish the information before the enquiry is completed",
+    "D": "Use the information to settle a personal dispute"
+  },
+  "correctAnswer": "B",
+  "explanation": "Professional ethics requires confidentiality, appropriate use of official information and respect for due process.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Confidentiality", "Professional Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0080",
+  "question": "Which value is most directly violated when an administrator uses public educational resources for personal benefit?",
+  "options": {
+    "A": "Integrity",
+    "B": "Empathy",
+    "C": "Aesthetic appreciation",
+    "D": "Tolerance"
+  },
+  "correctAnswer": "A",
+  "explanation": "Using public resources for private gain violates integrity, accountability and public trust.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Integrity", "Public Resources", "Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0081",
+  "question": "Which school practice most strongly promotes tolerance?",
+  "options": {
+    "A": "Encouraging respectful engagement with differing viewpoints",
+    "B": "Suppressing every opinion that differs from the majority",
+    "C": "Separating students according to beliefs",
+    "D": "Treating disagreement as disobedience"
+  },
+  "correctAnswer": "A",
+  "explanation": "Tolerance involves respectful acceptance of diversity and the ability to coexist with differing views without discrimination or hostility.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Tolerance", "Diversity", "Democratic Values"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0082",
+  "question": "Consider the following elements of ethical educational leadership: 1. Fairness 2. Transparency 3. Accountability 4. Manipulation of evidence. Which are desirable?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Fairness, transparency and accountability are central ethical leadership values. Manipulation of evidence is unethical.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Ethical Leadership", "Transparency", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0083",
+  "question": "A student challenges a discriminatory practice even though it benefits the student's own group. Which value is most clearly demonstrated?",
+  "options": {
+    "A": "Justice",
+    "B": "Self-interest",
+    "C": "Conformity",
+    "D": "Status preservation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Opposing unfair treatment even when one personally benefits from it reflects commitment to justice and impartial moral principles.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Justice", "Moral Courage", "Non-discrimination"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0084",
+  "question": "Which statement best describes the relationship between values and behaviour?",
+  "options": {
+    "A": "Knowing a value automatically guarantees corresponding behaviour",
+    "B": "Values can influence behaviour, but behaviour may also be affected by context, habits and competing motives",
+    "C": "Values have no influence on behaviour",
+    "D": "Behaviour is determined only by punishment"
+  },
+  "correctAnswer": "B",
+  "explanation": "Values guide behaviour, but actual conduct may also be influenced by situational pressures, habits, incentives and competing values.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Values and Behaviour", "Value Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0085",
+  "question": "A teacher encourages students to conserve water in school and also personally wastes water every day. Which principle of value education is weakened?",
+  "options": {
+    "A": "Consistency between teaching and modelling",
+    "B": "Standardization of examinations",
+    "C": "Competition among learners",
+    "D": "Administrative delegation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Value education is weakened when adult behaviour contradicts the values explicitly taught to learners.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Modelling", "Environmental Values", "Consistency"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0086",
+  "question": "Which principle is most closely associated with sustainable environmental ethics?",
+  "options": {
+    "A": "Responsible use of resources with concern for present and future generations",
+    "B": "Unlimited exploitation of natural resources",
+    "C": "Ignoring long-term environmental consequences",
+    "D": "Treating environmental responsibility as unrelated to education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sustainable environmental ethics emphasizes responsible resource use, ecological concern and consideration for future generations.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Environmental Ethics", "Sustainability", "Responsibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0087",
+  "question": "Assertion A: Democratic school governance can contribute to value education. Reason R: Participation in real decision-making provides experience of responsibility, dialogue and shared accountability. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Democratic governance provides opportunities to practise participation, responsibility and dialogue and therefore contributes directly to value development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Democratic Governance", "Value Education", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0088",
+  "question": "A principal invites suggestions from teachers and students but has already decided to ignore every suggestion. Which value problem is most evident?",
+  "options": {
+    "A": "Token participation without genuine democratic engagement",
+    "B": "Successful decentralization",
+    "C": "Full transparency",
+    "D": "Value internalisation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Participation is not meaningful when consultation is merely symbolic and stakeholder input has no genuine opportunity to influence decision-making.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Participation", "Democratic Values", "School Leadership"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0089",
+  "question": "Which of the following best represents compassion?",
+  "options": {
+    "A": "Recognising another person's suffering and being motivated to respond helpfully",
+    "B": "Ignoring another person's difficulty",
+    "C": "Using another person's weakness for personal advantage",
+    "D": "Agreeing with every decision made by another person"
+  },
+  "correctAnswer": "A",
+  "explanation": "Compassion involves sensitivity to suffering together with concern and motivation to respond constructively.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Compassion", "Social Values", "Empathy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0090",
+  "question": "A Dy.E.O. finds that school disciplinary rules are applied differently according to the social status of parents. Which corrective principle should receive highest priority?",
+  "options": {
+    "A": "Impartial and consistent application of fair procedures",
+    "B": "Greater secrecy in discipline",
+    "C": "More privileges for influential families",
+    "D": "Removal of all disciplinary procedures"
+  },
+  "correctAnswer": "A",
+  "explanation": "Fair educational administration requires impartiality, consistency and procedural justice regardless of social influence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Justice", "Impartiality", "Discipline"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0091",
+  "question": "Which statement best explains value hierarchy?",
+  "options": {
+    "A": "All values always have identical importance in every situation",
+    "B": "Individuals or societies may rank some values as more important than others",
+    "C": "Values cannot conflict with one another",
+    "D": "A value hierarchy is identical for every person"
+  },
+  "correctAnswer": "B",
+  "explanation": "Values may be organised into a hierarchy in which some are considered more important than others, particularly when choices must be made.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Value Hierarchy", "Nature of Values"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0092",
+  "question": "A teacher faces a conflict between maintaining confidentiality and protecting a student from serious harm. This situation is best described as:",
+  "options": {
+    "A": "An ethical dilemma involving competing values",
+    "B": "Absence of values",
+    "C": "Purely academic failure",
+    "D": "Value neutrality"
+  },
+  "correctAnswer": "A",
+  "explanation": "An ethical dilemma arises when two important values or duties conflict and a decision requires careful ethical judgement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Ethical Dilemma", "Value Conflict", "Professional Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0093",
+  "question": "Which response is most appropriate when educational values come into genuine conflict?",
+  "options": {
+    "A": "Identify the competing values, examine consequences and apply relevant ethical principles",
+    "B": "Always select the option that benefits the administrator personally",
+    "C": "Ignore the conflict",
+    "D": "Choose randomly"
+  },
+  "correctAnswer": "A",
+  "explanation": "Ethical decision-making requires recognition of competing values, examination of consequences, relevant rights and duties, and reasoned judgement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Ethical Decision Making", "Value Conflict", "Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0094",
+  "question": "Consider the following characteristics of effective value education: 1. Opportunities for reflection 2. Consistent adult modelling 3. Practical experiences 4. Exclusive dependence on memorisation. Which are appropriate?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Reflection, modelling and practical experiences promote deeper value development. Memorisation alone is insufficient for internalisation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Value Education", "Statement Based", "Internalisation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0095",
+  "question": "A school repeatedly rewards only individual rank and discourages students from helping classmates. Which value might the hidden curriculum unintentionally weaken?",
+  "options": {
+    "A": "Cooperation",
+    "B": "Competition",
+    "C": "Achievement",
+    "D": "Efficiency"
+  },
+  "correctAnswer": "A",
+  "explanation": "Institutional emphasis on individual competition without cooperative opportunities may weaken the value of mutual support and cooperation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Hidden Curriculum", "Cooperation", "School Culture"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0096",
+  "question": "Which statement best reflects the role of values in educational leadership?",
+  "options": {
+    "A": "Values influence priorities, decisions, relationships and use of authority",
+    "B": "Leadership decisions are entirely value-free",
+    "C": "Values matter only in classroom teaching",
+    "D": "Ethical values reduce accountability"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational leadership is inherently value-laden because leaders make decisions affecting priorities, people, resources, rights and institutional culture.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Educational Leadership", "Values", "Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0097",
+  "question": "A school claims that every learner has equal dignity but routinely humiliates low achievers in public. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The school's practice contradicts its declared value",
+    "B": "Public humiliation strengthens dignity",
+    "C": "Academic performance determines human worth",
+    "D": "The contradiction has no educational significance"
+  },
+  "correctAnswer": "A",
+  "explanation": "Human dignity applies to all learners regardless of performance. Public humiliation contradicts the stated commitment to dignity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Dignity", "School Culture", "Institutional Values"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0098",
+  "question": "Which conclusion best integrates cognitive, affective and behavioural dimensions of value education?",
+  "options": {
+    "A": "Learners should understand values, develop commitment to them and have opportunities to practise them",
+    "B": "Knowing definitions alone is sufficient",
+    "C": "Only emotional response matters",
+    "D": "Behaviour should be controlled without understanding"
+  },
+  "correctAnswer": "A",
+  "explanation": "Comprehensive value education integrates understanding, emotional commitment and consistent practice or behaviour.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Cognitive", "Affective", "Behavioural", "Value Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0099",
+  "question": "A Dy.E.O. must choose between concealing poor school performance to protect institutional reputation and reporting accurate data so corrective support can be provided. Which course best reflects professional integrity?",
+  "options": {
+    "A": "Report accurate data and use it constructively for improvement",
+    "B": "Alter the data to avoid criticism",
+    "C": "Destroy the records",
+    "D": "Report only favourable information"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional integrity requires honesty and accurate reporting even when information is uncomfortable, while using evidence constructively to improve educational outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Integrity", "Data Ethics", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EV-0100",
+  "question": "Which statement best summarizes the role of value education in a democratic school system?",
+  "options": {
+    "A": "It should help learners understand, critically examine and practise values such as justice, liberty, equality, fraternity, dignity and responsibility",
+    "B": "It should require unquestioning acceptance of every existing practice",
+    "C": "It should be confined entirely to memorising moral quotations",
+    "D": "It is unrelated to school culture and administration"
+  },
+  "correctAnswer": "A",
+  "explanation": "Value education in a democratic system involves understanding, reflection, internalisation and practice of constitutional, moral and social values across classroom and institutional life.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Value Education", "Democratic Values", "Constitutional Values", "Final Integration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+  
+}

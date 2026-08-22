@@ -19,7 +19,8 @@ const repository = {
             "Historical Perspective",
             "Religious Implications",
             "Epistemological Foundations",
-            "Educational Thinkers"
+            "Educational Thinkers",
+            "Education and Values"
         ],
 
         "Educational Sociology": [],

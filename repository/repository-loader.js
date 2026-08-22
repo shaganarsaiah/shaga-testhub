@@ -24,6 +24,7 @@ import epistemologicalFoundations from "../question-bank/subjects/educational-ph
 import educationalThinkers from "../question-bank/subjects/educational-philosophy/educational-thinkers.json" with { type: "json" };
 import idealism from "../question-bank/subjects/educational-philosophy/idealism.json" with { type: "json" };
 import historicalPerspective from "../question-bank/subjects/educational-philosophy/historical-perspective.json" with { type: "json" };
+import educationValues from "../question-bank/subjects/educational-philosophy/education-values.json" with { type: "json" };
 
 class RepositoryLoader {
 
@@ -61,7 +62,8 @@ class RepositoryLoader {
     epistemologicalFoundations,
     educationalThinkers,
     idealism,
-    historicalPerspective
+    historicalPerspective,
+    educationValues
 );
 
         console.log("");
