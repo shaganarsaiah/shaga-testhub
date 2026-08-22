@@ -1,0 +1,2938 @@
+{
+  "metadata": {
+    "subject": "Foundations of Education",
+    "unit": "Education in Historical Perspective",
+    "chapter": "Education in Historical Perspective",
+    "topic": "Historical Perspective",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "2.0",
+    "repository": "SHAGA GOLD"
+  },
+  "questions": [
+    {
+  "id": "FOE-HP-0001",
+  "question": "Which feature most accurately distinguishes the educational ideal of the Vedic period from a system concerned primarily with the transmission of occupational information?",
+  "options": {
+    "A": "Education was confined exclusively to memorization of sacred texts",
+    "B": "Education sought integrated development of character, intellect, discipline and spiritual understanding",
+    "C": "Education was organized mainly through centralized state-controlled institutions",
+    "D": "Education emphasized standardized written examinations for certification"
+  },
+  "correctAnswer": "B",
+  "explanation": "Vedic education aimed at the integrated development of the learner. Intellectual learning was associated with character, discipline, self-control, moral conduct and spiritual realization rather than merely occupational information.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Vedic Education",
+    "Aims of Education",
+    "Ancient Indian Education",
+    "Holistic Development"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0002",
+  "question": "A residential institution expects learners to live with the teacher, participate in daily responsibilities, observe disciplined conduct and learn through continuous interaction rather than fixed classroom periods alone. Which ancient Indian educational arrangement does this most closely resemble?",
+  "options": {
+    "A": "Monitorial system",
+    "B": "Gurukula system",
+    "C": "University affiliation system",
+    "D": "Grant-in-aid system"
+  },
+  "correctAnswer": "B",
+  "explanation": "The Gurukula was characteristically residential. The learner lived with the Guru, participated in the life of the household or ashrama and learned through close personal interaction, disciplined living and experience.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Gurukula",
+    "Residential Education",
+    "Guru Shishya Relationship",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0003",
+  "question": "Consider the following statements regarding the Gurukula system. 1. The relationship between teacher and learner was close and personal. 2. Education included elements of disciplined daily living. 3. Learning was necessarily separated from practical activities. 4. Character formation was an important educational concern. Which of the above are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Statements 1, 2 and 4 reflect major characteristics of Gurukula education. Statement 3 is incorrect because education was closely connected with daily duties, practical activities and community life.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Gurukula",
+    "Statement Based",
+    "Character Formation",
+    "Ancient Indian Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0004",
+  "question": "Assertion A: Oral transmission occupied a central position in Vedic education. Reason R: Preservation of sacred knowledge with accurate pronunciation and recitation was considered important. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Vedic learning relied extensively on oral transmission. Accurate memorization, pronunciation and recitation were important for preserving sacred texts, making the reason an appropriate explanation of the assertion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Vedic Education",
+    "Oral Tradition",
+    "Assertion Reason",
+    "Shruti"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0005",
+  "question": "In the traditional Vedic educational context, Upanayana is most appropriately associated with:",
+  "options": {
+    "A": "Completion of education and return to household life",
+    "B": "Initiation into the formal stage of studentship",
+    "C": "Appointment of a teacher to a royal court",
+    "D": "Award of a university degree"
+  },
+  "correctAnswer": "B",
+  "explanation": "Upanayana traditionally marked initiation into Brahmacharya and the beginning of formal studentship under a teacher in the Vedic educational tradition.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Upanayana",
+    "Brahmacharya",
+    "Vedic Education",
+    "Initiation"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0006",
+  "question": "Which term is most appropriately associated with the ceremonial completion of the period of studentship in the traditional Vedic educational system?",
+  "options": {
+    "A": "Upanayana",
+    "B": "Samavartana",
+    "C": "Pravrajya",
+    "D": "Pabbajja"
+  },
+  "correctAnswer": "B",
+  "explanation": "Samavartana was associated with completion of the Brahmacharya or studentship stage and the student's return after completing education. Upanayana, by contrast, marked initiation into studentship.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Samavartana",
+    "Vedic Education",
+    "Studentship",
+    "Ancient Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0007",
+  "question": "A teacher asks students first to listen carefully to an exposition, then intellectually examine its meaning, and finally deeply contemplate the truth understood. Which sequence of ancient Indian learning processes is most closely represented?",
+  "options": {
+    "A": "Shravana - Manana - Nididhyasana",
+    "B": "Upanayana - Samavartana - Gurudakshina",
+    "C": "Dharana - Dhyana - Samadhi",
+    "D": "Pratyaksha - Anumana - Upamana"
+  },
+  "correctAnswer": "A",
+  "explanation": "Shravana refers broadly to attentive listening or receiving instruction, Manana to reflection and reasoning upon it, and Nididhyasana to deeper contemplation or internalization.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Shravana",
+    "Manana",
+    "Nididhyasana",
+    "Learning Process",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0008",
+  "question": "Which educational principle is best illustrated by the traditional Guru-Shishya relationship?",
+  "options": {
+    "A": "Complete replacement of personal teaching by standardized instructional material",
+    "B": "Close individualized interaction between teacher and learner",
+    "C": "Separation of moral development from intellectual learning",
+    "D": "Dependence primarily on externally administered examinations"
+  },
+  "correctAnswer": "B",
+  "explanation": "The Guru-Shishya tradition emphasized sustained personal interaction. The teacher guided not merely academic learning but also conduct, discipline, values and the learner's overall development.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Guru Shishya",
+    "Individualized Education",
+    "Teacher Student Relationship",
+    "Ancient India"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0009",
+  "question": "Consider the following pairs. 1. Upanayana - initiation into studentship. 2. Samavartana - completion of studentship. 3. Gurudakshina - offering associated with the teacher. Which pairs are correctly matched?",
+  "options": {
+    "A": "1 only",
+    "B": "1 and 2 only",
+    "C": "2 and 3 only",
+    "D": "1, 2 and 3"
+  },
+  "correctAnswer": "D",
+  "explanation": "All three associations are broadly correct in the traditional educational context: Upanayana initiated studentship, Samavartana marked its completion and Gurudakshina referred to an offering made to the Guru.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Upanayana",
+    "Samavartana",
+    "Gurudakshina",
+    "Matching",
+    "Vedic Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0010",
+  "question": "Which statement provides the most balanced interpretation of the curriculum of ancient Indian education?",
+  "options": {
+    "A": "It consisted exclusively of religious instruction in every institution and period",
+    "B": "It could include religious, philosophical, linguistic and various practical or specialized fields depending on the period and centre",
+    "C": "It was identical across all Gurukulas, monasteries and centres of higher learning",
+    "D": "It excluded debate, reasoning and specialized knowledge"
+  },
+  "correctAnswer": "B",
+  "explanation": "Ancient Indian education was not a single uniform curriculum. Different periods and institutions taught religious and philosophical knowledge as well as grammar, logic, medicine, astronomy and other specialized subjects.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Ancient Indian Knowledge Systems",
+    "Curriculum",
+    "Historical Perspective",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0011",
+  "question": "Which of the following was an important pedagogical feature shared by several traditions of ancient Indian higher learning?",
+  "options": {
+    "A": "Exclusive dependence on objective-type examinations",
+    "B": "Dialogue, discussion and debate as means of intellectual inquiry",
+    "C": "Compulsory use of printed textbooks",
+    "D": "Uniform state curriculum throughout the subcontinent"
+  },
+  "correctAnswer": "B",
+  "explanation": "Dialogue, discussion, questioning and scholarly debate occupied important places in several ancient Indian intellectual traditions. Printed textbooks and modern standardized examinations obviously belong to much later educational systems.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Ancient Indian Education",
+    "Teaching Methods",
+    "Debate",
+    "Dialogue"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0012",
+  "question": "A modern school introduces mentoring, community living, responsibility for common work and continuous observation of learners' conduct. Which element of ancient Indian education is being adapted most directly?",
+  "options": {
+    "A": "Residential and life-centred character of Gurukula education",
+    "B": "Colonial grant-in-aid system",
+    "C": "Downward filtration theory",
+    "D": "University affiliating system"
+  },
+  "correctAnswer": "A",
+  "explanation": "The scenario reflects the residential and life-centred nature of Gurukula education, where education extended beyond formal lessons into disciplined community life, responsibilities and close guidance by the teacher.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Gurukula",
+    "Application",
+    "School Scenario",
+    "Character Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0013",
+  "question": "Assertion A: The ancient Indian educational tradition cannot be adequately understood merely as classroom instruction. Reason R: In traditions such as the Gurukula, learning was integrated with disciplined living, duties, values and close association with the teacher. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Gurukula represented education as a way of life rather than merely scheduled classroom instruction. Daily conduct, responsibilities and personal guidance formed part of the educational process, so the reason explains the assertion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Gurukula",
+    "Assertion Reason",
+    "Holistic Education",
+    "Ancient Indian Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0014",
+  "question": "Which statement most appropriately describes the concept of Brahmacharya in the educational context of the traditional Vedic system?",
+  "options": {
+    "A": "It referred only to mastery of military skills",
+    "B": "It represented a disciplined stage of studentship involving learning and self-control",
+    "C": "It was a system of public examinations conducted by rulers",
+    "D": "It referred to financial assistance given to teachers"
+  },
+  "correctAnswer": "B",
+  "explanation": "In the traditional educational context, Brahmacharya represented the disciplined student stage of life, emphasizing learning, restraint, self-control, duties and guidance under the teacher.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Brahmacharya",
+    "Vedic Education",
+    "Studentship",
+    "Discipline"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0015",
+  "question": "A Dy.E.O. observes a school where students reproduce information accurately but rarely question, discuss or reflect upon it. Which ancient Indian pedagogical practice would most directly address this limitation?",
+  "options": {
+    "A": "Restricting instruction to mechanical recitation alone",
+    "B": "Combining attentive learning with reflection, questioning and discussion",
+    "C": "Replacing teachers with written examinations",
+    "D": "Reducing interaction between teacher and learner"
+  },
+  "correctAnswer": "B",
+  "explanation": "Ancient Indian traditions included reflection, questioning, dialogue and debate in addition to memorization and recitation. These practices would address a learning environment limited to reproduction of information.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "DyEO Scenario",
+    "Ancient Pedagogy",
+    "Reflection",
+    "Discussion",
+    "Application"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0016",
+  "question": "Which ancient centre of learning is most strongly associated with Gandhara and with a wide range of advanced studies in the north-western part of the Indian subcontinent?",
+  "options": {
+    "A": "Takshashila",
+    "B": "Nalanda",
+    "C": "Vikramashila",
+    "D": "Vallabhi"
+  },
+  "correctAnswer": "A",
+  "explanation": "Takshashila, located in the ancient Gandhara region, became renowned as a major centre of advanced learning and attracted students for diverse fields of study.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Takshashila",
+    "Gandhara",
+    "Ancient Universities",
+    "Higher Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0017",
+  "question": "Which statement about Takshashila is historically more appropriate than describing it simply as a modern centralized university?",
+  "options": {
+    "A": "It functioned under a modern affiliating university statute",
+    "B": "It was a renowned centre where individual teachers and traditions attracted learners for advanced study",
+    "C": "It awarded standardized modern bachelor's degrees",
+    "D": "It was established by the British government for oriental studies"
+  },
+  "correctAnswer": "B",
+  "explanation": "Takshashila is commonly called an ancient university, but it did not operate exactly like a modern centralized degree-granting university. Renowned teachers and centres of study attracted learners in different disciplines.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Takshashila",
+    "Ancient Higher Education",
+    "Historical Interpretation",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0018",
+  "question": "Nalanda became especially renowned in the history of Indian education as:",
+  "options": {
+    "A": "A major residential centre of Buddhist and multidisciplinary higher learning",
+    "B": "The first British-established university in India",
+    "C": "A colonial teacher-training institution",
+    "D": "A centre established under Wood's Despatch"
+  },
+  "correctAnswer": "A",
+  "explanation": "Nalanda developed into a major residential centre of higher learning, particularly associated with Buddhist scholarship while also supporting study in a range of intellectual disciplines.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Nalanda",
+    "Buddhist Education",
+    "Ancient Universities",
+    "Residential Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0019",
+  "question": "Which Chinese pilgrim-scholar is particularly associated with study at Nalanda and with accounts that provide important information about Indian education and society in the seventh century CE?",
+  "options": {
+    "A": "Xuanzang",
+    "B": "Megasthenes",
+    "C": "Al-Biruni",
+    "D": "Marco Polo"
+  },
+  "correctAnswer": "A",
+  "explanation": "Xuanzang, also rendered Hiuen Tsang or Yuan Chwang in older texts, studied at Nalanda during his travels in India. His accounts are valuable sources for the period.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Xuanzang",
+    "Nalanda",
+    "Chinese Pilgrims",
+    "Ancient Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0020",
+  "question": "Consider the following statements about Nalanda. 1. It was an important residential centre of higher learning. 2. Buddhist studies formed an important part of its intellectual life. 3. Its curriculum was necessarily restricted only to Buddhist religious texts. 4. Scholars from outside India were associated with it. Which statements are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Nalanda was residential, strongly associated with Buddhist scholarship and internationally connected. Statement 3 is too restrictive because learning at Nalanda extended beyond Buddhist religious texts to several other fields.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Nalanda",
+    "Statement Based",
+    "Buddhist Education",
+    "Ancient Universities"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0021",
+  "question": "Vikramashila, an important centre of Buddhist learning, is generally associated with the patronage of which ruler?",
+  "options": {
+    "A": "Dharmapala",
+    "B": "Ashoka",
+    "C": "Harshavardhana",
+    "D": "Chandragupta Maurya"
+  },
+  "correctAnswer": "A",
+  "explanation": "Vikramashila is generally regarded as having been founded under the Pala ruler Dharmapala and became an important centre of Buddhist scholarship.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Vikramashila",
+    "Dharmapala",
+    "Pala Dynasty",
+    "Buddhist Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0022",
+  "question": "Which ancient centre of learning was located in western India and became particularly prominent during the Maitraka period?",
+  "options": {
+    "A": "Vallabhi",
+    "B": "Vikramashila",
+    "C": "Nalanda",
+    "D": "Odantapuri"
+  },
+  "correctAnswer": "A",
+  "explanation": "Vallabhi in present-day Gujarat was an important centre of learning in western India and flourished particularly under the Maitraka rulers.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Vallabhi",
+    "Maitraka",
+    "Ancient Universities",
+    "Western India"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0023",
+  "question": "Arrange the following educational centres broadly from earlier emergence to later establishment: 1. Takshashila 2. Nalanda 3. Vikramashila. Choose the most appropriate sequence.",
+  "options": {
+    "A": "1 - 2 - 3",
+    "B": "2 - 1 - 3",
+    "C": "3 - 2 - 1",
+    "D": "1 - 3 - 2"
+  },
+  "correctAnswer": "A",
+  "explanation": "Takshashila belongs to a much earlier phase of ancient Indian learning. Nalanda rose prominently in the early centuries CE, particularly from the Gupta period, while Vikramashila was established later under the Pala ruler Dharmapala.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Chronology",
+    "Takshashila",
+    "Nalanda",
+    "Vikramashila",
+    "Ancient Universities"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0024",
+  "question": "Which conclusion is most defensible when comparing major ancient Indian centres such as Takshashila, Nalanda and Vikramashila?",
+  "options": {
+    "A": "All had exactly the same organizational structure and curriculum",
+    "B": "They demonstrate that advanced learning in ancient India developed through diverse institutional forms and intellectual traditions",
+    "C": "All were established by one political dynasty",
+    "D": "Their primary function was preparation for standardized civil-service examinations"
+  },
+  "correctAnswer": "B",
+  "explanation": "The major centres differed in period, organization, patronage and intellectual orientation. Collectively they demonstrate the diversity and sophistication of higher learning rather than a single standardized institutional model.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Ancient Universities",
+    "Comparative Education",
+    "Takshashila",
+    "Nalanda",
+    "Vikramashila",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0025",
+  "question": "A policy group argues that Indian educational history should be studied not merely as a chronology of institutions but also through its traditions of knowledge, teacher-learner relationships, methods of inquiry and social context. Which approach does this represent?",
+  "options": {
+    "A": "A narrow institutional approach",
+    "B": "An integrated historical interpretation of education",
+    "C": "A purely examination-oriented approach",
+    "D": "A doctrine of downward filtration"
+  },
+  "correctAnswer": "B",
+  "explanation": "A meaningful historical perspective examines institutions together with knowledge traditions, pedagogy, teacher-learner relationships, aims and social conditions. It therefore represents an integrated interpretation rather than a mere chronology.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Historical Perspective",
+    "Indian Knowledge Systems",
+    "Educational History",
+    "Policy Scenario",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0026",
+  "question": "Which development most clearly distinguished Buddhist education from the predominantly household- or teacher-centred Gurukula pattern of earlier Vedic education?",
+  "options": {
+    "A": "Complete rejection of residential learning",
+    "B": "Growth of organized monastic institutions such as Viharas as centres of learning",
+    "C": "Introduction of compulsory state examinations",
+    "D": "Exclusive dependence on individual private tutors"
+  },
+  "correctAnswer": "B",
+  "explanation": "Buddhist education developed important organized monastic centres such as Viharas and monasteries. These became institutional centres for teaching, learning, discussion and scholarship.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Buddhist Education",
+    "Vihara",
+    "Ancient Indian Education",
+    "Institutional Development"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0027",
+  "question": "In the Buddhist educational tradition, Pabbajja is most appropriately understood as:",
+  "options": {
+    "A": "A ceremony marking entry into the monastic life",
+    "B": "The final university examination",
+    "C": "A tax imposed on educational institutions",
+    "D": "A grant made by a king to a Brahmin teacher"
+  },
+  "correctAnswer": "A",
+  "explanation": "Pabbajja, meaning 'going forth', was associated with entry into the Buddhist monastic life and was an important initiation in the Buddhist educational-monastic tradition.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Pabbajja",
+    "Buddhist Education",
+    "Monastic Education",
+    "Initiation"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0028",
+  "question": "Which of the following combinations best represents important methods associated with Buddhist education?",
+  "options": {
+    "A": "Lecture, discussion, questioning and debate",
+    "B": "Only silent memorization without discussion",
+    "C": "Only military drill and physical training",
+    "D": "Standardized objective testing and programmed instruction"
+  },
+  "correctAnswer": "A",
+  "explanation": "Buddhist centres used oral instruction together with discussion, questioning, debate and intellectual inquiry. Scholarly disputation became particularly important in advanced centres of Buddhist learning.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Buddhist Education",
+    "Teaching Methods",
+    "Debate",
+    "Discussion"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0029",
+  "question": "Consider the following statements about Buddhist education. 1. Monasteries developed as centres of learning. 2. Debate and discussion were important pedagogical practices. 3. Buddhist centres could attract learners from distant regions. 4. All Buddhist institutions taught an identical and exclusively religious curriculum. Which statements are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Statements 1, 2 and 3 are valid. Statement 4 is too absolute. Major Buddhist centres also cultivated disciplines such as logic, grammar, medicine and philosophy, and curricula varied across institutions and periods.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Buddhist Education",
+    "Statement Based",
+    "Monastic Education",
+    "Curriculum"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0030",
+  "question": "Assertion A: Buddhist educational institutions contributed to the international character of ancient Indian higher learning. Reason R: Centres such as Nalanda attracted scholars and learners from regions beyond India. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Major Buddhist centres attracted learners and scholars from different parts of Asia. This transregional scholarly movement supports the assertion that ancient Indian higher learning acquired an international character.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Buddhist Education",
+    "Nalanda",
+    "International Education",
+    "Assertion Reason"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0031",
+  "question": "Which educational implication is most consistent with the Buddhist emphasis on inquiry and discussion?",
+  "options": {
+    "A": "Learners should accept every proposition without examination",
+    "B": "Teaching should provide opportunities for questioning, reasoning and dialogue",
+    "C": "Only the teacher should participate intellectually in a lesson",
+    "D": "Learning should be separated completely from ethical conduct"
+  },
+  "correctAnswer": "B",
+  "explanation": "Questioning, discussion, debate and rational inquiry occupied important places in Buddhist intellectual traditions. A contemporary implication is the creation of classrooms that encourage reasoned dialogue.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Buddhist Education",
+    "Educational Implication",
+    "Inquiry",
+    "Dialogue"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0032",
+  "question": "Which statement most appropriately characterizes Jain educational thought in the wider history of Indian education?",
+  "options": {
+    "A": "It emphasized ethical discipline and developed important traditions of learning and scholarship",
+    "B": "It rejected intellectual inquiry in favour of military instruction",
+    "C": "It introduced the colonial grant-in-aid system",
+    "D": "It prohibited preservation of literary and philosophical works"
+  },
+  "correctAnswer": "A",
+  "explanation": "Jain traditions gave strong importance to ethical discipline, learning, reasoning and scholarship. Jain scholars and institutions also contributed significantly to the preservation and development of literature and knowledge.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Jain Education",
+    "Ethical Education",
+    "Ancient Indian Education",
+    "Scholarship"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0033",
+  "question": "A classroom encourages students to examine a social issue from several legitimate standpoints before reaching a judgement. Which Jain philosophical principle provides the closest conceptual parallel?",
+  "options": {
+    "A": "Anekantavada",
+    "B": "Downward Filtration",
+    "C": "Tabula Rasa",
+    "D": "Naturalism"
+  },
+  "correctAnswer": "A",
+  "explanation": "Anekantavada emphasizes the many-sided nature of reality and cautions against treating a limited standpoint as exhaustive. Educationally, it can support openness to multiple perspectives and careful judgement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Jain Education",
+    "Anekantavada",
+    "Multiple Perspectives",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0034",
+  "question": "A historian warns against describing ancient Indian education as one uniform system. Which evidence most strongly supports the historian's position?",
+  "options": {
+    "A": "Different Vedic, Buddhist and Jain traditions developed distinctive institutions, aims and pedagogical practices",
+    "B": "Every institution used the same curriculum throughout India",
+    "C": "Only one language was ever used for intellectual activity",
+    "D": "All educational institutions were administered by a single central authority"
+  },
+  "correctAnswer": "A",
+  "explanation": "Ancient Indian education developed through diverse religious, philosophical and institutional traditions. Vedic Gurukulas, Buddhist monasteries, Jain centres and advanced centres of scholarship cannot accurately be reduced to one uniform model.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Ancient Indian Knowledge Systems",
+    "Historical Interpretation",
+    "Vedic Education",
+    "Buddhist Education",
+    "Jain Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0035",
+  "question": "Which pair is incorrectly matched?",
+  "options": {
+    "A": "Takshashila - Gandhara region",
+    "B": "Nalanda - Bihar",
+    "C": "Vallabhi - Gujarat",
+    "D": "Vikramashila - Tamil Nadu"
+  },
+  "correctAnswer": "D",
+  "explanation": "Vikramashila was located in present-day Bihar and was associated with the Pala period. Takshashila, Nalanda and Vallabhi are correctly associated with Gandhara, Bihar and Gujarat respectively.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Ancient Universities",
+    "Takshashila",
+    "Nalanda",
+    "Vallabhi",
+    "Vikramashila",
+    "Matching"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0036",
+  "question": "Which of the following provides the strongest evidence that some ancient Indian centres of higher learning were multidisciplinary rather than narrowly theological?",
+  "options": {
+    "A": "The study of fields such as grammar, logic, medicine and philosophy alongside religious learning",
+    "B": "The exclusive recitation of one prescribed text",
+    "C": "The absence of scholarly discussion",
+    "D": "The rejection of all secular knowledge"
+  },
+  "correctAnswer": "A",
+  "explanation": "The presence of grammar, logic, medicine, philosophy and other disciplines demonstrates that important centres of ancient Indian higher learning were intellectually broader than institutions devoted solely to theological instruction.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Ancient Universities",
+    "Curriculum",
+    "Multidisciplinary Education",
+    "Indian Knowledge Systems"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0037",
+  "question": "Which change most fundamentally altered the institutional direction of Indian education during the colonial period?",
+  "options": {
+    "A": "Increasing intervention of the colonial state in determining educational policy and institutions",
+    "B": "Complete disappearance of all indigenous educational institutions immediately after British arrival",
+    "C": "Immediate establishment of universal compulsory education",
+    "D": "Immediate adoption of Indian languages as the sole medium of higher education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Colonial rule gradually brought education within an expanding framework of state policy, administrative objectives, grants, examinations and modern institutions. Indigenous systems did not disappear immediately, nor was universal education established.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Colonial Education",
+    "Educational Policy",
+    "British India",
+    "Historical Transition"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0038",
+  "question": "The Charter Act of 1813 is important in the history of education in British India principally because it:",
+  "options": {
+    "A": "Provided for an annual sum of one lakh rupees for educational purposes",
+    "B": "Established the universities of Calcutta, Bombay and Madras",
+    "C": "Introduced compulsory primary education throughout India",
+    "D": "Created the University Grants Commission"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Charter Act of 1813 provided that a sum of not less than one lakh rupees annually should be set apart for purposes connected with education and the revival and promotion of knowledge.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Charter Act 1813",
+    "Colonial Education",
+    "One Lakh Rupees",
+    "Educational Policy"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0039",
+  "question": "The controversy between the Orientalists and Anglicists in early nineteenth-century British Indian education centred primarily on:",
+  "options": {
+    "A": "Whether education should emphasize Oriental learning or Western knowledge through English",
+    "B": "Whether all universities should conduct online examinations",
+    "C": "Whether India should establish the University Grants Commission",
+    "D": "Whether secondary schools should follow the 10+2+3 structure"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Orientalist-Anglicist controversy concerned the direction of colonial education, including whether resources should support traditional Oriental learning or Western knowledge, particularly through English.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Orientalist Anglicist Controversy",
+    "Colonial Education",
+    "Medium of Instruction",
+    "English Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0040",
+  "question": "Which document is most directly associated with Thomas Babington Macaulay's advocacy of English education in India?",
+  "options": {
+    "A": "Minute on Indian Education, 1835",
+    "B": "Wood's Despatch, 1854",
+    "C": "Hunter Commission Report, 1882",
+    "D": "Sadler Commission Report, 1917-19"
+  },
+  "correctAnswer": "A",
+  "explanation": "Macaulay's Minute on Indian Education of 1835 strongly supported European learning through the medium of English and became a decisive intervention in the Anglicist-Orientalist controversy.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Macaulay",
+    "Minute 1835",
+    "English Education",
+    "Colonial Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0041",
+  "question": "Assertion A: Macaulay's Minute of 1835 strengthened the position of English in colonial education. Reason R: Macaulay argued in favour of promoting European literature and science through English education. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Macaulay explicitly favoured Western knowledge and English education. His position contributed significantly to the colonial government's decision to direct educational support toward English-medium Western learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Macaulay",
+    "Minute 1835",
+    "Assertion Reason",
+    "English Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0042",
+  "question": "The educational strategy commonly described as the 'Downward Filtration Theory' was based on the expectation that:",
+  "options": {
+    "A": "Education imparted initially to a relatively small upper section would eventually spread to the masses",
+    "B": "Every child would immediately receive free and compulsory education",
+    "C": "Universities would be abolished in favour of village schools",
+    "D": "English would be prohibited from higher education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Downward filtration reflected the idea that limited resources should initially educate the higher and influential sections, from whom knowledge and educational influence were expected to filter down to the wider population.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Downward Filtration Theory",
+    "Colonial Education",
+    "Educational Policy",
+    "Macaulay Era"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0043",
+  "question": "A government concentrates scarce educational resources on a small privileged group on the assumption that the benefits of their education will later reach the general population. Which historical policy logic does this most closely resemble?",
+  "options": {
+    "A": "Downward Filtration Theory",
+    "B": "Basic Education",
+    "C": "Operation Blackboard",
+    "D": "Universalization of Elementary Education"
+  },
+  "correctAnswer": "A",
+  "explanation": "The scenario precisely reflects the logic of downward filtration: educating a limited upper section first in the expectation that educational benefits would subsequently diffuse to the masses.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Downward Filtration",
+    "Policy Scenario",
+    "Colonial Education",
+    "Application"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0044",
+  "question": "Wood's Despatch of 1854 is often described as a major landmark in the history of modern education in India because it:",
+  "options": {
+    "A": "Presented a comparatively comprehensive scheme for educational administration and expansion",
+    "B": "Recommended the abolition of all universities",
+    "C": "Rejected teacher training and women's education",
+    "D": "Restricted education exclusively to classical languages"
+  },
+  "correctAnswer": "A",
+  "explanation": "Wood's Despatch proposed a broad educational structure including departments of public instruction, universities, graded institutions, grants-in-aid, teacher training and encouragement of education at different levels.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Wood's Despatch",
+    "1854",
+    "Colonial Education",
+    "Educational Administration"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0045",
+  "question": "Consider the following recommendations associated with Wood's Despatch of 1854. 1. Establishment of Departments of Public Instruction. 2. Establishment of universities at Calcutta, Bombay and Madras. 3. Development of a grant-in-aid system. 4. Encouragement of teacher training. Which combination is correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "All four formed important elements of the educational programme associated with Wood's Despatch. It envisaged educational departments, universities, grants-in-aid and teacher-training institutions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Wood's Despatch",
+    "Statement Based",
+    "Grant in Aid",
+    "Universities",
+    "Teacher Training"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0046",
+  "question": "Which sequence is chronologically correct?",
+  "options": {
+    "A": "Charter Act 1813 - Macaulay's Minute 1835 - Wood's Despatch 1854 - Hunter Commission 1882",
+    "B": "Macaulay's Minute 1835 - Charter Act 1813 - Hunter Commission 1882 - Wood's Despatch 1854",
+    "C": "Charter Act 1813 - Wood's Despatch 1854 - Macaulay's Minute 1835 - Hunter Commission 1882",
+    "D": "Wood's Despatch 1854 - Charter Act 1813 - Macaulay's Minute 1835 - Hunter Commission 1882"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct chronological sequence is Charter Act 1813, Macaulay's Minute 1835, Wood's Despatch 1854 and the Indian Education Commission or Hunter Commission of 1882.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Chronology",
+    "Charter Act 1813",
+    "Macaulay",
+    "Wood's Despatch",
+    "Hunter Commission"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0047",
+  "question": "The universities established at Calcutta, Bombay and Madras in 1857 initially drew significantly upon which institutional model?",
+  "options": {
+    "A": "The examining and affiliating model of the University of London",
+    "B": "The residential Gurukula model",
+    "C": "The Nalanda monastic model",
+    "D": "The American community college model"
+  },
+  "correctAnswer": "A",
+  "explanation": "The universities of Calcutta, Bombay and Madras, established in 1857, were initially largely examining and affiliating bodies and were influenced by the University of London model.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Universities 1857",
+    "Calcutta University",
+    "Bombay University",
+    "Madras University",
+    "University of London"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0048",
+  "question": "Which of the following correctly identifies the three universities established in 1857?",
+  "options": {
+    "A": "Calcutta, Bombay and Madras",
+    "B": "Calcutta, Delhi and Allahabad",
+    "C": "Bombay, Banaras and Aligarh",
+    "D": "Madras, Punjab and Mysore"
+  },
+  "correctAnswer": "A",
+  "explanation": "Universities were established at Calcutta, Bombay and Madras in 1857, following the educational direction outlined in Wood's Despatch.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Universities 1857",
+    "Calcutta",
+    "Bombay",
+    "Madras",
+    "Colonial Higher Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0049",
+  "question": "The Indian Education Commission of 1882 is popularly known as the Hunter Commission because it was chaired by:",
+  "options": {
+    "A": "William Wilson Hunter",
+    "B": "Michael Sadler",
+    "C": "Thomas Raleigh",
+    "D": "Philip Hartog"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Indian Education Commission appointed in 1882 was chaired by Sir William Wilson Hunter and is therefore commonly known as the Hunter Commission.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Hunter Commission",
+    "1882",
+    "William Wilson Hunter",
+    "Colonial Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0050",
+  "question": "Which issue received particularly important attention from the Hunter Commission of 1882?",
+  "options": {
+    "A": "Primary education and the role of local bodies in its development",
+    "B": "Creation of the University Grants Commission",
+    "C": "Introduction of the 10+2+3 structure throughout India",
+    "D": "Implementation of the Right to Education Act"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Hunter Commission gave considerable attention to primary education and favoured greater involvement of local bodies in its management and development. It also examined secondary education.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Hunter Commission",
+    "Primary Education",
+    "Local Bodies",
+    "1882"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0051",
+  "question": "Which development most directly led to the appointment of the Indian Universities Commission of 1902?",
+  "options": {
+    "A": "Concern over the functioning and standards of Indian universities",
+    "B": "Demand for universal elementary education under the RTE Act",
+    "C": "Implementation of the 10+2+3 structure",
+    "D": "Need to establish the University Grants Commission"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Indian Universities Commission of 1902 was appointed to inquire into the conditions and prospects of universities in British India and to recommend reforms in university education.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Indian Universities Commission",
+    "1902",
+    "University Reform",
+    "Colonial Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0052",
+  "question": "The Indian Universities Commission of 1902 is also commonly associated with which name?",
+  "options": {
+    "A": "Raleigh Commission",
+    "B": "Hunter Commission",
+    "C": "Sadler Commission",
+    "D": "Hartog Committee"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Indian Universities Commission of 1902 was chaired by Sir Thomas Raleigh and is therefore often referred to as the Raleigh Commission.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Raleigh Commission",
+    "Indian Universities Commission",
+    "1902",
+    "Thomas Raleigh"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0053",
+  "question": "The Indian Universities Act of 1904 was primarily concerned with:",
+  "options": {
+    "A": "Reorganizing and regulating university administration and standards",
+    "B": "Making elementary education a fundamental right",
+    "C": "Introducing Basic Education through productive craft",
+    "D": "Establishing the first three universities in India"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Indian Universities Act of 1904 sought to strengthen government control and improve the organization, administration and academic standards of Indian universities.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Indian Universities Act 1904",
+    "University Administration",
+    "Colonial Education",
+    "Higher Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0054",
+  "question": "Assertion A: The Indian Universities Act of 1904 increased governmental influence over universities. Reason R: The Act introduced provisions affecting university governance, affiliation and inspection. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Act strengthened the colonial government's supervisory role over universities through changes in administration, affiliation and inspection, so the reason explains the assertion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Indian Universities Act 1904",
+    "Assertion Reason",
+    "University Control",
+    "Colonial Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0055",
+  "question": "Which Indian leader is especially associated with an early legislative attempt to introduce compulsory elementary education in British India?",
+  "options": {
+    "A": "Gopal Krishna Gokhale",
+    "B": "Bal Gangadhar Tilak",
+    "C": "Dadabhai Naoroji",
+    "D": "Subhas Chandra Bose"
+  },
+  "correctAnswer": "A",
+  "explanation": "Gopal Krishna Gokhale introduced a bill in 1911 seeking to provide for compulsory elementary education. Although the bill did not pass, it was a major landmark in the history of universal elementary education in India.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Gokhale",
+    "Compulsory Education",
+    "Elementary Education",
+    "1911"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0056",
+  "question": "Why is Gokhale's compulsory education initiative historically important even though his bill was not enacted?",
+  "options": {
+    "A": "It placed the principle of compulsory elementary education prominently in public and legislative debate",
+    "B": "It immediately created universal secondary education",
+    "C": "It abolished university examinations",
+    "D": "It established the UGC"
+  },
+  "correctAnswer": "A",
+  "explanation": "Gokhale's effort was significant because it advanced the idea that the state had a responsibility to expand compulsory elementary education, even though the proposed legislation was not passed.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Gokhale",
+    "Compulsory Education",
+    "Historical Significance",
+    "Elementary Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0057",
+  "question": "The Calcutta University Commission of 1917-19 is more commonly known as:",
+  "options": {
+    "A": "Sadler Commission",
+    "B": "Hunter Commission",
+    "C": "Raleigh Commission",
+    "D": "Kothari Commission"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Calcutta University Commission was chaired by Michael Ernest Sadler and is commonly known as the Sadler Commission.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Sadler Commission",
+    "Calcutta University Commission",
+    "1917",
+    "Higher Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0058",
+  "question": "Which idea is most closely associated with the Sadler Commission?",
+  "options": {
+    "A": "University reform required attention to the preceding stages of secondary and intermediate education",
+    "B": "Elementary education should be abolished",
+    "C": "All higher education should be conducted only through private institutions",
+    "D": "The 10+2+3 structure should be immediately introduced across India"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Sadler Commission emphasized that university problems could not be considered in isolation from secondary and intermediate education and therefore examined the broader educational structure.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Sadler Commission",
+    "Secondary Education",
+    "University Education",
+    "Educational Structure"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0059",
+  "question": "Which recommendation is commonly associated with the Sadler Commission?",
+  "options": {
+    "A": "Creation of an intermediate stage between school and university",
+    "B": "Immediate abolition of secondary education",
+    "C": "Introduction of Operation Blackboard",
+    "D": "Establishment of Navodaya Vidyalayas"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Sadler Commission recommended reorganization of secondary and university education and supported the development of an intermediate stage before university education.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Sadler Commission",
+    "Intermediate Education",
+    "University Reform",
+    "Colonial Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0060",
+  "question": "Consider the following pairs. 1. Hunter Commission - 1882. 2. Raleigh Commission - 1902. 3. Sadler Commission - 1917. 4. Hartog Committee - 1929. Which pairs are correctly matched?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "All four are correctly matched with their respective years or appointment periods: Hunter 1882, Raleigh 1902, Sadler 1917 and Hartog 1929.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Chronology",
+    "Hunter Commission",
+    "Raleigh Commission",
+    "Sadler Commission",
+    "Hartog Committee"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0061",
+  "question": "The Hartog Committee is especially remembered for drawing attention to:",
+  "options": {
+    "A": "Wastage and stagnation in primary education",
+    "B": "The abolition of all primary schools",
+    "C": "The introduction of English at the pre-primary level",
+    "D": "The creation of the Right to Education Act"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Hartog Committee emphasized problems of wastage and stagnation in primary education and argued for qualitative consolidation rather than mere quantitative expansion.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Hartog Committee",
+    "Wastage",
+    "Stagnation",
+    "Primary Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0062",
+  "question": "A province rapidly increases enrolment in primary schools but finds very high dropout and repetition rates. Which colonial-era committee's concerns would most closely match this situation?",
+  "options": {
+    "A": "Hartog Committee",
+    "B": "Raleigh Commission",
+    "C": "Sadler Commission",
+    "D": "University Education Commission"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Hartog Committee focused strongly on wastage and stagnation in primary education. High dropout and repetition are directly related to these concerns.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Hartog Committee",
+    "Wastage",
+    "Stagnation",
+    "Case Study",
+    "Primary Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0063",
+  "question": "Assertion A: The Hartog Committee did not favour indiscriminate expansion of primary education without attention to quality. Reason R: It was concerned about wastage and stagnation among pupils. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Hartog Committee emphasized consolidation and improvement of quality because it found serious problems of wastage and stagnation in elementary education.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Hartog Committee",
+    "Assertion Reason",
+    "Primary Education",
+    "Quality"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0064",
+  "question": "The Wardha Scheme of Basic Education is most closely associated with which year?",
+  "options": {
+    "A": "1937",
+    "B": "1854",
+    "C": "1882",
+    "D": "1944"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Wardha Conference on Basic Education was held in 1937 and became the basis for the scheme of Basic Education associated with Gandhi's educational ideas.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Wardha Scheme",
+    "1937",
+    "Basic Education",
+    "Gandhian Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0065",
+  "question": "Which principle was central to the Wardha Scheme of Basic Education?",
+  "options": {
+    "A": "Education through a productive craft linked with the learning process",
+    "B": "Education exclusively through textbook memorization",
+    "C": "Complete separation of manual and intellectual work",
+    "D": "Elimination of mother tongue from schooling"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Wardha Scheme emphasized craft-centred education in which a productive activity served as an organizing centre for learning and the integration of intellectual and practical work.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Wardha Scheme",
+    "Basic Education",
+    "Craft Centred Education",
+    "Gandhi"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0066",
+  "question": "A school integrates mathematics, language, science and social learning around a meaningful productive craft rather than teaching the craft as an isolated vocational subject. Which historical educational model does this most closely reflect?",
+  "options": {
+    "A": "Wardha Basic Education",
+    "B": "Downward Filtration",
+    "C": "Hunter Commission",
+    "D": "Macaulay's educational policy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Basic Education envisaged productive craft as the centre around which other areas of the curriculum could be correlated, rather than as a separate manual-training subject.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "Wardha Scheme",
+    "Basic Education",
+    "Correlation",
+    "Case Study"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0067",
+  "question": "Which committee was appointed to work out the details of the Wardha Scheme of Basic Education?",
+  "options": {
+    "A": "Zakir Husain Committee",
+    "B": "Mudaliar Commission",
+    "C": "Radhakrishnan Commission",
+    "D": "Hartog Committee"
+  },
+  "correctAnswer": "A",
+  "explanation": "A committee under Dr. Zakir Husain was appointed to formulate the detailed scheme of Basic Education following the Wardha Conference.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Zakir Husain Committee",
+    "Wardha Scheme",
+    "Basic Education",
+    "1937"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0068",
+  "question": "Which statement most accurately distinguishes Basic Education from a narrow vocational programme?",
+  "options": {
+    "A": "Basic Education used productive work as an educational medium for integrated development rather than merely training pupils for a trade",
+    "B": "Basic Education rejected intellectual learning",
+    "C": "Basic Education was intended only for industrial apprentices",
+    "D": "Basic Education treated craft as unrelated to other school subjects"
+  },
+  "correctAnswer": "A",
+  "explanation": "In Basic Education, productive work was intended to become an educational medium through which intellectual, social, moral and practical development could be integrated. It was not merely job training.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Basic Education",
+    "Wardha Scheme",
+    "Vocational Education",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0069",
+  "question": "The Sargent Plan for educational development in India was published in:",
+  "options": {
+    "A": "1944",
+    "B": "1937",
+    "C": "1929",
+    "D": "1952"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Sargent Report or Sargent Plan was published in 1944 and outlined a long-term plan for the development of education in India.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Sargent Plan",
+    "1944",
+    "Colonial Education",
+    "Educational Planning"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0070",
+  "question": "The Sargent Plan is historically significant because it attempted to:",
+  "options": {
+    "A": "Present a comprehensive long-term programme for educational development",
+    "B": "Abolish all elementary schools",
+    "C": "Replace all universities with Gurukulas",
+    "D": "End teacher training programmes"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Sargent Plan proposed a comprehensive framework for educational development, including pre-primary, basic, secondary, university and teacher education, though its time frame and financial feasibility were criticized.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Sargent Plan",
+    "Educational Planning",
+    "1944",
+    "Colonial Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0071",
+  "question": "Which sequence is chronologically correct?",
+  "options": {
+    "A": "Hunter Commission - Raleigh Commission - Sadler Commission - Hartog Committee - Wardha Scheme - Sargent Plan",
+    "B": "Raleigh Commission - Hunter Commission - Hartog Committee - Sadler Commission - Sargent Plan - Wardha Scheme",
+    "C": "Hunter Commission - Sadler Commission - Raleigh Commission - Wardha Scheme - Hartog Committee - Sargent Plan",
+    "D": "Sadler Commission - Hunter Commission - Raleigh Commission - Hartog Committee - Wardha Scheme - Sargent Plan"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct broad chronology is Hunter Commission 1882, Raleigh Commission 1902, Sadler Commission 1917-19, Hartog Committee 1929, Wardha Scheme 1937 and Sargent Plan 1944.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Chronology",
+    "Colonial Education",
+    "Commissions",
+    "Educational History"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0072",
+  "question": "Consider the following developments. 1. Increased state regulation of universities. 2. Concern over wastage and stagnation in primary education. 3. Craft-centred Basic Education. 4. Comprehensive long-term planning for educational development. Which sequence correctly matches these with their historical landmarks?",
+  "options": {
+    "A": "Indian Universities Act 1904 - Hartog Committee - Wardha Scheme - Sargent Plan",
+    "B": "Hunter Commission - Sadler Commission - Macaulay's Minute - Wood's Despatch",
+    "C": "Sadler Commission - Hunter Commission - Sargent Plan - Wardha Scheme",
+    "D": "Wood's Despatch - Raleigh Commission - Hartog Committee - Gokhale Bill"
+  },
+  "correctAnswer": "A",
+  "explanation": "University regulation is associated with the 1904 Act, wastage and stagnation with Hartog, craft-centred learning with Wardha Basic Education and comprehensive planning with the Sargent Plan.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Matching",
+    "Indian Universities Act",
+    "Hartog Committee",
+    "Wardha Scheme",
+    "Sargent Plan"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0073",
+  "question": "Which statement best captures a major limitation of colonial educational policy in India?",
+  "options": {
+    "A": "Expansion of education often remained limited and unequal relative to the needs of the mass population",
+    "B": "Universal free education was achieved by the middle of the nineteenth century",
+    "C": "All indigenous educational traditions were fully incorporated into state policy",
+    "D": "Colonial education completely eliminated social inequalities in access"
+  },
+  "correctAnswer": "A",
+  "explanation": "Despite important institutional developments, access remained limited and unequal for large sections of the population. Universal free and compulsory education was not achieved during colonial rule.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Colonial Education",
+    "Educational Access",
+    "Equity",
+    "Historical Evaluation"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0074",
+  "question": "Which comparison is most accurate?",
+  "options": {
+    "A": "Macaulay emphasized English-oriented Western learning, while Gandhi's Basic Education emphasized productive work linked with life and the community",
+    "B": "Macaulay and Gandhi both advocated identical educational aims and methods",
+    "C": "Macaulay promoted craft-centred mother-tongue education, while Gandhi promoted downward filtration",
+    "D": "Both rejected any relationship between education and social life"
+  },
+  "correctAnswer": "A",
+  "explanation": "Macaulay's policy position strongly favoured Western knowledge through English, whereas Gandhi's Basic Education sought education rooted in productive activity, social life, self-reliance and the learner's environment.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Macaulay",
+    "Gandhi",
+    "Basic Education",
+    "Comparative Education",
+    "Colonial Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0075",
+  "question": "A Dy.E.O. is asked to explain why the study of colonial educational commissions remains relevant for contemporary administration. Which response is most appropriate?",
+  "options": {
+    "A": "They reveal how recurring issues such as access, quality, governance, teacher preparation and educational structure evolved historically",
+    "B": "They are relevant only for memorizing dates and chairpersons",
+    "C": "They have no connection with the development of later educational policy",
+    "D": "Their recommendations were all identical and therefore require no comparative analysis"
+  },
+  "correctAnswer": "A",
+  "explanation": "Historical commissions help administrators understand the evolution of persistent policy concerns such as access, quality, governance, institutional structure and teacher education. Their value goes beyond memorization of dates.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "DyEO Scenario",
+    "Educational Administration",
+    "Colonial Commissions",
+    "Historical Perspective"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0076",
+  "question": "Which commission was appointed soon after Independence to examine university education in India?",
+  "options": {
+    "A": "University Education Commission",
+    "B": "Secondary Education Commission",
+    "C": "Kothari Commission",
+    "D": "Hunter Commission"
+  },
+  "correctAnswer": "A",
+  "explanation": "The University Education Commission was appointed in 1948 under the chairmanship of Dr. S. Radhakrishnan to examine university education in independent India.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "University Education Commission",
+    "Radhakrishnan Commission",
+    "1948",
+    "Post Independence Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0077",
+  "question": "The University Education Commission of 1948-49 was chaired by:",
+  "options": {
+    "A": "Dr. S. Radhakrishnan",
+    "B": "Dr. A. Lakshmanaswami Mudaliar",
+    "C": "Dr. D. S. Kothari",
+    "D": "Dr. Zakir Husain"
+  },
+  "correctAnswer": "A",
+  "explanation": "Dr. S. Radhakrishnan chaired the University Education Commission appointed in 1948.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Radhakrishnan Commission",
+    "University Education",
+    "1948-49",
+    "Chairperson"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0078",
+  "question": "Which concern was central to the University Education Commission of 1948-49?",
+  "options": {
+    "A": "Improving the aims, standards and organization of university education in independent India",
+    "B": "Introducing compulsory primary education under the RTE Act",
+    "C": "Replacing universities with craft schools",
+    "D": "Abolishing higher education"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Radhakrishnan Commission examined university education in the new national context and addressed aims, standards, organization, teaching, research and the role of universities.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "University Education Commission",
+    "Higher Education",
+    "Post Colonial Education",
+    "Educational Reform"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0079",
+  "question": "Which commission examined secondary education in India during 1952-53?",
+  "options": {
+    "A": "Mudaliar Commission",
+    "B": "Radhakrishnan Commission",
+    "C": "Kothari Commission",
+    "D": "Hartog Committee"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Secondary Education Commission of 1952-53 was chaired by Dr. A. Lakshmanaswami Mudaliar and is commonly known as the Mudaliar Commission.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Mudaliar Commission",
+    "Secondary Education Commission",
+    "1952-53",
+    "Post Independence Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0080",
+  "question": "Which aim was strongly associated with the Secondary Education Commission of 1952-53?",
+  "options": {
+    "A": "Diversification of secondary education according to learners' needs and abilities",
+    "B": "Elimination of secondary education",
+    "C": "Restriction of all secondary schools to classical studies",
+    "D": "Introduction of the RTE Act"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Mudaliar Commission emphasized diversification of the secondary curriculum, development of democratic citizenship, vocational efficiency and improvement of personality.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Mudaliar Commission",
+    "Secondary Education",
+    "Diversification",
+    "Educational Aims"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0081",
+  "question": "The Education Commission of 1964-66 is popularly known as:",
+  "options": {
+    "A": "Kothari Commission",
+    "B": "Mudaliar Commission",
+    "C": "Radhakrishnan Commission",
+    "D": "Sadler Commission"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Education Commission of 1964-66 was chaired by Dr. D. S. Kothari and is widely known as the Kothari Commission.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Kothari Commission",
+    "Education Commission 1964-66",
+    "Post Independence Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0082",
+  "question": "Which statement best reflects the broad significance of the Kothari Commission?",
+  "options": {
+    "A": "It examined the entire educational system and linked education with national development",
+    "B": "It dealt only with university examinations",
+    "C": "It was confined exclusively to pre-primary education",
+    "D": "It focused only on religious instruction"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Kothari Commission examined the educational system comprehensively and emphasized education as an instrument of national development, social transformation, productivity and equality.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "Kothari Commission",
+    "National Development",
+    "Comprehensive Education",
+    "1964-66"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0083",
+  "question": "Which structural recommendation is strongly associated with the Kothari Commission?",
+  "options": {
+    "A": "10+2+3 pattern",
+    "B": "8+4 pattern only",
+    "C": "Complete abolition of secondary education",
+    "D": "University education beginning after Class VIII"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Kothari Commission recommended a broadly uniform educational structure that came to be represented as the 10+2+3 pattern.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Kothari Commission",
+    "10+2+3",
+    "Educational Structure",
+    "1964-66"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0084",
+  "question": "Assertion A: The Kothari Commission emphasized equality of educational opportunity. Reason R: It regarded education as an important instrument for social transformation and national development. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Commission connected equality of educational opportunity with wider goals of social justice, modernization, productivity and national development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Kothari Commission",
+    "Equality of Opportunity",
+    "Assertion Reason",
+    "National Development"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0085",
+  "question": "The first National Policy on Education in independent India was adopted in:",
+  "options": {
+    "A": "1968",
+    "B": "1952",
+    "C": "1986",
+    "D": "1992"
+  },
+  "correctAnswer": "A",
+  "explanation": "India's first National Policy on Education was adopted in 1968, drawing significantly on the recommendations of the Kothari Commission.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "NPE 1968",
+    "National Policy on Education",
+    "Post Independence Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0086",
+  "question": "Which development is most appropriately associated with the National Policy on Education 1968?",
+  "options": {
+    "A": "Emphasis on a common educational structure, national integration and development of Indian languages",
+    "B": "Introduction of the Right to Education Act",
+    "C": "Abolition of science education",
+    "D": "Replacement of all schools by universities"
+  },
+  "correctAnswer": "A",
+  "explanation": "NPE 1968 emphasized national integration, educational expansion and quality, development of languages, science education and a broadly common educational structure.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "NPE 1968",
+    "National Integration",
+    "Language Policy",
+    "Educational Structure"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0087",
+  "question": "The National Policy on Education 1986 placed particular emphasis on:",
+  "options": {
+    "A": "Equality, universalization, women's education and improvement of educational quality",
+    "B": "Restricting elementary education to urban areas",
+    "C": "Ending all forms of teacher education",
+    "D": "Eliminating educational technology"
+  },
+  "correctAnswer": "A",
+  "explanation": "NPE 1986 emphasized universal access and retention, equality, women's education, education of disadvantaged groups, teacher education, educational technology and quality improvement.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": [
+    "NPE 1986",
+    "Equality",
+    "Universalization",
+    "Women's Education",
+    "Quality"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0088",
+  "question": "Which programme is especially associated with the implementation environment of the National Policy on Education 1986 and aimed at improving minimum facilities in primary schools?",
+  "options": {
+    "A": "Operation Blackboard",
+    "B": "Downward Filtration",
+    "C": "Wardha Scheme",
+    "D": "Macaulay's Minute"
+  },
+  "correctAnswer": "A",
+  "explanation": "Operation Blackboard was launched in the context of NPE 1986 to improve minimum essential facilities in primary schools, including classrooms, teachers and teaching-learning materials.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "Operation Blackboard",
+    "NPE 1986",
+    "Primary Education",
+    "School Facilities"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0089",
+  "question": "The Programme of Action associated with the revised National Policy on Education is particularly linked with:",
+  "options": {
+    "A": "1992",
+    "B": "1813",
+    "C": "1904",
+    "D": "1937"
+  },
+  "correctAnswer": "A",
+  "explanation": "The National Policy on Education 1986 was modified in 1992, accompanied by a revised Programme of Action.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": [
+    "NPE 1992",
+    "Programme of Action",
+    "Education Policy",
+    "Post Independence Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0090",
+  "question": "Which chronology is correct?",
+  "options": {
+    "A": "University Education Commission - Secondary Education Commission - Kothari Commission - NPE 1968 - NPE 1986",
+    "B": "Kothari Commission - University Education Commission - NPE 1986 - Secondary Education Commission - NPE 1968",
+    "C": "Secondary Education Commission - University Education Commission - NPE 1968 - Kothari Commission - NPE 1986",
+    "D": "University Education Commission - Kothari Commission - Secondary Education Commission - NPE 1986 - NPE 1968"
+  },
+  "correctAnswer": "A",
+  "explanation": "The broad chronology is University Education Commission 1948-49, Secondary Education Commission 1952-53, Kothari Commission 1964-66, NPE 1968 and NPE 1986.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Chronology",
+    "Radhakrishnan Commission",
+    "Mudaliar Commission",
+    "Kothari Commission",
+    "NPE"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0091",
+  "question": "Which comparison most accurately distinguishes colonial and post-colonial educational priorities in India?",
+  "options": {
+    "A": "Post-colonial policy increasingly emphasized universalization, equality and nation-building to a greater extent than colonial policy",
+    "B": "Colonial and post-colonial policies were identical in aims and social context",
+    "C": "Post-colonial education abandoned all concerns about access",
+    "D": "Colonial policy had already achieved universal and equitable schooling"
+  },
+  "correctAnswer": "A",
+  "explanation": "Independent India's educational planning placed much stronger emphasis on universal access, equality, social justice, democracy, national development and expansion of education than colonial policy had achieved.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Colonial Education",
+    "Post Colonial Education",
+    "Comparative Education",
+    "Equity",
+    "Nation Building"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0092",
+  "question": "A district educational plan gives first priority to universal enrolment, retention of disadvantaged learners, gender equity and minimum school facilities. Which broad post-independence shift does this most clearly illustrate?",
+  "options": {
+    "A": "Movement toward universalization and equity in education",
+    "B": "Revival of downward filtration",
+    "C": "Return to exclusive elite education",
+    "D": "Restriction of education to university students"
+  },
+  "correctAnswer": "A",
+  "explanation": "Post-independence educational policy increasingly treated universal access, retention, equality and facilities as major public responsibilities rather than relying on elite-focused expansion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": [
+    "DyEO Scenario",
+    "Universalization",
+    "Equity",
+    "Post Independence Education"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0093",
+  "question": "Which statement best captures the historical movement from Gokhale's compulsory education proposal to later constitutional and policy developments?",
+  "options": {
+    "A": "The idea of state responsibility for elementary education gradually became stronger and more institutionalized",
+    "B": "The idea of compulsory education disappeared completely after Gokhale",
+    "C": "Education became progressively less connected with public responsibility",
+    "D": "Independent India rejected universal elementary education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Gokhale's unsuccessful legislative effort was an early milestone in a longer historical movement toward stronger state responsibility, universalization and eventually enforceable educational rights.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Gokhale",
+    "Compulsory Education",
+    "Universalization",
+    "Historical Development"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0094",
+  "question": "Consider the following statements. 1. Radhakrishnan Commission focused primarily on university education. 2. Mudaliar Commission focused on secondary education. 3. Kothari Commission examined education comprehensively. 4. NPE 1968 preceded the Kothari Commission. Which statements are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is incorrect because the Kothari Commission 1964-66 preceded and strongly influenced NPE 1968.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Statement Based",
+    "Radhakrishnan Commission",
+    "Mudaliar Commission",
+    "Kothari Commission",
+    "NPE 1968"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0095",
+  "question": "Which historical interpretation is most appropriate regarding educational commissions in India?",
+  "options": {
+    "A": "They represent a continuing process through which recurring educational problems were studied and policy responses developed",
+    "B": "Every commission dealt with exactly the same educational level",
+    "C": "Their recommendations had no influence on subsequent educational development",
+    "D": "They are relevant only as isolated lists of dates"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational commissions reflect an evolving policy process. Different commissions addressed different levels and problems, and many influenced later educational structures, policies and administrative practices.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Educational Commissions",
+    "Historical Interpretation",
+    "Policy Development",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0096",
+  "question": "A policy analyst traces the following sequence: elite-oriented colonial provision, gradual expansion of elementary education, national planning, equality of opportunity and eventual rights-based schooling. What is the analyst primarily studying?",
+  "options": {
+    "A": "The historical evolution of educational access and state responsibility",
+    "B": "Only the history of university examinations",
+    "C": "Only ancient monastic education",
+    "D": "Only methods of classroom teaching"
+  },
+  "correctAnswer": "A",
+  "explanation": "The sequence traces changing ideas about who should receive education and how strongly the state should guarantee access, making it a study of educational access and public responsibility over time.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Educational Access",
+    "State Responsibility",
+    "Historical Evolution",
+    "Policy Analysis"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0097",
+  "question": "Which pair best represents a contrast in educational philosophy across historical periods?",
+  "options": {
+    "A": "Downward filtration - selective elite expansion; universalization - broad access to education",
+    "B": "Gurukula - standardized online testing; Nalanda - distance learning platform",
+    "C": "Wardha Scheme - rejection of productive work; NPE 1986 - rejection of equity",
+    "D": "Kothari Commission - opposition to national development; Macaulay - universal compulsory education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Downward filtration reflected a selective elite-first approach, while universalization reflects the principle that education should progressively reach all sections of the population.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": [
+    "Downward Filtration",
+    "Universalization",
+    "Comparative Education",
+    "Historical Perspective"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0098",
+  "question": "Which conclusion is most appropriate when studying the movement from ancient Gurukula and monastic institutions to modern state-regulated educational systems?",
+  "options": {
+    "A": "Educational institutions changed in organization, scale and governance while continuing to address questions of knowledge, values and social purpose",
+    "B": "Every historical period had identical institutions and administrative structures",
+    "C": "Modern education has no historical relationship with earlier educational concerns",
+    "D": "The only meaningful historical change was the use of different school buildings"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational history shows major changes in organization, scale, curriculum, governance and access, but enduring questions concerning knowledge, values, teachers, learners and social purposes remain visible across periods.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "Historical Perspective",
+    "Institutional Change",
+    "Ancient Education",
+    "Modern Education",
+    "Analytical"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0099",
+  "question": "A Dy.E.O. uses historical evidence to compare an elite-focused educational policy with a district programme designed for universal access. Which competency is being demonstrated most directly?",
+  "options": {
+    "A": "Historical-policy analysis for educational administration",
+    "B": "Mechanical recall without application",
+    "C": "Avoidance of evidence in decision-making",
+    "D": "Replacement of educational planning by tradition alone"
+  },
+  "correctAnswer": "A",
+  "explanation": "Using historical evidence to interpret present policy alternatives demonstrates analytical application of educational history to administration and decision-making.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "DyEO Scenario",
+    "Policy Analysis",
+    "Educational Administration",
+    "Historical Perspective"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-HP-0100",
+  "question": "Which statement best summarizes the study of education in historical perspective for a Deputy Educational Officer?",
+  "options": {
+    "A": "It helps explain how present educational institutions, policies and administrative priorities emerged from earlier ideas, conflicts and reforms",
+    "B": "It is limited to memorizing names and dates of ancient universities",
+    "C": "It has no relevance to contemporary educational leadership",
+    "D": "It requires treating every historical recommendation as suitable for present conditions"
+  },
+  "correctAnswer": "A",
+  "explanation": "Historical perspective enables an educational administrator to understand the origins and evolution of current structures, policy priorities and recurring problems. It supports informed interpretation rather than mere memorization.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": [
+    "DyEO",
+    "Historical Perspective",
+    "Educational Administration",
+    "Final Integration",
+    "Policy History"
+  ],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}

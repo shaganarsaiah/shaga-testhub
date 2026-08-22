@@ -16,6 +16,7 @@ const repository = {
         ],
 
         "Educational Philosophy": [
+            "Historical Perspective",
             "Religious Implications",
             "Epistemological Foundations",
             "Educational Thinkers"

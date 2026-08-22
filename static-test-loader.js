@@ -72,6 +72,9 @@
 
 
         /* Educational Philosophy */
+        
+        "Historical Perspective":
+            "question-bank/subjects/educational-philosophy/historical-perspective.json",
 
         "Religious Implications":
             "question-bank/subjects/educational-philosophy/religious-implications.json",
