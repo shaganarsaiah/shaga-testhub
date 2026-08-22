@@ -86,7 +86,12 @@
             "question-bank/subjects/educational-philosophy/educational-thinkers.json",
             
         "Education and Values":
-            "question-bank/subjects/educational-philosophy/education-values.json"
+            "question-bank/subjects/educational-philosophy/education-values.json",
+            
+        "Education and Society":
+            "question-bank/subjects/educational-sociology/education-society.json",
+        "Social Change and Education":
+            "question-bank/subjects/educational-sociology/social-change.json"
     
 
     };

@@ -1,0 +1,2414 @@
+{
+  "metadata": {
+    "subject": "Educational Sociology",
+    "unit": "Paper II-A Unit IV.1",
+    "chapter": "Culture, Socialisation, Modernity and Education",
+    "topic": "Culture, Socialisation, Modernity, Equality, Equity, Diversity, Plurality, Inclusion and Civic Education",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Dy.E.O. Standard - Difficult to Very Difficult",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "SHAGA GOLD",
+    "questionIdPrefix": "FOE-ES"
+  },
+  "questions": [
+    {
+      "id": "FOE-ES-0001",
+      "question": "Which statement best describes culture in the context of education?",
+      "options": {
+        "A": "Culture consists only of fine arts and literature",
+        "B": "Culture includes shared beliefs, values, norms, knowledge, practices and ways of life transmitted across generations",
+        "C": "Culture is entirely biological and inherited genetically",
+        "D": "Culture has no influence on schooling"
+      },
+      "correctAnswer": "B",
+      "explanation": "Culture is a broad social concept that includes shared beliefs, values, norms, symbols, knowledge, customs and practices. Education is one of the important means through which culture is transmitted and critically examined.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Culture", "Education", "Sociology of Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0002",
+      "question": "A school teaches local history, language, customs and community knowledge while also encouraging students to critically examine discriminatory practices. This best illustrates education as:",
+      "options": {
+        "A": "Only a transmitter of culture",
+        "B": "Only an instrument of social control",
+        "C": "Both a transmitter and a transformer of culture",
+        "D": "An institution completely detached from culture"
+      },
+      "correctAnswer": "C",
+      "explanation": "Education may preserve and transmit valued cultural heritage while also enabling critical examination and transformation of practices that conflict with democratic and constitutional values.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Culture", "Cultural Transmission", "Social Change"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0003",
+      "question": "Which process refers to the way individuals learn the norms, values, roles and behaviour expected in society?",
+      "options": {
+        "A": "Socialisation",
+        "B": "Privatisation",
+        "C": "Industrialisation",
+        "D": "Certification"
+      },
+      "correctAnswer": "A",
+      "explanation": "Socialisation is the process through which individuals learn and internalise the norms, values, roles and patterns of behaviour of their society.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Remember",
+      "tags": ["Socialisation", "Society", "Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0004",
+      "question": "Which of the following is generally considered a primary agency of socialisation?",
+      "options": {
+        "A": "Family",
+        "B": "Stock exchange",
+        "C": "Judiciary alone",
+        "D": "Meteorological department"
+      },
+      "correctAnswer": "A",
+      "explanation": "The family is generally regarded as a major primary agency of socialisation because early language, attitudes, habits, roles and values are commonly learned within it.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Socialisation", "Family", "Agencies of Socialisation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0005",
+      "question": "Assertion A: Schools are important agencies of socialisation. Reason R: Schools transmit not only academic knowledge but also norms, roles, expectations and patterns of interaction. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Schools influence socialisation through curriculum, peer relations, teacher expectations, discipline, cooperation, competition and institutional culture.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Socialisation", "School", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0006",
+      "question": "A child learns cooperation, turn-taking and group norms mainly through interaction with classmates. Which agency of socialisation is most directly involved?",
+      "options": {
+        "A": "Peer group",
+        "B": "Legislature",
+        "C": "Market system",
+        "D": "Examination board"
+      },
+      "correctAnswer": "A",
+      "explanation": "Peer groups are important agencies of socialisation, particularly for cooperation, group identity, communication, acceptance and role learning.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Peer Group", "Socialisation", "School"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0007",
+      "question": "Which statement best describes modernity in relation to education?",
+      "options": {
+        "A": "It necessarily means rejection of all traditions",
+        "B": "It is associated with processes such as rationalisation, scientific outlook, individual rights, institutional change and new forms of social organisation",
+        "C": "It means only the use of modern buildings",
+        "D": "It is unrelated to social change"
+      },
+      "correctAnswer": "B",
+      "explanation": "Modernity is associated with broad social transformations involving rationality, science, individual rights, institutional differentiation and changing social relationships.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Modernity", "Education", "Social Change"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0008",
+      "question": "A curriculum encourages scientific temper, critical inquiry and questioning of unsupported claims while respecting cultural diversity. Which aspect of modernity is most clearly reflected?",
+      "options": {
+        "A": "Rational and critical orientation",
+        "B": "Blind traditionalism",
+        "C": "Social exclusion",
+        "D": "Hereditary privilege"
+      },
+      "correctAnswer": "A",
+      "explanation": "Scientific temper, critical inquiry and evidence-based reasoning are important features associated with rational and modern educational orientations.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Modernity", "Scientific Temper", "Critical Thinking"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0009",
+      "question": "Which statement best distinguishes equality from equity in education?",
+      "options": {
+        "A": "Equality and equity always mean identical treatment",
+        "B": "Equality concerns equal status or opportunity, whereas equity may require differentiated support to achieve fairness",
+        "C": "Equity means favouring high achievers",
+        "D": "Equality requires ignoring disadvantage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Equality emphasizes equal rights, status or opportunity, while equity focuses on fairness and may require different forms of support according to need or disadvantage.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Equality", "Equity", "Educational Opportunity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0010",
+      "question": "A school provides assistive technology to a learner with a visual impairment while other students do not require such support. This is best understood as:",
+      "options": {
+        "A": "Inequality",
+        "B": "Equity",
+        "C": "Favoritism",
+        "D": "Segregation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Equity may require differentiated support so that learners with different needs can participate fairly and meaningfully in education.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Equity", "Disability", "Inclusion"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0011",
+      "question": "Consider the following statements: 1. Equality requires non-discrimination. 2. Equity may require additional support for disadvantaged learners. 3. Equality necessarily means identical educational inputs for every learner. 4. Equity is concerned with fairness. Which statements are correct?",
+      "options": {
+        "A": "1 and 3 only",
+        "B": "1, 2 and 4 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Equality supports non-discrimination, while equity focuses on fairness and may require differentiated support. Identical inputs are not always equitable.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Equality", "Equity", "Statement Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0012",
+      "question": "Which statement best reflects diversity in education?",
+      "options": {
+        "A": "Differences among learners should be treated as deficiencies",
+        "B": "Learners may differ in language, culture, gender, ability, socioeconomic background and experience",
+        "C": "Diversity exists only between nations",
+        "D": "Diversity should be removed through compulsory uniformity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Educational diversity includes differences in cultural, linguistic, socioeconomic, gender, ability and experiential backgrounds among learners.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Diversity", "Learner Differences", "Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0013",
+      "question": "A school allows students from different linguistic and cultural backgrounds to contribute examples from their own communities during lessons. Which principle is most strongly promoted?",
+      "options": {
+        "A": "Recognition of diversity",
+        "B": "Cultural suppression",
+        "C": "Standardised exclusion",
+        "D": "Social isolation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Recognising and incorporating different cultural and linguistic experiences validates diversity and can make learning more inclusive and meaningful.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Diversity", "Culture", "Inclusive Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0014",
+      "question": "Plurality in education most appropriately refers to:",
+      "options": {
+        "A": "Recognition and coexistence of multiple identities, perspectives and traditions",
+        "B": "Enforcement of one cultural identity on all learners",
+        "C": "Elimination of disagreement",
+        "D": "Separation of communities from one another"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plurality acknowledges the presence and legitimacy of multiple identities, traditions, perspectives and ways of life within society.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Plurality", "Diversity", "Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0015",
+      "question": "Assertion A: Plurality and national unity are not necessarily contradictory. Reason R: A democratic society can promote common citizenship while respecting multiple cultural and social identities. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plural societies can sustain common citizenship while respecting cultural and social differences, provided equality, dignity and democratic rights are protected.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Plurality", "Citizenship", "National Unity", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0016",
+      "question": "Which school practice is most consistent with inclusion?",
+      "options": {
+        "A": "Educating learners together while providing necessary support for participation and learning",
+        "B": "Separating all learners who need additional support",
+        "C": "Expecting every learner to learn in exactly the same way",
+        "D": "Restricting participation to high achievers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inclusion seeks meaningful participation of all learners in common educational settings while providing appropriate support according to individual needs.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Inclusion", "Equity", "Participation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0017",
+      "question": "A principal says, 'All children are admitted, so our school is inclusive.' Which criticism is most appropriate?",
+      "options": {
+        "A": "Admission alone does not guarantee meaningful participation, learning, accessibility and belonging",
+        "B": "Admission automatically guarantees inclusion",
+        "C": "Inclusion concerns only physical disability",
+        "D": "Inclusion is unrelated to school culture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inclusion extends beyond access or admission. It also concerns participation, support, belonging, achievement and removal of barriers to learning.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Inclusion", "Access", "Participation", "School Leadership"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0018",
+      "question": "Which statement best describes civic education?",
+      "options": {
+        "A": "Education that prepares learners for informed, responsible and democratic participation in public life",
+        "B": "Training learners only for examinations",
+        "C": "Teaching obedience without understanding rights or duties",
+        "D": "Education restricted to municipal administration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Civic education develops knowledge, skills, values and dispositions needed for responsible citizenship and democratic participation.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Civic Education", "Citizenship", "Democracy"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0019",
+      "question": "Which activity would most strongly promote civic education?",
+      "options": {
+        "A": "Students identify a local public problem, discuss possible solutions and make a reasoned representation to the appropriate authority",
+        "B": "Students memorise ten slogans without discussion",
+        "C": "Students are forbidden from discussing community issues",
+        "D": "Only the teacher is allowed to express opinions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Civic education is strengthened when students engage with public issues through informed discussion, responsibility and democratic participation.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Civic Education", "Participation", "Community"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0020",
+      "question": "Which combination is most closely associated with responsible citizenship?",
+      "options": {
+        "A": "Rights, duties, participation and respect for others",
+        "B": "Rights without duties or responsibility",
+        "C": "Obedience without participation",
+        "D": "Privilege without accountability"
+      },
+      "correctAnswer": "A",
+      "explanation": "Responsible citizenship involves awareness of rights and duties, democratic participation, respect for others and accountability in public life.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Citizenship", "Rights", "Duties", "Civic Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0021",
+      "question": "Consider the following characteristics of an inclusive school: 1. Barrier-free participation 2. Respect for diversity 3. Appropriate learner support 4. Exclusion of students who learn differently. Which are correct?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "An inclusive school seeks to remove barriers, respect diversity and provide appropriate support. Exclusion contradicts inclusion.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Inclusion", "Diversity", "Statement Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0022",
+      "question": "A school provides the same printed textbook to all students, including a visually impaired student who cannot access it. Which principle is most clearly neglected?",
+      "options": {
+        "A": "Equity",
+        "B": "Competition",
+        "C": "Uniformity",
+        "D": "Certification"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal provision is not necessarily equitable. Equity requires accessible forms of support so that different learners can participate meaningfully.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Equity", "Accessibility", "Inclusion"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0023",
+      "question": "Which statement best describes the relationship between socialisation and education?",
+      "options": {
+        "A": "Education is one important process through which socialisation occurs",
+        "B": "Education begins only after socialisation ends",
+        "C": "Socialisation occurs only in schools",
+        "D": "Education and socialisation are completely unrelated"
+      },
+      "correctAnswer": "A",
+      "explanation": "Education contributes to socialisation, but socialisation also occurs through family, peers, community, media and other social institutions.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Socialisation", "Education", "Agencies"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0024",
+      "question": "A school insists that children from minority cultural groups abandon their language and customs in order to be considered successful. This approach is most inconsistent with:",
+      "options": {
+        "A": "Plurality and respect for diversity",
+        "B": "Cultural domination",
+        "C": "Assimilation",
+        "D": "Uniformity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plurality and respect for diversity require recognition of multiple identities and cultures rather than compulsory abandonment of minority identities.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Plurality", "Diversity", "Culture"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-ES-0025",
+      "question": "A Dy.E.O. observes that a school formally admits children from all backgrounds, but students from disadvantaged communities rarely participate in leadership activities and are frequently ignored in classroom discussion. What is the most appropriate conclusion?",
+      "options": {
+        "A": "The school has achieved full inclusion because admission is open",
+        "B": "There is a gap between formal access and meaningful inclusion",
+        "C": "Participation is unrelated to inclusion",
+        "D": "The school should restrict admission further"
+      },
+      "correctAnswer": "B",
+      "explanation": "Meaningful inclusion requires participation, belonging, voice and opportunity in addition to formal access. The scenario shows that admission alone has not eliminated social barriers.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["DyEO Scenario", "Inclusion", "Equity", "Participation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },{
+  "id": "FOE-ES-0026",
+  "question": "Which situation best demonstrates cultural lag in education?",
+  "options": {
+    "A": "Technological tools change rapidly while school norms and practices adjust much more slowly",
+    "B": "All aspects of culture change at exactly the same rate",
+    "C": "Schools immediately adopt every social change without reflection",
+    "D": "Cultural practices never influence education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Cultural lag refers to the situation in which some parts of culture, especially material or technological aspects, change faster than related norms, institutions or practices.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Culture", "Cultural Lag", "Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0027",
+  "question": "A school introduces digital learning platforms, but many teachers continue to use only old lecture methods and do not adapt pedagogy. This is best interpreted as:",
+  "options": {
+    "A": "Cultural lag between technological change and institutional practice",
+    "B": "Complete cultural integration",
+    "C": "Equity in education",
+    "D": "Civic participation"
+  },
+  "correctAnswer": "A",
+  "explanation": "When technological change occurs faster than changes in attitudes, pedagogy or institutional behaviour, it illustrates cultural lag.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Cultural Lag", "Technology", "School Change"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0028",
+  "question": "Which statement best describes acculturation?",
+  "options": {
+    "A": "Cultural change resulting from sustained contact between different cultural groups",
+    "B": "Complete absence of cultural interaction",
+    "C": "Biological inheritance of social behaviour",
+    "D": "Removal of all cultural differences by law"
+  },
+  "correctAnswer": "A",
+  "explanation": "Acculturation involves cultural changes that arise when individuals or groups from different cultural backgrounds come into sustained contact.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Acculturation", "Culture", "Socialisation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0029",
+  "question": "Which of the following best distinguishes socialisation from education?",
+  "options": {
+    "A": "Socialisation is broader and occurs through many agencies, whereas education may be formal, non-formal or informal",
+    "B": "Socialisation takes place only in schools",
+    "C": "Education has no role in socialisation",
+    "D": "Both terms are always identical in meaning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Socialisation is a broad lifelong process involving family, peers, school, media and community. Education is one major process through which knowledge, skills and values may be transmitted and developed.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Socialisation", "Education", "Agencies"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0030",
+  "question": "Assertion A: Socialisation continues throughout life. Reason R: Individuals encounter new roles, institutions and expectations at different stages of life. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Socialisation is lifelong because people continuously learn and adjust to new social roles, relationships and institutional expectations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Socialisation", "Life Span", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0031",
+  "question": "Which example best illustrates anticipatory socialisation?",
+  "options": {
+    "A": "A student begins adopting the behaviour and responsibilities expected of a future teacher",
+    "B": "A child forgets all previously learned social roles",
+    "C": "A learner refuses to observe any social norm",
+    "D": "A student learns only through punishment"
+  },
+  "correctAnswer": "A",
+  "explanation": "Anticipatory socialisation occurs when individuals begin learning the norms and behaviour associated with a role they expect to occupy in the future.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Socialisation", "Anticipatory Socialisation", "Roles"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0032",
+  "question": "Which statement best explains resocialisation?",
+  "options": {
+    "A": "Learning new norms and behaviour that replace or substantially modify earlier patterns",
+    "B": "Learning one's first language in infancy",
+    "C": "Preserving every existing social habit unchanged",
+    "D": "Avoiding all institutional influence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Resocialisation involves learning new norms, roles or patterns that replace or significantly alter previously learned behaviour.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Resocialisation", "Socialisation", "Social Roles"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0033",
+  "question": "A school that requires all children to follow identical methods regardless of language, disability, culture or learning need is most likely confusing:",
+  "options": {
+    "A": "Equality with uniformity",
+    "B": "Equity with fairness",
+    "C": "Diversity with plurality",
+    "D": "Inclusion with participation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equality does not necessarily require identical treatment. Uniformity may ignore genuine differences and barriers among learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Equality", "Uniformity", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0034",
+  "question": "Which principle is most directly reflected when additional academic support is provided to first-generation learners so that they can compete fairly?",
+  "options": {
+    "A": "Equity",
+    "B": "Segregation",
+    "C": "Cultural domination",
+    "D": "Merit exclusion"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equity recognises unequal starting conditions and may require additional support to create fair educational opportunities.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Equity", "Educational Opportunity", "First Generation Learners"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0035",
+  "question": "Consider the following barriers to educational inclusion: 1. Inaccessible buildings 2. Discriminatory attitudes 3. Inflexible curriculum 4. Appropriate assistive support. Which are barriers?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Physical inaccessibility, discrimination and inflexible curriculum can create barriers. Appropriate assistive support helps remove barriers rather than create them.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inclusion", "Barriers", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0036",
+  "question": "Which statement best captures the social model of educational exclusion?",
+  "options": {
+    "A": "Exclusion may arise from barriers created by institutions, attitudes and environments rather than only from individual characteristics",
+    "B": "All educational difficulties arise solely from the learner",
+    "C": "Institutional practices have no effect on participation",
+    "D": "Exclusion is always unavoidable"
+  },
+  "correctAnswer": "A",
+  "explanation": "A social perspective emphasises that environments, institutional arrangements and social attitudes can create barriers that exclude learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Inclusion", "Exclusion", "Social Model"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0037",
+  "question": "A school redesigns assessment so that learners can demonstrate achievement through suitable accessible formats while maintaining the same learning standards. This is most consistent with:",
+  "options": {
+    "A": "Equity and inclusion",
+    "B": "Lowering standards for all learners",
+    "C": "Segregation",
+    "D": "Eliminating assessment"
+  },
+  "correctAnswer": "A",
+  "explanation": "Accessible assessment can promote equity by reducing irrelevant barriers while preserving legitimate learning expectations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Equity", "Inclusion", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0038",
+  "question": "Which statement about cultural diversity in schools is most educationally defensible?",
+  "options": {
+    "A": "It can enrich learning when schools create respectful opportunities for interaction across differences",
+    "B": "It necessarily creates conflict and should be eliminated",
+    "C": "Only majority culture should be represented",
+    "D": "It has no relationship with curriculum"
+  },
+  "correctAnswer": "A",
+  "explanation": "Cultural diversity can enrich educational experience through multiple perspectives, knowledge traditions and opportunities for democratic interaction.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Culture", "Diversity", "School"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0039",
+  "question": "A textbook consistently presents only one social group's experiences as normal and ignores all others. Which educational concern is most directly raised?",
+  "options": {
+    "A": "Cultural bias and underrepresentation",
+    "B": "Equitable representation",
+    "C": "Pluralistic curriculum",
+    "D": "Inclusive pedagogy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Systematic overrepresentation of one group and omission of others may create cultural bias and weaken plurality and inclusion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Cultural Bias", "Curriculum", "Diversity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0040",
+  "question": "Assertion A: Inclusive education requires changes in school systems and practices. Reason R: Inclusion is achieved merely by placing every learner in the same classroom without additional support. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "C",
+  "explanation": "Inclusion requires systemic changes such as accessible infrastructure, flexible pedagogy, appropriate support and inclusive culture. Mere physical placement is insufficient.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inclusion", "School Reform", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0041",
+  "question": "Which of the following best represents civic competence?",
+  "options": {
+    "A": "Ability to understand public issues, reason about them and participate responsibly",
+    "B": "Ability to memorise political slogans only",
+    "C": "Avoidance of all community involvement",
+    "D": "Acceptance of authority without questioning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Civic competence involves knowledge, reasoning, participation, responsibility and the capacity to engage constructively with public issues.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Civic Education", "Civic Competence", "Citizenship"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0042",
+  "question": "A student council is allowed to discuss school issues, collect student views and present recommendations to the head teacher. Which educational objective is most directly supported?",
+  "options": {
+    "A": "Democratic civic participation",
+    "B": "Political indoctrination",
+    "C": "Cultural isolation",
+    "D": "Social exclusion"
+  },
+  "correctAnswer": "A",
+  "explanation": "Meaningful student participation can develop democratic skills such as representation, dialogue, responsibility and collective decision-making.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Civic Education", "Student Council", "Democracy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0043",
+  "question": "Which practice would be least appropriate for civic education in a democratic school?",
+  "options": {
+    "A": "Encouraging evidence-based discussion of public issues",
+    "B": "Teaching students to distinguish rights from responsibilities",
+    "C": "Requiring unquestioning acceptance of one political viewpoint",
+    "D": "Providing opportunities for community participation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Civic education in a democratic setting should cultivate informed judgement and participation rather than political indoctrination.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Civic Education", "Democracy", "Critical Thinking"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0044",
+  "question": "A school encourages students to analyse local water problems, consult residents and work with local authorities on conservation. Which combination is most clearly reflected?",
+  "options": {
+    "A": "Civic education and experiential learning",
+    "B": "Cultural isolation and rote learning",
+    "C": "Segregation and competition",
+    "D": "Uniformity and passive citizenship"
+  },
+  "correctAnswer": "A",
+  "explanation": "Engagement with a real community problem develops civic responsibility through direct, experiential participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Civic Education", "Community", "Experiential Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0045",
+  "question": "Which statement best explains the relationship between modernity and traditional knowledge in education?",
+  "options": {
+    "A": "Modernity necessarily requires rejecting all traditional knowledge",
+    "B": "Education can critically examine traditional knowledge while integrating relevant knowledge with scientific and democratic perspectives",
+    "C": "Traditional knowledge must always be accepted without question",
+    "D": "Modernity concerns technology alone"
+  },
+  "correctAnswer": "B",
+  "explanation": "A balanced educational approach neither blindly rejects nor uncritically accepts tradition. It can subject knowledge traditions to critical, contextual and evidence-based examination.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Modernity", "Traditional Knowledge", "Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0046",
+  "question": "Consider the following characteristics associated with modern education: 1. Scientific temper 2. Critical inquiry 3. Equality of status 4. Hereditary privilege as the sole basis of educational opportunity. Which are consistent with modern democratic education?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Scientific temper, critical inquiry and equality are consistent with modern democratic educational ideals, whereas hereditary privilege conflicts with them.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Modernity", "Democratic Education", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0047",
+  "question": "A school introduces a common uniform but still permits discriminatory treatment based on caste. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Visible uniformity does not guarantee social equality",
+    "B": "Uniform clothing automatically eliminates discrimination",
+    "C": "Caste discrimination is unrelated to equality",
+    "D": "Equity requires identical social outcomes in every situation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Formal or visible uniformity cannot by itself eliminate deeper discriminatory structures, attitudes or practices.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Equality", "Discrimination", "School Culture"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0048",
+  "question": "Which situation best reflects substantive rather than merely formal equality?",
+  "options": {
+    "A": "Every learner is formally allowed to apply, but barriers prevent disadvantaged learners from participating",
+    "B": "Barriers are identified and appropriate support is provided so disadvantaged learners can genuinely access the opportunity",
+    "C": "All learners are given identical support regardless of need",
+    "D": "Only high-performing groups receive opportunities"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substantive equality focuses on genuine access and outcomes by addressing barriers and disadvantages rather than relying only on formally equal rules.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Equality", "Equity", "Opportunity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0049",
+  "question": "A multilingual school prohibits children from using their home languages even during peer learning and treats those languages as inferior. Which principle is most directly violated?",
+  "options": {
+    "A": "Respect for linguistic diversity",
+    "B": "Standardisation of school records",
+    "C": "Administrative delegation",
+    "D": "Time management"
+  },
+  "correctAnswer": "A",
+  "explanation": "Treating learners' home languages as inferior undermines linguistic diversity, dignity and inclusive participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Diversity", "Language", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0050",
+  "question": "A Dy.E.O. finds that a school's enrolment data appear socially diverse, but classroom observations show segregation in seating, unequal teacher attention and very low participation by marginalised groups. Which conclusion is most defensible?",
+  "options": {
+    "A": "Diversity in enrolment alone proves inclusion",
+    "B": "The school has diversity without fully achieving equity and inclusion",
+    "C": "Teacher attention has no relation to inclusion",
+    "D": "Segregated participation is desirable in a plural society"
+  },
+  "correctAnswer": "B",
+  "explanation": "A school may be demographically diverse yet remain inequitable or exclusionary in everyday practice. Genuine inclusion requires participation, fair treatment, belonging and removal of barriers.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Diversity", "Equity", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-ES-0051",
+  "question": "Which statement best explains cultural transmission through education?",
+  "options": {
+    "A": "Education passes selected knowledge, values, symbols and practices from one generation to another",
+    "B": "Education prevents any cultural continuity",
+    "C": "Culture is transmitted only biologically",
+    "D": "Schools cannot influence cultural learning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Education is an important means of transmitting selected aspects of culture, including knowledge, values, language, symbols and social practices.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Culture", "Cultural Transmission", "Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0052",
+  "question": "A school preserves local folk traditions but also encourages students to question practices that violate equality and dignity. Which role of education is most clearly illustrated?",
+  "options": {
+    "A": "Cultural preservation with critical reconstruction",
+    "B": "Total cultural rejection",
+    "C": "Blind cultural conformity",
+    "D": "Complete social neutrality"
+  },
+  "correctAnswer": "A",
+  "explanation": "Education can preserve meaningful cultural traditions while critically examining practices that conflict with constitutional and democratic values.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Culture", "Reconstruction", "Equality", "Dignity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0053",
+  "question": "Which of the following best represents secondary socialisation?",
+  "options": {
+    "A": "Learning roles and expectations through institutions such as school and workplace after early family socialisation",
+    "B": "Biological development during infancy",
+    "C": "Learning only from parents",
+    "D": "Avoiding all social institutions"
+  },
+  "correctAnswer": "A",
+  "explanation": "Secondary socialisation occurs through institutions beyond the family, such as schools, workplaces and other organised social settings.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Socialisation", "Secondary Socialisation", "Institutions"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0054",
+  "question": "A student learns punctuality, cooperation and formal role expectations through everyday school routines. This most clearly illustrates:",
+  "options": {
+    "A": "Socialisation through institutional practices",
+    "B": "Biological maturation",
+    "C": "Cultural isolation",
+    "D": "Economic privatisation"
+  },
+  "correctAnswer": "A",
+  "explanation": "School routines can socialise learners into norms, roles and behavioural expectations even outside formal lessons.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Socialisation", "School Routines", "Institutional Practices"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0055",
+  "question": "Assertion A: Education can contribute to both social continuity and social change. Reason R: Education can transmit existing cultural patterns while also developing critical awareness and new social perspectives. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Education can preserve continuity through cultural transmission and promote change through critical reflection, innovation and democratic values.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Education", "Social Change", "Cultural Continuity", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0056",
+  "question": "Which educational practice best reflects modernity without cultural alienation?",
+  "options": {
+    "A": "Combining scientific inquiry with critical engagement with local knowledge",
+    "B": "Rejecting all local knowledge as backward",
+    "C": "Accepting every tradition without examination",
+    "D": "Equating modernity only with electronic gadgets"
+  },
+  "correctAnswer": "A",
+  "explanation": "A balanced modern educational approach can promote scientific and critical inquiry while respectfully examining relevant local knowledge and cultural experience.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Modernity", "Local Knowledge", "Scientific Temper"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0057",
+  "question": "Which of the following is most closely associated with modernisation in education?",
+  "options": {
+    "A": "Expansion of scientific outlook, rational organisation and wider educational participation",
+    "B": "Permanent preservation of hereditary privilege",
+    "C": "Rejection of literacy",
+    "D": "Complete isolation from technological change"
+  },
+  "correctAnswer": "A",
+  "explanation": "Modernisation in education is associated with scientific outlook, rational organisation, technological change, mass education and changing social participation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Modernisation", "Education", "Scientific Outlook"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0058",
+  "question": "A school has equal admission rules for all, but children from remote areas cannot attend because transport is unavailable. Which concept best identifies the problem?",
+  "options": {
+    "A": "Formal equality without substantive access",
+    "B": "Complete equity",
+    "C": "Full inclusion",
+    "D": "Cultural pluralism"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equal rules alone do not guarantee real access. Substantive equality requires attention to practical barriers that prevent learners from benefiting from opportunities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Equality", "Access", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0059",
+  "question": "Which situation best reflects equity rather than simple equality?",
+  "options": {
+    "A": "Providing additional language support to learners who need it",
+    "B": "Giving every learner the same support irrespective of need",
+    "C": "Excluding slower learners from class",
+    "D": "Restricting support to already advantaged students"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equity recognises different needs and may require differentiated support so that learners can participate fairly.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Equity", "Language Support", "Fairness"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0060",
+  "question": "Consider the following statements: 1. Diversity refers to the presence of differences. 2. Plurality involves recognition and coexistence of multiple groups and perspectives. 3. Inclusion requires meaningful participation. 4. Equity always means identical treatment. Which statements are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Diversity concerns differences, plurality concerns coexistence and recognition, and inclusion concerns meaningful participation. Equity does not necessarily mean identical treatment.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Diversity", "Plurality", "Inclusion", "Equity", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0061",
+  "question": "Which statement best explains inclusion in a broader social sense?",
+  "options": {
+    "A": "Ensuring that individuals and groups can participate with dignity in social and institutional life",
+    "B": "Allowing access while preserving exclusionary practices",
+    "C": "Separating groups permanently",
+    "D": "Ignoring barriers to participation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inclusion involves meaningful participation, dignity, belonging and removal of barriers that exclude individuals or groups.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Inclusion", "Participation", "Dignity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0062",
+  "question": "A school has students from many communities but discourages interaction between them. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Diversity exists, but plurality and inclusion may remain weak",
+    "B": "The school has automatically achieved inclusion",
+    "C": "Diversity itself guarantees equality",
+    "D": "Plurality requires social separation"
+  },
+  "correctAnswer": "A",
+  "explanation": "The mere presence of diverse groups does not guarantee inclusive or pluralistic interaction. Meaningful coexistence and participation are also required.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Diversity", "Plurality", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0063",
+  "question": "Which curriculum approach is most consistent with plurality?",
+  "options": {
+    "A": "Including multiple social, cultural and intellectual perspectives",
+    "B": "Presenting only one group's worldview as universally valid",
+    "C": "Removing all local and minority perspectives",
+    "D": "Preventing comparison of different viewpoints"
+  },
+  "correctAnswer": "A",
+  "explanation": "Plurality in curriculum requires recognition of multiple perspectives, identities and knowledge traditions rather than exclusive representation of one group.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Plurality", "Curriculum", "Diversity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0064",
+  "question": "Assertion A: Inclusion is closely related to equity. Reason R: Learners may require different forms of support to overcome different barriers to participation. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inclusive participation often requires equitable, differentiated support because learners face different barriers and needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inclusion", "Equity", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0065",
+  "question": "Which school-level action best promotes social inclusion?",
+  "options": {
+    "A": "Removing barriers to participation in academic and co-curricular activities",
+    "B": "Maintaining informal exclusion of marginalised learners",
+    "C": "Creating separate opportunities only for socially powerful groups",
+    "D": "Ignoring discriminatory peer behaviour"
+  },
+  "correctAnswer": "A",
+  "explanation": "Social inclusion requires active removal of barriers and creation of fair opportunities for meaningful participation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Social Inclusion", "Participation", "School"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0066",
+  "question": "Which statement best explains the role of civic education in democracy?",
+  "options": {
+    "A": "It develops informed participation, constitutional awareness and responsible citizenship",
+    "B": "It discourages participation in public life",
+    "C": "It teaches only administrative terminology",
+    "D": "It promotes unquestioning obedience"
+  },
+  "correctAnswer": "A",
+  "explanation": "Civic education supports democratic citizenship by developing knowledge of institutions, rights and duties along with participation, reasoning and responsibility.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Civic Education", "Democracy", "Citizenship"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0067",
+  "question": "A teacher asks students to compare different viewpoints on a public issue, verify evidence and justify their conclusions. Which civic capacity is being strengthened?",
+  "options": {
+    "A": "Deliberative and critical citizenship",
+    "B": "Passive obedience",
+    "C": "Cultural conformity",
+    "D": "Political indifference"
+  },
+  "correctAnswer": "A",
+  "explanation": "Critical examination of evidence and viewpoints strengthens deliberative citizenship and informed democratic participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Civic Education", "Critical Thinking", "Democratic Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0068",
+  "question": "Which of the following would be the weakest indicator of effective civic education?",
+  "options": {
+    "A": "Students can participate responsibly in discussion",
+    "B": "Students can distinguish rights from duties",
+    "C": "Students can analyse public issues",
+    "D": "Students can reproduce slogans without understanding"
+  },
+  "correctAnswer": "D",
+  "explanation": "Mechanical reproduction of slogans does not demonstrate civic understanding, reasoning or participation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Civic Education", "Assessment", "Citizenship"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0069",
+  "question": "A school gives students responsibility for planning part of a community cleanliness programme and reflecting on public responsibility afterward. This best represents:",
+  "options": {
+    "A": "Experiential civic education",
+    "B": "Rote civic instruction",
+    "C": "Political exclusion",
+    "D": "Cultural isolation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Direct participation in community activity combined with reflection is an experiential form of civic education.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Civic Education", "Community Participation", "Experiential Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0070",
+  "question": "Consider the following aims of civic education: 1. Awareness of rights and duties 2. Democratic participation 3. Respect for diversity 4. Uncritical acceptance of authority. Which are appropriate?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Civic education supports rights, duties, participation and respect for diversity. Uncritical acceptance of authority is inconsistent with democratic civic learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Civic Education", "Rights", "Duties", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0071",
+  "question": "A school celebrates cultural diversity only during annual events but routinely excludes minority voices from decision-making. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Symbolic celebration of diversity does not by itself ensure inclusion",
+    "B": "Annual celebrations automatically guarantee inclusion",
+    "C": "Minority participation is unrelated to plurality",
+    "D": "Decision-making has no social significance"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inclusion requires meaningful voice, participation and recognition, not merely symbolic celebration of diversity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Diversity", "Inclusion", "Participation", "School Culture"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0072",
+  "question": "Which statement best describes the relationship between identity and education?",
+  "options": {
+    "A": "Educational experiences can influence how learners understand themselves and their social identities",
+    "B": "Identity is entirely fixed at birth",
+    "C": "Schools have no influence on identity",
+    "D": "Identity is unrelated to language or culture"
+  },
+  "correctAnswer": "A",
+  "explanation": "Schooling, language, curriculum, peer relations and institutional recognition can shape learners' understanding of self and social identity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Identity", "Education", "Culture", "Socialisation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0073",
+  "question": "A learner is repeatedly told that the language spoken at home is inferior to the school language. What is the most likely sociological concern?",
+  "options": {
+    "A": "Devaluation of cultural and linguistic identity",
+    "B": "Strengthening of plurality",
+    "C": "Promotion of equity",
+    "D": "Expansion of civic participation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Devaluing a learner's home language can undermine dignity, identity, belonging and inclusive participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Identity", "Language", "Culture", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0074",
+  "question": "Assertion A: Equality of educational opportunity cannot be judged only by whether formal admission is open to all. Reason R: Social, economic, cultural and physical barriers can prevent learners from actually benefiting from educational opportunities. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Formal access may coexist with significant barriers. Genuine equality of opportunity requires attention to conditions that affect participation and benefit.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Equality", "Educational Opportunity", "Barriers", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0075",
+  "question": "A Dy.E.O. reviews two schools. School X has socially diverse enrolment but strong segregation in participation. School Y has fewer social barriers, active student voice and differentiated support for learners. Which conclusion is most appropriate?",
+  "options": {
+    "A": "School X is more inclusive merely because its enrolment is diverse",
+    "B": "School Y demonstrates stronger inclusion because participation, voice and support are more meaningful",
+    "C": "Both schools are equally inclusive because admission is open",
+    "D": "Inclusion can be judged only from enrolment figures"
+  },
+  "correctAnswer": "B",
+  "explanation": "Inclusion must be assessed through participation, belonging, voice, equitable support and removal of barriers, not through enrolment diversity alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Inclusion", "Equity", "Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-ES-0076",
+  "question": "Which statement best explains the relationship between culture and socialisation?",
+  "options": {
+    "A": "Socialisation is one of the main processes through which culture is transmitted to individuals",
+    "B": "Culture and socialisation are completely unrelated",
+    "C": "Socialisation destroys all cultural continuity",
+    "D": "Culture is transmitted only through formal schooling"
+  },
+  "correctAnswer": "A",
+  "explanation": "Socialisation is a major process through which individuals learn the values, norms, language, roles and practices of their culture.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Culture", "Socialisation", "Cultural Transmission"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0077",
+  "question": "A school introduces new digital tools but retains rigid teacher-centred practices and discourages student inquiry. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Technological modernisation has occurred without corresponding pedagogical modernity",
+    "B": "The school has fully modernised",
+    "C": "Digital tools automatically ensure critical thinking",
+    "D": "Pedagogy has no relationship with modernity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Modernity in education is broader than technology. It also involves changes in reasoning, participation, pedagogy and institutional practices.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Modernity", "Technology", "Pedagogy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0078",
+  "question": "Assertion A: Modern education is often associated with expansion of individual choice and participation. Reason R: Modern social institutions tend to weaken the exclusive control of inherited status over life opportunities. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Modernity is commonly associated with greater individual agency, mobility and participation, reducing the exclusive dominance of inherited status.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Modernity", "Individual Choice", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0079",
+  "question": "Which educational practice most directly promotes equality of status among learners?",
+  "options": {
+    "A": "Applying the same standards of dignity and respect to all learners",
+    "B": "Giving greater respect to students from influential families",
+    "C": "Separating students according to social background",
+    "D": "Allowing social rank to determine classroom participation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equality of status requires that all learners be treated with equal dignity and respect regardless of social background.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Equality", "Dignity", "School Culture"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0080",
+  "question": "A school provides free remedial classes, transport assistance and learning materials to disadvantaged learners. These measures are primarily intended to promote:",
+  "options": {
+    "A": "Equity in educational opportunity",
+    "B": "Social segregation",
+    "C": "Cultural domination",
+    "D": "Merit exclusion"
+  },
+  "correctAnswer": "A",
+  "explanation": "Such targeted supports aim to reduce barriers arising from unequal social and economic conditions and thereby promote equity.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Equity", "Educational Opportunity", "Disadvantage"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0081",
+  "question": "Consider the following: 1. Equal dignity 2. Differential support according to need 3. Recognition of cultural differences 4. Exclusion of minority voices. Which are compatible with an inclusive and equitable educational system?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Inclusion and equity involve equal dignity, support according to need and recognition of diversity. Excluding minority voices contradicts these principles.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Equality", "Equity", "Diversity", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0082",
+  "question": "Which statement best distinguishes diversity from plurality?",
+  "options": {
+    "A": "Diversity refers to the presence of differences, while plurality implies recognition and coexistence of those differences",
+    "B": "Diversity and plurality are always identical",
+    "C": "Plurality requires elimination of differences",
+    "D": "Diversity exists only when groups are segregated"
+  },
+  "correctAnswer": "A",
+  "explanation": "Diversity refers to the existence of differences, while plurality places emphasis on the recognition and coexistence of multiple groups, identities and perspectives.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Diversity", "Plurality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0083",
+  "question": "A school allows cultural diversity but expects one dominant group to make all important decisions. Which principle remains weak?",
+  "options": {
+    "A": "Plurality with meaningful participation",
+    "B": "Cultural representation",
+    "C": "Demographic diversity",
+    "D": "Formal admission"
+  },
+  "correctAnswer": "A",
+  "explanation": "Plurality is stronger when multiple groups are not merely present but are also recognised and able to participate meaningfully.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Plurality", "Participation", "Diversity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0084",
+  "question": "Which situation most clearly represents exclusion despite formal access?",
+  "options": {
+    "A": "A learner is admitted but routinely denied participation in classroom activities",
+    "B": "A learner receives additional support to participate",
+    "C": "A learner contributes to school decisions",
+    "D": "A learner studies in an accessible classroom"
+  },
+  "correctAnswer": "A",
+  "explanation": "Formal admission does not guarantee inclusion. Denial of meaningful participation represents exclusion despite access.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Inclusion", "Exclusion", "Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0085",
+  "question": "Assertion A: Inclusive education is concerned with all learners, not only children with disabilities. Reason R: Barriers to participation may arise from language, gender, caste, poverty, disability and other social conditions. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inclusion is a broad educational principle concerned with removing barriers affecting all learners, including those created by social, linguistic, economic and disability-related conditions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inclusion", "Barriers", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0086",
+  "question": "Which practice best demonstrates inclusive classroom pedagogy?",
+  "options": {
+    "A": "Using flexible methods so that learners with different backgrounds and needs can participate meaningfully",
+    "B": "Teaching every learner in only one rigid manner",
+    "C": "Removing students who require support",
+    "D": "Restricting classroom interaction to a few high achievers"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inclusive pedagogy uses flexible and responsive approaches to support participation and learning among diverse learners.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Inclusive Pedagogy", "Diversity", "Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0087",
+  "question": "Which is the most appropriate role of a teacher in a culturally diverse classroom?",
+  "options": {
+    "A": "Create respectful learning opportunities that draw upon multiple backgrounds and perspectives",
+    "B": "Treat the dominant culture as the only legitimate one",
+    "C": "Discourage students from sharing cultural experiences",
+    "D": "Ignore all differences among learners"
+  },
+  "correctAnswer": "A",
+  "explanation": "A culturally responsive teacher recognises diversity and creates respectful opportunities to connect learning with multiple cultural experiences and perspectives.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Culture", "Diversity", "Teacher Role"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0088",
+  "question": "Which statement about civic education is most accurate?",
+  "options": {
+    "A": "It combines civic knowledge, democratic values, reasoning skills and participation",
+    "B": "It consists only of memorising constitutional terminology",
+    "C": "It discourages engagement with public issues",
+    "D": "It requires political conformity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Civic education involves knowledge, values, critical reasoning and opportunities for democratic and responsible participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Civic Education", "Citizenship", "Democracy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0089",
+  "question": "A teacher organises a mock Gram Sabha in which students debate a local issue, propose solutions and vote after discussion. Which objective is most directly served?",
+  "options": {
+    "A": "Experiential civic learning",
+    "B": "Passive citizenship",
+    "C": "Cultural segregation",
+    "D": "Mechanical memorisation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Simulated democratic institutions can provide experiential opportunities to practise deliberation, representation, decision-making and responsibility.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Civic Education", "Gram Sabha", "Experiential Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0090",
+  "question": "Which school practice is most likely to undermine civic education?",
+  "options": {
+    "A": "Allowing reasoned disagreement",
+    "B": "Encouraging evidence-based discussion",
+    "C": "Punishing students merely for respectfully questioning a school rule",
+    "D": "Providing opportunities for student representation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Democratic civic education requires space for respectful questioning, discussion and reasoned participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Civic Education", "Democracy", "School Culture"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0091",
+  "question": "Consider the following civic dispositions: 1. Respect for others 2. Willingness to participate 3. Responsibility 4. Intolerance of differing viewpoints. Which are desirable?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Respect, participation and responsibility are important civic dispositions. Intolerance of differing viewpoints is inconsistent with democratic civic life.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Civic Education", "Citizenship", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0092",
+  "question": "A school community includes students from many social groups, but leadership positions are consistently occupied by only one dominant group. Which issue is most clearly indicated?",
+  "options": {
+    "A": "Unequal participation despite diversity",
+    "B": "Successful inclusion",
+    "C": "Full equity",
+    "D": "Complete plurality"
+  },
+  "correctAnswer": "A",
+  "explanation": "Diversity in composition does not guarantee equitable participation or representation in leadership.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Diversity", "Equity", "Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0093",
+  "question": "Which statement best reflects social inclusion in education?",
+  "options": {
+    "A": "All learners should have meaningful opportunities to participate, learn and belong",
+    "B": "Admission alone is sufficient",
+    "C": "Differences should always be ignored",
+    "D": "Some groups should remain permanently separate"
+  },
+  "correctAnswer": "A",
+  "explanation": "Social inclusion involves access, participation, belonging, recognition and opportunities to benefit meaningfully from education.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Social Inclusion", "Participation", "Belonging"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0094",
+  "question": "Which educational response is most appropriate when cultural practices conflict with constitutional values such as equality and dignity?",
+  "options": {
+    "A": "Critically examine the practice while respecting persons and upholding constitutional values",
+    "B": "Accept every practice uncritically because it is traditional",
+    "C": "Reject the entire culture",
+    "D": "Avoid discussing the issue"
+  },
+  "correctAnswer": "A",
+  "explanation": "Education can respect cultural identity while critically examining practices that conflict with equality, dignity and other constitutional principles.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Culture", "Constitutional Values", "Equality", "Dignity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0095",
+  "question": "Assertion A: Schools may reproduce social inequalities. Reason R: Teacher expectations, curriculum representation and institutional practices can favour some social groups over others. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "School practices can reproduce inequalities when institutional expectations, representation and opportunities systematically favour some groups.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Inequality", "School", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0096",
+  "question": "Which action would best help a school move from mere diversity to inclusion?",
+  "options": {
+    "A": "Ensure diverse learners have voice, participation, support and representation",
+    "B": "Count the number of social groups enrolled and take no further action",
+    "C": "Discourage interaction among groups",
+    "D": "Provide leadership roles only to one group"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inclusion requires meaningful participation, support and representation rather than the mere presence of diverse learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Diversity", "Inclusion", "Participation", "Representation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0097",
+  "question": "A school gives all students equal access to the library but extends library hours for learners who have no study resources at home. Which combination of principles is reflected?",
+  "options": {
+    "A": "Equality of access and equity in support",
+    "B": "Segregation and inequality",
+    "C": "Uniformity and exclusion",
+    "D": "Cultural assimilation and conformity"
+  },
+  "correctAnswer": "A",
+  "explanation": "The school provides equal access to all while using additional support to address unequal circumstances, combining equality with equity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Equality", "Equity", "Educational Opportunity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0098",
+  "question": "Which statement best integrates culture, socialisation and education?",
+  "options": {
+    "A": "Education participates in socialisation by transmitting, interpreting and sometimes transforming culture",
+    "B": "Education has no cultural function",
+    "C": "Socialisation occurs only before schooling",
+    "D": "Culture is unaffected by educational institutions"
+  },
+  "correctAnswer": "A",
+  "explanation": "Education is a major social institution through which culture is transmitted, interpreted and critically reconstructed during the process of socialisation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Culture", "Socialisation", "Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0099",
+  "question": "A Dy.E.O. finds that a school has good enrolment across social groups, accessible infrastructure and multiple support schemes, but students from marginalised groups report that their opinions are routinely dismissed. Which dimension still requires major improvement?",
+  "options": {
+    "A": "Voice and participatory inclusion",
+    "B": "Physical access",
+    "C": "Formal enrolment",
+    "D": "Infrastructure provision"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inclusion includes voice, participation, recognition and belonging. Physical access and support alone do not guarantee meaningful inclusion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Inclusion", "Voice", "Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-ES-0100",
+  "question": "A Dy.E.O. wants to judge whether a school genuinely reflects the objectives of Unit IV.1 concerning culture, socialisation, equality, equity, diversity, plurality, inclusion and civic education. Which evidence would be most comprehensive?",
+  "options": {
+    "A": "Patterns of participation, representation, treatment of cultural and linguistic diversity, equitable support, student voice and civic engagement",
+    "B": "Only total enrolment figures",
+    "C": "Only the number of cultural programmes conducted annually",
+    "D": "Only the number of civics periods in the timetable"
+  },
+  "correctAnswer": "A",
+  "explanation": "The concepts in Unit IV.1 concern the quality of institutional life as well as access. A comprehensive assessment should examine diversity, equity, inclusion, participation, recognition, student voice and civic engagement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Unit IV.1", "Inclusion", "Equity", "Civic Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}

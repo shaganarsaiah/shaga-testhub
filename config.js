@@ -23,7 +23,10 @@ const repository = {
             "Education and Values"
         ],
 
-        "Educational Sociology": [],
+        "Educational Sociology": [
+            "Education and Society",
+            "Social Change and Education"
+        ],
 
         "Educational Technology": [],
 

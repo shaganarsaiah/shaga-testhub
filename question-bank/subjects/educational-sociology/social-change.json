@@ -1,0 +1,2413 @@
+{
+  "metadata": {
+    "repositoryId": "FOE-SC",
+    "subject": "Educational Sociology",
+    "topic": "Social Change and Education",
+    "paper": "Paper II-A",
+    "unit": "IV.2",
+    "exam": "TGPSC Deputy Educational Officer",
+    "project": "SHAGA TESTHUB",
+    "standard": "SHAGA GOLD",
+    "language": "English",
+    "totalQuestions": 100,
+    "description": "Liberalisation, Social Change and Education; Educational Opportunities, Social Justice and Education; Education for the disadvantaged and weaker sections of society; Public Education and Learning Crises in Contemporary India; Privatization in Education; Public Policy in Education."
+  },
+  "questions": [
+    {
+      "id": "FOE-SC-0001",
+      "question": "Which statement most accurately describes social change in the context of education?",
+      "options": {
+        "A": "A significant alteration over time in social relationships, institutions, norms or structures that may influence education",
+        "B": "Any temporary change in an individual's personal preference",
+        "C": "A change confined exclusively to school textbooks",
+        "D": "A biological change occurring uniformly in all individuals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Social change refers broadly to significant changes over time in social structures, institutions, relationships, values or patterns of behaviour. Education may both respond to and contribute to such changes.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Social Change", "Education", "Society"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0002",
+      "question": "Which relationship between education and social change is most defensible?",
+      "options": {
+        "A": "Education is affected by social change but can also become an instrument of social change",
+        "B": "Education is completely independent of social change",
+        "C": "Education can preserve society but can never transform it",
+        "D": "Social change occurs only through educational institutions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Education and social change have a reciprocal relationship. Social transformations affect educational aims and institutions, while education can influence attitudes, skills, aspirations and social practices.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Social Change", "Education", "Reciprocal Relationship"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0003",
+      "question": "A society experiences rapid technological development, changing occupational patterns and increasing demand for new skills. Which educational response is most appropriate?",
+      "options": {
+        "A": "Revise curriculum and learning opportunities while retaining critical educational purposes",
+        "B": "Keep curriculum permanently unchanged",
+        "C": "Eliminate general education completely",
+        "D": "Restrict new knowledge to a small social group"
+      },
+      "correctAnswer": "A",
+      "explanation": "Education must respond to changing social and occupational realities while maintaining broader educational aims such as critical thinking, citizenship and human development.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Social Change", "Technology", "Curriculum"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0004",
+      "question": "Consider the following possible agents of social change: 1. Technological development 2. Economic transformation 3. Political change 4. Educational expansion. Which can contribute to social change?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "D",
+      "explanation": "Technological, economic, political and educational developments can all contribute to changes in social structures, relationships, values and opportunities.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Social Change", "Technology", "Economy", "Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0005",
+      "question": "Assertion A: Education may act as an instrument of planned social change. Reason R: Educational policies and institutions can deliberately promote particular knowledge, values, skills and patterns of participation. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Educational policy can be deliberately used to expand opportunity, develop capacities, promote constitutional values and influence social participation, making education an instrument of planned social change.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Social Change", "Educational Policy", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0006",
+      "question": "In the educational context, liberalisation is most appropriately understood as:",
+      "options": {
+        "A": "A broader policy environment involving reduced controls, greater participation of non-state actors and increased choice and competition",
+        "B": "Complete abolition of government responsibility for education",
+        "C": "Prohibition of all private educational institutions",
+        "D": "Replacement of educational objectives exclusively by commercial objectives"
+      },
+      "correctAnswer": "A",
+      "explanation": "Liberalisation generally involves relaxation of controls and greater space for choice, competition and non-state participation. It does not necessarily imply complete withdrawal of the state.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Liberalisation", "Education", "Policy"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0007",
+      "question": "Which distinction between liberalisation and privatisation is conceptually most accurate?",
+      "options": {
+        "A": "Liberalisation concerns relaxation of restrictions and increased choice, whereas privatisation concerns an increased role of private ownership, financing or provision",
+        "B": "The two terms necessarily mean exactly the same thing",
+        "C": "Liberalisation means nationalisation, whereas privatisation means decentralisation only",
+        "D": "Privatisation necessarily eliminates every form of public regulation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Liberalisation and privatisation may occur together but are conceptually distinct. Liberalisation reduces restrictions or controls, while privatisation increases the role of private actors in ownership, financing or provision.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Liberalisation", "Privatisation", "Education Policy"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0008",
+      "question": "Which educational development is most directly associated with a liberalised environment?",
+      "options": {
+        "A": "Greater diversity of providers and educational choices accompanied by regulatory challenges",
+        "B": "Automatic disappearance of all educational inequality",
+        "C": "Complete elimination of competition among institutions",
+        "D": "Uniform educational outcomes for every learner"
+      },
+      "correctAnswer": "A",
+      "explanation": "Liberalisation can increase the diversity of educational providers and choices, but it may also create or intensify concerns relating to regulation, quality and equity.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Liberalisation", "Choice", "Regulation", "Equity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0009",
+      "question": "A government allows greater participation of private educational providers but establishes norms concerning recognition, safety and academic standards. Which interpretation is most appropriate?",
+      "options": {
+        "A": "Liberalisation can coexist with public regulation",
+        "B": "Liberalisation requires the complete absence of regulation",
+        "C": "Private participation automatically makes regulation unconstitutional",
+        "D": "Public regulation and educational choice are mutually exclusive"
+      },
+      "correctAnswer": "A",
+      "explanation": "Liberalisation does not necessarily mean absence of regulation. Governments may permit wider participation while retaining regulatory responsibilities concerning quality, access and public interest.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Liberalisation", "Regulation", "Private Providers"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0010",
+      "question": "Assertion A: Liberalisation may expand educational choice. Reason R: Expanded choice by itself guarantees equal ability of all social groups to use those choices. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "C",
+      "explanation": "Liberalisation may expand choices, but unequal income, location, information and social circumstances can affect the capacity of different groups to benefit from those choices.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Liberalisation", "Choice", "Equity", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0011",
+      "question": "Which statement best describes equality of educational opportunity?",
+      "options": {
+        "A": "Educational opportunities should not be unjustly restricted by social background and relevant barriers to access and participation should be addressed",
+        "B": "Every learner must receive exactly the same educational experience regardless of circumstances",
+        "C": "Educational opportunity should depend entirely on family income",
+        "D": "Only formal permission to enter a school matters"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equality of educational opportunity requires more than formal access. Unjust social barriers affecting meaningful access and participation must also be considered.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Educational Opportunity", "Equality", "Access"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0012",
+      "question": "Which situation best demonstrates unequal educational opportunity despite formally equal admission rules?",
+      "options": {
+        "A": "Children in a remote habitation cannot regularly reach school because suitable transport is unavailable",
+        "B": "All eligible children can reach and participate in school",
+        "C": "Learners receive additional support according to identified needs",
+        "D": "School facilities are made accessible to learners"
+      },
+      "correctAnswer": "A",
+      "explanation": "Formal equality in admission does not create genuine opportunity when geographical or infrastructural barriers prevent learners from accessing schooling.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Educational Opportunity", "Access", "Inequality"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0013",
+      "question": "Consider the following factors that may affect equality of educational opportunity: 1. Family income 2. Geographical location 3. Gender discrimination 4. Social discrimination. Which may create educational disadvantage?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "D",
+      "explanation": "Economic, geographical, gender-related and social barriers can all affect access, participation, continuation and educational achievement.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Educational Opportunity", "Disadvantage", "Inequality"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0014",
+      "question": "A district provides residential facilities to children from remote areas, scholarships to economically disadvantaged learners and accessible resources to children with disabilities. Which principle most directly connects these measures?",
+      "options": {
+        "A": "Equitable educational opportunity",
+        "B": "Identical treatment",
+        "C": "Educational exclusion",
+        "D": "Market competition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Different barriers may require different interventions. Such measures seek equitable educational opportunity by responding to actual disadvantages.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Educational Opportunity", "Equity", "Support"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0015",
+      "question": "Assertion A: Equal educational opportunity may require unequal allocation of certain supportive resources. Reason R: Learners do not necessarily begin from identical social and economic circumstances. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "When learners face unequal barriers, differentiated support may be necessary to create meaningful equality of educational opportunity.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Equality", "Equity", "Educational Opportunity", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0016",
+      "question": "Which statement most accurately relates social justice to education?",
+      "options": {
+        "A": "Education should address unjust inequalities and support fair participation, dignity and opportunity",
+        "B": "Social justice requires identical educational outcomes for every individual",
+        "C": "Social justice concerns courts alone and has no educational dimension",
+        "D": "Education should reproduce existing inequalities without examination"
+      },
+      "correctAnswer": "A",
+      "explanation": "Social justice in education concerns fairness, dignity, participation and the reduction of unjust barriers and inequalities affecting learners and social groups.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Social Justice", "Education", "Equality"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0017",
+      "question": "A school claims to follow merit alone but ignores the fact that some students lack books, digital access and a suitable place to study. Which social justice concern is most relevant?",
+      "options": {
+        "A": "Apparently neutral rules may operate unfairly when unequal starting conditions are ignored",
+        "B": "Merit makes social circumstances completely irrelevant",
+        "C": "Resource inequality cannot affect educational opportunity",
+        "D": "Social justice requires abandoning all assessment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Social justice requires attention to structural and material disadvantages. Formally neutral criteria may produce unfair consequences when learners have substantially unequal opportunities and resources.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Social Justice", "Merit", "Disadvantage", "Equity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0018",
+      "question": "Which educational measure is most consistent with the principle of compensatory support?",
+      "options": {
+        "A": "Providing additional academic and material assistance to learners facing persistent disadvantage",
+        "B": "Providing additional resources only to learners who already possess greater advantages",
+        "C": "Removing support from first-generation learners",
+        "D": "Treating every difference in circumstance as irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Compensatory measures seek to reduce the effects of prior or continuing disadvantage through additional educational, material or institutional support.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Social Justice", "Compensatory Support", "Disadvantage"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0019",
+      "question": "Consider the following in relation to social justice in education: 1. Access 2. Participation 3. Recognition and dignity 4. Fair distribution of educational support. Which are relevant?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "D",
+      "explanation": "Educational social justice is multidimensional and includes access, meaningful participation, recognition, dignity and fair distribution of opportunities and support.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Social Justice", "Access", "Participation", "Dignity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0020",
+      "question": "A Dy.E.O. observes that a scholarship scheme exists, but many eligible families do not know about it and the application procedure is difficult to access. What should be examined first from a social justice perspective?",
+      "options": {
+        "A": "Whether formal provision is translating into effective access for the intended beneficiaries",
+        "B": "Whether the scheme exists on paper",
+        "C": "Whether schools can stop communicating with families",
+        "D": "Whether eligibility can be restricted further without examining barriers"
+      },
+      "correctAnswer": "A",
+      "explanation": "A policy cannot be judged only by its formal existence. Effective implementation requires that intended beneficiaries can actually obtain information, apply and receive the benefit.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["DyEO Scenario", "Social Justice", "Scholarship", "Implementation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0021",
+      "question": "The expression 'disadvantaged and weaker sections' in educational discussion is most appropriately approached as referring to:",
+      "options": {
+        "A": "Groups whose social, economic or other circumstances may create persistent barriers to educational opportunity",
+        "B": "Learners who necessarily possess lower intellectual ability",
+        "C": "Only students who fail one examination",
+        "D": "A permanently homogeneous group with identical needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Educational disadvantage arises from barriers and unequal circumstances rather than an assumption of inherent intellectual inferiority. Different disadvantaged groups may also face different needs.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Disadvantaged Sections", "Weaker Sections", "Educational Opportunity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0022",
+      "question": "Which approach is most appropriate for improving education among disadvantaged sections?",
+      "options": {
+        "A": "Identify specific barriers and design context-sensitive measures for access, retention, participation and learning",
+        "B": "Assume that every disadvantaged group faces exactly the same problem",
+        "C": "Concentrate only on enrolment and ignore learning",
+        "D": "Reduce institutional responsibility after admission"
+      },
+      "correctAnswer": "A",
+      "explanation": "Educational disadvantage is multidimensional. Effective policy should identify specific barriers and address access, attendance, retention, participation and learning.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Disadvantaged Sections", "Access", "Retention", "Learning"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0023",
+      "question": "A child from a disadvantaged community is enrolled in school but is frequently absent because of seasonal family migration. Which intervention is most responsive to the actual barrier?",
+      "options": {
+        "A": "Develop flexible and coordinated arrangements that support continuity of schooling during migration",
+        "B": "Treat enrolment alone as sufficient evidence that the problem is solved",
+        "C": "Remove the child's name immediately from school records",
+        "D": "Assume that irregular attendance reflects lack of ability"
+      },
+      "correctAnswer": "A",
+      "explanation": "Where migration disrupts schooling, educational planning should address continuity and portability of learning rather than treating formal enrolment as sufficient.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Disadvantaged Learners", "Migration", "Continuity of Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0024",
+      "question": "Assertion A: Increasing enrolment among disadvantaged groups is necessary but may not be sufficient for educational justice. Reason R: Retention, participation, learning conditions and achievement opportunities also influence whether education is genuinely accessible. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Educational justice cannot be measured by enrolment alone. Meaningful access includes continued participation, supportive learning conditions and opportunities to learn.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Disadvantaged Sections", "Enrolment", "Retention", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SC-0025",
+      "question": "A Dy.E.O. compares two mandals. Mandal X has high enrolment among disadvantaged children but high absenteeism and dropout. Mandal Y has similar enrolment but stronger attendance, retention and learning support. Which conclusion is most appropriate?",
+      "options": {
+        "A": "Mandal Y demonstrates stronger realisation of educational opportunity because access is being sustained beyond initial enrolment",
+        "B": "Both mandals necessarily provide identical educational opportunity because enrolment is similar",
+        "C": "Attendance and retention are unrelated to educational opportunity",
+        "D": "Only the number of schools should be considered"
+      },
+      "correctAnswer": "A",
+      "explanation": "Meaningful educational opportunity extends beyond initial enrolment to sustained attendance, retention, participation and learning support.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["DyEO Scenario", "Educational Opportunity", "Retention", "Disadvantaged Sections"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },{
+  "id": "FOE-SC-0026",
+  "question": "Which educational indicator gives the strongest evidence that disadvantaged learners are actually benefiting from schooling?",
+  "options": {
+    "A": "Enrolment alone",
+    "B": "Sustained attendance, retention, participation and learning outcomes",
+    "C": "Number of school buildings alone",
+    "D": "Number of textbooks printed"
+  },
+  "correctAnswer": "B",
+  "explanation": "Meaningful educational opportunity must be judged through sustained participation and learning, not enrolment alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Disadvantaged Sections", "Retention", "Learning Outcomes"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0027",
+  "question": "Which approach is most consistent with education for weaker sections of society?",
+  "options": {
+    "A": "Providing identical support regardless of barriers",
+    "B": "Identifying structural disadvantages and providing targeted educational support",
+    "C": "Reducing public responsibility for access",
+    "D": "Assuming all learners face the same conditions"
+  },
+  "correctAnswer": "B",
+  "explanation": "Targeted support is justified when learners face persistent social, economic or geographical barriers.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Weaker Sections", "Equity", "Targeted Support"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0028",
+  "question": "A school provides additional bridge courses to children entering formal schooling after long interruptions. This is best classified as:",
+  "options": {
+    "A": "Compensatory educational support",
+    "B": "Social exclusion",
+    "C": "Privatisation",
+    "D": "Merit restriction"
+  },
+  "correctAnswer": "A",
+  "explanation": "Bridge courses are compensatory measures designed to reduce learning gaps caused by disrupted or unequal educational opportunity.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Compensatory Education", "Disadvantaged Learners", "Learning Gaps"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0029",
+  "question": "Assertion A: Educational disadvantage is not always caused by individual ability. Reason R: Poverty, discrimination, language barriers and geographical isolation can limit educational participation. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational disadvantage often reflects structural and contextual barriers rather than inherent limitations in learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Educational Disadvantage", "Poverty", "Discrimination", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0030",
+  "question": "Which intervention would most directly reduce economic barriers to schooling?",
+  "options": {
+    "A": "Scholarships, free learning materials and transport support",
+    "B": "Increasing examination difficulty",
+    "C": "Reducing school hours without analysis",
+    "D": "Restricting admission"
+  },
+  "correctAnswer": "A",
+  "explanation": "Financial and material support can reduce direct and indirect costs that prevent disadvantaged learners from attending school.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Economic Disadvantage", "Scholarships", "Access"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0031",
+  "question": "Public education is most appropriately understood as:",
+  "options": {
+    "A": "Education provided or supported by the state in pursuit of broad public purposes",
+    "B": "Education available only to government employees",
+    "C": "Education without any standards or accountability",
+    "D": "Education restricted to urban areas"
+  },
+  "correctAnswer": "A",
+  "explanation": "Public education is associated with state responsibility for access, equity, social goals and the public interest.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Public Education", "State Responsibility", "Education Policy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0032",
+  "question": "Which is the strongest argument for maintaining a robust public education system?",
+  "options": {
+    "A": "Education has social benefits that extend beyond individual private gain",
+    "B": "Education benefits only the learner",
+    "C": "Public education eliminates the need for quality monitoring",
+    "D": "Public systems never face resource constraints"
+  },
+  "correctAnswer": "A",
+  "explanation": "Education contributes to citizenship, social cohesion, equality and economic development, producing benefits for society as well as individuals.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Education", "Social Benefits", "Public Good"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0033",
+  "question": "A district has high school enrolment but a large proportion of Grade 5 learners cannot read a Grade 2 passage. Which issue is most directly indicated?",
+  "options": {
+    "A": "Learning crisis",
+    "B": "Access crisis only",
+    "C": "Privatisation",
+    "D": "Demographic transition"
+  },
+  "correctAnswer": "A",
+  "explanation": "A learning crisis exists when schooling expands but many learners fail to acquire expected foundational competencies.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Learning Crisis", "Foundational Learning", "Public Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0034",
+  "question": "Which distinction best separates a schooling crisis from a learning crisis?",
+  "options": {
+    "A": "A schooling crisis concerns access and participation, while a learning crisis concerns inadequate learning despite schooling",
+    "B": "The two terms are always identical",
+    "C": "A learning crisis concerns only teacher salaries",
+    "D": "A schooling crisis concerns only private schools"
+  },
+  "correctAnswer": "A",
+  "explanation": "Access to schooling and actual learning are related but distinct. Learners may attend school without acquiring expected competencies.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Learning Crisis", "Schooling", "Educational Quality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0035",
+  "question": "Consider the following possible contributors to a learning crisis: 1. Weak foundational learning 2. Inadequate instructional support 3. Irregular attendance 4. Misalignment between curriculum and learner readiness. Which may contribute?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Learning crises are usually multidimensional and may arise from weak foundations, instructional problems, attendance issues and curriculum-learning mismatches.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Learning Crisis", "Foundational Learning", "Curriculum", "Attendance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0036",
+  "question": "Which response is most appropriate when a school has high enrolment but persistently low foundational learning?",
+  "options": {
+    "A": "Diagnose learning levels and strengthen targeted teaching and academic support",
+    "B": "Increase enrolment reporting alone",
+    "C": "Ignore learning outcomes",
+    "D": "Assume attendance automatically produces learning"
+  },
+  "correctAnswer": "A",
+  "explanation": "A learning crisis requires diagnosis of actual learning and instructional responses matched to learner needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Learning Crisis", "Remedial Teaching", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0037",
+  "question": "Assertion A: Expansion of school access does not automatically eliminate a learning crisis. Reason R: Enrolment does not by itself guarantee effective teaching, participation or acquisition of competencies. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Access is necessary but insufficient. Learning depends on instructional quality, attendance, learner support and effective classroom processes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Learning Crisis", "Access", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0038",
+  "question": "A Dy.E.O. finds that schools report syllabus completion but classroom assessments reveal major foundational gaps. What should be prioritised?",
+  "options": {
+    "A": "Evidence of actual learning rather than syllabus completion alone",
+    "B": "Completion records alone",
+    "C": "Increasing textbook length",
+    "D": "Reducing learner assessment"
+  },
+  "correctAnswer": "A",
+  "explanation": "Administrative completion of the syllabus is not equivalent to learner mastery. Actual learning evidence should guide instructional improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Learning Crisis", "Assessment", "School Monitoring"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0039",
+  "question": "Privatisation in education most directly refers to:",
+  "options": {
+    "A": "Increasing involvement of private actors in ownership, financing, management or provision of education",
+    "B": "Any use of technology in government schools",
+    "C": "All forms of decentralisation",
+    "D": "Abolition of all public education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Privatisation may involve increased private-sector roles in provision, management, financing or ownership. It does not necessarily mean complete disappearance of public education.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Privatisation", "Education", "Private Sector"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0040",
+  "question": "Which is a major equity concern associated with unchecked privatisation of education?",
+  "options": {
+    "A": "Ability to pay may increasingly influence access to educational opportunities",
+    "B": "All inequalities necessarily disappear",
+    "C": "Public regulation becomes automatically stronger",
+    "D": "Every institution becomes identical in quality"
+  },
+  "correctAnswer": "A",
+  "explanation": "Where access depends heavily on private payment, unequal household resources may translate into unequal educational opportunities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Privatisation", "Equity", "Access"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0041",
+  "question": "Which potential benefit is commonly associated with private participation in education?",
+  "options": {
+    "A": "Possibility of innovation, additional capacity and greater institutional diversity",
+    "B": "Guaranteed equality in every circumstance",
+    "C": "Automatic elimination of regulation",
+    "D": "Guaranteed quality in every private institution"
+  },
+  "correctAnswer": "A",
+  "explanation": "Private participation may add capacity, diversity and innovation, but these outcomes are not automatic and require attention to quality and equity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Privatisation", "Innovation", "Educational Provision"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0042",
+  "question": "Which policy position is most balanced regarding privatisation in education?",
+  "options": {
+    "A": "Private participation may be allowed, but public regulation, equity and quality safeguards remain important",
+    "B": "All private institutions are necessarily superior",
+    "C": "All private participation is necessarily harmful",
+    "D": "Regulation is irrelevant once private institutions enter education"
+  },
+  "correctAnswer": "A",
+  "explanation": "A balanced policy approach considers possible benefits of private participation while protecting public goals such as quality, fairness and accountability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Privatisation", "Regulation", "Quality", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0043",
+  "question": "Assertion A: Privatisation and commercialisation are related but not identical. Reason R: Private provision may exist without education being treated solely as a profit-maximising commodity. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Privatisation refers to private-sector involvement, whereas commercialisation concerns the dominance of commercial or profit-oriented motives. They may overlap but are not conceptually identical.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Privatisation", "Commercialisation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0044",
+  "question": "Which situation most clearly illustrates commercialisation of education?",
+  "options": {
+    "A": "Educational decisions are increasingly driven primarily by revenue and market demand rather than educational purposes",
+    "B": "A public school receives government funding",
+    "C": "A school provides scholarships to disadvantaged students",
+    "D": "Teachers participate in professional development"
+  },
+  "correctAnswer": "A",
+  "explanation": "Commercialisation occurs when market and revenue considerations dominate educational purposes and decisions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Commercialisation", "Privatisation", "Education Policy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0045",
+  "question": "Public policy in education is best understood as:",
+  "options": {
+    "A": "Authoritative decisions and courses of action adopted by government to address educational goals and problems",
+    "B": "Only informal opinions expressed by individuals",
+    "C": "Only decisions made by private schools",
+    "D": "A single examination timetable"
+  },
+  "correctAnswer": "A",
+  "explanation": "Public policy refers to deliberate governmental decisions, priorities and actions intended to address public issues, including educational access, quality, equity and governance.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Public Policy", "Education Policy", "Government"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0046",
+  "question": "Which sequence most appropriately represents a rational public policy process in education?",
+  "options": {
+    "A": "Problem identification, policy formulation, implementation and evaluation",
+    "B": "Implementation, problem denial, policy abandonment and evaluation",
+    "C": "Evaluation before any policy exists, followed by random action",
+    "D": "Policy announcement without implementation or review"
+  },
+  "correctAnswer": "A",
+  "explanation": "A basic policy cycle generally includes identification of problems, formulation of responses, implementation and evaluation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Public Policy", "Policy Cycle", "Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0047",
+  "question": "A policy increases school grants but provides no mechanism to track whether resources improve learning. Which policy component is weakest?",
+  "options": {
+    "A": "Monitoring and evaluation",
+    "B": "Problem identification",
+    "C": "Policy announcement",
+    "D": "Political communication"
+  },
+  "correctAnswer": "A",
+  "explanation": "Without monitoring and evaluation, policymakers cannot determine whether resources are being used effectively or whether intended outcomes are being achieved.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Policy", "Monitoring", "Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0048",
+  "question": "Which criterion is most important when evaluating an educational public policy from a social justice perspective?",
+  "options": {
+    "A": "Whether benefits and burdens are distributed fairly across social groups",
+    "B": "Whether the policy is lengthy",
+    "C": "Whether the policy contains technical vocabulary",
+    "D": "Whether it was announced publicly"
+  },
+  "correctAnswer": "A",
+  "explanation": "A social justice evaluation examines who benefits, who remains excluded and whether policy reduces or reproduces unfair inequalities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Policy", "Social Justice", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0049",
+  "question": "Consider the following principles for sound educational public policy: 1. Evidence-based planning 2. Attention to equity 3. Effective implementation 4. Periodic evaluation. Which are appropriate?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Effective educational policy requires evidence, equity considerations, sound implementation and ongoing evaluation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Policy", "Evidence", "Equity", "Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0050",
+  "question": "A Dy.E.O. is asked to assess whether an educational programme for weaker sections is effective. Which evidence would be most comprehensive?",
+  "options": {
+    "A": "Enrolment, attendance, retention, learning outcomes, access to benefits and beneficiary experience",
+    "B": "Only the amount of money sanctioned",
+    "C": "Only the number of circulars issued",
+    "D": "Only the number of schools covered"
+  },
+  "correctAnswer": "A",
+  "explanation": "A comprehensive evaluation should examine implementation and educational outcomes, including whether intended beneficiaries actually gain access and benefit.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Public Policy", "Weaker Sections", "Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-SC-0051",
+  "question": "Which statement best explains the relationship between public education and social justice?",
+  "options": {
+    "A": "Public education can help reduce unequal access to educational opportunity through broad state-supported provision",
+    "B": "Public education necessarily produces identical outcomes for every learner",
+    "C": "Public education is unrelated to equity",
+    "D": "Public education exists only to prepare learners for examinations"
+  },
+  "correctAnswer": "A",
+  "explanation": "Public education can promote social justice by widening access, reducing financial barriers and supporting educational opportunity across social groups.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Education", "Social Justice", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0052",
+  "question": "A government school serves a remote area where no private provider is willing to operate. Which public role is most clearly illustrated?",
+  "options": {
+    "A": "Ensuring educational access where market incentives may be insufficient",
+    "B": "Promoting educational exclusion",
+    "C": "Reducing public responsibility",
+    "D": "Commercialising education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Public provision can be especially important where market-based provision does not reach remote or disadvantaged populations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Public Education", "Remote Areas", "Access"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0053",
+  "question": "Assertion A: Public education has both individual and social purposes. Reason R: Education can contribute to personal development as well as citizenship, social cohesion and national development. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Education benefits individuals while also serving wider social goals such as citizenship, cooperation and development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Education", "Citizenship", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0054",
+  "question": "Which situation most clearly reflects a learning crisis rather than merely an access problem?",
+  "options": {
+    "A": "Most children attend school regularly but many fail to acquire basic literacy and numeracy",
+    "B": "A village has no nearby school",
+    "C": "Children are denied admission",
+    "D": "Transport is unavailable to reach school"
+  },
+  "correctAnswer": "A",
+  "explanation": "A learning crisis occurs when learners are in school but do not acquire expected foundational competencies.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Learning Crisis", "Literacy", "Numeracy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0055",
+  "question": "Which response is most appropriate for addressing a learning crisis in foundational grades?",
+  "options": {
+    "A": "Use regular diagnostic assessment and provide instruction matched to current learning levels",
+    "B": "Promote learners automatically without examining learning gaps",
+    "C": "Increase syllabus volume",
+    "D": "Reduce classroom interaction"
+  },
+  "correctAnswer": "A",
+  "explanation": "Diagnostic assessment and targeted instruction help identify and address actual learning gaps.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Learning Crisis", "Diagnostic Assessment", "Foundational Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0056",
+  "question": "Which combination would provide the strongest evidence of improvement in a learning crisis?",
+  "options": {
+    "A": "Higher enrolment only",
+    "B": "Improved attendance, foundational competencies and continued progression",
+    "C": "More administrative meetings alone",
+    "D": "More textbooks stored in schools"
+  },
+  "correctAnswer": "B",
+  "explanation": "Improvement should be reflected in learner participation and actual learning, not merely inputs or administrative activity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Learning Crisis", "Learning Outcomes", "Attendance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0057",
+  "question": "A school reports 100 percent syllabus completion, yet most learners cannot perform grade-level tasks. What does this most strongly indicate?",
+  "options": {
+    "A": "Instructional completion and student learning are not the same",
+    "B": "The school has achieved full quality",
+    "C": "Learning outcomes are irrelevant",
+    "D": "The curriculum should never be assessed"
+  },
+  "correctAnswer": "A",
+  "explanation": "Completion of prescribed content does not guarantee that learners have understood or mastered it.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Learning Crisis", "Syllabus Completion", "Learning Outcomes"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0058",
+  "question": "Consider the following possible responses to a learning crisis: 1. Diagnostic assessment 2. Remedial support 3. Strengthening foundational skills 4. Ignoring differences in learner readiness. Which are appropriate?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Learning crises require assessment, foundational strengthening and targeted support. Ignoring learner readiness can worsen learning gaps.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Learning Crisis", "Remedial Support", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0059",
+  "question": "A Dy.E.O. notices that low-performing schools spend most review meetings discussing infrastructure but rarely examine classroom learning. What should be added to the review process?",
+  "options": {
+    "A": "Systematic analysis of learner achievement and instructional practices",
+    "B": "Only more infrastructure reporting",
+    "C": "Removal of all assessments",
+    "D": "Less classroom observation"
+  },
+  "correctAnswer": "A",
+  "explanation": "School review should include evidence about actual learning and classroom processes, particularly when learning outcomes are weak.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Learning Crisis", "Monitoring"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0060",
+  "question": "Which statement best describes the possible relationship between privatisation and inequality?",
+  "options": {
+    "A": "Privatisation may widen opportunity for some while also increasing inequality if access depends heavily on ability to pay",
+    "B": "Privatisation always eliminates inequality",
+    "C": "Privatisation always reduces educational choice",
+    "D": "Privatisation has no possible relationship with access"
+  },
+  "correctAnswer": "A",
+  "explanation": "Private provision may expand options but can also create or intensify inequities where access is strongly linked to household resources.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Privatisation", "Inequality", "Access"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0061",
+  "question": "Which policy safeguard is most important when private educational provision expands?",
+  "options": {
+    "A": "Clear standards for quality, transparency, access and accountability",
+    "B": "Complete absence of oversight",
+    "C": "Permission to ignore educational standards",
+    "D": "Elimination of public information"
+  },
+  "correctAnswer": "A",
+  "explanation": "Expansion of private provision requires appropriate regulation to protect educational quality, fairness and public interest.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Privatisation", "Regulation", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0062",
+  "question": "A district has both government and private schools, but disadvantaged learners are concentrated in poorly resourced institutions. Which concern is most relevant?",
+  "options": {
+    "A": "Educational stratification",
+    "B": "Complete equity",
+    "C": "Uniform quality",
+    "D": "Universal inclusion"
+  },
+  "correctAnswer": "A",
+  "explanation": "When different social groups are concentrated in institutions of unequal quality, the system may become socially stratified.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Privatisation", "Stratification", "Inequality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0063",
+  "question": "Assertion A: Greater parental choice does not necessarily guarantee greater educational equity. Reason R: Families differ in income, information, location and capacity to exercise choice. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice operates within unequal social conditions, so different families may have very different capacities to benefit from available options.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Choice", "Equity", "Privatisation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0064",
+  "question": "Which statement best distinguishes educational choice from educational equity?",
+  "options": {
+    "A": "Choice concerns available alternatives, while equity concerns fairness in the ability to access and benefit from opportunities",
+    "B": "Choice and equity are always identical",
+    "C": "Equity means eliminating all choice",
+    "D": "Choice guarantees equal outcomes"
+  },
+  "correctAnswer": "A",
+  "explanation": "A system may offer many choices while still being inequitable if some groups cannot realistically access those choices.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Choice", "Equity", "Educational Opportunity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0065",
+  "question": "Which situation most clearly represents excessive commercialisation of education?",
+  "options": {
+    "A": "Educational decisions are primarily shaped by revenue generation even when learning and equity suffer",
+    "B": "A school maintains transparent accounts",
+    "C": "A school offers scholarships",
+    "D": "A government school receives public funds"
+  },
+  "correctAnswer": "A",
+  "explanation": "Commercialisation becomes problematic when commercial goals dominate core educational purposes and public responsibilities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Commercialisation", "Education", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0066",
+  "question": "Which is the strongest reason public policy remains necessary even in a system with substantial private educational provision?",
+  "options": {
+    "A": "Education involves public interests such as quality, equity, rights and social development",
+    "B": "Private institutions cannot educate any learner",
+    "C": "Public policy exists only to control teacher attendance",
+    "D": "Market competition automatically protects every public interest"
+  },
+  "correctAnswer": "A",
+  "explanation": "Because education has major social consequences, governments retain responsibilities related to quality, rights, fairness and public goals.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Policy", "Privatisation", "Public Interest"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0067",
+  "question": "An educational policy has strong objectives but schools lack staff, funding and implementation guidance. Which concept best explains likely policy failure?",
+  "options": {
+    "A": "Implementation gap",
+    "B": "Policy success",
+    "C": "Complete decentralisation",
+    "D": "Learning saturation"
+  },
+  "correctAnswer": "A",
+  "explanation": "An implementation gap occurs when policy intentions are not translated effectively into practice because of weak capacity, resources or execution.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Public Policy", "Implementation Gap", "Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0068",
+  "question": "Which evidence is most useful for determining whether an educational public policy has reduced inequality?",
+  "options": {
+    "A": "Disaggregated data showing participation and outcomes across different social groups",
+    "B": "Statewide averages alone",
+    "C": "Number of press releases",
+    "D": "Length of the policy document"
+  },
+  "correctAnswer": "A",
+  "explanation": "Disaggregated data can reveal whether gains are shared across social groups or whether inequalities remain hidden within overall averages.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Policy", "Equity", "Data", "Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0069",
+  "question": "Consider the following stages of policy evaluation: 1. Examine intended objectives 2. Measure implementation 3. Analyse outcomes 4. Identify unintended consequences. Which are relevant?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Sound policy evaluation considers objectives, implementation, outcomes and unintended effects.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Policy", "Policy Evaluation", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0070",
+  "question": "Assertion A: Policy evaluation should examine unintended consequences. Reason R: A policy may achieve one objective while producing new inequalities or implementation problems elsewhere. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Policies can generate effects beyond intended goals, so unintended positive and negative consequences should be evaluated.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Policy", "Evaluation", "Unintended Consequences"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0071",
+  "question": "A state introduces a digital learning policy, but disadvantaged students have limited device and internet access. Which issue should policymakers examine?",
+  "options": {
+    "A": "Digital inequality may undermine equal educational opportunity",
+    "B": "Technology automatically guarantees equity",
+    "C": "Access to devices is irrelevant to digital learning",
+    "D": "Only curriculum length matters"
+  },
+  "correctAnswer": "A",
+  "explanation": "Digital policies may reproduce or widen inequality when access to devices, connectivity and support is uneven.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Policy", "Digital Divide", "Educational Opportunity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0072",
+  "question": "Which policy response best addresses a digital divide affecting disadvantaged learners?",
+  "options": {
+    "A": "Provide devices, connectivity, accessible content and local support according to need",
+    "B": "Move all learning online immediately without assessing access",
+    "C": "Assume all families have equal digital resources",
+    "D": "Stop collecting data on access"
+  },
+  "correctAnswer": "A",
+  "explanation": "A comprehensive response addresses hardware, connectivity, content accessibility and learner support rather than assuming equal digital readiness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Digital Divide", "Equity", "Public Policy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0073",
+  "question": "Which statement best describes a socially just educational reform?",
+  "options": {
+    "A": "A reform that improves quality while also examining how benefits reach disadvantaged groups",
+    "B": "A reform that improves average scores while ignoring widening inequality",
+    "C": "A reform that benefits only already advantaged learners",
+    "D": "A reform that avoids monitoring social differences"
+  },
+  "correctAnswer": "A",
+  "explanation": "A socially just reform considers both overall educational improvement and the distribution of benefits across groups.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Social Justice", "Educational Reform", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0074",
+  "question": "A Dy.E.O. finds that average district learning scores have improved, but the gap between advantaged and disadvantaged learners has widened. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Overall improvement has occurred, but equity has worsened",
+    "B": "The reform is fully equitable because averages improved",
+    "C": "Achievement gaps are irrelevant",
+    "D": "Only enrolment data should be reviewed"
+  },
+  "correctAnswer": "A",
+  "explanation": "Average improvement can coexist with widening inequality. Equity requires examining differences in outcomes among social groups.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Equity", "Learning Outcomes", "Achievement Gap"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0075",
+  "question": "A Dy.E.O. must recommend whether a district programme should be continued. Which evidence would provide the strongest basis for the recommendation?",
+  "options": {
+    "A": "Evidence on implementation, learning outcomes, equity, cost, beneficiary reach and unintended effects",
+    "B": "The programme title alone",
+    "C": "The number of official meetings held",
+    "D": "The original announcement without outcome data"
+  },
+  "correctAnswer": "A",
+  "explanation": "A sound administrative recommendation should be based on multiple forms of evidence concerning implementation, impact, equity, efficiency and unintended consequences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Public Policy", "Evaluation", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-SC-0076",
+  "question": "Which statement best explains why public education remains important even when private educational options expand?",
+  "options": {
+    "A": "Public education supports universal access, equity and wider social goals that markets may not adequately protect",
+    "B": "Private institutions can never provide quality education",
+    "C": "Public education eliminates the need for accountability",
+    "D": "Public provision guarantees identical outcomes"
+  },
+  "correctAnswer": "A",
+  "explanation": "Public education serves broad public purposes such as access, equity, citizenship and social development, including needs that market mechanisms may not fully address.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Education", "Equity", "Public Interest"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0077",
+  "question": "A district closes several small government schools because enrolment is low, but children must then travel long distances. Which policy concern should receive the greatest attention?",
+  "options": {
+    "A": "Efficiency must be balanced against equitable access",
+    "B": "Low enrolment automatically justifies closure",
+    "C": "Travel distance has no educational significance",
+    "D": "Only financial savings should be considered"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational policy must balance efficiency with access, especially where school consolidation may disproportionately affect remote or disadvantaged learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Policy", "Access", "Equity", "School Consolidation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0078",
+  "question": "Assertion A: Educational policy should consider both efficiency and equity. Reason R: A measure that reduces cost may still disadvantage learners who already face barriers. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Efficient use of resources is important, but educational policy must also examine how costs and benefits are distributed among different groups.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Policy", "Efficiency", "Equity", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0079",
+  "question": "Which situation most clearly illustrates a policy implementation gap?",
+  "options": {
+    "A": "A policy guarantees support for disadvantaged learners, but schools do not receive the required resources",
+    "B": "A policy is implemented fully as planned",
+    "C": "A policy is evaluated after implementation",
+    "D": "A programme achieves its intended objectives"
+  },
+  "correctAnswer": "A",
+  "explanation": "An implementation gap exists when policy commitments are not translated into actual practice because of inadequate resources, capacity, coordination or execution.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Public Policy", "Implementation Gap", "Disadvantaged Learners"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0080",
+  "question": "Which is the strongest indicator that an educational policy is equitable?",
+  "options": {
+    "A": "Disadvantaged groups gain meaningful access and improve in participation and learning",
+    "B": "The same circular is sent to every school",
+    "C": "The programme has a large budget",
+    "D": "The policy is announced at state level"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equity should be judged through actual reach and outcomes among groups that face disadvantage, not merely through uniform procedures or expenditure.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Equity", "Public Policy", "Policy Outcomes"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0081",
+  "question": "Which statement best explains educational stratification?",
+  "options": {
+    "A": "Different social groups become concentrated in educational institutions or tracks of unequal prestige, resources or outcomes",
+    "B": "All learners receive identical educational opportunities",
+    "C": "Schools eliminate every form of social difference",
+    "D": "Educational systems become completely homogeneous"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational stratification occurs when educational opportunities are structured unequally across social groups, institutions or pathways.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Educational Stratification", "Inequality", "Social Justice"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0082",
+  "question": "A city has elite high-fee schools, moderately priced schools and under-resourced schools serving mostly poor families. Which sociological concept is most directly reflected?",
+  "options": {
+    "A": "Educational stratification",
+    "B": "Complete equality",
+    "C": "Universal inclusion",
+    "D": "Cultural uniformity"
+  },
+  "correctAnswer": "A",
+  "explanation": "When school type, resources and social background are strongly linked, the educational system may reproduce social stratification.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Educational Stratification", "Privatisation", "Inequality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0083",
+  "question": "Which policy measure is most likely to reduce educational stratification?",
+  "options": {
+    "A": "Strengthening quality and resources in schools serving disadvantaged communities",
+    "B": "Allowing quality differences to widen without intervention",
+    "C": "Reducing access for weaker sections",
+    "D": "Making public schools increasingly unequal in resources"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reducing major differences in quality and resources across schools can help weaken the link between social background and educational opportunity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Educational Stratification", "Equity", "Public Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0084",
+  "question": "Consider the following about privatisation in education: 1. It may increase institutional diversity. 2. It may create equity concerns. 3. It makes regulation unnecessary. 4. Its effects depend partly on the policy and regulatory environment. Which are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Privatisation may increase diversity and choice, but can raise concerns about equity and quality. Regulation remains relevant, and outcomes depend on the wider policy framework.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Privatisation", "Equity", "Regulation", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0085",
+  "question": "Assertion A: Competition among educational institutions may improve some aspects of performance but does not automatically guarantee social justice. Reason R: Institutions may respond to competition in ways that disadvantage learners who are costly or difficult to serve. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Competition may create incentives for improvement, but without safeguards it can also encourage exclusion, selection or unequal access.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Competition", "Privatisation", "Social Justice", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0086",
+  "question": "Which of the following is the best example of an evidence-based educational policy decision?",
+  "options": {
+    "A": "Using enrolment, attendance, learning and equity data before redesigning a programme",
+    "B": "Continuing a programme only because it has existed for many years",
+    "C": "Ignoring outcome data",
+    "D": "Making decisions solely on anecdotal impressions"
+  },
+  "correctAnswer": "A",
+  "explanation": "Evidence-based policy uses relevant and reliable data to understand problems, design interventions and judge effectiveness.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Public Policy", "Evidence Based Policy", "Data"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0087",
+  "question": "A state reports improved average learning outcomes, but tribal and remote-area learners show little improvement. What should an equity-sensitive policy review conclude?",
+  "options": {
+    "A": "Aggregate progress has occurred, but distributional inequality remains",
+    "B": "The policy is fully successful because the average improved",
+    "C": "Group-wise data should be ignored",
+    "D": "Only total enrolment should be considered"
+  },
+  "correctAnswer": "A",
+  "explanation": "Average improvement can conceal persistent inequalities. Equity-sensitive evaluation requires disaggregated analysis across social and geographical groups.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Policy", "Equity", "Disaggregated Data"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0088",
+  "question": "Which educational measure most directly reflects redistributive social justice?",
+  "options": {
+    "A": "Allocating additional resources to schools serving persistently disadvantaged populations",
+    "B": "Providing more resources to already advantaged schools only",
+    "C": "Ignoring differences in need",
+    "D": "Distributing resources solely according to parental income"
+  },
+  "correctAnswer": "A",
+  "explanation": "Redistributive justice seeks fairer distribution of resources and opportunities, often by directing greater support toward those facing greater disadvantage.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Social Justice", "Redistribution", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0089",
+  "question": "Which statement best reflects recognition as a dimension of social justice in education?",
+  "options": {
+    "A": "Learners' identities, languages and social experiences should be treated with dignity rather than devalued",
+    "B": "Social justice concerns only distribution of money",
+    "C": "Recognition requires ignoring cultural differences",
+    "D": "Only examination results matter"
+  },
+  "correctAnswer": "A",
+  "explanation": "Social justice also concerns recognition and dignity. Learners can be disadvantaged when their identities, languages or experiences are systematically devalued.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Social Justice", "Recognition", "Dignity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0090",
+  "question": "Which combination best represents a multidimensional understanding of educational social justice?",
+  "options": {
+    "A": "Distribution, recognition and participation",
+    "B": "Enrolment alone",
+    "C": "Examination ranking alone",
+    "D": "Infrastructure alone"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational social justice involves fair distribution of resources, recognition of identities and meaningful participation in institutional life.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Justice", "Distribution", "Recognition", "Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0091",
+  "question": "A programme gives scholarships to disadvantaged learners but students continue to face discrimination inside school. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Redistributive support is useful but recognition and institutional inclusion also need attention",
+    "B": "The scholarship alone guarantees social justice",
+    "C": "Discrimination is unrelated to education",
+    "D": "Financial support should be withdrawn"
+  },
+  "correctAnswer": "A",
+  "explanation": "Financial support can address economic barriers, but social justice also requires dignity, non-discrimination and inclusive participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Social Justice", "Scholarship", "Discrimination", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0092",
+  "question": "Which situation best illustrates the difference between policy output and policy outcome?",
+  "options": {
+    "A": "Building classrooms is an output, while improved access and learning are outcomes",
+    "B": "Both terms always mean the same thing",
+    "C": "An outcome refers only to expenditure",
+    "D": "An output refers only to examination marks"
+  },
+  "correctAnswer": "A",
+  "explanation": "Outputs are immediate products or services produced by policy action, whereas outcomes refer to changes in conditions, behaviour or results.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Policy", "Output", "Outcome", "Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0093",
+  "question": "A district constructs 100 additional classrooms but overcrowding and learning levels remain unchanged. What does this most strongly suggest?",
+  "options": {
+    "A": "A policy output was achieved without sufficient evidence of the intended outcome",
+    "B": "The policy automatically succeeded",
+    "C": "Infrastructure cannot influence education",
+    "D": "Outcome evaluation is unnecessary"
+  },
+  "correctAnswer": "A",
+  "explanation": "Producing infrastructure is an output. Policy success requires examination of whether intended outcomes such as improved learning conditions actually follow.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Policy", "Output", "Outcome", "School Infrastructure"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0094",
+  "question": "Assertion A: Policy monitoring and policy evaluation are related but distinct. Reason R: Monitoring tracks implementation continuously, whereas evaluation examines the value, effectiveness or impact of a policy or programme. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Monitoring focuses on ongoing implementation and performance, while evaluation makes broader judgements about effectiveness, outcomes and impact.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Public Policy", "Monitoring", "Evaluation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0095",
+  "question": "Which administrative action is most appropriate when a policy is effective overall but consistently fails to reach one disadvantaged group?",
+  "options": {
+    "A": "Identify the specific access or implementation barriers affecting that group and modify delivery",
+    "B": "Declare complete success based only on the average result",
+    "C": "Stop collecting group-wise information",
+    "D": "Remove the group from programme eligibility"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equity-sensitive administration requires identifying why intended beneficiaries remain excluded and adjusting implementation accordingly.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Policy", "Equity", "Implementation", "Disadvantaged Groups"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0096",
+  "question": "Which statement best integrates liberalisation, privatisation and public policy in education?",
+  "options": {
+    "A": "Greater non-state participation may expand choice, but public policy remains necessary to protect quality, equity and public purposes",
+    "B": "Liberalisation makes educational policy unnecessary",
+    "C": "Privatisation automatically guarantees educational justice",
+    "D": "Public policy can operate only in a fully state-owned system"
+  },
+  "correctAnswer": "A",
+  "explanation": "Liberalisation and privatisation can alter the mix of educational providers, but governments continue to have important responsibilities concerning rights, quality, equity and regulation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Liberalisation", "Privatisation", "Public Policy", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0097",
+  "question": "A Dy.E.O. finds that a private school has strong examination results but excludes children who need additional learning support. Which evaluation is most appropriate?",
+  "options": {
+    "A": "Academic performance is one dimension of quality, but exclusion raises serious equity and inclusion concerns",
+    "B": "High examination scores automatically prove complete educational quality",
+    "C": "Equity is irrelevant when results are high",
+    "D": "Selective exclusion should always be encouraged"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational quality cannot be judged solely from test scores. Equity, inclusion, participation and fair treatment are also important dimensions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Privatisation", "Quality", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0098",
+  "question": "A public programme significantly improves access but produces little improvement in learning. Which conclusion is most defensible?",
+  "options": {
+    "A": "The programme has achieved an access objective but requires stronger attention to educational quality and learning",
+    "B": "The programme has completely failed in every respect",
+    "C": "The programme is fully successful because access improved",
+    "D": "Learning outcomes should not be examined"
+  },
+  "correctAnswer": "A",
+  "explanation": "Policies may succeed on one dimension and remain weak on another. Evaluation should distinguish access gains from learning outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Policy", "Access", "Learning Outcomes", "Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0099",
+  "question": "A Dy.E.O. wants to identify a learning crisis accurately. Which evidence would be most useful?",
+  "options": {
+    "A": "Representative evidence of what learners can actually read, understand and calculate compared with expected learning levels",
+    "B": "Only school enrolment numbers",
+    "C": "Only the number of teachers appointed",
+    "D": "Only syllabus completion reports"
+  },
+  "correctAnswer": "A",
+  "explanation": "A learning crisis is fundamentally about insufficient learning, so evidence must directly assess what learners know and can do.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Learning Crisis", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SC-0100",
+  "question": "A Dy.E.O. is reviewing Unit IV.2 issues across a district. Which set of evidence would provide the most comprehensive picture?",
+  "options": {
+    "A": "Access and retention data, social-group disparities, learning outcomes, public-school quality, private-sector patterns, implementation evidence and policy impact",
+    "B": "Only total enrolment",
+    "C": "Only private-school examination results",
+    "D": "Only the number of government circulars issued"
+  },
+  "correctAnswer": "A",
+  "explanation": "Unit IV.2 links social change, opportunity, social justice, disadvantage, public education, learning crises, privatisation and public policy. A comprehensive review therefore requires evidence across access, equity, learning, institutional provision and policy implementation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Unit IV.2", "Social Justice", "Learning Crisis", "Public Policy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}  ]
+}
