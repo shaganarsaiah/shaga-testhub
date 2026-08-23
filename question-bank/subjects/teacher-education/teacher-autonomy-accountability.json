@@ -1,0 +1,2413 @@
+{
+  "metadata": {
+    "subject": "Teacher Education",
+    "unit": "IV",
+    "chapter": "Teacher Autonomy, Accountability and Responsibility",
+    "topic": "Teacher Autonomy, Accountability and Responsibility",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Dy.E.O. Standard",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "teacher-autonomy-accountability"
+  },
+  "questions": [
+    {
+      "id": "FOE-TAAR-0001",
+      "question": "Which statement best describes teacher autonomy in a professional context?",
+      "options": {
+        "A": "Freedom to act without any professional standards or institutional obligations",
+        "B": "Professional discretion to make informed educational decisions within legitimate curricular, ethical and institutional frameworks",
+        "C": "Authority to reject all forms of supervision",
+        "D": "Freedom to teach only the content preferred by the teacher"
+      },
+      "correctAnswer": "B",
+      "explanation": "Teacher autonomy is professional discretion exercised within curricular, ethical, legal and institutional responsibilities. It is not unrestricted personal freedom.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Teacher Autonomy", "Professionalism", "Professional Discretion"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0002",
+      "question": "Which of the following is the clearest example of pedagogical autonomy?",
+      "options": {
+        "A": "A teacher selects an appropriate teaching strategy after assessing the learning needs of the class",
+        "B": "A teacher ignores prescribed learning objectives",
+        "C": "A teacher refuses to assess students",
+        "D": "A teacher changes official school rules independently"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pedagogical autonomy allows teachers to exercise professional judgement regarding teaching methods and classroom strategies while working towards prescribed educational objectives.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Teacher Autonomy", "Pedagogical Autonomy", "Teaching Methods"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0003",
+      "question": "Teacher autonomy is most defensible when professional decisions are primarily based on:",
+      "options": {
+        "A": "Personal convenience",
+        "B": "Evidence, learner needs, professional knowledge and ethical considerations",
+        "C": "Avoidance of accountability",
+        "D": "Individual preference regardless of educational outcomes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Professional autonomy derives legitimacy from specialised knowledge, evidence, ethical judgement and commitment to learners rather than personal convenience.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Teacher Autonomy", "Professional Judgement", "Ethics"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0004",
+      "question": "Assertion A: Teacher autonomy and teacher accountability are not necessarily contradictory. Reason R: Professional autonomy permits informed discretion, while accountability requires teachers to justify decisions and accept responsibility for professional practice. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Professional autonomy and accountability are complementary when teachers have discretion but remain answerable for the quality, ethics and consequences of their professional decisions.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Teacher Autonomy", "Accountability", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0005",
+      "question": "Which situation represents responsible exercise of teacher autonomy?",
+      "options": {
+        "A": "Changing a teaching strategy because assessment evidence shows that students have not understood the concept",
+        "B": "Omitting difficult portions of the curriculum permanently without educational justification",
+        "C": "Refusing to maintain student records",
+        "D": "Ignoring the learning needs of low-performing students"
+      },
+      "correctAnswer": "A",
+      "explanation": "Responsible autonomy involves adapting professional practice on the basis of evidence and learner needs while continuing to pursue legitimate curricular goals.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Teacher Autonomy", "Responsibility", "Assessment"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0006",
+      "question": "Teacher accountability primarily means that a teacher is:",
+      "options": {
+        "A": "Answerable for professional decisions, duties and educational performance to legitimate stakeholders",
+        "B": "Required to obey every instruction without professional judgement",
+        "C": "Responsible only for examination marks",
+        "D": "Free from review once appointed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accountability involves answerability for professional conduct, decisions, duties and performance to learners, institutions, authorities, parents and society within appropriate frameworks.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Teacher Accountability", "Professional Responsibility", "Stakeholders"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0007",
+      "question": "Which distinction between accountability and responsibility is most appropriate?",
+      "options": {
+        "A": "Responsibility concerns duties and obligations, while accountability includes being answerable for how those duties are performed",
+        "B": "Responsibility and accountability are completely unrelated",
+        "C": "Accountability applies only to students",
+        "D": "Responsibility means freedom from consequences"
+      },
+      "correctAnswer": "A",
+      "explanation": "Responsibility refers to professional duties and obligations. Accountability adds answerability for the manner in which those responsibilities are fulfilled and for relevant outcomes.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Accountability", "Responsibility", "Teacher Professionalism"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0008",
+      "question": "A teacher completes the syllabus on schedule, but classroom evidence shows that a large number of students have not acquired expected competencies. Which response best reflects professional accountability?",
+      "options": {
+        "A": "Claim that syllabus completion alone ends the teacher's responsibility",
+        "B": "Analyse learning evidence, identify difficulties and modify instruction or provide appropriate support",
+        "C": "Blame students without investigation",
+        "D": "Stop assessing the class"
+      },
+      "correctAnswer": "B",
+      "explanation": "Professional accountability focuses not merely on procedural completion but also on examining evidence of learning and taking reasonable corrective action.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Teacher Accountability", "Learning Outcomes", "Professional Responsibility"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0009",
+      "question": "Which form of accountability is most directly involved when a teacher reflects critically on personal teaching effectiveness even without external inspection?",
+      "options": {
+        "A": "Professional or internal accountability",
+        "B": "Market accountability",
+        "C": "Financial accountability only",
+        "D": "Political accountability only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Professional accountability includes self-regulation, reflection and commitment to professional standards rather than dependence solely on external monitoring.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Professional Accountability", "Reflective Practice", "Self Regulation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0010",
+      "question": "Consider the following dimensions of teacher accountability: 1. Accountability to learners 2. Accountability to professional standards 3. Accountability to the institution and legitimate authorities 4. Accountability to society. Which are relevant?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "D",
+      "explanation": "Teacher accountability is multidimensional. Teachers have obligations towards learners, the profession, their institutions and the wider society served by education.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Teacher Accountability", "Stakeholders", "Statement Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0011",
+      "question": "Which approach to teacher accountability is most likely to promote genuine professional improvement?",
+      "options": {
+        "A": "Combining clear expectations, evidence, constructive feedback, professional support and appropriate consequences",
+        "B": "Using punishment as the only mechanism",
+        "C": "Ignoring performance entirely",
+        "D": "Judging teachers solely by one examination score"
+      },
+      "correctAnswer": "A",
+      "explanation": "Developmental accountability combines expectations and evidence with feedback, support and proportionate consequences, encouraging improvement rather than mere compliance.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Teacher Accountability", "Professional Development", "Feedback"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0012",
+      "question": "Assertion A: Excessive external control can weaken meaningful teacher autonomy. Reason R: When every professional decision is prescribed in detail, teachers have little scope to exercise context-sensitive professional judgement. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Over-prescription can reduce teachers to procedural compliance and limit the professional discretion needed to respond to learner and classroom contexts.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Teacher Autonomy", "External Control", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0013",
+      "question": "A school head requires every teacher to use exactly the same instructional method for every lesson regardless of subject, class or learner needs. Which professional concern is most evident?",
+      "options": {
+        "A": "Undue restriction of pedagogical autonomy",
+        "B": "Excessive learner autonomy",
+        "C": "Excessive financial decentralisation",
+        "D": "Absence of curriculum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Uniform prescription of teaching methods regardless of context restricts teachers' ability to exercise pedagogical judgement.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Pedagogical Autonomy", "School Leadership", "Teacher Professionalism"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0014",
+      "question": "Which condition most strongly supports responsible teacher autonomy?",
+      "options": {
+        "A": "Strong professional competence combined with clear ethical and institutional expectations",
+        "B": "Absence of professional preparation",
+        "C": "Complete absence of standards",
+        "D": "No evaluation of teaching"
+      },
+      "correctAnswer": "A",
+      "explanation": "Autonomy is most productive when teachers possess strong professional knowledge and operate within clear standards, ethical principles and legitimate institutional expectations.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Teacher Autonomy", "Professional Competence", "Ethics"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0015",
+      "question": "Which teacher action most clearly demonstrates professional responsibility towards learners?",
+      "options": {
+        "A": "Providing fair learning opportunities and appropriate support while respecting learner dignity",
+        "B": "Giving attention only to high achievers",
+        "C": "Publicly humiliating students who perform poorly",
+        "D": "Ignoring persistent learning difficulties"
+      },
+      "correctAnswer": "A",
+      "explanation": "Professional responsibility includes promoting learning, fairness, inclusion, support and respect for the dignity of every learner.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Teacher Responsibility", "Learners", "Equity", "Dignity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0016",
+      "question": "A teacher discovers that an assessment item unfairly disadvantages a particular group of learners. What is the most professionally responsible response?",
+      "options": {
+        "A": "Review and revise the assessment while preserving legitimate learning objectives",
+        "B": "Continue using it because it was already prepared",
+        "C": "Ignore evidence of unfairness",
+        "D": "Remove assessment entirely"
+      },
+      "correctAnswer": "A",
+      "explanation": "Professional responsibility requires teachers to examine fairness and validity and to correct assessment practices that unjustifiably disadvantage learners.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Teacher Responsibility", "Assessment", "Fairness", "Scenario Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0017",
+      "question": "Which statement best reflects collective professional responsibility in a school?",
+      "options": {
+        "A": "Teachers collaborate to improve learning and accept shared responsibility for broader school improvement",
+        "B": "Every teacher is concerned only with personal classroom records",
+        "C": "Teachers avoid discussing instructional problems with colleagues",
+        "D": "School improvement is solely the head teacher's responsibility"
+      },
+      "correctAnswer": "A",
+      "explanation": "Professional responsibility can be collective as well as individual. Collaboration among teachers contributes to school-wide learning and improvement.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Collective Responsibility", "Teacher Collaboration", "School Improvement"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0018",
+      "question": "Which of the following best represents ethical accountability?",
+      "options": {
+        "A": "Ensuring fairness, confidentiality, dignity and non-discrimination in professional conduct",
+        "B": "Producing high examination scores by any means",
+        "C": "Following orders even when they clearly violate learner dignity",
+        "D": "Sharing confidential student information publicly"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethical accountability requires professional conduct consistent with principles such as fairness, dignity, confidentiality and non-discrimination.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Ethical Accountability", "Teacher Ethics", "Confidentiality"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0019",
+      "question": "Assertion A: Teacher accountability should not be reduced to student examination results alone. Reason R: Student outcomes are influenced by multiple factors, and teacher professionalism includes responsibilities beyond test-score production. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Student achievement matters, but teacher accountability should use multiple indicators because learning is influenced by several factors and teaching includes broader professional obligations.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Teacher Accountability", "Learning Outcomes", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0020",
+      "question": "Which combination provides the most balanced evidence for evaluating teacher accountability? 1. Classroom observation 2. Student learning evidence 3. Professional conduct and responsibilities 4. Teacher reflection and professional development.",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "D",
+      "explanation": "A balanced accountability framework uses multiple sources rather than relying on a single measure. Teaching quality, learning evidence, professional conduct and professional growth are all relevant.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Teacher Accountability", "Teacher Evaluation", "Multiple Measures"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0021",
+      "question": "A teacher consistently records low achievement among several students but makes no attempt to diagnose their difficulties or alter instruction. Which professional dimension is most directly weakened?",
+      "options": {
+        "A": "Responsibility for learner progress",
+        "B": "Teacher autonomy itself",
+        "C": "Financial autonomy",
+        "D": "Institutional ownership"
+      },
+      "correctAnswer": "A",
+      "explanation": "Teachers are not responsible for guaranteeing identical outcomes, but they are professionally responsible for responding reasonably to evidence of learning difficulties.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Teacher Responsibility", "Learning Difficulties", "Scenario Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0022",
+      "question": "Which relationship among autonomy, competence and accountability is most appropriate?",
+      "options": {
+        "A": "Greater professional autonomy should be supported by competence and accompanied by accountability",
+        "B": "Autonomy makes competence unnecessary",
+        "C": "Accountability eliminates the need for professional judgement",
+        "D": "Competence is unrelated to autonomy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Professional autonomy is meaningful when practitioners possess the competence to exercise informed judgement and remain accountable for that judgement.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Teacher Autonomy", "Professional Competence", "Accountability"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0023",
+      "question": "A school introduces a new instructional programme. Teachers are encouraged to adapt classroom implementation according to learner needs but must document the adaptations and their outcomes. This arrangement best illustrates:",
+      "options": {
+        "A": "Autonomy with accountability",
+        "B": "Autonomy without responsibility",
+        "C": "Complete bureaucratic control",
+        "D": "Absence of professional standards"
+      },
+      "correctAnswer": "A",
+      "explanation": "Teachers are given discretion to adapt practice while remaining answerable through documentation and evidence of outcomes. This combines autonomy with accountability.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Teacher Autonomy", "Accountability", "Scenario Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0024",
+      "question": "A Dy.E.O. wants to strengthen teacher accountability without creating a culture of fear. Which strategy is most appropriate?",
+      "options": {
+        "A": "Use transparent expectations, multiple sources of evidence, constructive feedback, professional support and fair review",
+        "B": "Use surprise punishment as the principal strategy",
+        "C": "Publish individual teacher rankings based solely on one student test",
+        "D": "Remove all professional discretion from teachers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Constructive accountability combines clear standards and evidence with support, feedback and fair procedures. Fear-based systems may encourage compliance or concealment rather than genuine improvement.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["DyEO Scenario", "Teacher Accountability", "School Supervision", "Professional Development"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-TAAR-0025",
+      "question": "A Dy.E.O. observes that teachers in a school follow every administrative instruction mechanically but rarely modify teaching when students fail to understand. Which reform would best strengthen teacher professionalism?",
+      "options": {
+        "A": "Develop teachers' capacity for evidence-based professional judgement while maintaining clear accountability for learner support",
+        "B": "Issue increasingly detailed instructions for every classroom action",
+        "C": "Remove teachers from all instructional decision-making",
+        "D": "Evaluate teachers only through attendance records"
+      },
+      "correctAnswer": "A",
+      "explanation": "Teacher professionalism requires more than compliance. Teachers need competence and appropriate autonomy to make context-sensitive instructional decisions, together with accountability for responsible practice.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["DyEO Scenario", "Teacher Professionalism", "Autonomy", "Accountability"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },{
+  "id": "FOE-TAAR-0026",
+  "question": "Which situation best demonstrates professional rather than merely administrative accountability?",
+  "options": {
+    "A": "A teacher critically examines evidence of student learning and improves instruction even when no inspection is scheduled",
+    "B": "A teacher prepares records only on the day of inspection",
+    "C": "A teacher follows an order without considering its educational consequences",
+    "D": "A teacher considers attendance alone as evidence of effective teaching"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional accountability includes internal commitment to standards, learner progress and continuous improvement, rather than compliance only when externally monitored.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Professional Accountability", "Reflective Practice", "Teacher Responsibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0027",
+  "question": "Which principle should guide a teacher when professional autonomy appears to conflict with an institutional instruction?",
+  "options": {
+    "A": "Examine the legitimate purpose, applicable rules, learner welfare and professional ethics before deciding how to act",
+    "B": "Always ignore institutional instructions",
+    "C": "Always obey without exercising professional judgement",
+    "D": "Choose whichever action is personally easiest"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional autonomy operates within legitimate institutional, ethical and legal frameworks. Responsible judgement considers both professional obligations and learner welfare.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Autonomy", "Professional Ethics", "Institutional Responsibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0028",
+  "question": "Assertion A: Professional autonomy requires professional competence. Reason R: Meaningful professional discretion depends on the knowledge and judgement needed to choose among educational alternatives. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Autonomy without sufficient professional knowledge can become arbitrary decision-making. Competence provides the basis for informed professional judgement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Autonomy", "Professional Competence", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0029",
+  "question": "Which action most clearly represents curricular autonomy within legitimate limits?",
+  "options": {
+    "A": "Selecting locally relevant examples and learning experiences to achieve prescribed curricular objectives",
+    "B": "Discarding prescribed curricular objectives without justification",
+    "C": "Refusing to teach a subject assigned to the teacher",
+    "D": "Replacing the entire curriculum with personally preferred content"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teachers may exercise professional discretion in contextualising curriculum and selecting learning experiences while remaining responsible for prescribed curricular purposes.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Teacher Autonomy", "Curriculum", "Contextualisation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0030",
+  "question": "A teacher uses locally familiar examples to explain an abstract concept while maintaining the intended learning outcome. This is best interpreted as:",
+  "options": {
+    "A": "Context-sensitive exercise of pedagogical autonomy",
+    "B": "Violation of professional responsibility",
+    "C": "Rejection of curriculum",
+    "D": "Absence of accountability"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional autonomy enables teachers to adapt pedagogy to learners and context without abandoning legitimate curricular outcomes.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Pedagogical Autonomy", "Contextualisation", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0031",
+  "question": "Which form of accountability is most directly involved when teachers are expected to comply with legitimate service rules, institutional procedures and official duties?",
+  "options": {
+    "A": "Administrative accountability",
+    "B": "Pedagogical autonomy",
+    "C": "Market accountability",
+    "D": "Learner autonomy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Administrative accountability concerns answerability for compliance with legitimate institutional procedures, service obligations and administrative responsibilities.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Administrative Accountability", "Teacher Accountability", "Service Rules"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0032",
+  "question": "Which statement best distinguishes professional accountability from bureaucratic compliance?",
+  "options": {
+    "A": "Professional accountability involves informed commitment to educational standards and learner welfare, whereas bureaucratic compliance may focus primarily on following prescribed procedures",
+    "B": "Professional accountability means ignoring all procedures",
+    "C": "Bureaucratic compliance necessarily guarantees effective teaching",
+    "D": "There is no conceptual difference between the two"
+  },
+  "correctAnswer": "A",
+  "explanation": "Compliance with legitimate procedures is important, but professional accountability extends further to judgement, ethics, learner welfare and quality of practice.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Professional Accountability", "Bureaucratic Accountability", "Teacher Professionalism"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0033",
+  "question": "A teacher maintains every required register accurately but repeatedly uses ineffective teaching practices and ignores evidence of poor learning. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Administrative compliance is present, but broader professional accountability is weak",
+    "B": "Complete professional accountability has been achieved",
+    "C": "Student learning is irrelevant to teacher responsibility",
+    "D": "Accurate records eliminate the need for effective instruction"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teacher accountability includes administrative duties but cannot be reduced to record maintenance. Quality of teaching and appropriate responses to learner needs are also important.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Accountability", "Administrative Compliance", "Learning Outcomes"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0034",
+  "question": "Consider the following features of responsible teacher autonomy: 1. Professional competence 2. Evidence-based judgement 3. Ethical conduct 4. Answerability for decisions. Which are essential?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Responsible autonomy combines competence, evidence, ethics and accountability. Removing any of these weakens the professional basis of autonomous decision-making.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Autonomy", "Professional Competence", "Ethics", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0035",
+  "question": "Which teacher behaviour best represents accountability to parents without compromising professional autonomy?",
+  "options": {
+    "A": "Communicating learner progress transparently while using professional judgement about appropriate instructional decisions",
+    "B": "Allowing every parent to determine classroom grades",
+    "C": "Refusing to communicate with parents",
+    "D": "Changing assessment results whenever a parent demands it"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teachers should communicate appropriately with parents and remain answerable for learner progress while retaining legitimate professional judgement over teaching and assessment.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Teacher Accountability", "Parents", "Professional Autonomy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0036",
+  "question": "A teacher notices that personal expectations are influencing the amount of attention given to different groups of students. Which response best demonstrates professional responsibility?",
+  "options": {
+    "A": "Reflect on the bias and deliberately adopt fairer participation and support practices",
+    "B": "Continue the practice because teachers have complete autonomy",
+    "C": "Stop interacting with students",
+    "D": "Assume professional bias cannot affect learning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional responsibility includes reflective examination of one's own practices and correction of biases that may undermine fairness or learner opportunity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Responsibility", "Reflective Practice", "Equity", "Bias"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0037",
+  "question": "Assertion A: Teacher responsibility extends beyond transmitting subject content. Reason R: Teachers also have professional obligations relating to learner welfare, inclusion, assessment, ethical conduct and educational development. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teaching is a multidimensional professional role involving instruction as well as assessment, inclusion, learner support, ethical conduct and wider educational responsibilities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Responsibility", "Professional Role", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0038",
+  "question": "Which practice most strongly supports teacher self-accountability?",
+  "options": {
+    "A": "Systematic reflection using evidence from teaching and student learning",
+    "B": "Waiting for inspection before examining teaching quality",
+    "C": "Avoiding feedback from colleagues",
+    "D": "Maintaining the same method regardless of results"
+  },
+  "correctAnswer": "A",
+  "explanation": "Self-accountability involves internally driven reflection, evidence use and improvement rather than dependence entirely on external supervision.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Accountability", "Reflective Teaching", "Professional Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0039",
+  "question": "Which school culture is most likely to strengthen both teacher autonomy and accountability?",
+  "options": {
+    "A": "A culture of professional trust, collaboration, evidence use, clear expectations and constructive review",
+    "B": "A culture in which teachers never discuss their practice",
+    "C": "A culture based entirely on fear of punishment",
+    "D": "A culture with neither expectations nor review"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional trust combined with clear expectations, collaboration and evidence-based review allows teachers to exercise judgement while remaining responsible for practice.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["School Culture", "Teacher Autonomy", "Accountability", "Professional Trust"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0040",
+  "question": "Which statement best explains the role of professional trust in teacher autonomy?",
+  "options": {
+    "A": "Trust permits appropriate professional discretion but does not remove the need for evidence or accountability",
+    "B": "Trust means teachers should never be evaluated",
+    "C": "Trust eliminates professional standards",
+    "D": "Trust requires administrators to ignore misconduct"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional trust supports autonomy when teachers are treated as competent professionals, but trust operates alongside standards, evidence and accountability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Professional Trust", "Teacher Autonomy", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0041",
+  "question": "A school head delegates instructional decisions to experienced teachers but regularly reviews learner evidence with them. Which leadership approach is most consistent with responsible autonomy?",
+  "options": {
+    "A": "Professional empowerment combined with accountability",
+    "B": "Laissez-faire abandonment of responsibility",
+    "C": "Complete centralisation",
+    "D": "Punitive supervision"
+  },
+  "correctAnswer": "A",
+  "explanation": "Responsible empowerment provides teachers with meaningful professional discretion while retaining collaborative review of evidence and outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Autonomy", "School Leadership", "Empowerment", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0042",
+  "question": "Which accountability mechanism is most likely to distort teacher behaviour if used as the sole measure of performance?",
+  "options": {
+    "A": "A single high-stakes student test score",
+    "B": "Multiple sources of evidence",
+    "C": "Reflective self-evaluation",
+    "D": "Constructive classroom observation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reliance on one high-stakes indicator may narrow teaching and overlook contextual factors and other dimensions of professional practice.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Accountability", "High Stakes Testing", "Teacher Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0043",
+  "question": "A teacher is evaluated only on the percentage of students passing an examination. Which major limitation does this accountability model have?",
+  "options": {
+    "A": "It reduces complex professional performance to a single outcome indicator",
+    "B": "It uses too many indicators",
+    "C": "It gives excessive importance to professional ethics",
+    "D": "It necessarily measures classroom processes accurately"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teacher performance is multidimensional. A single examination indicator cannot adequately represent pedagogy, inclusion, professional conduct, learner growth and contextual factors.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Evaluation", "Accountability", "Learning Outcomes"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0044",
+  "question": "Which combination would provide the most defensible basis for reviewing teacher performance? 1. Classroom processes 2. Evidence of learner progress 3. Professional responsibilities 4. Contextual factors affecting teaching.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "A fair review should use multiple dimensions and take relevant context into account rather than reducing professional performance to one measure.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Performance", "Accountability", "Multiple Measures", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0045",
+  "question": "Which action most clearly violates professional responsibility regarding student information?",
+  "options": {
+    "A": "Publicly sharing confidential personal information without legitimate educational justification",
+    "B": "Maintaining records securely",
+    "C": "Sharing necessary information through authorised professional channels",
+    "D": "Protecting learner privacy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teachers have a professional responsibility to protect confidentiality and disclose student information only through appropriate and legitimate channels.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Teacher Responsibility", "Confidentiality", "Professional Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0046",
+  "question": "Assertion A: Transparency can strengthen teacher accountability. Reason R: Appropriate transparency enables legitimate stakeholders to understand professional expectations, processes and evidence while preserving necessary confidentiality. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Transparency supports answerability and trust, but it should operate alongside ethical obligations such as protection of confidential learner information.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Transparency", "Teacher Accountability", "Confidentiality", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0047",
+  "question": "A teacher realises after reviewing assessment data that the teaching strategy used was ineffective. Which action best reflects reflective professional responsibility?",
+  "options": {
+    "A": "Acknowledge the evidence, identify possible causes and redesign instruction",
+    "B": "Alter the marks to make the results appear better",
+    "C": "Hide the assessment evidence",
+    "D": "Continue the same method solely to avoid admitting difficulty"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reflective professionalism requires honest use of evidence and willingness to improve practice when existing approaches are ineffective.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Reflective Practice", "Teacher Responsibility", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0048",
+  "question": "A Dy.E.O. observes that teachers are reluctant to experiment with better teaching methods because every unsuccessful attempt is treated as misconduct. What is the most likely consequence?",
+  "options": {
+    "A": "A punitive accountability culture may suppress responsible professional innovation",
+    "B": "Teacher autonomy will necessarily increase",
+    "C": "Professional trust will automatically strengthen",
+    "D": "Innovation will become completely risk-free"
+  },
+  "correctAnswer": "A",
+  "explanation": "When reasonable professional experimentation is punished merely because it does not immediately succeed, teachers may avoid innovation and focus on defensive compliance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["DyEO Scenario", "Accountability", "Innovation", "Teacher Autonomy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0049",
+  "question": "What should a Dy.E.O. do when classroom observations reveal a genuine professional weakness rather than deliberate negligence?",
+  "options": {
+    "A": "Combine clear performance expectations with mentoring, professional development and subsequent review",
+    "B": "Immediately treat every weakness as misconduct",
+    "C": "Ignore the weakness permanently",
+    "D": "Remove all autonomy from every teacher in the school"
+  },
+  "correctAnswer": "A",
+  "explanation": "Developmental accountability distinguishes professional capacity gaps from misconduct and uses support, clear expectations and follow-up to improve performance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Teacher Accountability", "Mentoring", "Professional Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0050",
+  "question": "A Dy.E.O. is designing a teacher accountability system. Which model would best balance autonomy, responsibility and improvement?",
+  "options": {
+    "A": "Clear professional standards, appropriate teacher discretion, multiple evidence sources, constructive feedback, support and fair consequences",
+    "B": "Complete teacher freedom with no review",
+    "C": "Detailed control of every classroom decision with no teacher discretion",
+    "D": "Teacher ranking based solely on raw examination pass percentages"
+  },
+  "correctAnswer": "A",
+  "explanation": "A balanced professional accountability system combines legitimate autonomy with clear responsibilities, multiple forms of evidence, developmental support and fair answerability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Teacher Autonomy", "Accountability", "Professional Responsibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-TAAR-0051",
+  "question": "Which statement best distinguishes professional responsibility from mere task completion?",
+  "options": {
+    "A": "Professional responsibility requires attention to the quality, ethics and educational consequences of one's work, not merely completion of assigned tasks",
+    "B": "Professional responsibility ends whenever an assigned task is recorded as completed",
+    "C": "Professional responsibility concerns only attendance",
+    "D": "Task completion always guarantees effective teaching"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional responsibility extends beyond procedural compliance to the quality, ethics and educational consequences of professional practice.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Responsibility", "Professionalism", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0052",
+  "question": "A teacher regularly completes lesson plans but rarely modifies them even when classroom evidence shows that learners are confused. Which professional principle is most clearly neglected?",
+  "options": {
+    "A": "Responsive professional responsibility",
+    "B": "Financial accountability",
+    "C": "Institutional ownership",
+    "D": "Administrative decentralisation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Responsible teaching requires responsiveness to evidence of learner understanding rather than mechanical adherence to predetermined plans.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Teacher Responsibility", "Responsive Teaching", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0053",
+  "question": "Which of the following most appropriately limits teacher autonomy?",
+  "options": {
+    "A": "Learner rights, professional ethics, legitimate curriculum requirements and applicable institutional rules",
+    "B": "Personal preferences of every observer",
+    "C": "The requirement that all teachers use identical methods in every situation",
+    "D": "The assumption that teachers possess no professional judgement"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teacher autonomy is bounded by legitimate professional, ethical, curricular and institutional obligations, particularly the rights and welfare of learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Autonomy", "Professional Ethics", "Learner Rights"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0054",
+  "question": "Assertion A: Teacher autonomy cannot legitimately be used to justify discriminatory classroom practices. Reason R: Professional autonomy is constrained by ethical obligations concerning fairness, dignity and learner rights. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional autonomy does not override ethical duties. Discrimination violates fairness, dignity and the rights of learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Autonomy", "Ethics", "Discrimination", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0055",
+  "question": "A teacher gives additional instructional support to learners who have fallen behind. Some argue that every learner should receive exactly the same amount of support. Which principle best justifies the teacher's decision?",
+  "options": {
+    "A": "Equitable professional responsibility may require differentiated support according to learner need",
+    "B": "Teacher autonomy permits arbitrary favouritism",
+    "C": "Accountability requires identical treatment in all circumstances",
+    "D": "Professional responsibility applies only to high achievers"
+  },
+  "correctAnswer": "A",
+  "explanation": "Fairness does not always require identical treatment. Responsible teachers may provide differentiated support where learners have different educational needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Responsibility", "Equity", "Differentiated Support"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0056",
+  "question": "Which teacher action best represents accountability for assessment?",
+  "options": {
+    "A": "Using fair assessment procedures, maintaining accurate evidence and providing appropriate feedback",
+    "B": "Changing marks to satisfy external pressure",
+    "C": "Using assessment only to punish learners",
+    "D": "Refusing to explain assessment criteria"
+  },
+  "correctAnswer": "A",
+  "explanation": "Assessment accountability includes fairness, validity, accurate records, transparency of appropriate criteria and useful feedback.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Teacher Accountability", "Assessment", "Feedback"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0057",
+  "question": "A teacher deliberately awards higher marks to certain students because of personal relationships. Which dimensions of professionalism are most directly violated?",
+  "options": {
+    "A": "Ethical responsibility and assessment accountability",
+    "B": "Pedagogical autonomy only",
+    "C": "Curricular flexibility only",
+    "D": "Professional development only"
+  },
+  "correctAnswer": "A",
+  "explanation": "Biased grading violates fairness, professional ethics and the teacher's accountability for valid and impartial assessment.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Ethics", "Assessment Accountability", "Fairness"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0058",
+  "question": "Which statement best represents accountability for continuous professional development?",
+  "options": {
+    "A": "Teachers should continually update professional knowledge and skills needed to fulfil their educational responsibilities",
+    "B": "Initial qualification makes further learning unnecessary",
+    "C": "Professional development is unrelated to teacher responsibility",
+    "D": "Only inexperienced teachers require professional learning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional responsibility includes maintaining and improving competence as knowledge, curricula, learner needs and educational practices change.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Professional Development", "Teacher Responsibility", "Professional Competence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0059",
+  "question": "Consider the following as elements of teacher professional responsibility: 1. Maintaining subject and pedagogical competence 2. Protecting learner dignity 3. Using assessment responsibly 4. Participating in appropriate professional development. Which are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Teacher responsibility is multidimensional and includes competence, ethical treatment of learners, sound assessment and continuing professional growth.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Responsibility", "Professional Competence", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0060",
+  "question": "Which situation best demonstrates accountability to the teaching profession itself?",
+  "options": {
+    "A": "Maintaining professional standards and avoiding conduct that undermines the integrity of teaching",
+    "B": "Seeking examination results by any means",
+    "C": "Ignoring professional ethics whenever convenient",
+    "D": "Sharing confidential information for personal benefit"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teachers have responsibilities not only to particular institutions but also to uphold the standards, ethics and integrity of their profession.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Professional Accountability", "Teaching Profession", "Professional Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0061",
+  "question": "Which is the most appropriate relationship between teacher autonomy and curriculum?",
+  "options": {
+    "A": "Teachers exercise professional judgement in interpreting and implementing curriculum while remaining accountable to legitimate curricular aims",
+    "B": "Autonomy means teachers may disregard every curricular requirement",
+    "C": "Curriculum eliminates all need for teacher judgement",
+    "D": "Autonomy and curriculum cannot coexist"
+  },
+  "correctAnswer": "A",
+  "explanation": "Curriculum establishes educational purposes and expectations, while professional teachers exercise context-sensitive judgement in translating them into classroom learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Autonomy", "Curriculum", "Professional Judgement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0062",
+  "question": "A prescribed textbook contains an example that is inappropriate for the local context. The teacher substitutes a more relevant example without changing the intended concept. This is best regarded as:",
+  "options": {
+    "A": "Legitimate contextualisation through professional autonomy",
+    "B": "Automatic professional misconduct",
+    "C": "Rejection of accountability",
+    "D": "Abandonment of curriculum"
+  },
+  "correctAnswer": "A",
+  "explanation": "Contextual adaptation that preserves the intended learning goal is an appropriate exercise of pedagogical and curricular judgement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Teacher Autonomy", "Contextualisation", "Curriculum"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0063",
+  "question": "Assertion A: Standardisation and teacher autonomy need not always be mutually exclusive. Reason R: A system may establish common learning expectations while allowing teachers discretion in how those expectations are achieved. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Common standards can define expected outcomes while teachers retain appropriate autonomy over pedagogy, examples, pacing and learner support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Autonomy", "Standardisation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0064",
+  "question": "Which accountability system is most likely to encourage 'teaching to the test'?",
+  "options": {
+    "A": "One that attaches very high consequences to a narrow set of test-score indicators",
+    "B": "One that uses multiple evidence sources and classroom observations",
+    "C": "One that encourages reflective professional practice",
+    "D": "One that considers learner growth and context"
+  },
+  "correctAnswer": "A",
+  "explanation": "When accountability depends heavily on narrow high-stakes measures, teachers may concentrate disproportionately on tested content at the expense of broader educational aims.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Accountability", "Teaching to the Test", "High Stakes Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0065",
+  "question": "A teacher's students show limited progress. Before attributing the result entirely to teacher performance, an administrator should:",
+  "options": {
+    "A": "Examine teaching evidence together with learner starting points, attendance, resources and other relevant contextual factors",
+    "B": "Assume the teacher alone determines every learning outcome",
+    "C": "Ignore classroom practice completely",
+    "D": "Use only the final examination average"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teacher practice is important, but fair accountability recognises that learning outcomes are influenced by multiple factors. Multiple evidence sources are therefore needed.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Accountability", "Context", "Teacher Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0066",
+  "question": "Which statement most accurately describes developmental accountability?",
+  "options": {
+    "A": "It uses accountability evidence not only for judgement but also to identify support and improve professional practice",
+    "B": "It avoids all evaluation",
+    "C": "It relies exclusively on punishment",
+    "D": "It assumes every performance problem is deliberate misconduct"
+  },
+  "correctAnswer": "A",
+  "explanation": "Developmental accountability combines answerability with diagnosis, feedback, support and professional improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Developmental Accountability", "Professional Development", "Teacher Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0067",
+  "question": "Which situation requires corrective accountability rather than professional development alone?",
+  "options": {
+    "A": "A teacher knowingly falsifies official assessment records",
+    "B": "A newly appointed teacher needs support with classroom management",
+    "C": "A teacher seeks help using a new teaching strategy",
+    "D": "A teacher requests mentoring in assessment design"
+  },
+  "correctAnswer": "A",
+  "explanation": "Deliberate falsification is an ethical and professional breach and requires appropriate corrective accountability. Genuine capacity gaps are more appropriately addressed through support and development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Accountability", "Professional Misconduct", "Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0068",
+  "question": "Which distinction is most important when a school leader responds to weak teacher performance?",
+  "options": {
+    "A": "Distinguishing lack of professional capacity from deliberate negligence or misconduct",
+    "B": "Treating every weakness as identical",
+    "C": "Assuming support is never useful",
+    "D": "Ignoring the cause of the problem"
+  },
+  "correctAnswer": "A",
+  "explanation": "Appropriate accountability requires diagnosis. Capacity gaps may require mentoring and development, whereas deliberate negligence or misconduct may require corrective action.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Accountability", "Capacity", "Negligence", "School Leadership"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0069",
+  "question": "Consider the following characteristics of a fair teacher accountability system: 1. Clear expectations 2. Multiple sources of evidence 3. Opportunity for professional support 4. Transparent and fair procedures. Which are desirable?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Fair accountability requires clarity, adequate evidence, developmental support and transparent procedures rather than arbitrary judgement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Accountability", "Fairness", "Multiple Measures", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0070",
+  "question": "Assertion A: Accountability based entirely on external inspection may fail to produce sustained professional improvement. Reason R: Sustainable professionalism also requires internal commitment, reflection and self-regulation. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "External accountability has a role, but lasting professional quality also depends on internal professional standards, reflection and self-regulation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Accountability", "Self Regulation", "External Accountability", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0071",
+  "question": "A school has excellent teacher attendance records but persistently weak classroom instruction. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Attendance is one accountability indicator but cannot by itself establish professional effectiveness",
+    "B": "Excellent attendance proves excellent teaching",
+    "C": "Classroom instruction is unrelated to accountability",
+    "D": "No further evidence is necessary"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teacher attendance is necessary but professional accountability also concerns instructional quality, learner support, ethical conduct and other responsibilities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Accountability", "Attendance", "Teaching Quality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0072",
+  "question": "A head teacher wants teachers to take greater responsibility for school improvement. Which strategy is most likely to help?",
+  "options": {
+    "A": "Provide meaningful participation in professional decisions together with shared responsibility for agreed outcomes",
+    "B": "Exclude teachers from all decision-making",
+    "C": "Make the head teacher solely responsible for every outcome",
+    "D": "Prevent collaboration among teachers"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional participation can strengthen ownership and collective responsibility when teachers also remain accountable for agreed educational goals.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Autonomy", "Collective Responsibility", "School Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0073",
+  "question": "Which statement best explains collective teacher autonomy?",
+  "options": {
+    "A": "Teachers participate professionally as a group in appropriate curricular, instructional and school-improvement decisions",
+    "B": "Every teacher acts independently without coordination",
+    "C": "Teachers replace all legitimate administrative authority",
+    "D": "Teachers are free from shared professional standards"
+  },
+  "correctAnswer": "A",
+  "explanation": "Autonomy may be exercised collectively through professional collaboration and participation in decisions affecting teaching, curriculum and school improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Collective Autonomy", "Teacher Collaboration", "School Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0074",
+  "question": "A Dy.E.O. finds that teachers are submitting identical lesson plans copied from a standard source, although their classrooms have very different learning needs. Which intervention is most appropriate?",
+  "options": {
+    "A": "Encourage context-sensitive planning based on learner evidence while maintaining accountability to curricular objectives",
+    "B": "Require even more identical planning regardless of context",
+    "C": "Stop lesson planning entirely",
+    "D": "Judge planning only by the number of pages submitted"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional planning should respond to actual learners and contexts. Accountability should focus on educational purpose and quality rather than mechanical uniformity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Teacher Autonomy", "Lesson Planning", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0075",
+  "question": "A Dy.E.O. wants to determine whether greater teacher autonomy has actually improved professional practice. Which evidence would be most useful?",
+  "options": {
+    "A": "Changes in instructional quality, teacher decision-making, responsiveness to learner needs, professional collaboration and learning evidence",
+    "B": "Only the number of circulars issued",
+    "C": "Only teacher attendance",
+    "D": "Only the number of lesson plans submitted"
+  },
+  "correctAnswer": "A",
+  "explanation": "The impact of autonomy should be examined through professional practice and its educational consequences rather than through administrative counts alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Teacher Autonomy", "Professional Practice", "Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-TAAR-0076",
+  "question": "Which statement best describes professional responsibility for inclusive teaching?",
+  "options": {
+    "A": "Teachers should identify and reduce avoidable barriers to participation and learning",
+    "B": "Teachers are responsible only for students who learn easily",
+    "C": "Inclusion is unrelated to classroom teaching",
+    "D": "All learners should be taught identically regardless of need"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional responsibility includes creating fair opportunities to participate and learn by responding appropriately to learner diversity and barriers.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Teacher Responsibility", "Inclusion", "Learner Diversity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0077",
+  "question": "A teacher discovers that a learner with a disability cannot access a classroom activity. Which response most clearly reflects professional responsibility?",
+  "options": {
+    "A": "Adapt the activity or provide appropriate support while preserving the intended learning goal",
+    "B": "Exclude the learner from the activity",
+    "C": "Lower every learning expectation for the entire class",
+    "D": "Ignore the barrier because the same activity was given to everyone"
+  },
+  "correctAnswer": "A",
+  "explanation": "Responsible inclusive practice removes unnecessary barriers while maintaining legitimate educational goals.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Teacher Responsibility", "Inclusion", "Disability", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0078",
+  "question": "Assertion A: Teacher autonomy can contribute to inclusion. Reason R: Teachers may use professional judgement to adapt pedagogy and support according to diverse learner needs. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Appropriate autonomy enables teachers to make context-sensitive instructional adaptations that support diverse learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Autonomy", "Inclusion", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0079",
+  "question": "Which situation most clearly represents misuse of teacher autonomy?",
+  "options": {
+    "A": "A teacher refuses to provide required learning opportunities because of personal prejudice",
+    "B": "A teacher changes examples to suit learner context",
+    "C": "A teacher differentiates instruction based on assessment evidence",
+    "D": "A teacher selects an appropriate classroom activity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional autonomy cannot justify prejudicial or discriminatory decisions that violate learner rights and professional ethics.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Autonomy", "Professional Ethics", "Misuse of Autonomy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0080",
+  "question": "Which is the most appropriate basis for holding a teacher accountable for a professional decision?",
+  "options": {
+    "A": "Whether the decision was informed, ethical, reasonable and consistent with professional obligations",
+    "B": "Whether every observer personally agrees with it",
+    "C": "Whether it was the easiest option",
+    "D": "Whether it avoided all professional risk"
+  },
+  "correctAnswer": "A",
+  "explanation": "Accountability should examine the quality and legitimacy of professional judgement, not demand identical decisions in every complex situation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Accountability", "Professional Judgement", "Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0081",
+  "question": "Which statement best describes accountability to learners?",
+  "options": {
+    "A": "Teachers are answerable for providing fair, respectful and professionally competent educational opportunities",
+    "B": "Teachers must guarantee identical achievement by every learner",
+    "C": "Teachers must accept every learner demand",
+    "D": "Teacher accountability ends once attendance is recorded"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teachers are responsible for professional opportunities and practices, but they cannot guarantee identical outcomes because learning depends on multiple factors.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Teacher Accountability", "Learners", "Professional Responsibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0082",
+  "question": "A teacher reports that a class has weak foundational skills and requests additional instructional time and support. Which professional quality is most evident?",
+  "options": {
+    "A": "Responsible use of evidence and professional voice",
+    "B": "Avoidance of accountability",
+    "C": "Administrative insubordination",
+    "D": "Lack of teacher autonomy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional responsibility includes identifying learner needs, using evidence and communicating legitimate instructional requirements.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Responsibility", "Professional Voice", "Learning Evidence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0083",
+  "question": "Consider the following responsibilities of teachers towards the school as an organisation: 1. Collaboration with colleagues 2. Participation in legitimate institutional responsibilities 3. Accurate professional records 4. Contribution to school improvement. Which are relevant?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Teacher responsibility includes classroom work as well as appropriate institutional collaboration, documentation and participation in school improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Responsibility", "School Organisation", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0084",
+  "question": "Which school practice most strongly encourages collective accountability?",
+  "options": {
+    "A": "Teachers jointly analyse learning evidence and plan improvement strategies",
+    "B": "Teachers work in complete professional isolation",
+    "C": "Every teacher hides classroom problems from colleagues",
+    "D": "Only the head teacher reviews student learning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Collective accountability develops when teachers share evidence, responsibility and professional action for improving learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Collective Accountability", "Teacher Collaboration", "School Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0085",
+  "question": "Assertion A: Collaboration can strengthen rather than weaken teacher autonomy. Reason R: Professional autonomy can include collective professional judgement, not merely isolated individual decision-making. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional autonomy can operate individually and collectively. Collaborative judgement can strengthen the quality and legitimacy of professional decisions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Autonomy", "Collaboration", "Collective Professionalism"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0086",
+  "question": "Which accountability practice is most likely to encourage defensive behaviour rather than genuine improvement?",
+  "options": {
+    "A": "Public humiliation based on a narrow performance measure",
+    "B": "Confidential professional feedback supported by evidence",
+    "C": "Mentoring followed by review",
+    "D": "Collaborative examination of learning evidence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Punitive and humiliating accountability can encourage concealment, fear and defensive compliance rather than honest reflection and improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Accountability", "Punitive Accountability", "Professional Culture"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0087",
+  "question": "A teacher receives constructive feedback after classroom observation and then experiments with an improved strategy. Which accountability function is illustrated?",
+  "options": {
+    "A": "Developmental accountability",
+    "B": "Punitive accountability only",
+    "C": "Financial accountability",
+    "D": "Absence of accountability"
+  },
+  "correctAnswer": "A",
+  "explanation": "Developmental accountability uses evidence and feedback to improve professional practice rather than focusing solely on judgement or punishment.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Developmental Accountability", "Feedback", "Professional Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0088",
+  "question": "Which relationship between supervision and autonomy is most appropriate?",
+  "options": {
+    "A": "Supportive supervision can strengthen professional autonomy by improving competence and judgement",
+    "B": "Any supervision automatically destroys autonomy",
+    "C": "Autonomy requires complete absence of professional review",
+    "D": "Supervision should control every instructional decision"
+  },
+  "correctAnswer": "A",
+  "explanation": "Supervision need not be controlling. Supportive supervision can develop professional competence, reflection and responsible autonomy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Supervision", "Teacher Autonomy", "Professional Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0089",
+  "question": "A head teacher gives teachers freedom to choose instructional strategies but provides no curriculum guidance, professional support or review. Which description is most accurate?",
+  "options": {
+    "A": "Freedom without sufficient professional support or accountability",
+    "B": "Ideal responsible autonomy",
+    "C": "Strong developmental supervision",
+    "D": "High administrative accountability"
+  },
+  "correctAnswer": "A",
+  "explanation": "Responsible autonomy requires not only discretion but also competence, expectations, support and accountability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Autonomy", "School Leadership", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0090",
+  "question": "Which principle should guide accountability when student outcomes are affected by factors beyond the teacher's control?",
+  "options": {
+    "A": "Use multiple sources of evidence and assess the quality of professional action within the relevant context",
+    "B": "Hold the teacher solely responsible for every outcome",
+    "C": "Ignore student learning completely",
+    "D": "Use one raw score regardless of context"
+  },
+  "correctAnswer": "A",
+  "explanation": "Fair accountability recognises contextual influences while still examining whether teachers have acted competently and responsibly within their professional role.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Accountability", "Context", "Fair Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0091",
+  "question": "Which is the best example of accountability for professional growth?",
+  "options": {
+    "A": "A teacher identifies a weakness, undertakes relevant training and demonstrates improvement in practice",
+    "B": "A teacher refuses all feedback after appointment",
+    "C": "A teacher attends training only to obtain a certificate without applying learning",
+    "D": "A teacher assumes experience makes further learning unnecessary"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional growth accountability concerns identifying needs, engaging meaningfully in development and improving practice.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Professional Development", "Teacher Accountability", "Professional Growth"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0092",
+  "question": "Which statement best captures the idea of teacher agency?",
+  "options": {
+    "A": "The capacity of teachers to act intentionally and professionally to influence educational practice within contextual constraints",
+    "B": "Freedom from every institutional requirement",
+    "C": "Complete control over educational policy",
+    "D": "Mechanical implementation of instructions without judgement"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teacher agency refers to the capacity to exercise purposeful professional action within social, institutional and policy contexts.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Teacher Agency", "Teacher Autonomy", "Professional Action"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0093",
+  "question": "Which school condition is most likely to strengthen teacher agency?",
+  "options": {
+    "A": "Professional trust, access to evidence, collaboration and meaningful participation in decisions",
+    "B": "Rigid prohibition of teacher input",
+    "C": "Punishment for all professional experimentation",
+    "D": "Complete isolation among teachers"
+  },
+  "correctAnswer": "A",
+  "explanation": "Teacher agency grows where teachers have competence, information, professional voice, collaboration and legitimate scope for action.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teacher Agency", "Professional Trust", "Collaboration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0094",
+  "question": "Assertion A: Teacher agency and accountability can reinforce each other. Reason R: Teachers who have meaningful professional voice can take greater ownership of decisions and outcomes when expectations are clear. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Meaningful professional participation can strengthen ownership and responsibility, provided autonomy operates within clear standards and accountability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Agency", "Accountability", "Professional Ownership", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0095",
+  "question": "A Dy.E.O. observes that teachers rarely discuss learning problems because they fear that admitting difficulties will be used against them. Which issue is most evident?",
+  "options": {
+    "A": "Low psychological safety is weakening professional accountability and collaborative improvement",
+    "B": "Teachers have excessive curricular autonomy",
+    "C": "The school has too much professional trust",
+    "D": "Accountability is unnecessary"
+  },
+  "correctAnswer": "A",
+  "explanation": "When professionals fear punishment for honest discussion of problems, evidence may be hidden and opportunities for collective improvement are reduced.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["DyEO Scenario", "Psychological Safety", "Teacher Accountability", "School Culture"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0096",
+  "question": "What should a Dy.E.O. do to encourage honest professional self-evaluation among teachers?",
+  "options": {
+    "A": "Create clear standards and supportive review processes in which evidence of weakness leads first to appropriate improvement support unless misconduct is involved",
+    "B": "Punish every admission of difficulty",
+    "C": "Eliminate all evaluation",
+    "D": "Use only anonymous examination scores"
+  },
+  "correctAnswer": "A",
+  "explanation": "Constructive accountability encourages honest evidence use by distinguishing developmental needs from misconduct and providing appropriate support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Self Evaluation", "Developmental Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0097",
+  "question": "A Dy.E.O. finds that a school has detailed accountability records but no evidence that the information is used to improve teaching. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Accountability has become procedural rather than developmental",
+    "B": "The accountability system is necessarily excellent",
+    "C": "Teaching improvement is unrelated to accountability",
+    "D": "More paperwork alone will solve the problem"
+  },
+  "correctAnswer": "A",
+  "explanation": "Accountability data have limited professional value if they are collected only for compliance and not used for reflection, support or improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Procedural Accountability", "Professional Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0098",
+  "question": "Which sequence best represents a professional accountability cycle?",
+  "options": {
+    "A": "Set expectations, collect evidence, reflect and review, support improvement, follow up",
+    "B": "Punish first, identify expectations later, avoid evidence",
+    "C": "Collect records, store them permanently, take no action",
+    "D": "Allow complete autonomy with no expectations or review"
+  },
+  "correctAnswer": "A",
+  "explanation": "Effective accountability is cyclical and uses clear expectations, evidence, reflection, improvement action and follow-up.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Accountability", "Accountability Cycle", "Professional Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0099",
+  "question": "A Dy.E.O. wants to distinguish a highly autonomous professional teacher from an unaccountable teacher. Which evidence is most decisive?",
+  "options": {
+    "A": "The teacher exercises informed discretion, can justify decisions with evidence and ethics, and responds to outcomes",
+    "B": "The teacher makes every decision alone",
+    "C": "The teacher never follows institutional expectations",
+    "D": "The teacher avoids all documentation and review"
+  },
+  "correctAnswer": "A",
+  "explanation": "Professional autonomy is distinguished from unaccountability by competence, justification, ethical responsibility and answerability for professional decisions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Teacher Autonomy", "Accountability", "Professional Judgement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-TAAR-0100",
+  "question": "A Dy.E.O. is evaluating whether a school has achieved a healthy balance among teacher autonomy, accountability and responsibility. Which evidence would be most comprehensive?",
+  "options": {
+    "A": "Teachers exercise professional judgement, follow ethical and curricular obligations, use evidence, collaborate, support diverse learners and remain answerable through fair review",
+    "B": "Teachers follow every instruction mechanically",
+    "C": "Teachers work without any supervision or professional standards",
+    "D": "Teacher performance is judged only by attendance and examination pass percentage"
+  },
+  "correctAnswer": "A",
+  "explanation": "A healthy professional system combines discretion with competence, ethics, evidence, collaboration, learner responsibility and fair accountability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Teacher Autonomy", "Accountability", "Responsibility", "Unit IV.3"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+} 
+ ]
+}

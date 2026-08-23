@@ -35,8 +35,20 @@ const repository = {
         "Educational Management": [],
 
         "Assessment": [],
+        
 
-        "Teacher Education": [],
+        "Teacher Education": [
+            "Teacher Autonomy, Accountability and Responsibility"
+        ],
+        
+        "Environmental Education": [
+            "Sustainable Development and Environmental Education",
+        ],
+        
+        "Economics of Education": [
+            "Basics in Economics of Education and Educational Finance",
+     ],
+
 
         "General Studies": []
 

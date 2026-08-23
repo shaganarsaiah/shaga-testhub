@@ -1,0 +1,2412 @@
+{
+  "metadata": {
+    "subject": "Environmental Education",
+    "unit": "IV",
+    "chapter": "Sustainable Development and Environmental Education",
+    "topic": "Sustainable Development and Environmental Education",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Dy.E.O. Standard",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "sustainable-development-environmental-education"
+  },
+  "questions": [
+    {
+      "id": "FOE-SDEE-0001",
+      "question": "Which statement best represents the concept of sustainable development?",
+      "options": {
+        "A": "Development that maximises present consumption regardless of future consequences",
+        "B": "Development that addresses present needs while safeguarding the capacity of future generations to meet their needs",
+        "C": "Development concerned exclusively with environmental conservation",
+        "D": "Development that completely prohibits the use of natural resources"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sustainable development seeks to meet present needs without undermining the ability of future generations to meet their own needs.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Sustainable Development", "Intergenerational Equity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0002",
+      "question": "The widely cited definition of sustainable development as meeting present needs without compromising future generations is most closely associated with:",
+      "options": {
+        "A": "Brundtland Commission",
+        "B": "Kothari Commission",
+        "C": "Hunter Commission",
+        "D": "Mudaliar Commission"
+      },
+      "correctAnswer": "A",
+      "explanation": "The World Commission on Environment and Development, commonly known as the Brundtland Commission, popularised this formulation in its 1987 report 'Our Common Future'.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Remember",
+      "tags": ["Brundtland Commission", "Sustainable Development", "Our Common Future"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0003",
+      "question": "Which three dimensions are most commonly integrated in sustainable development?",
+      "options": {
+        "A": "Economic, social and environmental",
+        "B": "Political, military and technological",
+        "C": "Local, national and international",
+        "D": "Primary, secondary and tertiary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sustainable development requires consideration of economic viability, social well-being and environmental sustainability together.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Sustainable Development", "Economic", "Social", "Environmental"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0004",
+      "question": "Assertion A: Sustainable development cannot be reduced to environmental protection alone. Reason R: It attempts to integrate environmental sustainability with social well-being and economic development. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sustainability is multidimensional. Environmental protection is essential, but sustainable development also addresses social and economic dimensions.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Sustainable Development", "Assertion Reason", "Three Dimensions"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0005",
+      "question": "Which principle of sustainable development is most directly concerned with fairness between present and future generations?",
+      "options": {
+        "A": "Intergenerational equity",
+        "B": "Centralisation",
+        "C": "Standardisation",
+        "D": "Privatisation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intergenerational equity concerns fairness in the use and preservation of resources between present and future generations.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Intergenerational Equity", "Sustainability"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0006",
+      "question": "A community consumes groundwater considerably faster than the aquifer can naturally recharge. From the perspective of sustainable development, the principal concern is:",
+      "options": {
+        "A": "Unsustainable resource use",
+        "B": "Excessive environmental education",
+        "C": "Overproduction of renewable resources",
+        "D": "Excessive intergenerational equality"
+      },
+      "correctAnswer": "A",
+      "explanation": "Resource consumption that persistently exceeds the capacity for natural replenishment threatens long-term availability and sustainability.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Natural Resources", "Groundwater", "Sustainability"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0007",
+      "question": "Which concept concerns fairness in the distribution of environmental benefits and burdens among people living at the same time?",
+      "options": {
+        "A": "Intragenerational equity",
+        "B": "Intergenerational equity",
+        "C": "Ecological succession",
+        "D": "Institutional autonomy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intragenerational equity concerns fairness among people of the present generation, including unequal exposure to environmental harm and unequal access to resources.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Intragenerational Equity", "Environmental Justice"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0008",
+      "question": "A hazardous waste facility is repeatedly located near economically disadvantaged communities. Which sustainability concern is most directly involved?",
+      "options": {
+        "A": "Environmental justice",
+        "B": "Pedagogical autonomy",
+        "C": "Cultural assimilation",
+        "D": "Educational privatisation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Environmental justice examines whether environmental harms and benefits are distributed fairly among different communities and social groups.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Environmental Justice", "Equity", "Social Sustainability"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0009",
+      "question": "Which statement best describes environmental education?",
+      "options": {
+        "A": "Education that develops knowledge, awareness, values, skills and participation needed to address environmental issues",
+        "B": "Memorisation of names of plants and animals only",
+        "C": "Teaching environmental science only at university level",
+        "D": "Education intended exclusively for environmental professionals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Environmental education extends beyond factual knowledge to awareness, attitudes, skills and responsible participation concerning environmental issues.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Environmental Education", "Awareness", "Participation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0010",
+      "question": "Which sequence most closely represents the broad progression intended in environmental education?",
+      "options": {
+        "A": "Awareness and knowledge → attitudes and values → skills → participation and action",
+        "B": "Punishment → memorisation → examination → forgetting",
+        "C": "Information → examination marks only",
+        "D": "Observation → avoidance → indifference"
+      },
+      "correctAnswer": "A",
+      "explanation": "Environmental education aims to develop awareness and knowledge, constructive attitudes, problem-solving skills and responsible participation.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Environmental Education", "Environmental Awareness", "Action"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0011",
+      "question": "Consider the following objectives of environmental education: 1. Awareness 2. Knowledge 3. Attitudes and values 4. Skills and participation. Which are relevant?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "D",
+      "explanation": "Environmental education is intended to develop awareness, understanding, values, skills and active participation in environmental problem-solving.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Environmental Education", "Objectives", "Statement Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0012",
+      "question": "Which international conference is particularly associated with the 1977 Tbilisi Declaration on environmental education?",
+      "options": {
+        "A": "Tbilisi Intergovernmental Conference on Environmental Education",
+        "B": "Bretton Woods Conference",
+        "C": "Bandung Conference",
+        "D": "Yalta Conference"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 1977 Intergovernmental Conference on Environmental Education at Tbilisi was a landmark in defining principles and objectives of environmental education.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Remember",
+      "tags": ["Tbilisi Declaration", "Environmental Education", "1977"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0013",
+      "question": "Assertion A: Environmental education should be interdisciplinary. Reason R: Environmental problems involve ecological, scientific, economic, social, cultural and ethical dimensions. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Environmental problems cross disciplinary boundaries, making interdisciplinary understanding essential.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Environmental Education", "Interdisciplinary", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0014",
+      "question": "Which classroom approach is most consistent with environmental education?",
+      "options": {
+        "A": "Investigating a local environmental problem using observations, data and community perspectives",
+        "B": "Memorising definitions without examining environmental situations",
+        "C": "Avoiding all discussion of local environmental problems",
+        "D": "Treating environmental education as unrelated to daily life"
+      },
+      "correctAnswer": "A",
+      "explanation": "Environmental education is strengthened through experiential, inquiry-based and locally relevant learning that connects knowledge with real environmental issues.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Environmental Education", "Experiential Learning", "Local Environment"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0015",
+      "question": "Students investigate why a nearby pond has become polluted, collect evidence, interview residents and propose solutions. Which educational approach is most clearly demonstrated?",
+      "options": {
+        "A": "Problem-based and experiential environmental learning",
+        "B": "Rote learning",
+        "C": "Passive reception alone",
+        "D": "Decontextualised instruction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Investigation of authentic environmental problems develops inquiry, problem-solving, participation and connections between school learning and community life.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Environmental Education", "Problem Based Learning", "Experiential Learning"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0016",
+      "question": "Which principle is most closely reflected when environmental education begins with issues in the learner's immediate surroundings and later connects them to wider environmental processes?",
+      "options": {
+        "A": "Think globally and act locally while connecting local and global systems",
+        "B": "Environmental issues should be studied only globally",
+        "C": "Local environments have no educational value",
+        "D": "Environmental education should avoid community experience"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective environmental education connects learners' immediate environment with regional and global environmental relationships.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Environmental Education", "Local Global", "Environmental Awareness"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0017",
+      "question": "The United Nations Sustainable Development Goals were adopted as part of which global framework?",
+      "options": {
+        "A": "2030 Agenda for Sustainable Development",
+        "B": "Universal Declaration of Human Rights",
+        "C": "Bretton Woods Agreement",
+        "D": "Geneva Convention"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 17 Sustainable Development Goals form the core of the United Nations 2030 Agenda for Sustainable Development adopted in 2015.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Remember",
+      "tags": ["SDGs", "2030 Agenda", "United Nations"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0018",
+      "question": "How many Sustainable Development Goals are included in the 2030 Agenda?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "17",
+        "D": "21"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 2030 Agenda contains 17 Sustainable Development Goals addressing interconnected social, economic and environmental challenges.",
+      "difficulty": "Moderate",
+      "cognitiveLevel": "Remember",
+      "tags": ["SDGs", "17 Goals", "2030 Agenda"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0019",
+      "question": "Which Sustainable Development Goal is specifically concerned with Quality Education?",
+      "options": {
+        "A": "SDG 2",
+        "B": "SDG 4",
+        "C": "SDG 8",
+        "D": "SDG 13"
+      },
+      "correctAnswer": "B",
+      "explanation": "SDG 4 seeks to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.",
+      "difficulty": "Moderate",
+      "cognitiveLevel": "Remember",
+      "tags": ["SDG 4", "Quality Education", "SDGs"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0020",
+      "question": "Which SDG target is particularly important for Education for Sustainable Development and global citizenship education?",
+      "options": {
+        "A": "Target 4.7",
+        "B": "Target 1.1",
+        "C": "Target 2.1",
+        "D": "Target 9.1"
+      },
+      "correctAnswer": "A",
+      "explanation": "SDG Target 4.7 explicitly addresses knowledge and skills needed to promote sustainable development, including education for sustainable development and global citizenship.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Remember",
+      "tags": ["SDG 4.7", "Education for Sustainable Development", "Global Citizenship"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0021",
+      "question": "Which statement best distinguishes Education for Sustainable Development from environmental education narrowly understood?",
+      "options": {
+        "A": "Education for Sustainable Development explicitly integrates environmental, social and economic dimensions of sustainability",
+        "B": "Education for Sustainable Development concerns only wildlife conservation",
+        "C": "Environmental education always excludes human society",
+        "D": "There is no educational relationship between sustainability and development"
+      },
+      "correctAnswer": "A",
+      "explanation": "Education for Sustainable Development has a broad sustainability orientation, integrating environmental concerns with social justice, economic well-being and responsible development.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["ESD", "Environmental Education", "Sustainable Development"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0022",
+      "question": "Consider the following competencies relevant to Education for Sustainable Development: 1. Systems thinking 2. Critical thinking 3. Collaborative problem-solving 4. Anticipatory thinking about future consequences. Which are relevant?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3 only",
+        "C": "2, 3 and 4 only",
+        "D": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sustainability education requires learners to understand interconnected systems, think critically, anticipate future consequences and collaborate in solving complex problems.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["ESD", "Sustainability Competencies", "Statement Based"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0023",
+      "question": "A school teaches conservation in science classes but wastes large quantities of water and electricity in its daily operations. Which principle of sustainability education is most clearly violated?",
+      "options": {
+        "A": "The whole-school approach",
+        "B": "Pedagogical autonomy",
+        "C": "Summative assessment",
+        "D": "Educational privatisation"
+      },
+      "correctAnswer": "A",
+      "explanation": "A whole-school approach aligns curriculum, school operations, institutional culture and community participation with sustainability principles.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Whole School Approach", "Sustainability", "School Operations"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0024",
+      "question": "A Dy.E.O. wants schools to move beyond observing an annual Environment Day. Which strategy is most consistent with effective environmental education?",
+      "options": {
+        "A": "Integrate sustainability into curriculum, school practices, student projects and community engagement throughout the year",
+        "B": "Conduct one ceremonial programme annually and avoid further activities",
+        "C": "Restrict environmental education to posters",
+        "D": "Teach environmental issues only to science teachers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective environmental education is continuous and integrated into learning, institutional practice and community participation rather than limited to symbolic annual events.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["DyEO Scenario", "Environmental Education", "Whole School Approach"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-SDEE-0025",
+      "question": "A Dy.E.O. wants to determine whether environmental education in a school is producing meaningful outcomes. Which evidence would be most useful?",
+      "options": {
+        "A": "Changes in student understanding, attitudes, problem-solving, participation and environmentally responsible school practices",
+        "B": "Only the number of environmental posters displayed",
+        "C": "Only the number of chapters completed",
+        "D": "Only attendance at Environment Day"
+      },
+      "correctAnswer": "A",
+      "explanation": "Environmental education should be evaluated through cognitive, affective, skill-based and participatory outcomes as well as actual environmental practices.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["DyEO Scenario", "Environmental Education", "Evaluation", "Sustainability"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },{
+  "id": "FOE-SDEE-0026",
+  "question": "Which statement best describes biodiversity?",
+  "options": {
+    "A": "The variety of life at genetic, species and ecosystem levels",
+    "B": "The number of school subjects in a curriculum",
+    "C": "The quantity of rainfall in a region",
+    "D": "The total mineral content of soil"
+  },
+  "correctAnswer": "A",
+  "explanation": "Biodiversity includes variation within species, between species and among ecosystems.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Biodiversity", "Genetic Diversity", "Species Diversity", "Ecosystem Diversity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0027",
+  "question": "Which level of biodiversity refers to differences within the same species?",
+  "options": {
+    "A": "Genetic diversity",
+    "B": "Species diversity",
+    "C": "Ecosystem diversity",
+    "D": "Climatic diversity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Genetic diversity refers to variation in genes and inherited characteristics among individuals or populations of the same species.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Biodiversity", "Genetic Diversity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0028",
+  "question": "Which human activity is one of the most important direct causes of biodiversity loss?",
+  "options": {
+    "A": "Habitat destruction and fragmentation",
+    "B": "Environmental education",
+    "C": "Rainwater harvesting",
+    "D": "Afforestation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Loss and fragmentation of natural habitats are major drivers of species decline and biodiversity loss.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Biodiversity Loss", "Habitat Destruction", "Conservation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0029",
+  "question": "Assertion A: Biodiversity conservation contributes to sustainable development. Reason R: Biodiversity supports ecosystem functions and services on which human societies depend. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Biodiversity supports ecosystem resilience, food systems, pollination, water regulation and many other services essential to sustainable human development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Biodiversity", "Ecosystem Services", "Sustainable Development", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0030",
+  "question": "Which is the best example of in-situ conservation?",
+  "options": {
+    "A": "Protecting species in their natural habitats through national parks and wildlife sanctuaries",
+    "B": "Maintaining seeds in a seed bank",
+    "C": "Keeping endangered animals only in zoos",
+    "D": "Preserving plant tissues in laboratories"
+  },
+  "correctAnswer": "A",
+  "explanation": "In-situ conservation protects species within their natural habitats and ecosystems.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["In Situ Conservation", "Biodiversity", "Protected Areas"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0031",
+  "question": "Which is the best example of ex-situ conservation?",
+  "options": {
+    "A": "Seed banks and botanical gardens",
+    "B": "National parks only",
+    "C": "Wildlife corridors only",
+    "D": "Protection of an entire natural forest ecosystem"
+  },
+  "correctAnswer": "A",
+  "explanation": "Ex-situ conservation protects biological material or organisms outside their natural habitats, such as in seed banks, botanical gardens and zoos.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Ex Situ Conservation", "Seed Bank", "Botanical Garden"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0032",
+  "question": "An ecosystem is best understood as:",
+  "options": {
+    "A": "A system formed by interactions among organisms and their physical environment",
+    "B": "A collection of animals only",
+    "C": "A region containing only plants",
+    "D": "A geographical area without living organisms"
+  },
+  "correctAnswer": "A",
+  "explanation": "An ecosystem includes living organisms and the non-living environment interacting through flows of energy and cycling of matter.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Ecosystem", "Biotic", "Abiotic"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0033",
+  "question": "Which statement about energy flow in an ecosystem is most accurate?",
+  "options": {
+    "A": "Energy generally flows from producers to consumers and is progressively dissipated",
+    "B": "Energy is completely recycled in ecosystems",
+    "C": "Consumers create all ecological energy",
+    "D": "Energy does not pass between trophic levels"
+  },
+  "correctAnswer": "A",
+  "explanation": "Energy enters ecosystems mainly through producers and moves through trophic levels, with a substantial portion lost as heat at each transfer.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Ecosystem", "Energy Flow", "Trophic Levels"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0034",
+  "question": "Which ecological concept refers to the benefits humans obtain from ecosystems, such as pollination, water purification and climate regulation?",
+  "options": {
+    "A": "Ecosystem services",
+    "B": "Social stratification",
+    "C": "Pedagogical services",
+    "D": "Administrative services"
+  },
+  "correctAnswer": "A",
+  "explanation": "Ecosystem services are the direct and indirect benefits that functioning ecosystems provide to human societies.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Ecosystem Services", "Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0035",
+  "question": "Consider the following ecosystem services: 1. Pollination 2. Water purification 3. Soil formation 4. Climate regulation. Which are ecosystem services?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "All four are important ecosystem services that support human well-being and environmental stability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Ecosystem Services", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0036",
+  "question": "Which distinction between renewable and non-renewable resources is most accurate?",
+  "options": {
+    "A": "Renewable resources can be naturally replenished on relevant timescales, while non-renewable resources are finite or regenerate extremely slowly",
+    "B": "Renewable resources can never be depleted",
+    "C": "Non-renewable resources are always environmentally harmless",
+    "D": "All natural resources are renewable"
+  },
+  "correctAnswer": "A",
+  "explanation": "Renewable resources can regenerate, although they can still be overused, whereas non-renewable resources such as fossil fuels and many minerals are finite on human timescales.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Renewable Resources", "Non Renewable Resources", "Natural Resources"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0037",
+  "question": "Which of the following is a renewable source of energy?",
+  "options": {
+    "A": "Solar energy",
+    "B": "Coal",
+    "C": "Petroleum",
+    "D": "Natural gas"
+  },
+  "correctAnswer": "A",
+  "explanation": "Solar energy is continuously replenished, whereas coal, petroleum and natural gas are fossil fuels and non-renewable resources.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Remember",
+  "tags": ["Renewable Energy", "Solar Energy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0038",
+  "question": "Which school practice most directly demonstrates sustainable water management?",
+  "options": {
+    "A": "Rainwater harvesting combined with leak detection and careful water use",
+    "B": "Allowing leaking taps to run continuously",
+    "C": "Using potable water unnecessarily for every purpose",
+    "D": "Ignoring school water consumption"
+  },
+  "correctAnswer": "A",
+  "explanation": "Rainwater harvesting and conservation measures reduce dependence on freshwater sources and model responsible resource use.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Water Conservation", "Rainwater Harvesting", "School Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0039",
+  "question": "Assertion A: Renewable resources must also be used sustainably. Reason R: A renewable resource may be depleted or degraded when its rate of use exceeds its rate of regeneration. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Renewability does not guarantee unlimited availability. Forests, groundwater and fisheries can all become unsustainable when overexploited.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Renewable Resources", "Sustainable Use", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0040",
+  "question": "Which hierarchy is most consistent with sustainable waste management?",
+  "options": {
+    "A": "Reduce, reuse, recycle",
+    "B": "Dispose, burn, ignore",
+    "C": "Consume, discard, replace",
+    "D": "Collect, mix, dump"
+  },
+  "correctAnswer": "A",
+  "explanation": "Waste prevention and reduction are generally preferable to reuse and recycling, while disposal should be minimised.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Waste Management", "3Rs", "Reduce Reuse Recycle"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0041",
+  "question": "A school mixes food waste, paper, plastic and hazardous laboratory waste in a single bin. Which principle of sustainable waste management is most clearly neglected?",
+  "options": {
+    "A": "Segregation at source",
+    "B": "Intergenerational equity",
+    "C": "Pedagogical autonomy",
+    "D": "Curricular integration"
+  },
+  "correctAnswer": "A",
+  "explanation": "Segregating different categories of waste at the point of generation improves safe treatment, recycling and recovery.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Waste Segregation", "School Sustainability", "Waste Management"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0042",
+  "question": "Which waste-management option is generally most suitable for biodegradable kitchen and garden waste?",
+  "options": {
+    "A": "Composting",
+    "B": "Open dumping",
+    "C": "Mixing permanently with plastic waste",
+    "D": "Burning all waste in the open"
+  },
+  "correctAnswer": "A",
+  "explanation": "Composting converts biodegradable organic waste into useful soil-enriching material and reduces the quantity sent for disposal.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Composting", "Biodegradable Waste", "Waste Management"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0043",
+  "question": "Which statement best describes the circular economy concept?",
+  "options": {
+    "A": "Designing systems to keep materials in use, reduce waste and recover value through reuse, repair and recycling",
+    "B": "Producing and discarding resources as rapidly as possible",
+    "C": "Using only imported materials",
+    "D": "Replacing all products every year"
+  },
+  "correctAnswer": "A",
+  "explanation": "A circular economy seeks to reduce resource extraction and waste by extending product life and recovering materials through reuse, repair and recycling.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Circular Economy", "Waste Reduction", "Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0044",
+  "question": "Which activity would best help students understand the practical meaning of a circular economy?",
+  "options": {
+    "A": "Conducting a school waste audit and identifying opportunities for reduction, repair, reuse and recycling",
+    "B": "Memorising the term without examining school waste",
+    "C": "Increasing use of single-use materials",
+    "D": "Discarding repairable items"
+  },
+  "correctAnswer": "A",
+  "explanation": "A waste audit allows learners to examine material flows and identify practical strategies for reducing waste and extending resource use.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Circular Economy", "Waste Audit", "Experiential Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0045",
+  "question": "Which statement best distinguishes climate from weather?",
+  "options": {
+    "A": "Weather refers to short-term atmospheric conditions, while climate refers to longer-term patterns and averages",
+    "B": "Climate changes every hour and weather changes only over centuries",
+    "C": "Weather and climate are identical",
+    "D": "Climate refers only to rainfall"
+  },
+  "correctAnswer": "A",
+  "explanation": "Weather concerns short-term atmospheric conditions, whereas climate describes longer-term statistical patterns over a region.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Climate", "Weather", "Climate Change"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0046",
+  "question": "Which human activity is a major contributor to contemporary climate change?",
+  "options": {
+    "A": "Large-scale burning of fossil fuels",
+    "B": "Rainwater harvesting",
+    "C": "Recycling paper",
+    "D": "Planting native trees"
+  },
+  "correctAnswer": "A",
+  "explanation": "Burning coal, petroleum and natural gas releases large quantities of carbon dioxide and other greenhouse gases that contribute to current global warming.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Climate Change", "Fossil Fuels", "Greenhouse Gases"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0047",
+  "question": "Which distinction between climate change mitigation and adaptation is most accurate?",
+  "options": {
+    "A": "Mitigation reduces causes or emissions, while adaptation reduces vulnerability to climate impacts",
+    "B": "Mitigation and adaptation always mean the same thing",
+    "C": "Adaptation means increasing greenhouse gas emissions",
+    "D": "Mitigation concerns only disaster relief after an event"
+  },
+  "correctAnswer": "A",
+  "explanation": "Mitigation addresses the causes of climate change, while adaptation involves adjusting systems and behaviour to reduce harm from actual or expected impacts.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Climate Change", "Mitigation", "Adaptation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0048",
+  "question": "Which school action is primarily an example of climate-change mitigation?",
+  "options": {
+    "A": "Reducing electricity consumption and shifting to solar energy",
+    "B": "Preparing shaded areas for unusually hot days",
+    "C": "Developing a flood evacuation route",
+    "D": "Changing school timings during a heat wave"
+  },
+  "correctAnswer": "A",
+  "explanation": "Energy conservation and renewable energy can reduce greenhouse gas emissions and therefore contribute to mitigation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Climate Mitigation", "Solar Energy", "School Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0049",
+  "question": "Which school action is primarily an example of climate adaptation?",
+  "options": {
+    "A": "Preparing heat-action measures to protect students during increasingly severe heat conditions",
+    "B": "Installing solar panels to reduce fossil-fuel use",
+    "C": "Reducing unnecessary electricity consumption",
+    "D": "Promoting low-carbon transport"
+  },
+  "correctAnswer": "A",
+  "explanation": "Heat-action measures help the school adjust to climate impacts and reduce vulnerability, making them an adaptation strategy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Climate Adaptation", "Heat Action", "School Safety"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0050",
+  "question": "A Dy.E.O. wants to assess whether schools are applying sustainability principles rather than merely teaching definitions. Which evidence would be most comprehensive?",
+  "options": {
+    "A": "Water and energy use, waste segregation, biodiversity practices, student projects, climate preparedness and links between curriculum and school operations",
+    "B": "Only examination marks in environmental science",
+    "C": "Only the number of posters displayed",
+    "D": "Only attendance at one environmental programme"
+  },
+  "correctAnswer": "A",
+  "explanation": "A whole-school sustainability review should examine both learning and institutional practices, including resource use, waste, biodiversity, climate action and student participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Whole School Approach", "Sustainability Audit"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-SDEE-0051",
+  "question": "Which statement best describes the greenhouse effect?",
+  "options": {
+    "A": "Certain atmospheric gases absorb and re-emit outgoing infrared radiation, helping warm the Earth's surface and lower atmosphere",
+    "B": "All solar radiation is permanently trapped by the atmosphere",
+    "C": "The atmosphere completely prevents heat from leaving the Earth",
+    "D": "It is caused only by depletion of the ozone layer"
+  },
+  "correctAnswer": "A",
+  "explanation": "The natural greenhouse effect helps maintain temperatures suitable for life. Human activities enhance this effect by increasing concentrations of greenhouse gases.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Greenhouse Effect", "Climate Change", "Greenhouse Gases"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0052",
+  "question": "Which of the following is the most significant long-lived greenhouse gas emitted directly by human activities in terms of its overall contribution to contemporary warming?",
+  "options": {
+    "A": "Carbon dioxide",
+    "B": "Oxygen",
+    "C": "Nitrogen",
+    "D": "Argon"
+  },
+  "correctAnswer": "A",
+  "explanation": "Carbon dioxide released particularly through fossil-fuel combustion, land-use change and industrial processes is the major long-lived greenhouse gas driving current human-caused warming.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Carbon Dioxide", "Greenhouse Gases", "Climate Change"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0053",
+  "question": "Assertion A: Climate change education should include both scientific understanding and consideration of human responses. Reason R: Addressing climate change requires understanding its causes and impacts as well as mitigation, adaptation and responsible decision-making. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Climate education should connect scientific knowledge with problem-solving, mitigation, adaptation and informed participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Climate Education", "Mitigation", "Adaptation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0054",
+  "question": "Which Sustainable Development Goal is specifically titled 'Climate Action'?",
+  "options": {
+    "A": "SDG 6",
+    "B": "SDG 7",
+    "C": "SDG 12",
+    "D": "SDG 13"
+  },
+  "correctAnswer": "D",
+  "explanation": "SDG 13 calls for urgent action to combat climate change and its impacts.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Remember",
+  "tags": ["SDG 13", "Climate Action", "SDGs"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0055",
+  "question": "Which Sustainable Development Goal focuses on clean water and sanitation?",
+  "options": {
+    "A": "SDG 3",
+    "B": "SDG 6",
+    "C": "SDG 9",
+    "D": "SDG 15"
+  },
+  "correctAnswer": "B",
+  "explanation": "SDG 6 concerns the availability and sustainable management of water and sanitation for all.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Remember",
+  "tags": ["SDG 6", "Clean Water", "Sanitation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0056",
+  "question": "Which Sustainable Development Goal focuses on affordable and clean energy?",
+  "options": {
+    "A": "SDG 5",
+    "B": "SDG 7",
+    "C": "SDG 11",
+    "D": "SDG 16"
+  },
+  "correctAnswer": "B",
+  "explanation": "SDG 7 seeks access to affordable, reliable, sustainable and modern energy for all.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Remember",
+  "tags": ["SDG 7", "Clean Energy", "Sustainable Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0057",
+  "question": "Which Sustainable Development Goal is most directly concerned with responsible consumption and production?",
+  "options": {
+    "A": "SDG 8",
+    "B": "SDG 10",
+    "C": "SDG 12",
+    "D": "SDG 14"
+  },
+  "correctAnswer": "C",
+  "explanation": "SDG 12 promotes sustainable consumption and production patterns, including efficient resource use and waste reduction.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Remember",
+  "tags": ["SDG 12", "Responsible Consumption", "Production"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0058",
+  "question": "Consider the following SDG-topic pairs: 1. SDG 6 — Clean Water and Sanitation 2. SDG 7 — Affordable and Clean Energy 3. SDG 12 — Responsible Consumption and Production 4. SDG 13 — Climate Action. Which pairs are correctly matched?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "All four SDG-topic pairs are correctly matched.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["SDGs", "Statement Based", "Sustainable Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0059",
+  "question": "Which Sustainable Development Goal deals specifically with life below water?",
+  "options": {
+    "A": "SDG 11",
+    "B": "SDG 13",
+    "C": "SDG 14",
+    "D": "SDG 15"
+  },
+  "correctAnswer": "C",
+  "explanation": "SDG 14 focuses on conserving and sustainably using oceans, seas and marine resources.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Remember",
+  "tags": ["SDG 14", "Life Below Water", "Marine Ecosystems"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0060",
+  "question": "Which Sustainable Development Goal is specifically concerned with life on land?",
+  "options": {
+    "A": "SDG 12",
+    "B": "SDG 13",
+    "C": "SDG 14",
+    "D": "SDG 15"
+  },
+  "correctAnswer": "D",
+  "explanation": "SDG 15 addresses terrestrial ecosystems, forests, desertification, land degradation and biodiversity.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Remember",
+  "tags": ["SDG 15", "Life on Land", "Biodiversity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0061",
+  "question": "The 1992 United Nations Conference on Environment and Development, popularly known as the Earth Summit, was held at:",
+  "options": {
+    "A": "Rio de Janeiro",
+    "B": "Tbilisi",
+    "C": "Stockholm",
+    "D": "Kyoto"
+  },
+  "correctAnswer": "A",
+  "explanation": "The 1992 Earth Summit was held in Rio de Janeiro, Brazil, and was a major milestone in international sustainable-development policy.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Earth Summit", "Rio 1992", "Sustainable Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0062",
+  "question": "Agenda 21 is most closely associated with:",
+  "options": {
+    "A": "The 1992 Rio Earth Summit",
+    "B": "The 1948 Universal Declaration of Human Rights",
+    "C": "The 1964–66 Education Commission",
+    "D": "The 1986 National Policy on Education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Agenda 21 was adopted at the 1992 Rio Earth Summit as a broad action programme for sustainable development.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Agenda 21", "Rio Earth Summit", "1992"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0063",
+  "question": "Which international event held in 1972 played a major role in placing environmental issues prominently on the global agenda?",
+  "options": {
+    "A": "United Nations Conference on the Human Environment at Stockholm",
+    "B": "Rio+20 Conference",
+    "C": "Tbilisi Conference of 1977",
+    "D": "Paris Climate Conference of 2015"
+  },
+  "correctAnswer": "A",
+  "explanation": "The 1972 Stockholm Conference was a landmark global conference focused on the human environment and contributed to international environmental awareness and cooperation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Stockholm Conference", "1972", "Environment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0064",
+  "question": "Which chronological sequence is correct?",
+  "options": {
+    "A": "Stockholm Conference → Tbilisi Conference → Brundtland Report → Rio Earth Summit",
+    "B": "Rio Earth Summit → Stockholm Conference → Tbilisi Conference → Brundtland Report",
+    "C": "Tbilisi Conference → Stockholm Conference → Rio Earth Summit → Brundtland Report",
+    "D": "Brundtland Report → Stockholm Conference → Tbilisi Conference → Rio Earth Summit"
+  },
+  "correctAnswer": "A",
+  "explanation": "The sequence is Stockholm 1972, Tbilisi 1977, Brundtland Report 1987 and Rio Earth Summit 1992.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Environmental History", "Chronology", "Stockholm", "Tbilisi", "Brundtland", "Rio"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0065",
+  "question": "Assertion A: Environmental education should be a continuous lifelong process. Reason R: Environmental relationships and challenges change over time and require continuing development of knowledge, values and skills. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Environmental learning should continue throughout life because individuals and societies repeatedly encounter changing environmental conditions and decisions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Environmental Education", "Lifelong Learning", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0066",
+  "question": "Which approach is most appropriate for teaching a controversial local environmental issue?",
+  "options": {
+    "A": "Examine evidence, multiple perspectives, values and possible consequences before reaching reasoned conclusions",
+    "B": "Present only one viewpoint and prohibit questions",
+    "C": "Avoid evidence because environmental issues involve values",
+    "D": "Require students to memorise the teacher's personal opinion"
+  },
+  "correctAnswer": "A",
+  "explanation": "Environmental education should develop critical thinking and informed decision-making by examining evidence and legitimate perspectives rather than imposing unexamined opinions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Environmental Education", "Critical Thinking", "Controversial Issues"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0067",
+  "question": "Students compare the economic benefits of a proposed development project with its effects on forests, water and local livelihoods. Which sustainability competency is most clearly being developed?",
+  "options": {
+    "A": "Systems thinking",
+    "B": "Rote memorisation",
+    "C": "Mechanical recall",
+    "D": "Isolated factual learning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Systems thinking requires learners to examine relationships among environmental, social and economic components rather than considering each in isolation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Systems Thinking", "ESD", "Sustainability Competencies"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0068",
+  "question": "Students examine how present decisions about groundwater extraction may affect water availability twenty years later. Which sustainability competency is most directly involved?",
+  "options": {
+    "A": "Anticipatory thinking",
+    "B": "Mechanical memorisation",
+    "C": "Phonological awareness",
+    "D": "Norm-referenced assessment"
+  },
+  "correctAnswer": "A",
+  "explanation": "Anticipatory thinking involves considering possible future conditions and consequences of present decisions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Anticipatory Thinking", "Sustainability Competencies", "Groundwater"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0069",
+  "question": "Which activity most directly develops participatory competence in environmental education?",
+  "options": {
+    "A": "Students collaboratively design and implement a school water-conservation plan",
+    "B": "Students copy definitions of conservation ten times",
+    "C": "Students memorise environmental dates without application",
+    "D": "Students remain passive observers of school environmental problems"
+  },
+  "correctAnswer": "A",
+  "explanation": "Participation requires learners to engage in collective decision-making and responsible action related to real environmental issues.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Participation", "Environmental Education", "Water Conservation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0070",
+  "question": "A school conducts an environmental audit. Which combination would provide the most useful evidence? 1. Water consumption 2. Electricity consumption 3. Waste generation and segregation 4. Biodiversity and green-cover practices.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "A meaningful school environmental audit examines several dimensions of resource use and environmental practice rather than one indicator alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Environmental Audit", "School Sustainability", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0071",
+  "question": "A school replaces disposable plastic cups with durable reusable containers. Which sustainability principle is most directly demonstrated?",
+  "options": {
+    "A": "Waste prevention and reuse",
+    "B": "Open dumping",
+    "C": "Resource depletion",
+    "D": "Linear consumption"
+  },
+  "correctAnswer": "A",
+  "explanation": "Avoiding disposable products reduces waste at source, while reusable products keep materials in use for longer periods.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Waste Prevention", "Reuse", "School Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0072",
+  "question": "A school installs solar panels but continues to waste electricity through unnecessary lighting and equipment use. Which strategy would best improve sustainability?",
+  "options": {
+    "A": "Combine renewable energy with energy efficiency and conservation",
+    "B": "Increase unnecessary electricity consumption because solar energy is renewable",
+    "C": "Remove all monitoring of electricity use",
+    "D": "Treat renewable energy as unlimited and impact-free"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sustainable energy practice combines cleaner energy sources with efficient and careful use of energy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Renewable Energy", "Energy Efficiency", "School Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0073",
+  "question": "Assertion A: Environmental literacy requires more than environmental knowledge. Reason R: Environmentally literate individuals should also be able to evaluate issues, make informed decisions and participate responsibly. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Environmental literacy combines understanding with critical thinking, values, decision-making skills and responsible action.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Environmental Literacy", "Environmental Education", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0074",
+  "question": "A Dy.E.O. finds that environmental education is taught only as isolated factual content in science classes. Which improvement is most appropriate?",
+  "options": {
+    "A": "Integrate environmental themes across relevant subjects and connect them with inquiry, local problems and student action",
+    "B": "Remove environmental topics from all subjects except science",
+    "C": "Increase memorisation without practical experiences",
+    "D": "Restrict environmental education to annual competitions"
+  },
+  "correctAnswer": "A",
+  "explanation": "Environmental education is interdisciplinary and is strengthened by curricular integration, experiential learning and connections with real environmental issues.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Environmental Education", "Interdisciplinary Approach"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0075",
+  "question": "A Dy.E.O. must choose between two school sustainability programmes. Programme X conducts lectures and poster competitions. Programme Y combines classroom learning, resource audits, student-led action, community participation and monitoring of results. Which is more consistent with Education for Sustainable Development?",
+  "options": {
+    "A": "Programme Y, because it integrates knowledge, participation, institutional practice and evaluation",
+    "B": "Programme X, because sustainability should remain theoretical",
+    "C": "Both are equally comprehensive because action is unnecessary",
+    "D": "Neither, because schools should not participate in sustainability"
+  },
+  "correctAnswer": "A",
+  "explanation": "Education for Sustainable Development emphasises knowledge, competencies, participation and transformation of practices. Programme Y therefore provides the more comprehensive approach.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "ESD", "Whole School Approach", "Student Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-SDEE-0076",
+  "question": "Which statement best explains the relationship between environmental education and sustainable development?",
+  "options": {
+    "A": "Environmental education can develop the knowledge, values, skills and participation needed for sustainable development",
+    "B": "Environmental education is unrelated to development decisions",
+    "C": "Sustainable development concerns only economics",
+    "D": "Environmental education should avoid social and economic issues"
+  },
+  "correctAnswer": "A",
+  "explanation": "Environmental education contributes to sustainable development by building understanding, values, competencies and participation needed for responsible environmental and social decision-making.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Environmental Education", "Sustainable Development", "ESD"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0077",
+  "question": "A development project increases employment but causes severe long-term damage to water sources and displaces vulnerable communities. Which sustainability judgement is most appropriate?",
+  "options": {
+    "A": "Economic benefit alone is insufficient; environmental and social consequences must also be considered",
+    "B": "Any economic growth is automatically sustainable",
+    "C": "Environmental impacts are irrelevant when employment rises",
+    "D": "Social displacement has no relationship with sustainable development"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sustainable development requires integrated consideration of economic, environmental and social consequences rather than maximising one dimension alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Sustainable Development", "Social Justice", "Environment", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0078",
+  "question": "Assertion A: Sustainable development involves trade-offs as well as synergies. Reason R: Economic, social and environmental objectives may sometimes reinforce one another but may also conflict and require balanced decision-making. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sustainability decisions often involve balancing competing interests while identifying opportunities where environmental, social and economic benefits can support each other.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Sustainable Development", "Trade Offs", "Synergies", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0079",
+  "question": "Which example best represents the precautionary principle?",
+  "options": {
+    "A": "Taking reasonable preventive action when there is a credible risk of serious environmental harm even if complete scientific certainty is unavailable",
+    "B": "Waiting for irreversible damage before taking any action",
+    "C": "Ignoring uncertain environmental risks",
+    "D": "Assuming every new activity is harmless until disaster occurs"
+  },
+  "correctAnswer": "A",
+  "explanation": "The precautionary principle supports preventive action where potential environmental harm may be serious or irreversible even when scientific uncertainty remains.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Precautionary Principle", "Environmental Policy", "Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0080",
+  "question": "Which principle is most directly reflected when the party responsible for environmental damage is expected to bear the cost of preventing or remedying that damage?",
+  "options": {
+    "A": "Polluter Pays Principle",
+    "B": "Intergenerational Equity",
+    "C": "Subsidiarity",
+    "D": "Pedagogical Autonomy"
+  },
+  "correctAnswer": "A",
+  "explanation": "The Polluter Pays Principle places the cost of pollution prevention, control and remediation on those responsible for causing pollution.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Polluter Pays Principle", "Environmental Policy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0081",
+  "question": "Which principle is most clearly illustrated when a school chooses preventive waste reduction rather than relying only on disposal after waste has been created?",
+  "options": {
+    "A": "Prevention at source",
+    "B": "Open dumping",
+    "C": "Endless consumption",
+    "D": "Resource externalisation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Preventing waste generation at source is generally more sustainable than managing large quantities of waste after they are produced.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Waste Prevention", "Sustainability", "School Practices"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0082",
+  "question": "A school plants large numbers of exotic ornamental species but removes native vegetation that supports local birds and insects. Which sustainability concern is most relevant?",
+  "options": {
+    "A": "Green cover alone does not necessarily protect local biodiversity",
+    "B": "All planted species provide identical ecological value",
+    "C": "Native species are irrelevant to biodiversity",
+    "D": "Biodiversity depends only on the number of trees"
+  },
+  "correctAnswer": "A",
+  "explanation": "Biodiversity-friendly management considers species composition, ecological relationships and habitat value rather than simply counting planted trees.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Biodiversity", "Native Species", "School Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0083",
+  "question": "Consider the following features of Education for Sustainable Development: 1. Interdisciplinary learning 2. Critical thinking 3. Participation 4. Future-oriented thinking. Which are appropriate?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "ESD encourages interdisciplinary understanding, critical reflection, participation and anticipation of future consequences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["ESD", "Sustainability Competencies", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0084",
+  "question": "Which learning outcome best demonstrates systems thinking in sustainability education?",
+  "options": {
+    "A": "The learner explains how water use, agriculture, energy, livelihoods and ecosystems can influence one another",
+    "B": "The learner memorises the definition of water conservation",
+    "C": "The learner lists five environmental days",
+    "D": "The learner recalls the spelling of biodiversity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Systems thinking involves recognising relationships, feedback and interdependence among different environmental, social and economic components.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Systems Thinking", "ESD", "Interdependence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0085",
+  "question": "Assertion A: A whole-school sustainability approach should involve school management as well as classroom teaching. Reason R: School buildings, procurement, energy use, water use, waste management and institutional culture also communicate values and influence environmental outcomes. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Whole-school sustainability aligns formal learning with institutional operations and culture so that students experience sustainability in practice as well as theory.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Whole School Approach", "Sustainability", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0086",
+  "question": "A school wants to reduce its environmental footprint. Which action should normally come before purchasing carbon offsets?",
+  "options": {
+    "A": "Reduce avoidable energy and resource consumption directly",
+    "B": "Increase energy consumption",
+    "C": "Ignore existing waste",
+    "D": "Replace conservation measures with publicity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Direct reduction of avoidable consumption and emissions should generally be prioritised before compensatory measures such as offsets.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Environmental Footprint", "Energy Conservation", "School Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0087",
+  "question": "Which statement best describes an ecological footprint?",
+  "options": {
+    "A": "An indicator of the biologically productive area needed to support resource consumption and absorb associated wastes under given conditions",
+    "B": "The physical footprint left by an animal",
+    "C": "Only the amount of electricity consumed",
+    "D": "Only the amount of land owned by a household"
+  },
+  "correctAnswer": "A",
+  "explanation": "The ecological footprint is a resource-accounting concept used to estimate human demand on biologically productive land and water.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Ecological Footprint", "Resource Use", "Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0088",
+  "question": "A school environmental club measures electricity use before and after an energy-conservation campaign. What makes this activity educationally stronger than conducting a slogan competition alone?",
+  "options": {
+    "A": "It links environmental action with evidence and evaluation",
+    "B": "It avoids student participation",
+    "C": "It removes the need for environmental knowledge",
+    "D": "It focuses only on decoration"
+  },
+  "correctAnswer": "A",
+  "explanation": "Measuring results helps learners connect environmental knowledge and action with evidence, reflection and evaluation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Environmental Education", "Evidence Based Action", "Student Projects"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0089",
+  "question": "Which approach is most appropriate when students study an environmental problem for which there is no single simple solution?",
+  "options": {
+    "A": "Examine competing evidence, stakeholders, uncertainties and possible consequences",
+    "B": "Present a single slogan as the complete solution",
+    "C": "Prevent students from asking questions",
+    "D": "Ignore social and economic dimensions"
+  },
+  "correctAnswer": "A",
+  "explanation": "Complex sustainability problems require critical thinking, systems analysis and consideration of evidence, uncertainty and stakeholder perspectives.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Environmental Education", "Critical Thinking", "Complex Problems"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0090",
+  "question": "Which statement best describes environmental citizenship?",
+  "options": {
+    "A": "Responsible participation in personal and collective decisions affecting environmental sustainability",
+    "B": "Knowing environmental facts without any responsibility for action",
+    "C": "Avoiding all public environmental issues",
+    "D": "Considering environmental responsibility only as a government duty"
+  },
+  "correctAnswer": "A",
+  "explanation": "Environmental citizenship combines awareness, responsibility and participation in decisions and actions affecting environmental well-being.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Environmental Citizenship", "Participation", "Environmental Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0091",
+  "question": "A community opposes a waste-disposal project because pollution risks fall mainly on poor neighbourhoods while the benefits are enjoyed elsewhere. Which concept is most relevant?",
+  "options": {
+    "A": "Environmental justice",
+    "B": "Species diversity",
+    "C": "Pedagogical differentiation",
+    "D": "Administrative accountability"
+  },
+  "correctAnswer": "A",
+  "explanation": "Environmental justice concerns fair distribution of environmental benefits, burdens and decision-making opportunities among social groups.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Environmental Justice", "Equity", "Social Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0092",
+  "question": "Which school action best integrates environmental sustainability with social sustainability?",
+  "options": {
+    "A": "Reducing energy use while ensuring that classrooms remain safe and accessible for all learners",
+    "B": "Saving electricity by removing essential lighting from classrooms",
+    "C": "Closing drinking-water facilities to reduce water use",
+    "D": "Reducing environmental costs regardless of learner welfare"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sustainable decisions should consider environmental objectives together with health, safety, equity and human well-being.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Social Sustainability", "Environmental Sustainability", "School Management"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0093",
+  "question": "Consider the following indicators of a sustainable school: 1. Efficient resource use 2. Inclusive participation 3. Environmental learning linked with action 4. Monitoring and continuous improvement. Which are appropriate?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "A sustainable school combines environmental management, inclusive participation, meaningful learning and evidence-based continuous improvement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Sustainable School", "Whole School Approach", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0094",
+  "question": "Assertion A: Student participation can strengthen environmental education. Reason R: Participation gives learners opportunities to apply knowledge, make decisions, collaborate and observe the consequences of action. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Active participation turns environmental education from passive knowledge acquisition into applied learning, collaboration and responsible action.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Student Participation", "Environmental Education", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0095",
+  "question": "A Dy.E.O. finds that schools conduct many environmental activities but keep no record of whether resource use or student behaviour changes. Which component is weakest?",
+  "options": {
+    "A": "Monitoring and evaluation",
+    "B": "Ceremonial participation",
+    "C": "Subject allocation",
+    "D": "School enrolment"
+  },
+  "correctAnswer": "A",
+  "explanation": "Without monitoring and evaluation, schools cannot determine whether activities produce meaningful environmental or educational outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["DyEO Scenario", "Monitoring", "Evaluation", "Environmental Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0096",
+  "question": "A Dy.E.O. wants to improve environmental education across a district. Which strategy is most likely to produce sustained change?",
+  "options": {
+    "A": "Combine teacher capacity-building, curricular integration, school environmental audits, student participation and periodic review",
+    "B": "Issue one circular asking schools to celebrate Environment Day",
+    "C": "Restrict environmental education to one subject and one examination",
+    "D": "Focus only on posters and slogans"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sustained improvement requires capacity, integration, institutional practice, participation and ongoing evaluation rather than isolated events.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Environmental Education", "District Planning", "Whole School Approach"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0097",
+  "question": "A Dy.E.O. notices that one school reduces water use by simply restricting students' access to drinking water. How should this action be evaluated?",
+  "options": {
+    "A": "It is not genuinely sustainable because resource conservation must not compromise learner health and rights",
+    "B": "It is ideal because any reduction in water use is sustainable",
+    "C": "Student health is unrelated to sustainability",
+    "D": "Water conservation always takes priority over human needs"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sustainable development integrates environmental protection with social well-being and human needs. Conservation measures must therefore be safe and equitable.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Sustainable Development", "Water Conservation", "Learner Welfare"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0098",
+  "question": "A Dy.E.O. compares two schools. School X has excellent environmental examination scores but poor waste and water practices. School Y has good conceptual understanding, student-led environmental projects and measurable reductions in resource waste. Which conclusion is most appropriate?",
+  "options": {
+    "A": "School Y demonstrates stronger integration of environmental education with sustainable practice",
+    "B": "School X is automatically superior because examination scores are the only relevant outcome",
+    "C": "Institutional practices have no educational significance",
+    "D": "Both schools are equally sustainable regardless of practice"
+  },
+  "correctAnswer": "A",
+  "explanation": "Meaningful environmental education combines knowledge with skills, participation and responsible institutional practice rather than relying on examination performance alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Environmental Education", "Whole School Approach", "Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0099",
+  "question": "A Dy.E.O. wants to evaluate whether students have developed environmental literacy. Which evidence is most comprehensive?",
+  "options": {
+    "A": "Knowledge of environmental systems, ability to analyse issues, informed decision-making and responsible participation",
+    "B": "Ability to memorise environmental definitions only",
+    "C": "Attendance at one environmental programme",
+    "D": "Number of environmental slogans remembered"
+  },
+  "correctAnswer": "A",
+  "explanation": "Environmental literacy includes knowledge, analytical capacity, judgement and responsible participation, not merely recall of information.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Environmental Literacy", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-SDEE-0100",
+  "question": "A Dy.E.O. is reviewing Unit IV.4 across a district. Which evidence would provide the most comprehensive assessment of Sustainable Development and Environmental Education?",
+  "options": {
+    "A": "Student knowledge and sustainability competencies, curricular integration, resource use, waste and biodiversity practices, climate preparedness, participation, community links and evidence of continuous improvement",
+    "B": "Only the number of environmental lessons taught",
+    "C": "Only Environment Day celebrations",
+    "D": "Only examination marks"
+  },
+  "correctAnswer": "A",
+  "explanation": "Unit IV.4 requires an integrated understanding of sustainable development and environmental education. A comprehensive review should therefore examine learning, competencies, institutional practices, participation and measurable sustainability outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Unit IV.4", "Sustainable Development", "Environmental Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}  ]
+}

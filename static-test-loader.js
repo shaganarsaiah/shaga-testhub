@@ -91,7 +91,13 @@
         "Education and Society":
             "question-bank/subjects/educational-sociology/education-society.json",
         "Social Change and Education":
-            "question-bank/subjects/educational-sociology/social-change.json"
+            "question-bank/subjects/educational-sociology/social-change.json",
+        "Teacher Autonomy, Accountability and Responsibility":
+            "question-bank/subjects/teacher-education/teacher-autonomy-accountability.json",
+        "Sustainable Development and Environmental Education":
+            "question-bank/subjects/environmental-education/sustainable-development-environmental-education.json",
+            "Basics in Economics of Education and Educational Finance":
+        "question-bank/subjects/economics-of-education/economics-of-education-educational-finance.json",
     
 
     };

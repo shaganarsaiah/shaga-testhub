@@ -1,0 +1,2413 @@
+{
+  "metadata": {
+    "subject": "Economics of Education",
+    "unit": "Paper II-A - Unit IV",
+    "chapter": "Basics in Economics of Education and Educational Finance",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Dy.E.O. Standard",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "SHAGA GOLD"
+  },
+  "questions": [
+    {
+      "id": "FOE-EEF-0001",
+      "question": "Which statement best explains the meaning of economics of education?",
+      "options": {
+        "A": "It studies only the salaries paid to teachers",
+        "B": "It applies economic concepts to educational investment, costs, benefits, financing and allocation of scarce resources",
+        "C": "It deals exclusively with school accounting procedures",
+        "D": "It studies only the commercialisation of education"
+      },
+      "correctAnswer": "B",
+      "explanation": "Economics of education applies economic principles to educational decisions, including investment, costs, returns, financing, efficiency, equity and allocation of scarce resources.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Economics of Education", "Concept", "Resource Allocation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0002",
+      "question": "The fundamental economic problem underlying educational planning arises mainly because:",
+      "options": {
+        "A": "Educational needs are limited and resources are unlimited",
+        "B": "Resources are scarce while educational needs and alternative uses of resources are numerous",
+        "C": "Educational expenditure has no alternative use",
+        "D": "All educational institutions require identical resources"
+      },
+      "correctAnswer": "B",
+      "explanation": "Scarcity requires educational planners to choose among competing uses of limited financial, human and physical resources.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Scarcity", "Educational Planning", "Resource Allocation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0003",
+      "question": "When expenditure on one educational programme prevents the same resources from being used for the next best alternative, the value of the alternative forgone is called:",
+      "options": {
+        "A": "Opportunity cost",
+        "B": "Marginal revenue",
+        "C": "Transfer payment",
+        "D": "Sunk benefit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Opportunity cost is the value of the next best alternative sacrificed when scarce resources are committed to a particular use.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Opportunity Cost", "Scarcity", "Educational Finance"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0004",
+      "question": "The human capital approach primarily views expenditure on education as:",
+      "options": {
+        "A": "Pure consumption with no future economic effect",
+        "B": "Investment that can improve knowledge, skills, productivity and future earning capacity",
+        "C": "A financial loss to society",
+        "D": "An expenditure relevant only to private schools"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human capital theory treats education and training as investments that can enhance productive capacities and generate future economic returns.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Human Capital", "Investment in Education", "Productivity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0005",
+      "question": "Which economist is especially associated with the development of human capital theory and analysis of investment in education?",
+      "options": {
+        "A": "Theodore W. Schultz",
+        "B": "Ivan Pavlov",
+        "C": "Jean Piaget",
+        "D": "Emile Durkheim"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theodore W. Schultz was a major contributor to human capital theory and emphasised expenditure on education as investment in human beings.",
+      "difficulty": "Moderate",
+      "cognitiveLevel": "Remember",
+      "tags": ["Theodore Schultz", "Human Capital", "Economics of Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0006",
+      "question": "Gary Becker's contribution to the economics of education is most closely associated with:",
+      "options": {
+        "A": "Human capital investment",
+        "B": "Classical conditioning",
+        "C": "Operant conditioning",
+        "D": "Cognitive development stages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gary Becker developed influential economic analyses of human capital, including investments in education and training.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Remember",
+      "tags": ["Gary Becker", "Human Capital", "Investment"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0007",
+      "question": "Assertion A: Education may be regarded as both consumption and investment. Reason R: Education may provide immediate satisfaction and social benefits while also improving future productive capacity and earnings. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Education can have present consumption value while simultaneously generating future private and social returns, making the reason a correct explanation of the assertion.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Education as Investment", "Education as Consumption", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0008",
+      "question": "Which of the following is the clearest example of a direct private cost of education?",
+      "options": {
+        "A": "Fees and books paid for by a student's household",
+        "B": "Income forgone by the student while studying",
+        "C": "Government expenditure on a public school",
+        "D": "The social benefit arising from greater civic participation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Direct private costs are expenditures directly borne by the learner or household, such as fees, books, uniforms and education-related travel.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Private Cost", "Direct Cost", "Cost of Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0009",
+      "question": "A student could have earned wages by working but instead continues full-time education. The earnings sacrificed are best classified as:",
+      "options": {
+        "A": "Foregone earnings or an indirect private cost",
+        "B": "Direct institutional expenditure",
+        "C": "Capital expenditure",
+        "D": "External social benefit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Income forgone while studying is an opportunity cost and an important indirect private cost of education.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Foregone Earnings", "Indirect Cost", "Opportunity Cost"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0010",
+      "question": "Which statement correctly distinguishes private cost from social cost in education?",
+      "options": {
+        "A": "Private cost is borne by individuals or households, whereas social cost considers resources used by society as a whole",
+        "B": "Private and social costs are always identical",
+        "C": "Social cost includes only examination fees",
+        "D": "Private cost includes only government expenditure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Private costs concern costs borne by learners or households, while social costs take a broader societal perspective on resources devoted to education.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Private Cost", "Social Cost", "Educational Economics"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0011",
+      "question": "Which is the best example of a private economic return to education?",
+      "options": {
+        "A": "Higher expected lifetime earnings of the educated individual",
+        "B": "Improved public health across the whole community",
+        "C": "Greater democratic participation throughout society",
+        "D": "Reduced social crime affecting the entire population"
+      },
+      "correctAnswer": "A",
+      "explanation": "Private returns accrue primarily to the individual, with higher earnings being a commonly analysed economic return to education.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Private Returns", "Earnings", "Returns to Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0012",
+      "question": "Which is the best example of a social benefit of education?",
+      "options": {
+        "A": "Improved civic participation and wider social well-being",
+        "B": "A student's personal expenditure on textbooks",
+        "C": "A student's forgone wages",
+        "D": "An individual's examination fee"
+      },
+      "correctAnswer": "A",
+      "explanation": "Education can generate benefits extending beyond the individual learner, including civic, health, productivity and other positive social effects.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Social Returns", "External Benefits", "Education"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0013",
+      "question": "Why may the social return to education differ from the private return?",
+      "options": {
+        "A": "Education can create benefits or costs affecting people other than the individual learner",
+        "B": "Education has no external effects",
+        "C": "Private returns always include every social consequence",
+        "D": "Social returns refer only to school fees"
+      },
+      "correctAnswer": "A",
+      "explanation": "Education can generate externalities such as improved health, civic participation and knowledge spillovers, so societal benefits may differ from benefits captured privately.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Social Returns", "Private Returns", "Externalities"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0014",
+      "question": "Cost-benefit analysis in education primarily attempts to:",
+      "options": {
+        "A": "Compare the costs of an educational investment with the value of its expected benefits",
+        "B": "Compare only examination marks",
+        "C": "Calculate teacher attendance without considering costs",
+        "D": "Select the cheapest programme irrespective of benefits"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cost-benefit analysis compares costs with benefits, commonly expressing both in monetary terms where feasible, to assess the economic desirability of an investment.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Cost Benefit Analysis", "Educational Investment", "Evaluation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0015",
+      "question": "Cost-effectiveness analysis is particularly useful when:",
+      "options": {
+        "A": "Alternative programmes pursue a comparable educational objective and the planner wants to identify which achieves the outcome at lower cost",
+        "B": "Every educational benefit can easily be expressed in money",
+        "C": "Costs are irrelevant",
+        "D": "Only the most expensive programme is acceptable"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cost-effectiveness analysis compares the costs of alternative ways of achieving a specified or comparable educational outcome without requiring every benefit to be monetised.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Cost Effectiveness", "Efficiency", "Educational Planning"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0016",
+      "question": "Two remedial programmes produce approximately the same learning gain. Programme X costs Rs. 8 lakh and Programme Y costs Rs. 5 lakh. If all other relevant factors are comparable, which concept supports choosing Programme Y?",
+      "options": {
+        "A": "Cost-effectiveness",
+        "B": "Opportunity denial",
+        "C": "Deficit financing",
+        "D": "Capital depreciation"
+      },
+      "correctAnswer": "A",
+      "explanation": "When alternatives achieve comparable outcomes, cost-effectiveness favours the programme achieving the outcome with fewer resources.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Cost Effectiveness", "Scenario Based", "Educational Planning"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0017",
+      "question": "Assertion A: The least expensive educational programme is not necessarily the most efficient programme. Reason R: Efficiency requires consideration of the relationship between resources used and educational outputs or outcomes achieved. Choose the correct answer.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is not the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correctAnswer": "A",
+      "explanation": "Low expenditure alone does not establish efficiency. A programme must be judged in relation to the educational results produced with the resources used.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["Efficiency", "Cost Effectiveness", "Assertion Reason"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0018",
+      "question": "Which expenditure would normally be classified as recurrent expenditure in an educational institution?",
+      "options": {
+        "A": "Regular salaries and recurring utility expenses",
+        "B": "Construction of a new permanent school building",
+        "C": "Purchase of land for a new campus",
+        "D": "Construction of an additional permanent block"
+      },
+      "correctAnswer": "A",
+      "explanation": "Recurrent expenditure covers expenses that recur in the regular operation of educational institutions, such as salaries, utilities and routine supplies.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Recurrent Expenditure", "Educational Finance", "School Finance"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0019",
+      "question": "Which expenditure is most appropriately classified as capital expenditure?",
+      "options": {
+        "A": "Construction of a new school building",
+        "B": "Monthly electricity charges",
+        "C": "Routine stationery expenditure",
+        "D": "Regular salary payment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Capital expenditure generally creates or acquires long-lived assets such as buildings and major infrastructure.",
+      "difficulty": "Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Capital Expenditure", "School Infrastructure", "Educational Finance"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0020",
+      "question": "A Dy.E.O. is reviewing district expenditure. Which distinction is most important when comparing recurrent and capital expenditure?",
+      "options": {
+        "A": "Recurrent expenditure supports ongoing operations, while capital expenditure generally creates or substantially improves long-term assets",
+        "B": "Both categories always mean exactly the same thing",
+        "C": "Capital expenditure includes only teacher salaries",
+        "D": "Recurrent expenditure includes only construction"
+      },
+      "correctAnswer": "A",
+      "explanation": "The recurrent-capital distinction helps administrators separate continuing operating costs from expenditure associated with long-lived assets and infrastructure.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Analyze",
+      "tags": ["DyEO Scenario", "Capital Expenditure", "Recurrent Expenditure"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0021",
+      "question": "Which statement best explains equity in educational finance?",
+      "options": {
+        "A": "Resources should be distributed with attention to differences in educational need and barriers to opportunity",
+        "B": "Every school must always receive exactly the same amount regardless of enrolment or need",
+        "C": "Only high-performing schools should receive public resources",
+        "D": "Equity requires elimination of all educational expenditure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equity concerns fairness. In educational finance, fair allocation may require differentiated support because schools and learners face different needs and disadvantages.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Equity", "Educational Finance", "Resource Allocation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0022",
+      "question": "A district gives every school exactly Rs. 10 lakh even though enrolment, infrastructure deficits and learner needs differ greatly. Which criticism is most appropriate?",
+      "options": {
+        "A": "Equal allocation is not necessarily equitable allocation",
+        "B": "Equality and equity always produce identical allocations",
+        "C": "Educational need should never affect finance",
+        "D": "Equity requires random allocation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal treatment can be inequitable where needs differ substantially. Equity may require allocations adjusted for enrolment, disadvantage, infrastructure and other relevant needs.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["Equity", "Equality", "DyEO Scenario", "Resource Allocation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0023",
+      "question": "Which situation most clearly represents horizontal equity in educational finance?",
+      "options": {
+        "A": "Learners or schools in substantially similar circumstances receive substantially similar treatment",
+        "B": "Schools with very different needs must receive identical resources",
+        "C": "Only wealthy communities receive public support",
+        "D": "Resources are distributed without any criteria"
+      },
+      "correctAnswer": "A",
+      "explanation": "Horizontal equity is generally associated with similar treatment of those who are similarly situated.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Understand",
+      "tags": ["Horizontal Equity", "Educational Finance", "Equity"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0024",
+      "question": "Vertical equity in educational finance is best represented by:",
+      "options": {
+        "A": "Providing differentiated resources when learners or schools have meaningfully different needs",
+        "B": "Giving every learner identical support irrespective of circumstances",
+        "C": "Eliminating compensatory educational programmes",
+        "D": "Allocating resources only according to alphabetical order"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vertical equity recognises relevant differences in circumstances and can justify different levels or forms of support to achieve fairness.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Apply",
+      "tags": ["Vertical Equity", "Educational Finance", "Resource Allocation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+    {
+      "id": "FOE-EEF-0025",
+      "question": "A Dy.E.O. has a limited additional grant. School P has adequate facilities, while School Q has severe classroom shortages, high enrolment and a large disadvantaged student population. Which allocation is most consistent with vertical equity?",
+      "options": {
+        "A": "Provide greater additional support to School Q based on its greater educational need",
+        "B": "Give the entire grant to School P because it already performs well",
+        "C": "Ignore differences in need and allocate by lottery",
+        "D": "Withhold the grant from both schools"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vertical equity permits differentiated treatment where relevant needs differ. Greater support to the school facing greater disadvantage and infrastructure pressure is therefore justified.",
+      "difficulty": "Very Difficult",
+      "cognitiveLevel": "Evaluate",
+      "tags": ["DyEO Scenario", "Vertical Equity", "Educational Finance", "Resource Allocation"],
+      "source": {
+        "type": "Original",
+        "exam": "",
+        "year": "",
+        "paper": "",
+        "questionNumber": ""
+      },
+      "isPreviousYearQuestion": false,
+      "language": "English"
+    },
+{
+  "id": "FOE-EEF-0026",
+  "question": "Which statement best explains educational finance?",
+  "options": {
+    "A": "It concerns the mobilisation, allocation, utilisation and accountability of financial resources for education",
+    "B": "It concerns only the payment of teacher salaries",
+    "C": "It deals only with private-school fees",
+    "D": "It excludes budgeting and expenditure control"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational finance covers how funds are raised, distributed, spent, monitored and accounted for in support of educational goals.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Educational Finance", "Resource Mobilisation", "Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0027",
+  "question": "Which of the following can be a source of public financing for education?",
+  "options": {
+    "A": "Government tax revenue",
+    "B": "Only household savings",
+    "C": "Only private donations",
+    "D": "Only tuition fees"
+  },
+  "correctAnswer": "A",
+  "explanation": "Public education is commonly financed through government revenues, especially taxation, along with other public resources.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Remember",
+  "tags": ["Public Finance", "Tax Revenue", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0028",
+  "question": "Which source is most clearly classified as private financing of education?",
+  "options": {
+    "A": "Household expenditure on fees and learning materials",
+    "B": "Government budget allocation",
+    "C": "Public grant to a school",
+    "D": "State-funded infrastructure programme"
+  },
+  "correctAnswer": "A",
+  "explanation": "Private financing refers to resources contributed by individuals, households, private organisations or other non-state actors.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Private Finance", "Household Expenditure", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0029",
+  "question": "Assertion A: Greater dependence on household financing can raise equity concerns in education. Reason R: Families differ substantially in their ability to pay for educational opportunities. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "When access to education depends heavily on household payments, unequal income may translate into unequal educational opportunity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Private Financing", "Equity", "Household Expenditure", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0030",
+  "question": "Which is the strongest economic justification for substantial public financing of basic education?",
+  "options": {
+    "A": "Education generates social benefits and supports equal educational opportunity",
+    "B": "Education benefits only the individual learner",
+    "C": "All educational benefits are completely private",
+    "D": "Public financing eliminates the need for efficient resource use"
+  },
+  "correctAnswer": "A",
+  "explanation": "Basic education produces important external and social benefits and is central to equity, providing a strong rationale for public financing.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Public Financing", "Social Benefits", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0031",
+  "question": "A budget is best understood as:",
+  "options": {
+    "A": "A financial plan showing expected receipts and proposed expenditure for a specified period",
+    "B": "A record containing only past expenditure",
+    "C": "A list of school enrolment figures",
+    "D": "A statement dealing only with salaries"
+  },
+  "correctAnswer": "A",
+  "explanation": "A budget is a planned statement of expected income or available resources and proposed expenditures over a defined period.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Budget", "Educational Finance", "Financial Planning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0032",
+  "question": "Which is the most appropriate first step in preparing an educational budget?",
+  "options": {
+    "A": "Identify objectives, needs and likely resource requirements",
+    "B": "Spend funds before setting priorities",
+    "C": "Copy the previous budget without review",
+    "D": "Ignore expected income"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sound budgeting begins with educational objectives and needs, followed by estimation of resource requirements and available finances.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Budgeting", "Planning", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0033",
+  "question": "A school prepares its annual budget by simply increasing every previous expenditure head by 10 percent. Which budgeting limitation is most evident?",
+  "options": {
+    "A": "The approach may perpetuate past priorities without examining present educational needs",
+    "B": "It necessarily guarantees efficiency",
+    "C": "It is equivalent to zero-based budgeting",
+    "D": "It eliminates historical expenditure completely"
+  },
+  "correctAnswer": "A",
+  "explanation": "Incremental budgeting is simple but may preserve outdated spending patterns if previous allocations are not critically reviewed.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Incremental Budgeting", "Budgeting", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0034",
+  "question": "Zero-based budgeting is distinguished primarily by the requirement that:",
+  "options": {
+    "A": "Expenditure proposals are justified afresh rather than automatically carried forward from previous budgets",
+    "B": "Every budget must equal zero",
+    "C": "No educational expenditure is permitted",
+    "D": "Only capital expenditure is examined"
+  },
+  "correctAnswer": "A",
+  "explanation": "Zero-based budgeting requires activities and expenditure proposals to be justified from a fresh base rather than receiving automatic continuation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Zero Based Budgeting", "Budgeting", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0035",
+  "question": "Which budgeting approach most directly attempts to connect expenditure with programmes, objectives and expected results?",
+  "options": {
+    "A": "Performance or programme budgeting",
+    "B": "Random budgeting",
+    "C": "Cashless budgeting",
+    "D": "Historical expenditure recording only"
+  },
+  "correctAnswer": "A",
+  "explanation": "Performance and programme budgeting seek to link financial allocations with activities, objectives and measurable outputs or outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Performance Budgeting", "Programme Budgeting", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0036",
+  "question": "A Dy.E.O. wants to know not merely how much a programme spent but what educational results were obtained with that expenditure. Which approach is most appropriate?",
+  "options": {
+    "A": "Performance-oriented budgeting and evaluation",
+    "B": "Recording expenditure without outputs",
+    "C": "Ignoring programme objectives",
+    "D": "Using only previous-year allocations"
+  },
+  "correctAnswer": "A",
+  "explanation": "Performance-oriented budgeting connects expenditure with activities, outputs and outcomes, making it useful for evaluating value obtained from public funds.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Performance Budgeting", "Efficiency"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0037",
+  "question": "Assertion A: Budgeting is not merely an accounting exercise. Reason R: A budget reflects educational priorities and choices about allocating scarce resources. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Budget decisions reveal institutional and policy priorities because limited resources must be distributed among competing educational needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Budgeting", "Resource Allocation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0038",
+  "question": "Which statement best explains financial accountability in education?",
+  "options": {
+    "A": "Officials and institutions must be able to show that funds were received, spent for authorised purposes and properly recorded",
+    "B": "Educational funds may be spent without documentation",
+    "C": "Financial accountability concerns only private schools",
+    "D": "Once funds are released, no further review is needed"
+  },
+  "correctAnswer": "A",
+  "explanation": "Financial accountability requires lawful, authorised, transparent and documented use of educational resources.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Financial Accountability", "Transparency", "Educational Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0039",
+  "question": "Which document is most directly used to show that sanctioned funds have been spent for the approved purpose?",
+  "options": {
+    "A": "Utilisation certificate supported by appropriate records",
+    "B": "Student attendance register alone",
+    "C": "School timetable",
+    "D": "Lesson plan"
+  },
+  "correctAnswer": "A",
+  "explanation": "A utilisation certificate is commonly used to certify that funds have been utilised for the intended and sanctioned purposes, subject to applicable rules and supporting records.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Utilisation Certificate", "Financial Accountability", "Grants"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0040",
+  "question": "A school receives a grant for library improvement but uses part of it for an unrelated celebration without authorisation. Which principle is most directly violated?",
+  "options": {
+    "A": "Purpose-specific utilisation of public funds",
+    "B": "Vertical equity",
+    "C": "Opportunity cost",
+    "D": "Human capital formation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Earmarked or purpose-specific grants should be used for the authorised purpose unless reappropriation is permitted under applicable rules.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Grant Utilisation", "Financial Accountability", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0041",
+  "question": "Which is the main purpose of an audit in educational financial administration?",
+  "options": {
+    "A": "To examine whether financial transactions and records comply with relevant rules and whether funds are properly accounted for",
+    "B": "To replace educational planning completely",
+    "C": "To increase expenditure automatically",
+    "D": "To evaluate only student examination performance"
+  },
+  "correctAnswer": "A",
+  "explanation": "Audit supports accountability by examining financial records, transactions, authorisation, compliance and proper use of funds.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Audit", "Financial Accountability", "Educational Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0042",
+  "question": "Which financial control is most useful for preventing expenditure beyond the sanctioned amount?",
+  "options": {
+    "A": "Regular monitoring of expenditure against budget provision",
+    "B": "Checking accounts only after several years",
+    "C": "Ignoring remaining balances",
+    "D": "Allowing expenditure without sanction"
+  },
+  "correctAnswer": "A",
+  "explanation": "Continuous comparison of actual spending with sanctioned allocations helps prevent overspending and supports timely corrective action.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Budget Control", "Financial Monitoring", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0043",
+  "question": "A Dy.E.O. notices that several schools wait until the final month of the financial year and then spend most of their grants hurriedly. What is the strongest administrative concern?",
+  "options": {
+    "A": "End-of-year spending may prioritise utilisation of funds over thoughtful educational planning and value for money",
+    "B": "Late expenditure always guarantees efficiency",
+    "C": "Budget monitoring should be avoided",
+    "D": "All unspent funds should be used on any available item"
+  },
+  "correctAnswer": "A",
+  "explanation": "Rushed expenditure can weaken planning, procurement quality and educational relevance. Financial management should focus on purposeful and timely use, not spending merely to exhaust funds.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Budget Utilisation", "Efficiency", "Financial Management"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0044",
+  "question": "Which statement best describes allocative efficiency in education?",
+  "options": {
+    "A": "Resources are directed towards educational uses that generate the greatest value relative to alternative uses",
+    "B": "Every programme receives the same allocation",
+    "C": "Resources are distributed without reference to priorities",
+    "D": "The highest-cost programme is always selected"
+  },
+  "correctAnswer": "A",
+  "explanation": "Allocative efficiency concerns choosing among competing uses of scarce resources so that the allocation best advances educational objectives and social value.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Allocative Efficiency", "Resource Allocation", "Economics of Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0045",
+  "question": "Technical efficiency in an educational context is most closely concerned with:",
+  "options": {
+    "A": "Producing a given educational output with the least feasible resource input, or obtaining more output from given inputs",
+    "B": "Choosing only expensive technology",
+    "C": "Allocating equal funds to all programmes",
+    "D": "Maximising expenditure regardless of outcomes"
+  },
+  "correctAnswer": "A",
+  "explanation": "Technical efficiency concerns the relationship between inputs and outputs, seeking to avoid waste in producing educational services or outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Technical Efficiency", "Inputs", "Outputs", "Educational Economics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0046",
+  "question": "Two schools receive similar resources and serve broadly comparable students. School A achieves stronger learning outcomes with lower wastage of instructional time. Which concept is most relevant?",
+  "options": {
+    "A": "Greater technical efficiency",
+    "B": "Higher opportunity cost only",
+    "C": "Greater vertical inequity",
+    "D": "Lower human capital"
+  },
+  "correctAnswer": "A",
+  "explanation": "Where inputs are broadly similar but one institution produces stronger outputs with less wastage, it demonstrates relatively greater technical efficiency.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Technical Efficiency", "School Efficiency", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0047",
+  "question": "Which of the following may represent internal wastage in an education system? 1. Repetition 2. Dropout before completing the intended stage 3. Prolonged time to complete a course 4. Underutilised educational resources.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Repetition, dropout, excessive time-to-completion and inefficient use of educational resources can all contribute to internal inefficiency or wastage.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Internal Efficiency", "Wastage", "Dropout", "Repetition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0048",
+  "question": "Assertion A: Reducing dropout can improve the internal efficiency of an education system. Reason R: Resources invested in learners who leave before completing the intended stage may fail to produce the planned educational output. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Dropout can reduce the efficiency with which educational resources are converted into completed stages and intended learning outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Internal Efficiency", "Dropout", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0049",
+  "question": "A district has high expenditure per student but low attendance, high dropout and weak learning outcomes. Which conclusion is most defensible?",
+  "options": {
+    "A": "High expenditure alone does not demonstrate educational efficiency",
+    "B": "The district is necessarily efficient because spending is high",
+    "C": "Learning outcomes are unrelated to finance",
+    "D": "More expenditure automatically guarantees better outcomes"
+  },
+  "correctAnswer": "A",
+  "explanation": "Efficiency requires examining what educational outcomes are achieved with resources, not expenditure levels alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Efficiency", "Educational Expenditure", "Learning Outcomes"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0050",
+  "question": "A Dy.E.O. has to review a new grant programme. Which set of evidence would provide the strongest assessment of financial performance?",
+  "options": {
+    "A": "Funds released, funds actually utilised, compliance with authorised purposes, outputs achieved, educational outcomes and equity of beneficiary reach",
+    "B": "Only the total amount sanctioned",
+    "C": "Only the number of meetings conducted",
+    "D": "Only whether the entire amount was spent"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sound financial review considers not only expenditure but also compliance, implementation, outputs, educational outcomes and whether resources reached intended beneficiaries fairly.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Grant Evaluation", "Financial Accountability", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-EEF-0051",
+  "question": "Which statement best describes the rate of return to education?",
+  "options": {
+    "A": "It measures the relationship between the costs of educational investment and the additional benefits generated over time",
+    "B": "It measures only the number of students enrolled",
+    "C": "It refers only to the annual school budget",
+    "D": "It is identical to examination pass percentage"
+  },
+  "correctAnswer": "A",
+  "explanation": "The rate of return compares the costs of educational investment with the stream of additional benefits associated with that investment.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Rate of Return", "Educational Investment", "Returns to Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0052",
+  "question": "Which distinction between private and social rates of return to education is most accurate?",
+  "options": {
+    "A": "The private rate considers costs and benefits accruing mainly to the individual, while the social rate considers broader societal costs and benefits",
+    "B": "Both always use exactly the same costs and benefits",
+    "C": "The social rate includes only school fees",
+    "D": "The private rate excludes all individual benefits"
+  },
+  "correctAnswer": "A",
+  "explanation": "Private and social rates of return differ because they use different perspectives on who bears educational costs and who receives the benefits.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Private Rate of Return", "Social Rate of Return", "Educational Economics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0053",
+  "question": "Assertion A: The private rate of return to education can exceed the social rate of return. Reason R: Public subsidies may reduce the educational costs borne directly by the individual while society bears part of those costs. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Public subsidies can reduce private costs relative to social costs, potentially increasing the individual's estimated rate of return compared with the social rate.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Rate of Return", "Public Subsidy", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0054",
+  "question": "Which benefit of education is most difficult to capture fully in a conventional monetary cost-benefit analysis?",
+  "options": {
+    "A": "Improved democratic participation and social cohesion",
+    "B": "Tuition fee paid by a student",
+    "C": "Cost of a textbook",
+    "D": "Salary paid to a teacher"
+  },
+  "correctAnswer": "A",
+  "explanation": "Many social benefits of education, such as civic participation, social cohesion and improved health, are real but difficult to express fully in monetary terms.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Cost Benefit Analysis", "Social Benefits", "Non Monetary Benefits"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0055",
+  "question": "Which statement best explains why educational investment decisions should not rely only on expected earnings?",
+  "options": {
+    "A": "Education also produces non-monetary and social benefits that may be important for public policy",
+    "B": "Earnings are never related to education",
+    "C": "Public policy should ignore social outcomes",
+    "D": "Educational investment has no economic consequences"
+  },
+  "correctAnswer": "A",
+  "explanation": "Education affects many outcomes beyond earnings, including health, citizenship, social participation and intergenerational well-being.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Educational Investment", "Social Returns", "Public Policy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0056",
+  "question": "Which indicator is most useful for comparing the financial effort devoted to education across economies of very different sizes?",
+  "options": {
+    "A": "Education expenditure as a percentage of GDP or total public expenditure",
+    "B": "Total number of classrooms alone",
+    "C": "Number of school working days",
+    "D": "Number of textbooks printed"
+  },
+  "correctAnswer": "A",
+  "explanation": "Ratios such as education expenditure as a share of GDP or total public expenditure provide a relative measure that supports comparison across differently sized economies.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Educational Expenditure", "GDP", "Public Expenditure"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0057",
+  "question": "Per-pupil expenditure is calculated most directly by:",
+  "options": {
+    "A": "Dividing relevant educational expenditure by the number of students served",
+    "B": "Dividing enrolment by total expenditure",
+    "C": "Multiplying teacher salary by school age",
+    "D": "Adding enrolment and expenditure"
+  },
+  "correctAnswer": "A",
+  "explanation": "Per-pupil expenditure is a unit-cost measure obtained by dividing relevant expenditure by the number of students served.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Apply",
+  "tags": ["Per Pupil Expenditure", "Unit Cost", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0058",
+  "question": "A district spends Rs. 60 crore on schooling for 1,20,000 students. Ignoring other classification issues, the average expenditure per student is:",
+  "options": {
+    "A": "Rs. 500",
+    "B": "Rs. 5,000",
+    "C": "Rs. 50,000",
+    "D": "Rs. 5,00,000"
+  },
+  "correctAnswer": "B",
+  "explanation": "Rs. 60 crore equals Rs. 600,000,000. Dividing by 120,000 students gives Rs. 5,000 per student.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Unit Cost", "Per Pupil Expenditure", "Numerical"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0059",
+  "question": "A high per-pupil expenditure should be interpreted cautiously because:",
+  "options": {
+    "A": "It shows resource intensity but does not by itself establish quality, efficiency or equity",
+    "B": "It always proves excellent educational outcomes",
+    "C": "It automatically means there is no wastage",
+    "D": "It makes learning outcomes irrelevant"
+  },
+  "correctAnswer": "A",
+  "explanation": "Per-pupil spending describes average financial inputs. It must be considered alongside outcomes, context, efficiency and distribution of resources.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Per Pupil Expenditure", "Efficiency", "Educational Quality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0060",
+  "question": "Which expenditure pattern would raise the strongest concern about allocative efficiency?",
+  "options": {
+    "A": "Large funds are repeatedly directed to low-priority activities while essential learning needs remain unfunded",
+    "B": "Resources are redirected towards urgent foundational-learning needs",
+    "C": "Funding decisions are based on evidence of need",
+    "D": "Programmes are reviewed for cost and effectiveness"
+  },
+  "correctAnswer": "A",
+  "explanation": "Allocative inefficiency arises when scarce resources are directed away from uses that would better advance educational priorities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Allocative Efficiency", "Resource Allocation", "Educational Priorities"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0061",
+  "question": "Which statement best explains economies of scale in education?",
+  "options": {
+    "A": "Average cost may fall when fixed resources are spread efficiently over a larger number of students, up to practical limits",
+    "B": "Costs always rise whenever enrolment increases",
+    "C": "Larger institutions are always more efficient",
+    "D": "Scale has no relationship to unit cost"
+  },
+  "correctAnswer": "A",
+  "explanation": "Economies of scale can occur where fixed costs are spread over more students, but benefits may diminish or reverse if scale becomes too large or quality suffers.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Economies of Scale", "Unit Cost", "Educational Economics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0062",
+  "question": "A very small school has high per-student administrative and infrastructure costs because fixed costs are shared among few students. Which concept best explains this?",
+  "options": {
+    "A": "Limited economies of scale",
+    "B": "Vertical equity",
+    "C": "Private return",
+    "D": "Zero-based budgeting"
+  },
+  "correctAnswer": "A",
+  "explanation": "When fixed costs are spread over only a small number of students, the average cost per student may be relatively high.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Economies of Scale", "Small Schools", "Unit Cost"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0063",
+  "question": "Assertion A: School consolidation may improve financial efficiency in some situations but can reduce educational equity. Reason R: Closing small schools may lower certain unit costs while increasing travel burdens for remote learners. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Financial efficiency and equity can conflict. Consolidation can reduce some costs but may create serious access barriers in remote areas.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["School Consolidation", "Efficiency", "Equity", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0064",
+  "question": "Which financing approach is most consistent with the principle of needs-based funding?",
+  "options": {
+    "A": "Allocating additional resources according to factors such as disadvantage, disability, remoteness or infrastructure deficits",
+    "B": "Giving every school exactly the same grant regardless of need",
+    "C": "Funding only schools with the highest examination scores",
+    "D": "Allocating resources randomly"
+  },
+  "correctAnswer": "A",
+  "explanation": "Needs-based funding differentiates allocations according to relevant educational disadvantages and resource requirements.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Needs Based Funding", "Equity", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0065",
+  "question": "A weighted student funding formula assigns additional financial weight to students facing disadvantage. Which principle does this most directly operationalise?",
+  "options": {
+    "A": "Vertical equity",
+    "B": "Horizontal uniformity only",
+    "C": "Random financing",
+    "D": "Purely private financing"
+  },
+  "correctAnswer": "A",
+  "explanation": "Weighted funding recognises different levels of need and provides additional resources where circumstances justify differentiated support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Weighted Student Funding", "Vertical Equity", "Resource Allocation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0066",
+  "question": "Which statement best explains fiscal decentralisation in education?",
+  "options": {
+    "A": "Some financial authority and responsibility are transferred from higher levels of government to lower levels or institutions",
+    "B": "All financial decisions are permanently centralised",
+    "C": "Schools are prohibited from managing any resources",
+    "D": "Private households replace government completely"
+  },
+  "correctAnswer": "A",
+  "explanation": "Fiscal decentralisation involves transferring some revenue, expenditure or budgeting responsibilities to lower levels of governance or institutions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Fiscal Decentralisation", "Educational Finance", "Governance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0067",
+  "question": "Which is a potential advantage of decentralising certain school financial decisions?",
+  "options": {
+    "A": "Local decision-makers may respond more closely to specific school needs",
+    "B": "It automatically eliminates all misuse of funds",
+    "C": "It makes accountability unnecessary",
+    "D": "It guarantees identical capacity in every school"
+  },
+  "correctAnswer": "A",
+  "explanation": "Local financial discretion can improve responsiveness, though it must be supported by capacity, transparency and accountability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Decentralisation", "School Finance", "Responsiveness"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0068",
+  "question": "Which is a major risk of fiscal decentralisation when local administrative capacity is weak?",
+  "options": {
+    "A": "Poor financial management and unequal capacity across institutions",
+    "B": "Automatic improvement in accountability",
+    "C": "Guaranteed reduction in inequality",
+    "D": "Complete elimination of financial errors"
+  },
+  "correctAnswer": "A",
+  "explanation": "Decentralisation without adequate capacity, oversight and systems can produce weak financial management and uneven outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Fiscal Decentralisation", "Capacity", "Financial Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0069",
+  "question": "Consider the following principles of sound educational financial management: 1. Economy 2. Efficiency 3. Effectiveness 4. Equity and accountability. Which are relevant?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Sound educational finance should seek prudent spending, efficient use of resources, achievement of educational objectives, fairness and accountability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Financial Management", "Economy", "Efficiency", "Effectiveness", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0070",
+  "question": "Which statement best distinguishes economy from efficiency in educational spending?",
+  "options": {
+    "A": "Economy concerns acquiring inputs at appropriate cost, while efficiency concerns the relationship between inputs and outputs or outcomes",
+    "B": "Economy and efficiency are always identical",
+    "C": "Economy means spending as much as possible",
+    "D": "Efficiency concerns only accounting records"
+  },
+  "correctAnswer": "A",
+  "explanation": "Economy concerns obtaining needed inputs without unnecessary cost, while efficiency concerns converting inputs into educational outputs or outcomes with minimal waste.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Economy", "Efficiency", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0071",
+  "question": "A school purchases the cheapest available equipment, but it repeatedly fails and disrupts instruction. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Low purchase price alone does not establish economy or value for money",
+    "B": "The cheapest option is always financially optimal",
+    "C": "Quality and useful life are irrelevant to procurement",
+    "D": "Procurement has no relationship with educational efficiency"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sound procurement considers total value, including suitability, durability, quality and life-cycle cost, rather than price alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Procurement", "Value for Money", "Economy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0072",
+  "question": "Which concept best describes achieving the intended educational objective with the resources provided?",
+  "options": {
+    "A": "Effectiveness",
+    "B": "Opportunity cost",
+    "C": "Capitalisation",
+    "D": "Horizontal equity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Effectiveness concerns the extent to which intended educational objectives and outcomes are achieved.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Effectiveness", "Educational Outcomes", "Financial Management"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0073",
+  "question": "Assertion A: A programme can be efficient but ineffective. Reason R: Resources may be used with little waste to produce outputs that nevertheless fail to achieve the intended educational objective. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Efficiency concerns the input-output relationship, while effectiveness concerns whether intended objectives are actually achieved.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Efficiency", "Effectiveness", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0074",
+  "question": "A Dy.E.O. finds that one school consistently leaves large grants unspent despite serious infrastructure and learning needs. Which issue should be examined first?",
+  "options": {
+    "A": "Whether planning, procurement, administrative capacity or release timing is preventing effective utilisation",
+    "B": "Assume that low spending always demonstrates financial efficiency",
+    "C": "Cut all future funding immediately without investigation",
+    "D": "Ignore the unmet educational needs"
+  },
+  "correctAnswer": "A",
+  "explanation": "Persistent underspending may reflect bottlenecks in planning, procurement, capacity or fund flow. The cause should be diagnosed before judging performance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Budget Utilisation", "Financial Management"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0075",
+  "question": "A Dy.E.O. must choose between two proposals. Proposal X is cheaper but reaches mainly already advantaged schools. Proposal Y costs moderately more but substantially improves access and learning for severely disadvantaged schools. Which evaluation is most appropriate?",
+  "options": {
+    "A": "Consider both efficiency and equity rather than selecting solely on lowest financial cost",
+    "B": "Always select Proposal X because cost is the only relevant criterion",
+    "C": "Ignore distributional effects",
+    "D": "Select the proposal with the largest budget"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational finance decisions often require balancing efficiency with equity and public objectives. The lowest-cost option may not provide the greatest social value.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Efficiency", "Equity", "Resource Allocation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},{
+  "id": "FOE-EEF-0076",
+  "question": "Which statement best explains value for money in educational finance?",
+  "options": {
+    "A": "Using resources economically, efficiently and effectively while maintaining quality and equity",
+    "B": "Always choosing the cheapest possible option",
+    "C": "Maximising expenditure regardless of outcomes",
+    "D": "Ignoring educational quality when reducing cost"
+  },
+  "correctAnswer": "A",
+  "explanation": "Value for money considers economy, efficiency and effectiveness together, while educational decisions may also need to protect quality, equity and public purpose.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Value for Money", "Economy", "Efficiency", "Effectiveness"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0077",
+  "question": "A school buys 100 low-cost tablets that fail within one year, while another school buys fewer durable tablets that remain useful for several years. Which concept best supports the second school's decision?",
+  "options": {
+    "A": "Life-cycle cost and value for money",
+    "B": "Horizontal equity only",
+    "C": "Opportunity denial",
+    "D": "Private return"
+  },
+  "correctAnswer": "A",
+  "explanation": "Procurement should consider useful life, maintenance and total cost over time rather than purchase price alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Procurement", "Life Cycle Cost", "Value for Money"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0078",
+  "question": "Assertion A: Financial accountability and educational effectiveness should be examined together. Reason R: Properly accounted expenditure may still fail to achieve the intended educational objective. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Financial compliance is necessary, but administrators must also examine whether expenditure actually contributes to intended educational outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Financial Accountability", "Effectiveness", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0079",
+  "question": "Which statement best describes earmarked funding?",
+  "options": {
+    "A": "Funds are allocated for a specified purpose or programme and are expected to be used accordingly",
+    "B": "Funds may be used for any purpose without restriction",
+    "C": "Funds are always private donations",
+    "D": "Funds are distributed randomly"
+  },
+  "correctAnswer": "A",
+  "explanation": "Earmarked funds are tied to specified objectives or expenditure categories and generally require purpose-specific utilisation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Earmarked Funds", "Grant Utilisation", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0080",
+  "question": "Which is the strongest argument for formula-based educational funding?",
+  "options": {
+    "A": "It can make allocation criteria more transparent and predictable",
+    "B": "It removes all need for judgement",
+    "C": "It guarantees equal outcomes",
+    "D": "It prevents any adjustment for disadvantage"
+  },
+  "correctAnswer": "A",
+  "explanation": "Formula-based funding can improve transparency and predictability when the formula uses clearly defined criteria such as enrolment, need or disadvantage.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Funding Formula", "Transparency", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0081",
+  "question": "Which funding formula would most strongly promote vertical equity?",
+  "options": {
+    "A": "A formula that provides additional weights for disadvantage, disability and remoteness",
+    "B": "A formula giving every school the same amount irrespective of need",
+    "C": "A formula based only on school name",
+    "D": "A formula allocating more resources to already advantaged schools"
+  },
+  "correctAnswer": "A",
+  "explanation": "Vertical equity recognises meaningful differences in need and supports differentiated resource allocation accordingly.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Funding Formula", "Vertical Equity", "Needs Based Funding"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0082",
+  "question": "Which statement best explains matching grants?",
+  "options": {
+    "A": "One level or source of funding contributes resources conditional on a contribution from another source",
+    "B": "The grant must always equal zero",
+    "C": "Matching grants are unrelated to financing incentives",
+    "D": "Only private schools can receive them"
+  },
+  "correctAnswer": "A",
+  "explanation": "Matching grants require or encourage another party to contribute resources, often to promote local participation or shared financing.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Matching Grants", "Educational Finance", "Resource Mobilisation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0083",
+  "question": "Which is a potential equity problem with requiring substantial local matching contributions?",
+  "options": {
+    "A": "Poorer communities may be less able to raise the required share and therefore may receive fewer benefits",
+    "B": "All communities have identical fiscal capacity",
+    "C": "Matching requirements always reduce inequality",
+    "D": "Local wealth has no effect on matching capacity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Matching arrangements can unintentionally disadvantage poorer areas if local fiscal capacity differs substantially.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Matching Grants", "Equity", "Local Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0084",
+  "question": "Consider the following possible sources of educational finance: 1. Government revenue 2. Household expenditure 3. Philanthropic contributions 4. External development assistance. Which may finance education?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Educational systems may draw resources from public budgets, households, philanthropy and external assistance, though their roles differ across contexts.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Sources of Finance", "Educational Finance", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0085",
+  "question": "Which principle should guide the use of external aid for education?",
+  "options": {
+    "A": "It should support identified educational priorities and be integrated with sustainable local planning",
+    "B": "It should replace all domestic responsibility permanently",
+    "C": "It should be spent without monitoring",
+    "D": "It should be accepted regardless of relevance to educational needs"
+  },
+  "correctAnswer": "A",
+  "explanation": "External assistance is most useful when aligned with local priorities, capacity and long-term sustainability rather than functioning as an isolated or unsustainable funding source.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["External Aid", "Educational Planning", "Sustainability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0086",
+  "question": "Which statement best describes public expenditure tracking in education?",
+  "options": {
+    "A": "Following the flow of funds from allocation and release to actual receipt and use at intended levels or institutions",
+    "B": "Recording only final examination marks",
+    "C": "Estimating only private household expenditure",
+    "D": "Ignoring delays in fund flow"
+  },
+  "correctAnswer": "A",
+  "explanation": "Expenditure tracking helps identify delays, leakage, bottlenecks and differences between funds sanctioned, released, received and spent.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Public Expenditure Tracking", "Financial Accountability", "Fund Flow"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0087",
+  "question": "A district reports 95 percent grant utilisation, but schools say funds were released too late to plan meaningful activities. Which conclusion is most appropriate?",
+  "options": {
+    "A": "A high utilisation percentage does not by itself establish timely or effective financial management",
+    "B": "Utilisation percentage alone proves programme success",
+    "C": "Timing of fund release is irrelevant",
+    "D": "Planning is unnecessary when funds are eventually spent"
+  },
+  "correctAnswer": "A",
+  "explanation": "Timeliness affects planning, procurement and programme quality. A high spending rate can coexist with poor financial management if funds arrive too late.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Grant Utilisation", "Fund Release", "Financial Management"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0088",
+  "question": "Assertion A: Unspent balances do not always indicate financial prudence. Reason R: Persistent underspending may reflect weak planning, delayed procurement, low administrative capacity or delayed fund release. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Unspent funds may represent savings, but they can also indicate implementation bottlenecks. The cause must therefore be examined.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Unspent Balance", "Budget Utilisation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0089",
+  "question": "Which situation most clearly represents leakage in educational finance?",
+  "options": {
+    "A": "Funds intended for schools fail to reach the intended beneficiaries or are diverted improperly",
+    "B": "Schools spend funds exactly as sanctioned",
+    "C": "A grant is audited properly",
+    "D": "Unspent funds are reported transparently"
+  },
+  "correctAnswer": "A",
+  "explanation": "Leakage refers to loss, diversion or failure of funds to reach their intended purpose or beneficiaries.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Financial Leakage", "Accountability", "Public Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0090",
+  "question": "Which financial practice most strongly improves transparency at school level?",
+  "options": {
+    "A": "Maintaining clear records and making appropriate financial information available to authorised stakeholders",
+    "B": "Keeping expenditure information secret from all oversight",
+    "C": "Allowing undocumented cash expenditure",
+    "D": "Avoiding reconciliation of accounts"
+  },
+  "correctAnswer": "A",
+  "explanation": "Transparency requires accurate records, appropriate disclosure and traceability of financial decisions and transactions.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Transparency", "School Finance", "Financial Accountability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0091",
+  "question": "Which statement best explains the role of social audit in educational expenditure?",
+  "options": {
+    "A": "It can involve community scrutiny of whether public resources and programmes have been used and delivered as intended",
+    "B": "It replaces all formal audit mechanisms",
+    "C": "It concerns only private accounts",
+    "D": "It eliminates the need for financial records"
+  },
+  "correctAnswer": "A",
+  "explanation": "Social audit can strengthen public accountability by enabling community review of implementation, expenditure and service delivery, while formal audit remains distinct.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Social Audit", "Public Accountability", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0092",
+  "question": "A programme spends its entire budget exactly as authorised but achieves only a small fraction of its intended learning outcome. Which concept is most clearly weak?",
+  "options": {
+    "A": "Effectiveness",
+    "B": "Financial compliance",
+    "C": "Accounting accuracy",
+    "D": "Purpose-specific utilisation"
+  },
+  "correctAnswer": "A",
+  "explanation": "The funds may have been spent correctly, but effectiveness is weak because the intended educational outcome was not achieved.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Effectiveness", "Educational Outcomes", "Financial Management"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0093",
+  "question": "A programme achieves its target learning outcome but at twice the cost of another equally effective programme. Which concept is most relevant?",
+  "options": {
+    "A": "Cost-effectiveness",
+    "B": "Horizontal equity",
+    "C": "Capital expenditure",
+    "D": "Externality"
+  },
+  "correctAnswer": "A",
+  "explanation": "Where two alternatives achieve similar outcomes, the less costly option is generally more cost-effective, assuming other relevant factors are comparable.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Cost Effectiveness", "Efficiency", "Programme Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0094",
+  "question": "Consider the following questions in evaluating educational finance: 1. Were resources allocated fairly? 2. Were funds spent lawfully and transparently? 3. Were resources used efficiently? 4. Were educational objectives achieved? Which should be examined?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "A comprehensive review should examine equity, compliance and accountability, efficiency and effectiveness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Educational Finance", "Equity", "Efficiency", "Effectiveness", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0095",
+  "question": "A Dy.E.O. discovers that schools with the greatest infrastructure deficits repeatedly receive smaller grants because allocations are based mainly on past spending. What is the strongest policy concern?",
+  "options": {
+    "A": "Historical allocation may reproduce inequity instead of responding to present need",
+    "B": "Past spending is always the fairest basis for future allocation",
+    "C": "Infrastructure need should not affect finance",
+    "D": "Equity requires identical past expenditure"
+  },
+  "correctAnswer": "A",
+  "explanation": "Reliance on historical expenditure can perpetuate existing inequalities when it does not account for current need and disadvantage.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Equity", "Historical Budgeting", "Resource Allocation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0096",
+  "question": "A Dy.E.O. wants to reduce wastage caused by dropout. Which financial approach is most appropriate?",
+  "options": {
+    "A": "Identify the causes of dropout and invest in cost-effective preventive measures targeted at the major barriers",
+    "B": "Increase expenditure uniformly without analysing causes",
+    "C": "Ignore dropout because only enrolment matters",
+    "D": "Reduce all support to vulnerable learners"
+  },
+  "correctAnswer": "A",
+  "explanation": "Improving internal efficiency requires diagnosis of wastage and targeted interventions that address the actual causes of dropout.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Internal Efficiency", "Dropout", "Cost Effectiveness"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0097",
+  "question": "A Dy.E.O. is comparing a low-cost programme with modest impact and a higher-cost programme with substantially greater impact. Which analysis is most appropriate before deciding?",
+  "options": {
+    "A": "Compare both cost and educational effect rather than using cost alone",
+    "B": "Always select the cheaper programme",
+    "C": "Always select the more expensive programme",
+    "D": "Ignore educational outcomes"
+  },
+  "correctAnswer": "A",
+  "explanation": "Financial decisions should consider the relationship between resource use and educational results, not cost in isolation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Cost Effectiveness", "Programme Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0098",
+  "question": "A district receives additional funds. One proposal is to distribute them equally among all schools; another uses enrolment, disadvantage, disability and infrastructure gaps. Which approach is more consistent with equitable educational finance?",
+  "options": {
+    "A": "The needs-sensitive formula",
+    "B": "Equal allocation under all circumstances",
+    "C": "Allocation based only on school prestige",
+    "D": "Allocation based only on previous examination results"
+  },
+  "correctAnswer": "A",
+  "explanation": "Equitable finance recognises relevant differences in need and may therefore require differentiated funding.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Equity", "Needs Based Funding"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0099",
+  "question": "A Dy.E.O. wants to determine whether district educational spending is economically and educationally sound. Which evidence is most useful?",
+  "options": {
+    "A": "Allocation patterns, unit costs, utilisation, compliance, efficiency, learning outcomes and equity across groups and schools",
+    "B": "Only the total amount spent",
+    "C": "Only the number of schools",
+    "D": "Only the number of financial circulars issued"
+  },
+  "correctAnswer": "A",
+  "explanation": "A sound review must connect inputs and expenditure with utilisation, outputs, educational outcomes and the fairness of resource distribution.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Educational Finance", "Efficiency", "Equity", "Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-EEF-0100",
+  "question": "A Dy.E.O. is reviewing Unit IV.5 across the district. Which set of evidence provides the most comprehensive assessment of Economics of Education and Educational Finance?",
+  "options": {
+    "A": "Educational costs and returns, resource allocation, equity, unit costs, budgeting, fund flow, grant utilisation, financial accountability, efficiency and educational outcomes",
+    "B": "Only total annual expenditure",
+    "C": "Only school fee levels",
+    "D": "Only the number of utilisation certificates submitted"
+  },
+  "correctAnswer": "A",
+  "explanation": "Unit IV.5 requires an integrated understanding of educational investment, costs and returns, financing, budgeting, allocation, equity, accountability and the efficiency and effectiveness of educational expenditure.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Unit IV.5", "Economics of Education", "Educational Finance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}
