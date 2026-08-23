@@ -1,0 +1,2419 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "unit": "Unit V",
+    "chapter": "Early Childhood Education",
+    "topic": "Early Childhood Care and Education",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed - Difficult to Very Difficult",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "Early Childhood Care and Education",
+    "marksPerQuestion": 1,
+    "negativeMarking": false,
+    "questionStandard": "SHAGA GOLD"
+  },
+  "questions": [
+    {
+  "id": "EP-ECCE-0001",
+  "question": "Which statement most accurately reflects the concept of Early Childhood Care and Education?",
+  "options": {
+    "A": "It is primarily preparation for formal examinations",
+    "B": "It integrates care, health, nutrition, protection and developmentally appropriate early learning",
+    "C": "It refers only to teaching literacy and numeracy before Grade I",
+    "D": "It is intended only for children who experience developmental delays"
+  },
+  "correctAnswer": "B",
+  "explanation": "ECCE adopts an integrated and holistic approach to children's care, health, nutrition, protection, development and early learning rather than treating preschool education as merely early formal schooling.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["ECCE", "Concept", "Holistic Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0002",
+  "question": "A preschool teacher spends most of the day making four-year-old children copy letters and numbers repeatedly from the board. From a developmentally appropriate ECCE perspective, the major weakness of this practice is that it:",
+  "options": {
+    "A": "introduces children to written symbols",
+    "B": "allows children to practise fine-motor movements",
+    "C": "overemphasises formal academic instruction at the expense of play, exploration and holistic development",
+    "D": "requires children to sit together"
+  },
+  "correctAnswer": "C",
+  "explanation": "Developmentally appropriate ECCE emphasises play, interaction, exploration, movement, language and varied experiences. Premature dependence on repetitive formal instruction can restrict holistic development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["ECCE", "Developmentally Appropriate Practice", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0003",
+  "question": "Consider the following characteristics of quality ECCE: 1. Play and activity-based experiences. 2. Attention to health and nutrition. 3. Opportunities for social interaction. 4. Rigid subject-wise periods modelled entirely on secondary school. Which of the above are appropriate?",
+  "options": {
+    "A": "1, 2 and 3 only",
+    "B": "1 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "A",
+  "explanation": "Quality ECCE integrates play, activity, health, nutrition and social interaction. A rigid secondary-school-type subject structure is generally inconsistent with developmentally appropriate early childhood practice.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["ECCE", "Statement Based", "Quality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0004",
+  "question": "Why is play considered pedagogically significant during early childhood?",
+  "options": {
+    "A": "It prevents children from interacting with adults",
+    "B": "It is useful only for physical development",
+    "C": "It should be used only after academic work is completed",
+    "D": "It can simultaneously support cognitive, linguistic, physical, social and emotional development"
+  },
+  "correctAnswer": "D",
+  "explanation": "Play provides opportunities for exploration, communication, imagination, movement, problem solving, cooperation and emotional expression, thereby contributing to several developmental domains.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Play", "Holistic Development", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0005",
+  "question": "Assertion A: Early childhood programmes should recognise individual differences among children. Reason R: Children of the same chronological age necessarily develop every ability at exactly the same rate. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "A is true but R is false",
+    "C": "A is false but R is true",
+    "D": "Both A and R are false"
+  },
+  "correctAnswer": "B",
+  "explanation": "Children show individual variations in development, interests, experiences and learning. Chronological age does not imply identical developmental rates in all domains.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Individual Differences", "Assertion Reason", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0006",
+  "question": "A five-year-old child can recognise many words but finds it difficult to cooperate with peers, wait for a turn and manage frustration. Which conclusion is most appropriate?",
+  "options": {
+    "A": "School readiness is multidimensional and includes social-emotional development in addition to academic abilities",
+    "B": "The child is completely ready because word recognition alone determines readiness",
+    "C": "Social-emotional abilities are unrelated to school participation",
+    "D": "The child should immediately be classified as having an intellectual disability"
+  },
+  "correctAnswer": "A",
+  "explanation": "Readiness involves multiple domains including physical, cognitive, linguistic, social and emotional development. Early academic performance alone does not provide a complete picture.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["School Readiness", "Social Emotional Development", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0007",
+  "question": "Which classroom arrangement is most consistent with child-centred ECCE?",
+  "options": {
+    "A": "Children remain seated in fixed rows throughout the day",
+    "B": "The teacher speaks continuously while children listen silently",
+    "C": "Accessible activity areas provide opportunities for children to manipulate materials, interact, explore and make age-appropriate choices",
+    "D": "All learning materials are kept locked and are handled only by the teacher"
+  },
+  "correctAnswer": "C",
+  "explanation": "Child-centred early learning environments encourage active exploration, interaction, choice and meaningful engagement with accessible materials.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Child Centred Education", "Learning Environment", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0008",
+  "question": "A child entering preschool speaks a home language different from the language used by the centre. Which initial response is most educationally appropriate?",
+  "options": {
+    "A": "Prevent the child from using the home language",
+    "B": "Treat the home language as evidence of poor language development",
+    "C": "Delay all interaction until the child learns the centre language",
+    "D": "Value the child's home language and experiences while gradually supporting meaningful communication in the additional language"
+  },
+  "correctAnswer": "D",
+  "explanation": "A child's familiar language is an important resource for communication, identity and learning. Responsive ECCE builds upon existing linguistic experiences rather than treating them as deficits.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Language", "Multilingualism", "ECCE", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0009",
+  "question": "Which assessment practice is most appropriate for understanding the development of young children?",
+  "options": {
+    "A": "Continuous observation of children across meaningful activities, supplemented by appropriate records and samples of their work",
+    "B": "A single high-stakes written examination",
+    "C": "Ranking children publicly every week",
+    "D": "Assessing only handwriting speed"
+  },
+  "correctAnswer": "A",
+  "explanation": "Young children's development is better understood through ongoing, contextual observation and multiple forms of evidence rather than dependence on a single formal written test.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Assessment", "Observation", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0010",
+  "question": "A Dy.E.O. observes an early childhood centre where children are healthy and well nourished but have very few opportunities for conversation, play, stories or exploration. Which judgement is most appropriate?",
+  "options": {
+    "A": "The programme is complete because nutrition is the sole purpose of ECCE",
+    "B": "The programme is adequate because learning begins only in primary school",
+    "C": "The programme is incomplete because ECCE should integrate care with opportunities for learning and holistic development",
+    "D": "Play should be introduced only after children learn to read"
+  },
+  "correctAnswer": "C",
+  "explanation": "Care, health and nutrition are essential but do not constitute the whole of ECCE. Quality provision also creates responsive opportunities for language, cognition, play, social-emotional development and exploration.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Holistic Development", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0011",
+  "question": "Consider the following statements: 1. Early experiences can influence later learning and development. 2. Responsive adult-child interaction is important in early childhood. 3. Nutrition and health can affect children's participation and development. 4. Cognitive development occurs independently of all social and environmental experiences. Which statements are correct?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2 and 3 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Development results from interactions among biological, social and environmental factors. Early experiences, relationships, health and nutrition can all influence children's developmental opportunities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Development", "Statement Based", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0012",
+  "question": "A preschool teacher gives children blocks and asks them to construct a bridge in different ways. She asks questions such as 'What might make it stronger?' Which developmental process is being promoted most directly through this interaction?",
+  "options": {
+    "A": "Passive memorisation",
+    "B": "Mechanical copying",
+    "C": "Only gross-motor development",
+    "D": "Exploration, problem solving and reasoning through active learning"
+  },
+  "correctAnswer": "D",
+  "explanation": "Manipulating materials, testing possibilities and responding to open-ended questions promote active exploration, reasoning and problem solving.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Active Learning", "Problem Solving", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0013",
+  "question": "Assertion A: Family participation can strengthen ECCE programmes. Reason R: Families possess information about children's routines, language, interests, experiences and needs that can support continuity between home and the early childhood setting. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Respectful family partnership can provide valuable knowledge about the child and improve continuity, responsiveness and support across home and educational settings.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Family Participation", "Assertion Reason", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0014",
+  "question": "Which of the following best illustrates emergent literacy in early childhood?",
+  "options": {
+    "A": "Requiring children to memorise grammatical terminology",
+    "B": "Preventing children from handling books until they can read independently",
+    "C": "Engaging children with stories, conversations, rhymes, pictures, print and meaningful attempts at drawing or writing",
+    "D": "Teaching only spelling lists through weekly examinations"
+  },
+  "correctAnswer": "C",
+  "explanation": "Emergent literacy develops through meaningful early experiences with oral language, books, stories, symbols, print, drawing and early writing rather than through premature formal drilling alone.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Emergent Literacy", "Language Development", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0015",
+  "question": "Which activity is most appropriate for developing an early understanding of quantity?",
+  "options": {
+    "A": "Memorising definitions of mathematical operations",
+    "B": "Sorting, matching, comparing and counting familiar concrete objects during meaningful activities",
+    "C": "Solving lengthy written algorithms",
+    "D": "Copying multiplication tables for the entire session"
+  },
+  "correctAnswer": "B",
+  "explanation": "Young children develop early mathematical concepts effectively through concrete manipulation, classification, comparison, patterning and meaningful counting experiences.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Early Numeracy", "Concrete Learning", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0016",
+  "question": "A child cannot complete a puzzle independently but succeeds when the teacher gives a small hint and then gradually withdraws assistance. Which educational principle is best illustrated?",
+  "options": {
+    "A": "Punishment",
+    "B": "Fixed intelligence",
+    "C": "Rote conditioning only",
+    "D": "Scaffolding of learning followed by gradual withdrawal of support"
+  },
+  "correctAnswer": "D",
+  "explanation": "Temporary, responsive assistance can help a child perform beyond current independent functioning. As competence develops, support can be gradually withdrawn.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Scaffolding", "Learning", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0017",
+  "question": "A four-year-old frequently spills water while learning to pour it independently. Which response best supports development?",
+  "options": {
+    "A": "Provide safe opportunities to practise and suitable assistance while gradually encouraging independence",
+    "B": "Permanently prevent the child from pouring water",
+    "C": "Publicly compare the child with faster peers",
+    "D": "Complete every self-care task for the child"
+  },
+  "correctAnswer": "A",
+  "explanation": "Young children develop independence through supported practice. Adults should ensure safety while providing appropriate opportunities for children to acquire self-help skills.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Self Help Skills", "Independence", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0018",
+  "question": "A Dy.E.O. is evaluating the quality of an early childhood centre. Which combination provides the strongest evidence of quality? 1. Safe and accessible environment. 2. Responsive adult-child interaction. 3. Developmentally appropriate play and learning opportunities. 4. Attention to health, nutrition and inclusion.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "2, 3 and 4 only",
+    "C": "1, 2, 3 and 4",
+    "D": "1 and 4 only"
+  },
+  "correctAnswer": "C",
+  "explanation": "Quality ECCE is multidimensional. Safety, responsive relationships, appropriate learning experiences, health, nutrition and inclusion all contribute to children's development and participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Quality ECCE", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0019",
+  "question": "Which principle should guide inclusion of a child with disability in an early childhood programme?",
+  "options": {
+    "A": "Exclude the child from group activities until performance becomes identical to peers",
+    "B": "Provide meaningful participation with appropriate environmental, instructional and individual supports",
+    "C": "Automatically reduce every learning expectation",
+    "D": "Allow participation only in recreational activities"
+  },
+  "correctAnswer": "B",
+  "explanation": "Inclusive ECCE seeks meaningful access, participation and development, using appropriate adaptations and supports according to the child's individual needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Inclusion", "Disability", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0020",
+  "question": "A teacher notices persistent difficulty in a child's communication and social participation over time. Which response is most appropriate?",
+  "options": {
+    "A": "Immediately announce a diagnostic label",
+    "B": "Ignore the pattern until primary school",
+    "C": "Observe and document the child's functioning, communicate sensitively with the family, provide appropriate support and facilitate further assessment where necessary",
+    "D": "Remove the child from the programme"
+  },
+  "correctAnswer": "C",
+  "explanation": "Early identification should be based on careful observation and appropriate collaboration. Teachers should support the child and facilitate professional assessment when warranted rather than casually diagnosing or delaying action.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Early Identification", "Referral", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0021",
+  "question": "Assertion A: A predictable daily routine can be valuable in an early childhood setting. Reason R: Predictability can help young children anticipate events and develop a sense of security while still allowing flexibility according to children's needs. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Consistent routines can provide security and help children understand sequences and expectations, although good ECCE practice retains flexibility for children's needs and circumstances.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Routine", "Security", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0022",
+  "question": "During free play, two children disagree over the same toy. Which teacher response has the greatest educational value for social-emotional development?",
+  "options": {
+    "A": "Immediately punish both children without discussion",
+    "B": "Use the situation to help them express feelings, listen, negotiate and consider an appropriate solution",
+    "C": "Remove all toys permanently",
+    "D": "Always solve every disagreement without allowing children any participation"
+  },
+  "correctAnswer": "B",
+  "explanation": "With appropriate adult guidance, everyday peer conflicts can become opportunities to develop emotional expression, perspective taking, communication, negotiation and problem solving.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Social Emotional Development", "Conflict Resolution", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0023",
+  "question": "Which of the following most clearly distinguishes a developmentally appropriate early childhood curriculum from a downward extension of primary schooling?",
+  "options": {
+    "A": "It uses longer written examinations",
+    "B": "It introduces more textbooks at an earlier age",
+    "C": "It eliminates teacher guidance completely",
+    "D": "It organises meaningful experiences around children's developmental characteristics, play, interaction, exploration and context rather than simply transferring formal primary methods downward"
+  },
+  "correctAnswer": "D",
+  "explanation": "ECCE should not merely reproduce formal primary-school methods for younger children. Curriculum and pedagogy should reflect the developmental characteristics and learning processes of early childhood.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Curriculum", "Developmentally Appropriate Practice", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0024",
+  "question": "A district programme reports success solely because 95% of eligible children are enrolled in early childhood centres. Which additional evidence would be most necessary before concluding that the programme provides quality ECCE?",
+  "options": {
+    "A": "The number of admission forms printed",
+    "B": "The colour of centre buildings",
+    "C": "Evidence concerning attendance, safety, health and nutrition, quality of interactions, developmentally appropriate learning opportunities, inclusion and children's participation and progress",
+    "D": "The number of formal written tests conducted each month"
+  },
+  "correctAnswer": "C",
+  "explanation": "Enrolment measures access but does not by itself establish programme quality. A Dy.E.O.-level evaluation should also examine processes, participation, developmental opportunities, inclusion and child outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Programme Evaluation", "Quality ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0025",
+  "question": "A Dy.E.O. is asked to improve transition from an early childhood centre to Grade I. Which strategy is most appropriate?",
+  "options": {
+    "A": "Coordinate between early childhood educators, primary teachers and families; share relevant developmental information; familiarise children with the new setting; and maintain continuity in supportive, child-appropriate learning experiences",
+    "B": "Introduce Grade I examinations one year earlier",
+    "C": "Stop play during the final preschool year",
+    "D": "Require all children to demonstrate identical readiness before entering Grade I"
+  },
+  "correctAnswer": "A",
+  "explanation": "A well-supported transition involves coordination, continuity, family participation, familiarisation and responsiveness to individual differences rather than abrupt movement into highly formal instruction.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Transition", "School Readiness"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0026",
+  "question": "A five-year-old child learns to classify leaves by size, shape and texture while discussing them with peers. Which ECCE principle is most clearly illustrated?",
+  "options": {
+    "A": "Young children learn effectively through direct exploration of concrete materials and social interaction",
+    "B": "Classification should be taught only through definitions",
+    "C": "Peer interaction interferes with cognitive development",
+    "D": "Environmental materials have little educational value"
+  },
+  "correctAnswer": "A",
+  "explanation": "Concrete exploration combined with language and peer interaction can promote observation, comparison, classification, vocabulary and reasoning during early childhood.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Active Learning", "Classification", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0027",
+  "question": "Consider the following practices in an early childhood centre: 1. Storytelling and conversation. 2. Outdoor physical play. 3. Creative art and music. 4. Opportunities for manipulation and exploration. Which combination best supports holistic development?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2, 3 and 4",
+    "C": "2 and 4 only",
+    "D": "1, 3 and 4 only"
+  },
+  "correctAnswer": "B",
+  "explanation": "Holistic ECCE provides varied experiences that contribute to linguistic, cognitive, physical, social, emotional, aesthetic and creative development.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Holistic Development", "Statement Based", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0028",
+  "question": "A teacher reads a picture story and repeatedly asks children, 'What do you think will happen next, and why?' The teacher is primarily encouraging:",
+  "options": {
+    "A": "mechanical repetition",
+    "B": "handwriting speed",
+    "C": "prediction, reasoning, language and imaginative thinking",
+    "D": "memorisation of isolated letters"
+  },
+  "correctAnswer": "C",
+  "explanation": "Open-ended prediction questions encourage children to use prior knowledge, imagination, reasoning and oral language rather than simply recall information.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Storytelling", "Reasoning", "Language Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0029",
+  "question": "Assertion A: Nutrition should be considered an educational concern in ECCE. Reason R: Inadequate nutrition can affect children's health, attention, participation and developmental opportunities. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is false but R is true",
+    "D": "Both A and R are true and R is the correct explanation of A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Nutrition is closely connected with children's health, growth, energy, attention and participation. ECCE therefore integrates care, nutrition and educational development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Nutrition", "Assertion Reason", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0030",
+  "question": "A child repeatedly chooses to build structures with blocks. Which teacher response best extends the child's learning without destroying the child-centred nature of the activity?",
+  "options": {
+    "A": "Ask open-ended questions, introduce suitable materials and encourage the child to describe, compare or modify the construction",
+    "B": "Remove the blocks and give a worksheet",
+    "C": "Require every child to reproduce an identical model",
+    "D": "Avoid all interaction because adults should never participate in children's play"
+  },
+  "correctAnswer": "A",
+  "explanation": "The teacher can extend child-initiated play through responsive questions, language, additional materials and appropriate challenges without taking control of the activity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Play", "Teacher Role", "Scaffolding"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0031",
+  "question": "Which statement about school readiness is most appropriate?",
+  "options": {
+    "A": "It is determined entirely by whether a child can read before Grade I",
+    "B": "It involves interaction between children's developmental competencies and the readiness of families, schools and learning environments to support transition",
+    "C": "It requires all children to reach identical developmental levels at the same age",
+    "D": "It is unrelated to social and emotional development"
+  },
+  "correctAnswer": "B",
+  "explanation": "A comprehensive understanding of readiness goes beyond testing children. Children's competencies and the capacity of schools and families to support transition are both important.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["School Readiness", "Transition", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0032",
+  "question": "A Dy.E.O. finds that an early childhood centre has expensive learning kits but children are not permitted to touch them. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The centre has achieved quality because resources have been purchased",
+    "B": "Expensive resources automatically produce learning",
+    "C": "Resources contribute to learning only when children can meaningfully and safely engage with appropriate materials",
+    "D": "Early childhood materials should be used only for display"
+  },
+  "correctAnswer": "C",
+  "explanation": "Availability of materials is not enough. Young children require opportunities to manipulate, explore and use appropriate materials in meaningful activities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Learning Materials", "Quality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0033",
+  "question": "Which of the following is the strongest reason for using locally available materials in ECCE?",
+  "options": {
+    "A": "They make trained teachers unnecessary",
+    "B": "They eliminate the need for safety considerations",
+    "C": "They should replace every manufactured learning resource",
+    "D": "When appropriately selected, they can connect learning with children's familiar environment and provide inexpensive opportunities for exploration"
+  },
+  "correctAnswer": "D",
+  "explanation": "Safe local materials can make learning contextual, familiar and economical while supporting observation, classification, construction, creativity and exploration.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Local Materials", "Contextual Learning", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0034",
+  "question": "A teacher observes that a child rarely participates in group conversation but speaks freely during one-to-one play. What is the most appropriate interpretation?",
+  "options": {
+    "A": "The child's behaviour should be examined across contexts before drawing conclusions about language ability",
+    "B": "The child necessarily has a language disorder",
+    "C": "Group silence proves absence of language competence",
+    "D": "The child's one-to-one communication should be ignored"
+  },
+  "correctAnswer": "A",
+  "explanation": "Young children's behaviour can vary substantially across settings and social situations. Assessment should use observations across contexts rather than conclusions based on a single situation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Observation", "Language", "Individual Differences"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0035",
+  "question": "Consider the following about observation in ECCE: 1. It can help identify children's interests. 2. It can provide information about developmental progress. 3. It can help teachers plan subsequent experiences. 4. One brief observation is always sufficient for a permanent diagnostic conclusion. Which statements are correct?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Systematic observations can inform understanding and planning, but a single brief observation should not be treated as sufficient evidence for permanent diagnostic conclusions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Observation", "Assessment", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0036",
+  "question": "A teacher notices that children lose interest during a 40-minute teacher lecture but participate actively in short stories, movement, discussion and hands-on activities. Which curricular decision is most appropriate?",
+  "options": {
+    "A": "Increase lecture duration to develop discipline",
+    "B": "Remove physical movement from the programme",
+    "C": "Organise varied, active and developmentally appropriate experiences rather than depending predominantly on prolonged verbal instruction",
+    "D": "Introduce additional written examinations"
+  },
+  "correctAnswer": "C",
+  "explanation": "Young children generally benefit from varied experiences involving movement, interaction, play, language and hands-on exploration rather than prolonged passive instruction.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Pedagogy", "Active Learning", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0037",
+  "question": "Assertion A: Comparison of young children through public ranking should generally be avoided. Reason R: Development is multidimensional and children may progress at different rates across domains. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true but R is not related to A",
+    "D": "Both A and R are true and R provides an important justification for A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Public ranking can ignore individual developmental variation and may negatively affect children's confidence and participation. Assessment should focus on progress and support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Assessment", "Individual Differences", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0038",
+  "question": "Which teacher behaviour best promotes children's oral language development?",
+  "options": {
+    "A": "Engaging children in meaningful conversations, listening to them and extending their responses through appropriate questions",
+    "B": "Correcting every minor speech error immediately in front of peers",
+    "C": "Allowing only one-word responses",
+    "D": "Replacing conversation with copying exercises"
+  },
+  "correctAnswer": "A",
+  "explanation": "Rich, responsive conversation provides opportunities to use vocabulary, construct meanings, narrate experiences, listen and express ideas.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Oral Language", "Teacher Interaction", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0039",
+  "question": "A child uses a cardboard box as a bus during pretend play and assigns different roles to classmates. Such play can particularly support:",
+  "options": {
+    "A": "only muscular strength",
+    "B": "symbolic thinking, imagination, language and social negotiation",
+    "C": "only letter recognition",
+    "D": "rote memorisation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Pretend or symbolic play allows children to represent objects and situations mentally while developing imagination, communication, role understanding and social interaction.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Pretend Play", "Symbolic Thinking", "Social Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0040",
+  "question": "A Dy.E.O. notices that a centre excludes children from outdoor play whenever they make mistakes in academic activities. Which concern is most significant?",
+  "options": {
+    "A": "Outdoor play has no developmental purpose",
+    "B": "Academic errors should always receive punishment",
+    "C": "The practice treats an important developmental opportunity as punishment and may unnecessarily restrict physical, social and emotional learning",
+    "D": "Children should never participate in outdoor activities"
+  },
+  "correctAnswer": "C",
+  "explanation": "Outdoor play is itself an important component of early childhood development. Regularly withholding it as punishment can restrict movement, interaction, exploration and well-being.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Outdoor Play", "Child Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0041",
+  "question": "Which sequence best represents a sound approach when an ECCE educator observes a possible developmental concern? 1. Observe systematically across situations. 2. Document relevant patterns. 3. Discuss sensitively with the family and provide appropriate support. 4. Facilitate specialised assessment or referral where warranted.",
+  "options": {
+    "A": "1 → 2 → 3 → 4",
+    "B": "4 → 1 → 3 → 2",
+    "C": "2 → 4 → 1 → 3",
+    "D": "3 → 4 → 2 → 1"
+  },
+  "correctAnswer": "A",
+  "explanation": "Systematic observation and documentation should precede informed collaboration and, when appropriate, referral or specialised assessment.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Early Identification", "Sequence Based", "Referral"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0042",
+  "question": "Which practice best promotes self-regulation in young children?",
+  "options": {
+    "A": "Expecting complete adult-like emotional control immediately",
+    "B": "Providing predictable routines, modelling appropriate behaviour, helping children identify emotions and gradually supporting independent regulation",
+    "C": "Punishing every expression of frustration",
+    "D": "Preventing children from making choices"
+  },
+  "correctAnswer": "B",
+  "explanation": "Self-regulation develops progressively. Responsive adults can support it through routines, modelling, emotional language, appropriate choices and gradually reduced assistance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Regulation", "Social Emotional Development", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0043",
+  "question": "A centre displays children's paintings only when they reproduce the teacher's sample accurately. Which alternative would better promote creativity?",
+  "options": {
+    "A": "Require every child to use identical colours",
+    "B": "Correct children's drawings until they resemble adult drawings",
+    "C": "Provide varied materials and encourage children to represent their own ideas without demanding identical products",
+    "D": "Replace art with handwriting practice"
+  },
+  "correctAnswer": "C",
+  "explanation": "Creative experiences should permit exploration, individual expression and multiple possible outcomes rather than requiring children to reproduce a predetermined adult model.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Creativity", "Art", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0044",
+  "question": "Consider the following principles for selecting play materials: 1. They should be safe and developmentally appropriate. 2. They should permit meaningful manipulation and exploration. 3. They should reflect diversity where appropriate. 4. Their educational value depends mainly on being expensive. Which statements are correct?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "2 and 3 only",
+    "C": "1, 2, 3 and 4",
+    "D": "1, 2 and 3 only"
+  },
+  "correctAnswer": "D",
+  "explanation": "Safety, developmental appropriateness, meaningful engagement and representation are important. High price is not a necessary indicator of educational value.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Play Materials", "Statement Based", "Safety"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0045",
+  "question": "Assertion A: Early childhood educators should establish warm and responsive relationships with children. Reason R: A sense of emotional security can support exploration, interaction and participation in learning. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "A is true but R is false",
+    "C": "A is false but R is true",
+    "D": "Both A and R are false"
+  },
+  "correctAnswer": "A",
+  "explanation": "Responsive relationships contribute to children's sense of security and can support confidence, exploration, communication and engagement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Responsive Relationships", "Assertion Reason", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0046",
+  "question": "A child from a disadvantaged background enters an ECCE centre with experiences different from those assumed by the teacher. Which response best reflects an equity-oriented approach?",
+  "options": {
+    "A": "Treat the child's background as a deficiency",
+    "B": "Build upon the child's existing language, experiences and strengths while providing additional opportunities and support where needed",
+    "C": "Expect the family to reproduce the centre's culture before the child participates",
+    "D": "Lower all developmental expectations permanently"
+  },
+  "correctAnswer": "B",
+  "explanation": "Equity recognises children's differing contexts and seeks to provide responsive opportunities and support without treating cultural or socioeconomic differences as inherent deficits.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Equity", "Diversity", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0047",
+  "question": "A Dy.E.O. wants to determine whether an ECCE programme is genuinely child-centred. Which observation would provide the strongest evidence?",
+  "options": {
+    "A": "The teacher owns several textbooks",
+    "B": "The daily timetable is printed in colour",
+    "C": "Children actively explore, communicate, make appropriate choices and engage with materials while adults responsively facilitate learning",
+    "D": "Children remain silent throughout the programme"
+  },
+  "correctAnswer": "C",
+  "explanation": "Child-centred practice is visible in children's active participation, exploration, communication and appropriate agency, supported by responsive adult facilitation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Child Centred", "Programme Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0048",
+  "question": "Which statement most accurately explains the relationship between care and education during early childhood?",
+  "options": {
+    "A": "Care and education are unrelated activities",
+    "B": "Care is necessary only for infants, whereas education begins at age five",
+    "C": "Education should replace health and nutritional support",
+    "D": "Care and education are interrelated because children's health, security, relationships and well-being influence their opportunities to participate, explore and learn"
+  },
+  "correctAnswer": "D",
+  "explanation": "The integrated nature of ECCE recognises that physical care, health, nutrition, emotional security and educational experiences interact in children's development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Care and Education", "Integrated Approach", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0049",
+  "question": "A teacher wants to develop fine-motor coordination before formal handwriting becomes a major demand. Which set of activities is most appropriate?",
+  "options": {
+    "A": "Clay modelling, threading, tearing and pasting, drawing, manipulating small safe objects and similar hand activities",
+    "B": "Long periods of lecture",
+    "C": "Only running and jumping",
+    "D": "Memorising poems without physical activity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Manipulative and creative activities can strengthen hand-eye coordination, finger control and other fine-motor abilities relevant to later writing tasks.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Fine Motor Development", "Pre Writing", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0050",
+  "question": "A district has achieved high ECCE enrolment but finds irregular attendance, weak family participation, limited play materials and predominantly rote teaching. What should a Dy.E.O. conclude?",
+  "options": {
+    "A": "High enrolment alone proves that ECCE objectives have been achieved",
+    "B": "The programme should be evaluated and strengthened beyond access, with attention to participation, family engagement, learning environment and quality of pedagogy",
+    "C": "Rote teaching is sufficient if enrolment is high",
+    "D": "Attendance and pedagogy are unrelated to programme quality"
+  },
+  "correctAnswer": "B",
+  "explanation": "Access is necessary but not sufficient. Educational administration must also consider regular participation, family partnership, resources, interactions and the quality of children's learning experiences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Programme Quality", "Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0051",
+  "question": "A preschool teacher wants to know whether children have developed the concept of classification. Which activity would provide the most meaningful evidence?",
+  "options": {
+    "A": "Asking children to copy the word 'classification' five times",
+    "B": "Asking children to memorise a definition",
+    "C": "Providing familiar objects and observing how children group them according to relevant characteristics and explain their grouping",
+    "D": "Testing handwriting speed"
+  },
+  "correctAnswer": "C",
+  "explanation": "Young children's conceptual understanding is more meaningfully demonstrated through active use of concepts with concrete materials than through reproduction of formal definitions.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Assessment", "Classification", "Concrete Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0052",
+  "question": "Which practice best supports children's executive-function-related abilities during early childhood?",
+  "options": {
+    "A": "Activities involving simple planning, remembering rules, taking turns, controlling impulses and shifting appropriately between tasks",
+    "B": "Continuous copying without decision making",
+    "C": "Preventing children from solving problems independently",
+    "D": "Eliminating all games with rules"
+  },
+  "correctAnswer": "A",
+  "explanation": "Age-appropriate activities involving working memory, inhibitory control, flexible attention and planning can contribute to developing self-regulatory and executive abilities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Executive Function", "Self Regulation", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0053",
+  "question": "Consider the following indicators of school readiness: 1. Ability to communicate needs and ideas. 2. Social-emotional adjustment. 3. Physical well-being and motor development. 4. Emerging cognitive and language competencies. Which combination is most appropriate?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "2 and 3 only",
+    "C": "1, 2 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "School readiness is multidimensional and involves physical, social-emotional, linguistic, cognitive and related developmental competencies rather than a narrow literacy test.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["School Readiness", "Statement Based", "Holistic Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0054",
+  "question": "A four-year-old asks numerous questions such as 'Why does this float?' and 'What will happen if I add another stone?' Which teacher response is most appropriate?",
+  "options": {
+    "A": "Discourage questions until formal science begins",
+    "B": "Encourage investigation, prediction and discussion using safe, age-appropriate materials",
+    "C": "Give the child definitions to memorise",
+    "D": "Tell the child that only adults should ask questions"
+  },
+  "correctAnswer": "B",
+  "explanation": "Children's curiosity can be used to promote observation, prediction, experimentation, language and early scientific reasoning through developmentally appropriate exploration.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Curiosity", "Scientific Thinking", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0055",
+  "question": "Assertion A: Young children's errors can provide useful information to an ECCE educator. Reason R: Errors may reveal children's current ways of thinking and can help the educator plan suitable experiences or support. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true and R is the correct explanation of A",
+    "D": "Both A and R are true but R is not the correct explanation of A"
+  },
+  "correctAnswer": "C",
+  "explanation": "Children's errors are not merely failures. They can reveal emerging concepts, strategies and misconceptions and therefore inform responsive teaching.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Assessment", "Errors", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0056",
+  "question": "A Dy.E.O. observes that an ECCE centre has a fixed timetable but the teacher refuses to allow a few additional minutes when children are deeply engaged in a productive construction activity. Which principle requires attention?",
+  "options": {
+    "A": "Routines should provide predictability but retain reasonable flexibility according to children's engagement and developmental needs",
+    "B": "Timetables must never be changed under any circumstances",
+    "C": "Children's interests should never influence teaching",
+    "D": "Construction play has no curricular value"
+  },
+  "correctAnswer": "A",
+  "explanation": "Predictable routines are useful, but developmentally appropriate ECCE also requires responsiveness and reasonable flexibility when meaningful learning is occurring.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Routine", "Flexibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0057",
+  "question": "Which practice best illustrates formative use of assessment information in ECCE?",
+  "options": {
+    "A": "Using observations only to rank children",
+    "B": "Recording scores and never using them again",
+    "C": "Conducting one final written examination",
+    "D": "Using observations of children's current understanding to plan subsequent activities and appropriate support"
+  },
+  "correctAnswer": "D",
+  "explanation": "Assessment becomes formative when evidence about children's current learning is used to adapt experiences, interactions and support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Formative Assessment", "Observation", "Planning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0058",
+  "question": "A child initially watches other children playing and later joins them after the educator gently facilitates interaction. Which principle is best demonstrated?",
+  "options": {
+    "A": "Every child should be forced into group play immediately",
+    "B": "Responsive adult support can facilitate participation while respecting individual differences in adjustment",
+    "C": "Observation of peers has no developmental value",
+    "D": "Children who hesitate socially should be permanently separated"
+  },
+  "correctAnswer": "B",
+  "explanation": "Children differ in temperament and adjustment. Sensitive facilitation can promote participation without coercion or unnecessary labelling.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Social Development", "Individual Differences", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0059",
+  "question": "Which statement best reflects an appropriate approach to discipline in ECCE?",
+  "options": {
+    "A": "Discipline should primarily create fear of adults",
+    "B": "Young children should be expected to regulate behaviour without adult guidance",
+    "C": "Guidance should help children understand expectations, consequences, emotions and socially appropriate alternatives",
+    "D": "Public humiliation is an effective method of developing self-regulation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Positive guidance aims to develop understanding and self-regulation through modelling, clear expectations, supportive interactions and appropriate consequences rather than fear or humiliation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Positive Discipline", "Self Regulation", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0060",
+  "question": "Consider the following functions of family-ECCE partnership: 1. Sharing information about the child. 2. Supporting continuity between home and centre. 3. Jointly addressing relevant developmental concerns. 4. Treating parents merely as recipients of instructions. Which are consistent with genuine partnership?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "2 and 3 only",
+    "C": "1, 2, 3 and 4",
+    "D": "1, 2 and 3 only"
+  },
+  "correctAnswer": "D",
+  "explanation": "Partnership involves reciprocal communication, shared understanding and collaboration. Treating families only as passive recipients is inconsistent with genuine partnership.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Family Partnership", "Statement Based", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0061",
+  "question": "A teacher wants to introduce the concept of patterns. Which activity is most developmentally appropriate?",
+  "options": {
+    "A": "Ask children to reproduce a formal mathematical definition",
+    "B": "Use beads, leaves, movements, sounds or familiar objects to create, continue and describe simple patterns",
+    "C": "Begin with algebraic notation",
+    "D": "Require children to memorise rules without examples"
+  },
+  "correctAnswer": "B",
+  "explanation": "Young children can develop early mathematical understanding by recognising, extending and creating patterns through concrete objects, movement and sound.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Early Numeracy", "Patterns", "Concrete Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0062",
+  "question": "A Dy.E.O. finds that an ECCE centre records children's height and weight regularly but takes no action when repeated records suggest a possible nutritional concern. What is the major administrative weakness?",
+  "options": {
+    "A": "Monitoring without appropriate follow-up limits the usefulness of the information",
+    "B": "Growth monitoring should never occur in ECCE",
+    "C": "Nutrition is unrelated to children's development",
+    "D": "Only academic marks require follow-up"
+  },
+  "correctAnswer": "A",
+  "explanation": "Monitoring should inform appropriate follow-up, communication, referral or support when concerns arise. Recording data without using it reduces its practical value.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Health", "Nutrition", "Monitoring"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0063",
+  "question": "Assertion A: Free play and guided play can both have educational value in ECCE. Reason R: Children may learn through self-directed exploration as well as through thoughtfully structured adult support that preserves active engagement. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true but R does not explain A",
+    "D": "Both A and R are true and R is the correct explanation of A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Both child-initiated and appropriately guided play can contribute to development. Adult guidance need not eliminate children's active agency.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Play", "Guided Play", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0064",
+  "question": "An ECCE educator observes a child building a tower, watching it fall and repeatedly changing the arrangement of blocks. Which description best captures the learning process?",
+  "options": {
+    "A": "The child is wasting instructional time",
+    "B": "The child is engaged only in physical exercise",
+    "C": "The child is using exploration, cause-and-effect reasoning, prediction and problem solving through play",
+    "D": "Learning occurs only if the teacher demonstrates the correct tower first"
+  },
+  "correctAnswer": "C",
+  "explanation": "Repeated construction and modification can involve hypothesis-like thinking, observation of consequences, spatial reasoning and problem solving.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Play", "Problem Solving", "Cognitive Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0065",
+  "question": "Which of the following would be the clearest example of an environmental barrier to participation in ECCE?",
+  "options": {
+    "A": "A child's personal preference for one story",
+    "B": "A child with mobility needs cannot reach the activity area because the physical arrangement is inaccessible",
+    "C": "Children choose different colours for paintings",
+    "D": "Two children complete a puzzle at different speeds"
+  },
+  "correctAnswer": "B",
+  "explanation": "An inaccessible physical arrangement creates a participation barrier external to the child and should be addressed through environmental adaptation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Inclusion", "Environmental Barrier", "Accessibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0066",
+  "question": "A child with limited speech understands classroom routines but finds it difficult to express choices verbally. Which response is most inclusive?",
+  "options": {
+    "A": "Provide suitable alternative ways to communicate choices, such as pictures, gestures or other appropriate supports",
+    "B": "Make all choices for the child",
+    "C": "Exclude the child from choice-making activities",
+    "D": "Assume that limited speech necessarily means limited understanding"
+  },
+  "correctAnswer": "A",
+  "explanation": "Communication support should enable participation and expression. Limited speech should not automatically be interpreted as limited comprehension.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Inclusion", "Communication", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0067",
+  "question": "Which practice best supports children's developing autonomy?",
+  "options": {
+    "A": "Adults make every decision for children",
+    "B": "Children receive unlimited freedom without safety boundaries",
+    "C": "Children are given appropriate choices and opportunities for self-help within safe and supportive limits",
+    "D": "All children must perform every task independently regardless of ability"
+  },
+  "correctAnswer": "C",
+  "explanation": "Autonomy develops through age-appropriate choices, self-help opportunities and gradually increasing responsibility within safe and responsive boundaries.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Autonomy", "Self Help", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0068",
+  "question": "A Dy.E.O. compares two ECCE centres. Centre X has more expensive equipment but predominantly passive instruction. Centre Y uses safe local materials, rich conversation, play, exploration and responsive interactions. Which judgement is most defensible?",
+  "options": {
+    "A": "Centre X must be better because cost determines educational quality",
+    "B": "Both centres are necessarily identical in quality",
+    "C": "Only the number of materials should be considered",
+    "D": "Centre Y may provide stronger process quality because children's actual experiences and interactions are central indicators of ECCE quality"
+  },
+  "correctAnswer": "D",
+  "explanation": "Resources matter, but quality depends greatly on how children experience interactions, activities, materials and opportunities for participation and learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Process Quality", "Programme Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0069",
+  "question": "Consider the following strategies for supporting transition to primary school: 1. Familiarising children with the new environment. 2. Communication between ECCE educators and primary teachers. 3. Family involvement. 4. Abrupt replacement of all play-based experiences with formal testing before transition. Which are appropriate?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Transition is strengthened through continuity, familiarisation, professional coordination and family involvement. Abrupt premature formalisation is not a necessary feature of effective transition.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Transition", "Statement Based", "School Readiness"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0070",
+  "question": "A teacher repeatedly completes a child's self-care tasks because doing so is faster. What is the principal developmental concern?",
+  "options": {
+    "A": "The practice may unnecessarily reduce opportunities to develop competence, confidence and independence",
+    "B": "Young children should never receive adult help",
+    "C": "Self-care is unrelated to development",
+    "D": "All self-care tasks should be formally examined"
+  },
+  "correctAnswer": "A",
+  "explanation": "Adults should provide necessary assistance but also allow children appropriate opportunities to practise emerging self-help skills and develop independence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Independence", "Self Help", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0071",
+  "question": "Assertion A: Community resources can enrich ECCE experiences. Reason R: Familiar people, places, occupations, materials and local environments can provide meaningful contexts for children's observation and learning when used safely and appropriately. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "Both A and R are true and R is the correct explanation of A",
+    "C": "A is false but R is true",
+    "D": "Both A and R are false"
+  },
+  "correctAnswer": "B",
+  "explanation": "Appropriate community resources can connect learning with children's real environments and experiences, making early learning more contextual and meaningful.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Community", "Contextual Learning", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0072",
+  "question": "Which action best demonstrates culturally responsive ECCE?",
+  "options": {
+    "A": "Insisting that all children abandon familiar cultural experiences at the centre entrance",
+    "B": "Using only examples unfamiliar to the local community",
+    "C": "Respectfully incorporating children's languages, stories, songs, experiences and cultural contexts while also broadening their exposure",
+    "D": "Assuming that every child from the same community has identical experiences"
+  },
+  "correctAnswer": "C",
+  "explanation": "Culturally responsive practice values children's existing identities and experiences without stereotyping them and uses these as resources for broader learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Cultural Responsiveness", "Diversity", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0073",
+  "question": "A Dy.E.O. finds that teachers maintain detailed child portfolios but never examine them while planning instruction. What change would most improve their educational value?",
+  "options": {
+    "A": "Use portfolio evidence along with observation to identify progress, interests and support needs and to inform subsequent planning",
+    "B": "Increase the thickness of every portfolio",
+    "C": "Use portfolios only to decorate the classroom",
+    "D": "Replace children's work with teacher-written material"
+  },
+  "correctAnswer": "A",
+  "explanation": "Documentation becomes educationally valuable when it informs understanding of children's development and contributes to responsive planning and communication.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Portfolio", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0074",
+  "question": "A district administrator wants one indicator that goes beyond mere ECCE enrolment. Which measure would provide the richest evidence of children's actual educational experience?",
+  "options": {
+    "A": "Number of registration forms stored",
+    "B": "Quality of children's interactions, participation, play and learning opportunities observed regularly in the programme",
+    "C": "Number of walls painted",
+    "D": "Number of administrative circulars issued"
+  },
+  "correctAnswer": "B",
+  "explanation": "Process indicators concerning children's actual experiences provide important information about programme quality that enrolment or infrastructure statistics alone cannot capture.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Process Quality", "Monitoring"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0075",
+  "question": "A Dy.E.O. is designing an improvement plan for a weak ECCE centre. The centre has irregular attendance, inadequate nutrition follow-up, little family communication, inaccessible activity areas and predominantly rote instruction. Which plan is most appropriate?",
+  "options": {
+    "A": "Concentrate exclusively on increasing the number of worksheets",
+    "B": "Address only attendance because other factors are unrelated to ECCE",
+    "C": "Replace all play with formal instruction to prepare children for Grade I",
+    "D": "Use an integrated improvement plan addressing attendance, health and nutrition follow-up, family partnership, accessibility, developmentally appropriate pedagogy and monitoring of children's participation"
+  },
+  "correctAnswer": "D",
+  "explanation": "ECCE is inherently integrated. A Dy.E.O.-level improvement strategy should address interacting barriers involving care, health, family partnership, inclusion, pedagogy, access and participation rather than treating one indicator in isolation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Administration", "Integrated ECCE", "Programme Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0076",
+  "question": "A Dy.E.O. observes that children in an ECCE centre spend most of the day completing identical worksheets. The teacher argues that this ensures school readiness. Which evaluation is most appropriate?",
+  "options": {
+    "A": "Worksheets alone provide a complete measure of school readiness",
+    "B": "School readiness requires broader development through language, play, movement, social-emotional experiences, exploration and emerging literacy and numeracy",
+    "C": "School readiness is determined exclusively by handwriting",
+    "D": "Play should be discontinued before entry into Grade I"
+  },
+  "correctAnswer": "B",
+  "explanation": "School readiness is multidimensional. A narrow worksheet-based programme cannot adequately address physical, cognitive, linguistic, social and emotional development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "School Readiness", "Pedagogy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0077",
+  "question": "Consider the following features of developmentally appropriate ECCE: 1. Experiences suited to children's developmental characteristics. 2. Responsiveness to individual differences. 3. Attention to children's social and cultural contexts. 4. Identical expectations and methods for every child irrespective of need. Which are appropriate?",
+  "options": {
+    "A": "1, 2 and 3 only",
+    "B": "1 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "A",
+  "explanation": "Developmentally appropriate practice considers broad developmental characteristics, individual variation and children's contexts. It does not require identical methods for every learner.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Developmentally Appropriate Practice", "Statement Based", "Individual Differences"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0078",
+  "question": "A child can count aloud from 1 to 20 but cannot correctly give five objects when asked. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The child has completely mastered the concept of number",
+    "B": "Reciting number words necessarily proves understanding of quantity",
+    "C": "The child may have learned the verbal sequence without fully developing the corresponding concept of quantity",
+    "D": "Counting concrete objects should be avoided"
+  },
+  "correctAnswer": "C",
+  "explanation": "Verbal counting sequences and conceptual understanding of quantity are not identical. Concrete tasks can reveal whether number words are meaningfully connected with quantities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Early Numeracy", "Concept Formation", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0079",
+  "question": "Assertion A: ECCE educators should observe the process children use while solving a task, not merely whether the final answer is correct. Reason R: Children's strategies can reveal emerging understanding and provide information for subsequent support. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true but R is not the correct explanation of A",
+    "D": "Both A and R are true and R is the correct explanation of A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Observing children's strategies can provide richer developmental information than judging only the final product and can help educators plan appropriate support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Assessment", "Observation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0080",
+  "question": "A teacher notices that one child consistently avoids activities requiring fine-motor coordination. Which response is most appropriate?",
+  "options": {
+    "A": "Provide varied, enjoyable fine-motor experiences, observe progress and investigate persistent difficulty further when necessary",
+    "B": "Force the child to complete lengthy handwriting exercises immediately",
+    "C": "Assume that the child lacks intelligence",
+    "D": "Exclude the child from manipulative activities"
+  },
+  "correctAnswer": "A",
+  "explanation": "Developmentally appropriate support should provide opportunities for practice while monitoring persistent difficulties and facilitating further assessment when warranted.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Fine Motor Development", "Early Identification", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0081",
+  "question": "Which practice most appropriately connects health, care and education in an ECCE programme?",
+  "options": {
+    "A": "Treating health information as unrelated to educational participation",
+    "B": "Coordinating appropriate health, hygiene and nutrition practices with safe routines and developmentally appropriate learning experiences",
+    "C": "Replacing all learning activities with health measurement",
+    "D": "Leaving all health-related concerns exclusively to children"
+  },
+  "correctAnswer": "B",
+  "explanation": "Integrated ECCE recognises that children's health, nutrition, hygiene, safety and emotional well-being interact with their capacity to participate and learn.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Health", "Nutrition", "Integrated ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0082",
+  "question": "A Dy.E.O. finds that an ECCE centre records excellent attendance but children are frequently passive, rarely speak and have almost no access to materials. What does this illustrate?",
+  "options": {
+    "A": "Attendance automatically proves high-quality learning",
+    "B": "Silence is the strongest indicator of ECCE quality",
+    "C": "Access and attendance must be complemented by meaningful participation and quality learning experiences",
+    "D": "Materials are unnecessary in early childhood"
+  },
+  "correctAnswer": "C",
+  "explanation": "Attendance indicates physical participation in the programme but does not by itself establish the quality of children's interactions, engagement or developmental experiences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Participation", "Programme Quality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0083",
+  "question": "Which approach to storytelling is likely to produce the richest language-learning experience?",
+  "options": {
+    "A": "Teacher reads rapidly without allowing interaction",
+    "B": "Children copy the story title repeatedly",
+    "C": "Teacher asks only questions requiring one memorised answer",
+    "D": "Teacher encourages prediction, discussion, retelling, connections with experience and interpretation of pictures"
+  },
+  "correctAnswer": "D",
+  "explanation": "Interactive storytelling supports listening, vocabulary, comprehension, narrative ability, reasoning, imagination and expressive language.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Storytelling", "Language Development", "Interactive Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0084",
+  "question": "A child takes considerably longer than peers to complete an activity but eventually solves it independently. Which teacher response is most appropriate?",
+  "options": {
+    "A": "Provide reasonable time and judge the child's learning from relevant evidence rather than speed alone",
+    "B": "Complete every task for the child",
+    "C": "Assume slow performance necessarily indicates intellectual disability",
+    "D": "Exclude the child from future activities"
+  },
+  "correctAnswer": "A",
+  "explanation": "Children differ in processing and performance rates. Speed alone should not be treated as a complete indicator of understanding or ability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Individual Differences", "Assessment", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0085",
+  "question": "Consider the following principles of inclusive ECCE: 1. Early identification of support needs. 2. Accessible environments. 3. Participation with peers wherever appropriate. 4. Automatic separation of every child with disability. Which statements are consistent with inclusion?",
+  "options": {
+    "A": "1 and 4 only",
+    "B": "1, 2 and 3 only",
+    "C": "2 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Inclusive ECCE promotes early support, accessibility and meaningful participation. Disability alone does not justify automatic segregation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inclusive ECCE", "Statement Based", "Accessibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0086",
+  "question": "Assertion A: Early identification should be followed by appropriate intervention or support. Reason R: Identification without educational or developmental follow-up has limited practical value for the child. Choose the correct answer.",
+  "options": {
+    "A": "A is false but R is true",
+    "B": "A is true but R is false",
+    "C": "Both A and R are true and R is the correct explanation of A",
+    "D": "Both A and R are false"
+  },
+  "correctAnswer": "C",
+  "explanation": "The purpose of identifying developmental or educational concerns is to enable appropriate support, intervention, referral and monitoring rather than merely attach a label.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Early Identification", "Intervention", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0087",
+  "question": "A teacher provides several objects and asks children to discover which ones roll and which ones slide. Instead of giving the answer immediately, she encourages children to test their predictions. This approach primarily promotes:",
+  "options": {
+    "A": "passive reception",
+    "B": "rote verbal learning",
+    "C": "formal examination preparation",
+    "D": "inquiry, observation, prediction and learning through direct experience"
+  },
+  "correctAnswer": "D",
+  "explanation": "Hands-on investigation allows children to predict, observe outcomes, compare results and construct early scientific understanding.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Inquiry", "Experiential Learning", "Scientific Thinking"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0088",
+  "question": "A Dy.E.O. receives complaints that an ECCE centre publicly labels children as 'weak', 'slow' and 'smart'. Which corrective principle should receive priority?",
+  "options": {
+    "A": "Use respectful, developmentally informed assessment and avoid stigmatising labels and public comparisons",
+    "B": "Increase the number of labels",
+    "C": "Publish children's rankings monthly",
+    "D": "Classify children permanently according to one observation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Young children's development is dynamic and multidimensional. Stigmatising labels and public comparisons can distort assessment and adversely affect participation and self-concept.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Labelling", "Assessment Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0089",
+  "question": "Which indicator would best demonstrate effective family engagement rather than mere family attendance at meetings?",
+  "options": {
+    "A": "Number of signatures collected from parents",
+    "B": "Evidence of two-way communication and meaningful family participation in understanding and supporting children's development",
+    "C": "Number of notices issued by the centre",
+    "D": "Number of instructions given to parents"
+  },
+  "correctAnswer": "B",
+  "explanation": "Genuine engagement is reciprocal and collaborative. Physical attendance or signatures alone do not demonstrate meaningful partnership.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Family Engagement", "Programme Quality", "ECCE"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0090",
+  "question": "A five-year-old child frequently asks for adult help before attempting tasks that the child can often perform independently. Which response is most appropriate?",
+  "options": {
+    "A": "Immediately perform every task for the child",
+    "B": "Refuse all help under every circumstance",
+    "C": "Provide encouragement and only the level of assistance necessary, gradually promoting independent attempts",
+    "D": "Punish help-seeking behaviour"
+  },
+  "correctAnswer": "C",
+  "explanation": "Responsive support should be calibrated to the child's needs. Excessive assistance can create dependence, while appropriate scaffolding can strengthen competence and confidence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Scaffolding", "Independence", "Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0091",
+  "question": "Which statement most appropriately describes the role of an ECCE educator?",
+  "options": {
+    "A": "Primarily transmit information through lectures",
+    "B": "Observe, interact, facilitate play and exploration, organise supportive environments and respond to children's developmental needs",
+    "C": "Avoid communication with families",
+    "D": "Concentrate exclusively on formal literacy instruction"
+  },
+  "correctAnswer": "B",
+  "explanation": "The ECCE educator is a responsive facilitator who creates appropriate environments, observes children, interacts meaningfully and supports development across domains.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Teacher Role", "ECCE", "Pedagogy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0092",
+  "question": "A Dy.E.O. finds that a centre has adequate infrastructure and materials but adult-child interactions are harsh, controlling and frequently humiliating. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Infrastructure alone guarantees quality",
+    "B": "Adult-child interaction is unrelated to ECCE quality",
+    "C": "The programme has serious process-quality concerns because responsive and emotionally safe interactions are central to children's development",
+    "D": "Humiliation is appropriate if materials are adequate"
+  },
+  "correctAnswer": "C",
+  "explanation": "Structural resources are important but cannot compensate for harmful interactions. Emotional safety and responsive adult-child relationships are fundamental aspects of quality ECCE.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Process Quality", "Adult Child Interaction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0093",
+  "question": "Assertion A: Transition to Grade I should involve attention to the readiness of the receiving school as well as the child. Reason R: A child-friendly primary environment and continuity in pedagogy can influence children's adjustment and participation. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "A is true but R is false",
+    "C": "A is false but R is true",
+    "D": "Both A and R are false"
+  },
+  "correctAnswer": "A",
+  "explanation": "Readiness is not solely a characteristic of children. Schools should also be prepared to receive young learners through responsive environments and appropriate continuity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["School Readiness", "Transition", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0094",
+  "question": "Consider the following data from an ECCE centre: high enrolment, low regular attendance, adequate materials, weak adult-child interaction and little family communication. Which interpretation is most appropriate?",
+  "options": {
+    "A": "The programme is necessarily high quality because enrolment is high",
+    "B": "Materials alone compensate for weak interactions",
+    "C": "Only enrolment should be monitored",
+    "D": "Multiple indicators should be examined because access, participation, interactions, resources and family engagement represent different dimensions of programme quality"
+  },
+  "correctAnswer": "D",
+  "explanation": "Programme quality is multidimensional. A single favourable indicator cannot compensate automatically for weaknesses in participation or process quality.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["DyEO Scenario", "Data Interpretation", "Programme Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0095",
+  "question": "A child with visual impairment participates in a sorting activity. Which adaptation best preserves the intended learning objective?",
+  "options": {
+    "A": "Exclude the child from classification activities",
+    "B": "Use accessible objects that can be differentiated through relevant tactile characteristics and provide appropriate verbal description",
+    "C": "Give the child the answers",
+    "D": "Replace the activity permanently with an unrelated task"
+  },
+  "correctAnswer": "B",
+  "explanation": "An appropriate adaptation removes an access barrier while preserving meaningful engagement with the intended concept, in this case comparison and classification.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Inclusive ECCE", "Visual Impairment", "Adaptation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0096",
+  "question": "A district plans to assess ECCE centres solely by giving a written examination to five-year-old children. What is the strongest criticism of this plan?",
+  "options": {
+    "A": "Written examinations are the only valid way to assess young children",
+    "B": "Children's development cannot be observed",
+    "C": "A single written test provides an unduly narrow measure of multidimensional development and programme quality",
+    "D": "Programme quality cannot be evaluated at all"
+  },
+  "correctAnswer": "C",
+  "explanation": "ECCE evaluation should use developmentally appropriate and multiple sources of evidence. Programme quality also includes environments, interactions, health, inclusion and participation, which a child test alone cannot capture.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Assessment", "Programme Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0097",
+  "question": "Which sequence most appropriately represents an improvement cycle for ECCE administration? 1. Collect relevant evidence. 2. Identify strengths and priority gaps. 3. Plan and implement appropriate improvement measures. 4. Monitor outcomes and revise action where necessary.",
+  "options": {
+    "A": "1 → 2 → 3 → 4",
+    "B": "4 → 3 → 1 → 2",
+    "C": "3 → 1 → 4 → 2",
+    "D": "2 → 4 → 3 → 1"
+  },
+  "correctAnswer": "A",
+  "explanation": "Evidence-informed administration involves diagnosis of needs, planned action and subsequent monitoring so that interventions can be strengthened or revised.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["DyEO Scenario", "Administration", "Improvement Cycle"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0098",
+  "question": "A Dy.E.O. must choose between two improvement proposals. Proposal I purchases additional worksheets for every centre. Proposal II trains educators in play-based pedagogy, strengthens observation and family engagement, improves accessibility and ensures appropriate use of local learning materials. Which judgement is most appropriate?",
+  "options": {
+    "A": "Proposal I is superior because quantity of worksheets is the principal measure of ECCE",
+    "B": "Both proposals necessarily have identical developmental impact",
+    "C": "Proposal II is more consistent with a comprehensive, developmentally appropriate approach to ECCE",
+    "D": "Neither teacher development nor family engagement is relevant"
+  },
+  "correctAnswer": "C",
+  "explanation": "Proposal II addresses several important dimensions of quality ECCE: pedagogy, educator capacity, assessment, inclusion, resources and family partnership.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Decision Making", "Programme Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0099",
+  "question": "Consider the following district-level ECCE indicators: 1. Access and regular participation. 2. Health, nutrition and safety. 3. Quality of adult-child interactions and pedagogy. 4. Inclusion, family engagement and developmental progress. Which combination provides the most comprehensive basis for monitoring?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2, 3 and 4",
+    "C": "3 and 4 only",
+    "D": "1, 3 and 4 only"
+  },
+  "correctAnswer": "B",
+  "explanation": "Comprehensive monitoring should integrate access, care, safety, process quality, inclusion, partnership and evidence concerning children's development and participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Monitoring", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-ECCE-0100",
+  "question": "A Dy.E.O. is preparing a district strategy to strengthen Early Childhood Care and Education. Which plan is the most comprehensive?",
+  "options": {
+    "A": "Concentrate only on increasing enrolment",
+    "B": "Introduce formal examinations and textbooks as early as possible",
+    "C": "Focus exclusively on infrastructure construction",
+    "D": "Integrate access and regular participation, health and nutrition, safe and inclusive environments, play and activity-based pedagogy, responsive interactions, early identification and support, family and community partnership, school-readiness and transition measures, educator capacity-building and continuous programme monitoring"
+  },
+  "correctAnswer": "D",
+  "explanation": "Effective ECCE administration requires an integrated approach because children's care, health, learning, relationships, inclusion, family context, transition and programme quality are interconnected.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Integrated ECCE", "Educational Administration", "Programme Planning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}

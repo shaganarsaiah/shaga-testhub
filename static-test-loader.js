@@ -43,7 +43,10 @@
         "Growth and Development":
             "question-bank/subjects/educational-psychology/growth-development.json",
             
-            "Developmental Domains":
+        "Early Childhood Care and Education":
+            "question-bank/subjects/educational-psychology/ecce.json",
+            
+        "Developmental Domains":
             "question-bank/subjects/educational-psychology/developmental-domains.json",
 
         "Learning":
@@ -81,6 +84,8 @@
             
         "Exceptional Children and Children with Disabilities":
             "question-bank/subjects/educational-psychology/inclusive-education.json",
+        "Early Childhood Care and Education":
+    "question-bank/subjects/educational-psychology/ecce.json",
 
 
         /* Educational Philosophy */

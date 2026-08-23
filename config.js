@@ -16,7 +16,8 @@ const repository = {
             "Psychological Testing",
             "Individual Differences",
             "Guidance and Counselling",
-            "Exceptional Children and Children with Disabilities"
+            "Exceptional Children and Children with Disabilities",
+            "Early Childhood Care and Education"
         ],
 
         "Educational Philosophy": [
