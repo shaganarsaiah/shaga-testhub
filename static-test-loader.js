@@ -84,8 +84,11 @@
             
         "Exceptional Children and Children with Disabilities":
             "question-bank/subjects/educational-psychology/inclusive-education.json",
-        "Early Childhood Care and Education":
-    "question-bank/subjects/educational-psychology/ecce.json",
+            
+                    /* Pedagogy */
+
+        "Pedagogical Process, Teaching-Learning Methods and Innovative Practices in Education":
+            "question-bank/subjects/pedagogy/pedagogical-process.json",
 
 
         /* Educational Philosophy */

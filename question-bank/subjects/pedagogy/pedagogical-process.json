@@ -1,0 +1,1816 @@
+{
+  "metadata": {
+    "subject": "Pedagogy",
+    "unit": "Unit VI",
+    "chapter": "Pedagogical Process, Teaching-Learning Methods and Innovative Practices in Education",
+    "topic": "Pedagogical Process, Teaching-Learning Methods and Innovative Practices in Education",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Dy.E.O. Standard",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "SHAGA GOLD"
+  },
+  "questions": [
+    {
+  "id": "PED-PP-0001",
+  "question": "Which statement most accurately describes the pedagogical process?",
+  "options": {
+    "A": "A systematic interaction among learner, teacher, content, context and learning experiences directed towards educational goals",
+    "B": "The administrative process of maintaining school records",
+    "C": "The preparation of examinations alone",
+    "D": "The transmission of textbook information without learner participation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Pedagogy involves purposeful interaction among learners, teachers, content, learning experiences and context. It is broader than mere transmission of information.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Pedagogy", "Pedagogical Process", "Concept"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0002",
+  "question": "A teacher begins a lesson by eliciting children's existing ideas and then designs activities that help them reconstruct those ideas. This approach is most consistent with:",
+  "options": {
+    "A": "Mechanical conditioning",
+    "B": "Constructivist pedagogy",
+    "C": "Pure lecture method",
+    "D": "Rote memorisation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Constructivist pedagogy recognises learners' prior knowledge and engages them actively in constructing and reconstructing understanding.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Constructivism", "Prior Knowledge", "Scenario"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0003",
+  "question": "Which teaching-learning practice most strongly reflects learner-centred pedagogy?",
+  "options": {
+    "A": "Teacher speaks throughout the period",
+    "B": "Students reproduce dictated notes",
+    "C": "Students investigate a problem, discuss evidence and construct explanations with teacher facilitation",
+    "D": "All learners memorise an identical answer"
+  },
+  "correctAnswer": "C",
+  "explanation": "Learner-centred pedagogy promotes active inquiry, interaction, reasoning and construction of understanding, with the teacher functioning as facilitator.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Learner Centred", "Active Learning", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0004",
+  "question": "Assertion A: Effective pedagogy should connect new learning with learners' prior experiences. Reason R: Meaningful learning is facilitated when learners can relate new concepts to existing cognitive structures. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both are true but R does not explain A",
+    "D": "Both are true and R correctly explains A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Prior knowledge provides a cognitive base for interpreting and integrating new learning, making the reason a valid explanation of the assertion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Prior Knowledge", "Meaningful Learning", "Assertion Reason"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0005",
+  "question": "A teacher wants students to understand water conservation by examining water use in their own village, collecting data and proposing solutions. Which method is most suitable?",
+  "options": {
+    "A": "Project method",
+    "B": "Dictation method",
+    "C": "Drill method",
+    "D": "Recitation method"
+  },
+  "correctAnswer": "A",
+  "explanation": "The project method involves purposeful activity centred on a real problem and integrates investigation, collaboration and application.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Project Method", "Experiential Learning", "Scenario"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0006",
+  "question": "Which characteristic distinguishes cooperative learning from merely seating students in groups?",
+  "options": {
+    "A": "Every learner completes unrelated individual work",
+    "B": "Structured positive interdependence combined with individual accountability",
+    "C": "Only the highest achiever performs the task",
+    "D": "The teacher supplies every answer"
+  },
+  "correctAnswer": "B",
+  "explanation": "Effective cooperative learning combines shared goals or positive interdependence with responsibility and accountability of individual members.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Cooperative Learning", "Group Learning", "Teaching Methods"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0007",
+  "question": "A science teacher presents a puzzling phenomenon and asks students to formulate questions, collect evidence and develop explanations. This is primarily:",
+  "options": {
+    "A": "Programmed instruction",
+    "B": "Direct dictation",
+    "C": "Inquiry-based learning",
+    "D": "Mechanical drill"
+  },
+  "correctAnswer": "C",
+  "explanation": "Inquiry-based learning engages learners in questioning, investigation, evidence gathering and explanation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Inquiry Learning", "Scientific Thinking", "Scenario"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0008",
+  "question": "Which classroom practice is least compatible with reflective teaching?",
+  "options": {
+    "A": "Examining evidence of student learning",
+    "B": "Reconsidering strategies after a lesson",
+    "C": "Seeking feedback about teaching",
+    "D": "Using the same method repeatedly regardless of learning outcomes"
+  },
+  "correctAnswer": "D",
+  "explanation": "Reflective teaching requires teachers to analyse practice and modify it in response to evidence rather than mechanically repeat ineffective strategies.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Reflective Teaching", "Teacher Development", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0009",
+  "question": "A teacher deliberately provides temporary hints and prompts and gradually withdraws them as learners become competent. This illustrates:",
+  "options": {
+    "A": "Scaffolding",
+    "B": "Punishment",
+    "C": "Overlearning",
+    "D": "Standardisation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Scaffolding consists of temporary support adjusted to learners' needs and progressively withdrawn as independent competence develops.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Scaffolding", "Teacher Support", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0010",
+  "question": "The principal educational value of discussion method lies in its potential to:",
+  "options": {
+    "A": "Eliminate differences of opinion",
+    "B": "Develop articulation, reasoning, listening and examination of multiple perspectives",
+    "C": "Ensure passive reception",
+    "D": "Replace all other teaching methods"
+  },
+  "correctAnswer": "B",
+  "explanation": "Well-structured discussion promotes reasoning, communication, listening and consideration of alternative viewpoints.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Discussion Method", "Critical Thinking", "Teaching Methods"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0011",
+  "question": "Which situation is the best example of differentiated instruction?",
+  "options": {
+    "A": "Every learner receives exactly the same task irrespective of readiness",
+    "B": "Students are permanently labelled according to ability",
+    "C": "The teacher varies support, tasks or representations according to relevant learner needs while pursuing common learning goals",
+    "D": "Low achievers are excluded from challenging learning"
+  },
+  "correctAnswer": "C",
+  "explanation": "Differentiation responds to learner readiness, interests or learning needs while maintaining meaningful educational expectations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Differentiated Instruction", "Individual Differences", "Inclusive Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0012",
+  "question": "Assertion A: Formative assessment can be considered part of the pedagogical process. Reason R: Evidence of current learning can be used to modify teaching and provide appropriate feedback. Choose the correct answer.",
+  "options": {
+    "A": "A is false but R is true",
+    "B": "A is true but R is false",
+    "C": "Both are false",
+    "D": "Both are true and R correctly explains A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Formative assessment is pedagogically useful because evidence of learning informs immediate instructional decisions and feedback.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Formative Assessment", "Pedagogy", "Assertion Reason"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0013",
+  "question": "In problem-based learning, the problem primarily functions as:",
+  "options": {
+    "A": "A context that stimulates investigation, integration of knowledge and problem solving",
+    "B": "A punishment for incomplete homework",
+    "C": "A substitute for all curricular objectives",
+    "D": "A device for memorising definitions"
+  },
+  "correctAnswer": "A",
+  "explanation": "Problem-based learning organises learning around meaningful problems requiring investigation, reasoning and application of knowledge.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Problem Based Learning", "Innovative Pedagogy", "Application"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0014",
+  "question": "A teacher records a short explanation for students to study before class and uses classroom time for problem solving and discussion. This is an example of:",
+  "options": {
+    "A": "Team teaching",
+    "B": "Flipped classroom",
+    "C": "Microteaching",
+    "D": "Drill and practice"
+  },
+  "correctAnswer": "B",
+  "explanation": "In a flipped classroom, initial content exposure commonly occurs before class while face-to-face time is used for active application and interaction.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Flipped Classroom", "Innovative Practices", "Blended Learning"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0015",
+  "question": "Which is the strongest pedagogical reason for using questioning during teaching?",
+  "options": {
+    "A": "To keep students silent",
+    "B": "To increase teacher talk",
+    "C": "To probe understanding, stimulate thinking and guide further learning",
+    "D": "To identify students for punishment"
+  },
+  "correctAnswer": "C",
+  "explanation": "Purposeful questioning can diagnose understanding, stimulate higher-order thinking and help teachers decide subsequent instructional steps.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Questioning", "Teaching Skills", "Assessment"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0016",
+  "question": "A teacher uses local markets, occupations and community problems as contexts for mathematics and language activities. This best illustrates:",
+  "options": {
+    "A": "Decontextualised teaching",
+    "B": "Programmed learning",
+    "C": "Pure verbalism",
+    "D": "Contextualised learning"
+  },
+  "correctAnswer": "D",
+  "explanation": "Contextualised pedagogy connects curricular learning with meaningful situations in learners' environments and experiences.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Contextual Learning", "Community", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0017",
+  "question": "Which method is particularly appropriate when students are expected to learn a process by observing its correct performance before practising it?",
+  "options": {
+    "A": "Demonstration method",
+    "B": "Symposium",
+    "C": "Seminar",
+    "D": "Debate"
+  },
+  "correctAnswer": "A",
+  "explanation": "Demonstration is useful when a process, procedure or skill needs to be made visible before or during learner practice.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Understand",
+  "tags": ["Demonstration", "Teaching Methods", "Skill Learning"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0018",
+  "question": "Which feature is most characteristic of experiential learning?",
+  "options": {
+    "A": "Learning exclusively through textbooks",
+    "B": "Learning through experience combined with reflection and conceptualisation",
+    "C": "Avoidance of practical activity",
+    "D": "Memorisation without application"
+  },
+  "correctAnswer": "B",
+  "explanation": "Experiential learning involves experience, reflection and the development or application of understanding rather than activity without reflection.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Experiential Learning", "Reflection", "Innovative Practices"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0019",
+  "question": "A teacher asks students to compare two competing explanations, identify evidence for each and defend a conclusion. The activity primarily develops:",
+  "options": {
+    "A": "Copying speed",
+    "B": "Mechanical recall",
+    "C": "Critical thinking",
+    "D": "Handwriting"
+  },
+  "correctAnswer": "C",
+  "explanation": "Evaluating competing claims and evidence and defending conclusions are central processes in critical thinking.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Critical Thinking", "Higher Order Thinking", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0020",
+  "question": "Which statement about activity-based learning is most appropriate?",
+  "options": {
+    "A": "Every physical activity automatically produces learning",
+    "B": "Activities should be unrelated to learning objectives",
+    "C": "Teacher guidance is always prohibited",
+    "D": "Activities are pedagogically valuable when meaningfully connected with learning objectives and reflection"
+  },
+  "correctAnswer": "D",
+  "explanation": "Activity alone is insufficient; pedagogically meaningful activity should contribute to intended learning and be accompanied by appropriate interaction or reflection.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Activity Based Learning", "Pedagogical Process", "Learning Objectives"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0021",
+  "question": "A Dy.E.O. observes that a school has interactive boards in every classroom but teachers use them only to display textbook pages while lecturing. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Technology availability alone does not constitute pedagogical innovation; its use should meaningfully improve learner engagement or learning processes",
+    "B": "The school has automatically achieved innovative pedagogy",
+    "C": "Digital equipment makes teacher planning unnecessary",
+    "D": "Any electronic display is necessarily learner-centred"
+  },
+  "correctAnswer": "A",
+  "explanation": "Innovation depends on pedagogically meaningful use, not merely the presence of technology.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Technology", "Innovative Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0022",
+  "question": "Peer teaching can be educationally useful primarily because it:",
+  "options": {
+    "A": "Makes teachers unnecessary",
+    "B": "Provides opportunities for learners to explain, question, receive feedback and learn collaboratively",
+    "C": "Ensures that peers always provide correct information",
+    "D": "Eliminates individual accountability"
+  },
+  "correctAnswer": "B",
+  "explanation": "Peer teaching can deepen understanding through explanation and interaction, although teacher monitoring and individual accountability remain important.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Peer Teaching", "Collaborative Learning", "Teaching Methods"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0023",
+  "question": "A teacher gives students several possible materials and allows them to design different solutions to the same authentic problem. Which pedagogical quality is most strongly promoted?",
+  "options": {
+    "A": "Uniform reproduction",
+    "B": "Mechanical conditioning",
+    "C": "Creativity and divergent problem solving",
+    "D": "Passive listening"
+  },
+  "correctAnswer": "C",
+  "explanation": "Open-ended authentic tasks allowing multiple solutions promote divergent thinking, creativity and problem solving.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Creativity", "Problem Solving", "Innovative Practices"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0024",
+  "question": "Assertion A: Feedback is most useful when it helps learners understand how to improve. Reason R: Merely assigning a score always tells learners precisely what corrective action to take. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true",
+    "B": "A is false but R is true",
+    "C": "Both A and R are false",
+    "D": "A is true but R is false"
+  },
+  "correctAnswer": "D",
+  "explanation": "Effective feedback should provide information useful for improvement. A score alone does not necessarily explain strengths, misconceptions or next steps.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Feedback", "Assessment for Learning", "Assertion Reason"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0025",
+  "question": "A Dy.E.O. wants to judge whether classroom pedagogy has genuinely become learner-centred. Which evidence is strongest?",
+  "options": {
+    "A": "Students actively question, investigate, discuss, create and apply knowledge while teachers provide purposeful facilitation",
+    "B": "Every classroom has new furniture",
+    "C": "Teachers complete the textbook early",
+    "D": "Students copy more pages of notes"
+  },
+  "correctAnswer": "A",
+  "explanation": "Learner-centred pedagogy is demonstrated through the nature and quality of learners' cognitive and social participation, not superficial infrastructure indicators.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Learner Centred Pedagogy", "Monitoring"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0026",
+  "question": "Which teaching method is most appropriate when the objective is to develop students' ability to examine opposing viewpoints and defend arguments with evidence?",
+  "options": {
+    "A": "Drill",
+    "B": "Debate",
+    "C": "Dictation",
+    "D": "Copying"
+  },
+  "correctAnswer": "B",
+  "explanation": "A well-organised debate requires learners to examine competing positions, construct arguments and respond to counterarguments.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Debate", "Critical Thinking", "Teaching Methods"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0027",
+  "question": "A teacher deliberately presents a situation that conflicts with students' existing misconceptions and then facilitates investigation. The pedagogical purpose is primarily to:",
+  "options": {
+    "A": "Avoid conceptual change",
+    "B": "Increase memorisation",
+    "C": "Create productive cognitive conflict that can stimulate reconstruction of understanding",
+    "D": "Punish incorrect thinking"
+  },
+  "correctAnswer": "C",
+  "explanation": "Appropriately designed cognitive conflict can expose inconsistencies in prior conceptions and motivate learners to reconstruct understanding.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Conceptual Change", "Cognitive Conflict", "Constructivism"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0028",
+  "question": "Which is the most important limitation of relying exclusively on the lecture method?",
+  "options": {
+    "A": "Lectures can never communicate information",
+    "B": "Teachers cannot organise lectures",
+    "C": "Lectures always require expensive technology",
+    "D": "Exclusive reliance may provide insufficient opportunity for active processing, interaction, application and feedback"
+  },
+  "correctAnswer": "D",
+  "explanation": "Lectures can be useful, but exclusive dependence can limit learner participation, feedback and opportunities to apply understanding.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Lecture Method", "Teaching Methods", "Limitations"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0029",
+  "question": "Which practice best represents learning by doing?",
+  "options": {
+    "A": "Students conduct a survey, analyse findings and prepare conclusions",
+    "B": "Students copy the teacher's notes",
+    "C": "Students memorise a model answer",
+    "D": "Students listen without participating"
+  },
+  "correctAnswer": "A",
+  "explanation": "Learning by doing engages learners directly in purposeful tasks involving application and reflection.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Apply",
+  "tags": ["Learning by Doing", "Experiential Learning", "Activity"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0030",
+  "question": "In a jigsaw cooperative-learning activity, students typically:",
+  "options": {
+    "A": "Compete individually for one prize",
+    "B": "Develop expertise in portions of material and contribute that expertise to their groups",
+    "C": "Listen exclusively to the teacher",
+    "D": "Complete identical tasks without interaction"
+  },
+  "correctAnswer": "B",
+  "explanation": "Jigsaw structures create interdependence by making members responsible for learning and sharing different portions of content.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Jigsaw", "Cooperative Learning", "Innovative Practices"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0031",
+  "question": "Which classroom situation best represents collaborative knowledge construction?",
+  "options": {
+    "A": "Students silently reproduce a definition",
+    "B": "The teacher prohibits discussion",
+    "C": "Students jointly examine evidence, challenge interpretations and develop a shared explanation",
+    "D": "Only one student is permitted to think"
+  },
+  "correctAnswer": "C",
+  "explanation": "Collaborative knowledge construction occurs when learners actively negotiate meaning and build understanding through interaction.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Collaborative Learning", "Knowledge Construction", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0032",
+  "question": "A teacher selects digital simulations because the actual experiment is unsafe for students. Which principle best justifies this choice?",
+  "options": {
+    "A": "Digital resources should always replace real experience",
+    "B": "Technology is valuable only because it is modern",
+    "C": "Simulations eliminate the need for reasoning",
+    "D": "Technology should be selected when its affordances appropriately support the intended learning experience"
+  },
+  "correctAnswer": "D",
+  "explanation": "Technology should be chosen for pedagogical reasons. Simulations can provide safe access to otherwise impractical experiences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Digital Pedagogy", "Simulation", "Technology Integration"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0033",
+  "question": "The primary purpose of brainstorming during an initial creative problem-solving stage is to:",
+  "options": {
+    "A": "Generate numerous possible ideas before premature evaluation",
+    "B": "Immediately reject unusual ideas",
+    "C": "Produce one predetermined answer",
+    "D": "Assess handwriting"
+  },
+  "correctAnswer": "A",
+  "explanation": "Brainstorming initially emphasises fluency and generation of possibilities, with evaluation occurring subsequently.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Brainstorming", "Creativity", "Teaching Methods"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0034",
+  "question": "Which statement best distinguishes problem-solving method from routine exercise?",
+  "options": {
+    "A": "Problem solving never uses previous knowledge",
+    "B": "A genuine problem requires learners to select, adapt or construct strategies rather than merely execute an already obvious procedure",
+    "C": "Routine exercises always require greater creativity",
+    "D": "Problem solving prohibits reflection"
+  },
+  "correctAnswer": "B",
+  "explanation": "Problem solving requires strategic reasoning where the route to the solution is not immediately given.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Problem Solving", "Higher Order Thinking", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0035",
+  "question": "A teacher asks learners to maintain journals describing what they learned, where they struggled and how they changed their strategies. This particularly develops:",
+  "options": {
+    "A": "Mechanical memory",
+    "B": "Competition",
+    "C": "Metacognitive reflection",
+    "D": "Passive dependence"
+  },
+  "correctAnswer": "C",
+  "explanation": "Reflective journals encourage learners to think about their own learning processes, difficulties and strategies.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Metacognition", "Reflective Learning", "Learning Strategies"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0036",
+  "question": "Assertion A: An innovative teaching practice need not necessarily involve digital technology. Reason R: Innovation may consist of a contextually appropriate new or improved pedagogical approach that enhances learning. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both are true but unrelated",
+    "D": "Both are true and R correctly explains A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Pedagogical innovation concerns meaningful improvement in teaching and learning and is not synonymous with technology use.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Innovation", "Pedagogy", "Assertion Reason"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0037",
+  "question": "Which teacher action best promotes transfer of learning?",
+  "options": {
+    "A": "Providing opportunities to apply a principle in varied and unfamiliar situations",
+    "B": "Restricting practice to one identical example",
+    "C": "Discouraging connections across contexts",
+    "D": "Teaching facts without application"
+  },
+  "correctAnswer": "A",
+  "explanation": "Applying concepts across varied contexts helps learners recognise underlying principles and transfer knowledge beyond the original learning situation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Transfer of Learning", "Application", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0038",
+  "question": "Which is a defining characteristic of blended learning?",
+  "options": {
+    "A": "Complete rejection of classroom interaction",
+    "B": "Purposeful integration of face-to-face and technology-mediated learning experiences",
+    "C": "Use of computers only for examinations",
+    "D": "Replacement of pedagogy by hardware"
+  },
+  "correctAnswer": "B",
+  "explanation": "Blended learning purposefully combines face-to-face and digital or online learning components.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Blended Learning", "Innovative Practices", "Digital Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0039",
+  "question": "A teacher first models how to evaluate a source, then evaluates one jointly with students, and finally asks students to evaluate sources independently. This progression best represents:",
+  "options": {
+    "A": "Punishment",
+    "B": "Random instruction",
+    "C": "Gradual release of responsibility",
+    "D": "Massed practice"
+  },
+  "correctAnswer": "C",
+  "explanation": "The progression from teacher modelling through guided participation to independent performance reflects gradual release of responsibility.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Scaffolding", "Gradual Release", "Teaching Strategy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0040",
+  "question": "Which classroom practice most clearly undermines inquiry-oriented pedagogy?",
+  "options": {
+    "A": "Encouraging evidence-based questions",
+    "B": "Allowing alternative hypotheses",
+    "C": "Providing opportunities for investigation",
+    "D": "Treating the teacher's initial statement as unquestionable and prohibiting investigation"
+  },
+  "correctAnswer": "D",
+  "explanation": "Inquiry requires questioning, investigation and evaluation of evidence; prohibiting these processes contradicts inquiry pedagogy.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inquiry Learning", "Pedagogy", "Critical Thinking"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0041",
+  "question": "A Dy.E.O. finds that teachers prepare excellent lesson plans but classroom observations show little student engagement. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Pedagogical quality must be judged through implementation and learner experience, not planning documents alone",
+    "B": "Lesson plans alone prove effective teaching",
+    "C": "Student engagement is irrelevant",
+    "D": "Classroom observation has no value"
+  },
+  "correctAnswer": "A",
+  "explanation": "Planning is important, but pedagogical quality also depends on enacted classroom processes and evidence of student learning and participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Classroom Observation", "Pedagogical Quality"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0042",
+  "question": "Which use of peer assessment is pedagogically strongest?",
+  "options": {
+    "A": "Students assign arbitrary marks to friends",
+    "B": "Students use clear criteria to examine peers' work and provide constructive feedback",
+    "C": "Students publicly ridicule errors",
+    "D": "Peer assessment permanently replaces teacher assessment"
+  },
+  "correctAnswer": "B",
+  "explanation": "Criterion-referenced peer feedback can deepen understanding of quality, promote reflection and improve work.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Peer Assessment", "Feedback", "Assessment for Learning"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0043",
+  "question": "Which situation best demonstrates interdisciplinary teaching?",
+  "options": {
+    "A": "Each subject is deliberately isolated from all others",
+    "B": "One textbook chapter is copied twice",
+    "C": "A local environmental problem is studied using science, mathematics, language and social-science perspectives",
+    "D": "Students memorise subject names"
+  },
+  "correctAnswer": "C",
+  "explanation": "Interdisciplinary learning draws meaningfully upon concepts and methods from multiple disciplines to understand a theme or problem.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Interdisciplinary Learning", "Integration", "Innovative Practices"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0044",
+  "question": "Which principle should guide selection of a teaching method?",
+  "options": {
+    "A": "Always select the newest method",
+    "B": "Always use the teacher's favourite method",
+    "C": "Use one method for every objective",
+    "D": "Align the method with learning objectives, learner characteristics, content, context and available resources"
+  },
+  "correctAnswer": "D",
+  "explanation": "No single method is universally superior; pedagogical selection should be contextually aligned with objectives and learners.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Teaching Methods", "Method Selection", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0045",
+  "question": "A teacher asks students to identify what they already know, what they want to know and what they learned after an investigation. The main pedagogical advantage is:",
+  "options": {
+    "A": "Activation and monitoring of prior knowledge and learning",
+    "B": "Elimination of reflection",
+    "C": "Increase in copying",
+    "D": "Replacement of conceptual understanding"
+  },
+  "correctAnswer": "A",
+  "explanation": "Such strategies make prior knowledge and learning progress explicit and encourage metacognitive monitoring.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Prior Knowledge", "Metacognition", "Teaching Strategy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0046",
+  "question": "Which is the strongest rationale for using concept maps?",
+  "options": {
+    "A": "They increase handwriting speed",
+    "B": "They can make relationships among concepts visible and support organisation of knowledge",
+    "C": "They eliminate misconceptions automatically",
+    "D": "They replace all verbal explanation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Concept maps can visually represent relationships among concepts and help teachers and learners examine knowledge organisation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Concept Maps", "Knowledge Organisation", "Teaching Aids"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0047",
+  "question": "A classroom permits students to ask questions, challenge ideas respectfully and justify claims. This environment most directly supports:",
+  "options": {
+    "A": "Authoritarian learning",
+    "B": "Passive conformity",
+    "C": "Dialogic and critical pedagogy",
+    "D": "Mechanical drill"
+  },
+  "correctAnswer": "C",
+  "explanation": "Dialogic pedagogy treats classroom discourse as a means of reasoning, questioning and constructing understanding.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Dialogic Pedagogy", "Critical Thinking", "Classroom Climate"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0048",
+  "question": "Assertion A: Teaching-learning materials should be evaluated according to their pedagogical usefulness, not merely attractiveness. Reason R: Attractive materials necessarily produce conceptual understanding without learner engagement. Choose the correct answer.",
+  "options": {
+    "A": "Both are true",
+    "B": "A is false but R is true",
+    "C": "Both are false",
+    "D": "A is true but R is false"
+  },
+  "correctAnswer": "D",
+  "explanation": "Attractiveness can support attention, but materials become educationally valuable through purposeful use aligned with learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teaching Learning Materials", "Assertion Reason", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0049",
+  "question": "Which teacher behaviour best supports student autonomy?",
+  "options": {
+    "A": "Providing meaningful choices and gradually increasing responsibility for learning",
+    "B": "Making every decision for learners",
+    "C": "Preventing self-assessment",
+    "D": "Discouraging independent inquiry"
+  },
+  "correctAnswer": "A",
+  "explanation": "Appropriate choice and responsibility help learners develop agency and self-directed learning capacities.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Learner Autonomy", "Self Directed Learning", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0050",
+  "question": "A Dy.E.O. finds that teachers have been trained in several innovative methods but continue to use only lectures. What should be investigated first?",
+  "options": {
+    "A": "Whether teachers own smartphones",
+    "B": "Barriers between professional learning and classroom implementation, including support, beliefs, resources and follow-up",
+    "C": "Whether teachers can memorise names of methods",
+    "D": "Whether more circulars can be issued without classroom support"
+  },
+  "correctAnswer": "B",
+  "explanation": "Training does not automatically change practice. Implementation depends on teacher beliefs, opportunities, resources, leadership support and sustained follow-up.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Teacher Development", "Implementation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0051",
+  "question": "Which feature most clearly distinguishes discovery-oriented learning from direct transmission?",
+  "options": {
+    "A": "Learners actively identify relationships or principles through structured exploration",
+    "B": "Students copy conclusions before examining evidence",
+    "C": "All questions are prohibited",
+    "D": "Learning is restricted to memorisation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Discovery-oriented approaches involve learners in exploring examples or evidence to identify relationships, patterns or principles.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Discovery Learning", "Active Learning", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0052",
+  "question": "A teacher combines individual thinking, discussion with a partner and whole-class sharing. This strategy is commonly valued because it:",
+  "options": {
+    "A": "Prevents individual thought",
+    "B": "Provides progressively wider opportunities for participation and articulation of ideas",
+    "C": "Eliminates interaction",
+    "D": "Requires only rote recall"
+  },
+  "correctAnswer": "B",
+  "explanation": "Think-pair-share provides individual processing time followed by peer articulation and broader discussion.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Think Pair Share", "Collaborative Learning", "Participation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0053",
+  "question": "A teacher asks students not merely to state an answer but to explain the evidence and reasoning behind it. This primarily promotes:",
+  "options": {
+    "A": "Mechanical reproduction",
+    "B": "Teacher dependence",
+    "C": "Reasoned understanding and metacognition",
+    "D": "Speed without comprehension"
+  },
+  "correctAnswer": "C",
+  "explanation": "Requiring justification makes thinking visible and encourages learners to examine the basis of their conclusions.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Reasoning", "Metacognition", "Questioning"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0054",
+  "question": "Which practice best represents authentic learning?",
+  "options": {
+    "A": "Memorising disconnected facts solely for a test",
+    "B": "Copying model answers",
+    "C": "Completing meaningless repetitive work",
+    "D": "Applying knowledge to meaningful tasks resembling real-world contexts"
+  },
+  "correctAnswer": "D",
+  "explanation": "Authentic learning connects knowledge and skills with meaningful problems, contexts and products.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Authentic Learning", "Application", "Innovative Practices"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0055",
+  "question": "A Dy.E.O. observes that teachers ask many questions, but nearly all require one-word recall. Which recommendation is most appropriate?",
+  "options": {
+    "A": "Retain recall questions where useful but deliberately add questions requiring explanation, analysis, application and evaluation",
+    "B": "Stop questioning completely",
+    "C": "Ask only yes-or-no questions",
+    "D": "Evaluate teaching by number of questions alone"
+  },
+  "correctAnswer": "A",
+  "explanation": "Effective questioning uses different cognitive levels according to objectives and should not be judged merely by frequency.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Questioning", "Higher Order Thinking"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0056",
+  "question": "Which practice most effectively supports inclusive participation during group work?",
+  "options": {
+    "A": "Allowing one high achiever to perform every task",
+    "B": "Structuring roles and supports so that all learners can make meaningful contributions",
+    "C": "Excluding students who need additional assistance",
+    "D": "Using ability labels as permanent group identities"
+  },
+  "correctAnswer": "B",
+  "explanation": "Inclusive cooperative pedagogy designs participation so that diverse learners have meaningful roles and appropriate support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Inclusive Pedagogy", "Group Work", "Participation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0057",
+  "question": "Which sequence best represents an inquiry cycle?",
+  "options": {
+    "A": "Answer → memorise → question → stop",
+    "B": "Copy → recite → punish → test",
+    "C": "Question → investigate → analyse evidence → construct and communicate explanations",
+    "D": "Lecture → copy → reproduce → forget"
+  },
+  "correctAnswer": "C",
+  "explanation": "Inquiry commonly begins with questions and proceeds through investigation, evidence analysis and communication of explanations.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inquiry Cycle", "Teaching Methods", "Sequence"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0058",
+  "question": "Assertion A: Student errors can have pedagogical value. Reason R: Analysis of errors may reveal misconceptions or strategies that can guide subsequent teaching. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both are true but unrelated",
+    "D": "Both are true and R correctly explains A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Errors provide diagnostic evidence about learners' thinking and can guide targeted feedback and instructional adaptation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Errors", "Diagnostic Teaching", "Assertion Reason"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0059",
+  "question": "Which pedagogical strategy most directly encourages learners to regulate their own learning?",
+  "options": {
+    "A": "Goal setting, self-monitoring and self-assessment",
+    "B": "Continuous teacher control over every decision",
+    "C": "Removal of feedback",
+    "D": "Prohibition of reflection"
+  },
+  "correctAnswer": "A",
+  "explanation": "Self-regulated learning involves setting goals, monitoring progress, selecting strategies and evaluating outcomes.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Self Regulated Learning", "Metacognition", "Learner Autonomy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0060",
+  "question": "Gamification in education generally refers to:",
+  "options": {
+    "A": "Replacing every lesson with entertainment",
+    "B": "Purposeful use of game-related elements in non-game learning contexts to support engagement or learning",
+    "C": "Allowing only computer games",
+    "D": "Eliminating educational objectives"
+  },
+  "correctAnswer": "B",
+  "explanation": "Gamification uses selected game-design elements such as challenges, progress or feedback within learning contexts; it is not synonymous with playing games.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Gamification", "Innovative Practices", "Engagement"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0061",
+  "question": "A teacher uses a case describing a complex school problem and asks students to analyse causes and recommend actions. Which method is being used?",
+  "options": {
+    "A": "Drill method",
+    "B": "Dictation method",
+    "C": "Case method",
+    "D": "Recitation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Case-based learning uses realistic situations to develop analysis, judgement and application of principles.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Case Method", "Problem Solving", "Teaching Methods"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0062",
+  "question": "Which situation is least consistent with culturally responsive pedagogy?",
+  "options": {
+    "A": "Connecting examples with learners' contexts",
+    "B": "Respecting linguistic diversity",
+    "C": "Using local knowledge as one resource for learning",
+    "D": "Treating learners' home cultures as obstacles that must be erased"
+  },
+  "correctAnswer": "D",
+  "explanation": "Culturally responsive pedagogy treats learners' cultural and linguistic experiences as educational resources rather than deficits.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Culturally Responsive Pedagogy", "Diversity", "Inclusion"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0063",
+  "question": "Which is the strongest reason for providing wait time after asking a cognitively demanding question?",
+  "options": {
+    "A": "Learners need adequate processing time to formulate thoughtful responses",
+    "B": "It prevents all incorrect answers",
+    "C": "It eliminates individual differences",
+    "D": "It makes questions easier automatically"
+  },
+  "correctAnswer": "A",
+  "explanation": "Appropriate wait time gives learners opportunity to process complex questions and formulate responses.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Questioning", "Wait Time", "Teaching Skills"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0064",
+  "question": "Team teaching is most accurately described as:",
+  "options": {
+    "A": "One teacher teaching several classes simultaneously without coordination",
+    "B": "Two or more educators collaboratively planning and/or facilitating learning for a group of learners",
+    "C": "Students replacing all teachers",
+    "D": "Teachers competing to complete the syllabus first"
+  },
+  "correctAnswer": "B",
+  "explanation": "Team teaching involves purposeful collaboration among educators in planning, instruction, assessment or related teaching functions.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Team Teaching", "Teaching Methods", "Collaboration"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0065",
+  "question": "A teacher presents multiple representations of the same concept using diagrams, objects, verbal explanations and examples. The principal pedagogical advantage is:",
+  "options": {
+    "A": "Eliminating conceptual thinking",
+    "B": "Ensuring every learner uses the same mental process",
+    "C": "Providing different routes for accessing and connecting representations of the concept",
+    "D": "Increasing decorative content"
+  },
+  "correctAnswer": "C",
+  "explanation": "Multiple representations can make concepts accessible and help learners establish connections across symbolic, visual, verbal and concrete forms.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Multiple Representations", "Inclusive Pedagogy", "Concept Learning"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0066",
+  "question": "A school introduces tablets but teachers receive no pedagogical training and learning activities remain unchanged. Which principle has been neglected?",
+  "options": {
+    "A": "Technology should always be purchased first",
+    "B": "Devices themselves transform pedagogy",
+    "C": "Infrastructure is the only determinant of learning",
+    "D": "Technology integration requires alignment among tools, pedagogy, content and teacher capacity"
+  },
+  "correctAnswer": "D",
+  "explanation": "Effective technology integration depends on pedagogical purpose and teacher capacity, not merely access to devices.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Technology Integration", "Teacher Capacity", "Innovation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0067",
+  "question": "A teacher asks learners to produce several possible endings to an unfinished story. This primarily encourages:",
+  "options": {
+    "A": "Divergent thinking",
+    "B": "Convergent recall",
+    "C": "Mechanical rehearsal",
+    "D": "Passive listening"
+  },
+  "correctAnswer": "A",
+  "explanation": "Generating multiple possible responses is characteristic of divergent and creative thinking.",
+  "difficulty": "Moderate",
+  "cognitiveLevel": "Apply",
+  "tags": ["Divergent Thinking", "Creativity", "Teaching Strategy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0068",
+  "question": "Which feature is essential for effective feedback?",
+  "options": {
+    "A": "It should always compare students publicly",
+    "B": "It should be sufficiently specific and relevant to help learners understand progress and possible next steps",
+    "C": "It should focus on personal criticism",
+    "D": "It must always be delayed until the end of the year"
+  },
+  "correctAnswer": "B",
+  "explanation": "Useful feedback is linked to learning and provides actionable information rather than personal judgement.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Feedback", "Assessment for Learning", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0069",
+  "question": "A teacher gives students an authentic local problem requiring them to research, collaborate, create a product and publicly explain their solution. This most closely represents:",
+  "options": {
+    "A": "Mechanical drill",
+    "B": "Pure lecture",
+    "C": "Project-based learning",
+    "D": "Dictation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Project-based learning centres on sustained investigation of meaningful problems leading to products, performances or solutions.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Project Based Learning", "Authentic Learning", "Innovation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0070",
+  "question": "Assertion A: Collaborative learning does not mean that individual learning becomes unimportant. Reason R: Effective collaborative structures can combine group interdependence with individual responsibility. Choose the correct answer.",
+  "options": {
+    "A": "A is false but R is true",
+    "B": "A is true but R is false",
+    "C": "Both are true but unrelated",
+    "D": "Both are true and R correctly explains A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Collaboration and individual accountability are complementary when group structures are appropriately designed.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Collaborative Learning", "Accountability", "Assertion Reason"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0071",
+  "question": "A Dy.E.O. observes excellent student activity but cannot identify what students are expected to learn from it. Which recommendation is most appropriate?",
+  "options": {
+    "A": "Ensure activities are purposefully aligned with learning objectives and followed by appropriate processing or reflection",
+    "B": "Increase the number of activities regardless of purpose",
+    "C": "Assume all activity automatically equals learning",
+    "D": "Remove learning objectives"
+  },
+  "correctAnswer": "A",
+  "explanation": "Activity-based pedagogy requires purposeful alignment; visible activity alone is not evidence of meaningful learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Activity Based Learning", "Alignment"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0072",
+  "question": "Which classroom practice best supports a growth-oriented response to mistakes?",
+  "options": {
+    "A": "Publicly label students by their errors",
+    "B": "Treat errors as information, provide appropriate feedback and opportunities for revision",
+    "C": "Prevent students from correcting work",
+    "D": "Equate every mistake with lack of ability"
+  },
+  "correctAnswer": "B",
+  "explanation": "Using errors diagnostically and allowing revision supports learning, reflection and improvement.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Errors", "Feedback", "Growth Orientation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0073",
+  "question": "Which statement most accurately describes personalised learning?",
+  "options": {
+    "A": "Every learner studies completely different curriculum without common goals",
+    "B": "Students learn without teachers",
+    "C": "Learning pathways, pace, supports or choices may be adapted to learner needs while maintaining meaningful educational goals",
+    "D": "Personalisation means reducing expectations for all learners"
+  },
+  "correctAnswer": "C",
+  "explanation": "Personalisation seeks responsive pathways and supports rather than abandonment of educational goals.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Personalised Learning", "Differentiation", "Innovation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0074",
+  "question": "Which practice would most clearly violate the principle of active learning?",
+  "options": {
+    "A": "Students analyse data",
+    "B": "Students solve problems collaboratively",
+    "C": "Students explain their reasoning",
+    "D": "Students remain passive recipients throughout instruction with no opportunity to process or apply ideas"
+  },
+  "correctAnswer": "D",
+  "explanation": "Active learning requires learners to cognitively engage with content through activities such as analysis, explanation, discussion or application.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Active Learning", "Pedagogy", "Participation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0075",
+  "question": "A Dy.E.O. wants to improve pedagogical innovation across a district. Which initial strategy is most defensible?",
+  "options": {
+    "A": "Establish current classroom practices and learner needs through evidence, then design context-sensitive professional support and monitor implementation",
+    "B": "Mandate one method for every subject and class",
+    "C": "Purchase technology without examining instructional needs",
+    "D": "Judge innovation only by expenditure"
+  },
+  "correctAnswer": "A",
+  "explanation": "Systemic pedagogical improvement should be evidence-informed, context-sensitive and supported through professional development and follow-up.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Innovation", "Educational Administration"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0076",
+  "question": "A teacher changes groups periodically according to the learning task and current evidence rather than assigning permanent ability groups. This practice is best described as:",
+  "options": {
+    "A": "Streaming",
+    "B": "Flexible grouping",
+    "C": "Permanent tracking",
+    "D": "Segregation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Flexible grouping changes according to learning purposes and current learner needs rather than fixing students permanently into ability categories.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Flexible Grouping", "Differentiation", "Inclusive Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0077",
+  "question": "Which pedagogical practice most directly develops students' ability to evaluate information rather than merely receive it?",
+  "options": {
+    "A": "Copying information repeatedly",
+    "B": "Memorising the first available source",
+    "C": "Comparing sources for evidence, credibility, assumptions and consistency",
+    "D": "Avoiding contradictory evidence"
+  },
+  "correctAnswer": "C",
+  "explanation": "Evaluation of sources requires examination of credibility, evidence, assumptions and consistency and therefore develops critical information literacy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Critical Thinking", "Information Literacy", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0078",
+  "question": "Assertion A: Innovative pedagogy should be evaluated by its impact on learning rather than novelty alone. Reason R: A new practice may be ineffective or inappropriate in a particular context. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both are true but unrelated",
+    "D": "Both are true and R correctly explains A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Novelty alone is not educational quality. Innovation should be judged in relation to learning goals, context, inclusion and evidence of effectiveness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Innovation", "Evaluation", "Assertion Reason"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0079",
+  "question": "Which is the strongest example of learner agency?",
+  "options": {
+    "A": "Learners make meaningful decisions about aspects of their learning and take responsibility for those decisions",
+    "B": "Teacher makes every decision",
+    "C": "Students merely copy prescribed answers",
+    "D": "Students are prohibited from asking questions"
+  },
+  "correctAnswer": "A",
+  "explanation": "Learner agency involves meaningful participation, choice, voice and responsibility within appropriate educational structures.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Learner Agency", "Autonomy", "Learner Centred"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0080",
+  "question": "A teacher uses exit slips at the end of a lesson and modifies the next day's instruction according to students' responses. This is an example of:",
+  "options": {
+    "A": "Summative certification",
+    "B": "Formative use of assessment evidence",
+    "C": "Norm-referenced ranking",
+    "D": "Administrative inspection"
+  },
+  "correctAnswer": "B",
+  "explanation": "The teacher uses immediate evidence of learning to adapt subsequent instruction, which is a formative function.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Exit Slip", "Formative Assessment", "Adaptive Teaching"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0081",
+  "question": "A teacher notices that group discussion repeatedly excludes quieter students. Which modification is pedagogically strongest?",
+  "options": {
+    "A": "Allow dominant students to answer everything",
+    "B": "Cancel collaborative learning permanently",
+    "C": "Use structures such as individual think time, turn-taking or assigned roles to broaden participation",
+    "D": "Reduce all discussion to lecture"
+  },
+  "correctAnswer": "C",
+  "explanation": "Structured participation can preserve collaborative learning while reducing domination and creating opportunities for broader engagement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Collaborative Learning", "Participation", "Inclusive Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0082",
+  "question": "Which situation most clearly represents superficial technology integration?",
+  "options": {
+    "A": "Students use simulations to investigate variables",
+    "B": "Students collaboratively create and critique digital products",
+    "C": "Technology provides accessibility support",
+    "D": "A digital screen merely replaces the blackboard while the instructional process remains unchanged"
+  },
+  "correctAnswer": "D",
+  "explanation": "Simple substitution may offer convenience but does not necessarily represent meaningful pedagogical transformation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Technology Integration", "Innovation", "Digital Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0083",
+  "question": "Which approach best develops problem-solving competence?",
+  "options": {
+    "A": "Providing varied problems, encouraging strategy selection, reflection and comparison of solutions",
+    "B": "Giving only identical routine exercises",
+    "C": "Providing every solution before students think",
+    "D": "Discouraging alternative methods"
+  },
+  "correctAnswer": "A",
+  "explanation": "Problem-solving competence grows through varied problems, strategic decision making, reflection and comparison of approaches.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Problem Solving", "Higher Order Thinking", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0084",
+  "question": "Which statement about direct instruction is most defensible?",
+  "options": {
+    "A": "It is always inferior to every learner-centred method",
+    "B": "Explicit teacher guidance can be effective for appropriate objectives, but method selection should depend on learners, content and purpose",
+    "C": "It should be the only method used in schools",
+    "D": "It necessarily prevents all active learning"
+  },
+  "correctAnswer": "B",
+  "explanation": "No method is universally best. Explicit instruction can be effective when appropriately designed and matched to instructional needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Direct Instruction", "Teaching Methods", "Method Selection"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0085",
+  "question": "A teacher asks students to examine their first solution, identify weaknesses and redesign it. This process particularly promotes:",
+  "options": {
+    "A": "Mechanical repetition",
+    "B": "Passive acceptance",
+    "C": "Iterative learning and reflective improvement",
+    "D": "Avoidance of feedback"
+  },
+  "correctAnswer": "C",
+  "explanation": "Revision based on evaluation and feedback develops iterative problem solving and reflective improvement.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Reflection", "Iteration", "Innovative Learning"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0086",
+  "question": "Which classroom practice is most consistent with democratic pedagogy?",
+  "options": {
+    "A": "Only the teacher's perspective may be expressed",
+    "B": "Questions are treated as disobedience",
+    "C": "Students have unlimited freedom without responsibility",
+    "D": "Learners participate respectfully, examine perspectives and exercise appropriate voice with responsibility"
+  },
+  "correctAnswer": "D",
+  "explanation": "Democratic pedagogy combines participation, dialogue and voice with respect, responsibility and educational purpose.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Democratic Pedagogy", "Participation", "Classroom Climate"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0087",
+  "question": "A Dy.E.O. wants to know whether a new project-based programme is effective. Which evidence would be most useful?",
+  "options": {
+    "A": "Multiple evidence concerning student engagement, quality of work, conceptual learning, application and implementation",
+    "B": "Number of colourful posters alone",
+    "C": "Amount spent on materials alone",
+    "D": "Number of times the word 'project' appears in lesson plans"
+  },
+  "correctAnswer": "A",
+  "explanation": "Evaluation of pedagogical innovation requires evidence of implementation and learning outcomes rather than superficial indicators.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Project Based Learning", "Programme Evaluation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0088",
+  "question": "Which teacher action most effectively supports conceptual understanding after a hands-on activity?",
+  "options": {
+    "A": "End the lesson without discussion",
+    "B": "Facilitate reflection that connects observations from the activity with underlying concepts",
+    "C": "Ask students to forget the activity",
+    "D": "Assess only speed"
+  },
+  "correctAnswer": "B",
+  "explanation": "Reflection and conceptual discussion help learners move from concrete experience toward explicit understanding.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Activity Based Learning", "Reflection", "Conceptual Understanding"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0089",
+  "question": "Assertion A: Classroom dialogue can function as a tool for learning. Reason R: Explaining, questioning and responding to others can help learners articulate and reconsider their thinking. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both are true and R correctly explains A",
+    "D": "Both are false"
+  },
+  "correctAnswer": "C",
+  "explanation": "Dialogic interaction can make reasoning visible and enable learners to refine understanding through explanation and response.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Dialogic Teaching", "Assertion Reason", "Collaborative Learning"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0090",
+  "question": "A teacher uses an AI-based tool to generate exercises but never checks their accuracy, appropriateness or alignment with learning goals. Which pedagogical principle is most clearly violated?",
+  "options": {
+    "A": "All AI-generated material is automatically reliable",
+    "B": "Technology should replace professional judgement",
+    "C": "Learning objectives are unnecessary with AI",
+    "D": "Teachers remain responsible for pedagogical evaluation and appropriate use of technology-generated resources"
+  },
+  "correctAnswer": "D",
+  "explanation": "Technology can support teaching, but educators must critically evaluate generated material for accuracy, suitability and alignment with learning purposes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["AI", "Digital Pedagogy", "Teacher Judgement"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0091",
+  "question": "Which is the strongest indicator that students have moved beyond rote learning?",
+  "options": {
+    "A": "They can explain concepts and apply them appropriately in unfamiliar situations",
+    "B": "They reproduce the textbook word for word",
+    "C": "They copy answers quickly",
+    "D": "They remember page numbers"
+  },
+  "correctAnswer": "A",
+  "explanation": "Explanation and transfer to unfamiliar situations provide stronger evidence of understanding than verbatim reproduction.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Meaningful Learning", "Transfer", "Understanding"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0092",
+  "question": "Which is the most appropriate role of the teacher in problem-based learning?",
+  "options": {
+    "A": "Immediately provide the complete solution",
+    "B": "Facilitate inquiry, question reasoning, provide appropriate resources and support reflection",
+    "C": "Remain completely uninvolved regardless of need",
+    "D": "Assess only memorisation"
+  },
+  "correctAnswer": "B",
+  "explanation": "The teacher facilitates and scaffolds inquiry without unnecessarily taking over learners' problem-solving processes.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Problem Based Learning", "Teacher Role", "Facilitation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0093",
+  "question": "A school introduces collaborative learning, but assessment rewards only the final group product and provides no way to identify individual learning. What important element requires strengthening?",
+  "options": {
+    "A": "Competition",
+    "B": "Teacher domination",
+    "C": "Individual accountability within collaborative learning",
+    "D": "Memorisation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Effective collaborative structures should promote interdependence while retaining mechanisms for individual learning and accountability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Collaborative Learning", "Individual Accountability", "Assessment"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0094",
+  "question": "Which practice best represents adaptive teaching?",
+  "options": {
+    "A": "Follow the lesson plan unchanged even when evidence shows widespread misunderstanding",
+    "B": "Reduce expectations permanently after one error",
+    "C": "Teach every learner identically under all conditions",
+    "D": "Use evidence of learning to adjust explanations, support, pacing or tasks while retaining appropriate goals"
+  },
+  "correctAnswer": "D",
+  "explanation": "Adaptive teaching responds to evidence while maintaining purposeful learning goals rather than rigidly following predetermined instruction.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Adaptive Teaching", "Formative Assessment", "Differentiation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0095",
+  "question": "A Dy.E.O. observes that innovative methods are used only during inspection visits. What does this most strongly indicate?",
+  "options": {
+    "A": "Innovation has not yet become embedded in routine pedagogical practice",
+    "B": "Inspection-day performance alone proves sustainability",
+    "C": "Regular classroom practice is irrelevant",
+    "D": "Teachers require no further support"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sustainable innovation should become part of routine practice rather than a temporary display for monitoring visits.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Sustainability", "Innovation"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0096",
+  "question": "Which approach is most appropriate when students possess substantially different levels of prior knowledge?",
+  "options": {
+    "A": "Ignore the differences completely",
+    "B": "Diagnose relevant prior understanding and provide appropriately differentiated support or challenge",
+    "C": "Permanently lower expectations for some students",
+    "D": "Teach only the highest achievers"
+  },
+  "correctAnswer": "B",
+  "explanation": "Diagnostic evidence allows teachers to adapt support and challenge while maintaining meaningful learning opportunities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Prior Knowledge", "Differentiation", "Diagnostic Assessment"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0097",
+  "question": "A lesson includes investigation, discussion and digital resources, but none of these contributes to the stated learning outcome. Which concept is primarily missing?",
+  "options": {
+    "A": "Entertainment",
+    "B": "Novelty",
+    "C": "Constructive alignment between objectives, learning activities and assessment",
+    "D": "Teacher authority"
+  },
+  "correctAnswer": "C",
+  "explanation": "Effective pedagogical design aligns intended outcomes with learning experiences and assessment evidence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Alignment", "Instructional Design", "Pedagogy"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0098",
+  "question": "Assertion A: Teacher professional development is more likely to influence pedagogy when accompanied by opportunities for practice, feedback and sustained support. Reason R: One-time exposure to a teaching method necessarily guarantees permanent classroom implementation. Choose the correct answer.",
+  "options": {
+    "A": "Both are true",
+    "B": "A is false but R is true",
+    "C": "Both are false",
+    "D": "A is true but R is false"
+  },
+  "correctAnswer": "D",
+  "explanation": "Sustained professional learning and implementation support are generally more conducive to changes in practice than isolated exposure.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Teacher Development", "Innovation", "Assertion Reason"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0099",
+  "question": "A district has invested in innovative pedagogy. Which combination would provide the strongest monitoring framework? 1. Classroom implementation. 2. Student participation and inclusion. 3. Evidence of learning and higher-order thinking. 4. Teacher reflection and support needs.",
+  "options": {
+    "A": "1, 2, 3 and 4",
+    "B": "1 only",
+    "C": "2 and 4 only",
+    "D": "3 only"
+  },
+  "correctAnswer": "A",
+  "explanation": "Comprehensive monitoring should examine implementation, learner experience, learning evidence and the professional conditions supporting teachers.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Monitoring", "Statement Based"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "PED-PP-0100",
+  "question": "A Dy.E.O. must design a district strategy for improving pedagogical processes. Which proposal is most comprehensive?",
+  "options": {
+    "A": "Mandate one teaching method for every lesson",
+    "B": "Strengthen learner-centred and inclusive pedagogy, varied teaching-learning methods, formative feedback, experiential and collaborative learning, context-sensitive innovation, appropriate technology use, teacher professional development and evidence-based monitoring",
+    "C": "Purchase digital equipment and assume pedagogy will improve automatically",
+    "D": "Evaluate teaching only through syllabus completion"
+  },
+  "correctAnswer": "B",
+  "explanation": "Systemic pedagogical improvement requires coordinated attention to learners, methods, assessment, inclusion, innovation, technology, teacher capacity and monitoring rather than reliance on a single intervention.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Pedagogical Process", "Educational Administration", "Comprehensive"],
+  "source": {"type":"Original","exam":"","year":"","paper":"","questionNumber":""},
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}

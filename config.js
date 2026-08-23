@@ -32,6 +32,9 @@ const repository = {
             "Education and Society",
             "Social Change and Education"
         ],
+        "Pedagogy": [
+             "Pedagogical Process, Teaching-Learning Methods and Innovative Practices in Education"
+        ],
 
         "Educational Technology": [],
 
