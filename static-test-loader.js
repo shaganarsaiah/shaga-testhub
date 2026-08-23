@@ -42,8 +42,9 @@
 
         "Growth and Development":
             "question-bank/subjects/educational-psychology/growth-development.json",
-        "Developmental Domains":
-            "QUESTION-BANK/SUBJECTS/EDUCATIONAL-PSYCHOLOGY/developmental-domains.json",
+            
+            "Developmental Domains":
+            "question-bank/subjects/educational-psychology/developmental-domains.json",
 
         "Learning":
             "question-bank/subjects/educational-psychology/learning.json",
