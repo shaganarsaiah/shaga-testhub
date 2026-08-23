@@ -1,0 +1,2419 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "unit": "Educational Psychology",
+    "chapter": "Exceptional Children and Children with Disabilities",
+    "topic": "Educating and Addressing the Needs of Exceptional Children and Children with Disabilities",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed - Difficult to Very Difficult",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "Inclusive Education",
+    "marksPerQuestion": 1,
+    "negativeMarking": false,
+    "questionStandard": "SHAGA GOLD"
+  },
+  "questions": [
+    {
+  "id": "EP-IE-0001",
+  "question": "In educational psychology, the term 'exceptional children' is best understood as referring to children who:",
+  "options": {
+    "A": "Only have intellectual disability",
+    "B": "Differ significantly from typical learners in one or more characteristics to the extent that they may require specially adapted educational provisions",
+    "C": "Always perform below the class average",
+    "D": "Cannot be educated in regular schools"
+  },
+  "correctAnswer": "B",
+  "explanation": "Exceptionality is broader than disability. It refers to significant differences in characteristics or educational needs that may require adaptations, specialised support or enriched educational provisions.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Exceptional Children", "Definition", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0002",
+  "question": "Which statement most accurately reflects the relationship between exceptionality and disability?",
+  "options": {
+    "A": "The two terms are always completely synonymous",
+    "B": "Exceptionality refers only to gifted children",
+    "C": "Disability is broader than exceptionality in every educational context",
+    "D": "Exceptionality is a broader educational concept and may include learners with disabilities as well as learners with unusually advanced abilities"
+  },
+  "correctAnswer": "D",
+  "explanation": "In educational usage, exceptional learners may include children whose needs arise from disabilities as well as those requiring enrichment because of advanced abilities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Exceptional Children", "Disability", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0003",
+  "question": "The central educational principle underlying inclusive education is that:",
+  "options": {
+    "A": "Learners should participate in common educational settings with appropriate support and reasonable adaptations wherever possible",
+    "B": "All learners must receive exactly identical instruction regardless of need",
+    "C": "Children with disabilities should automatically be educated separately",
+    "D": "Only academically high-performing children should participate in regular classrooms"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inclusion emphasises participation, access, belonging and appropriate support rather than merely placing every learner in the same setting without responding to individual needs.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Inclusive Education", "Participation", "Educational Principle"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0004",
+  "question": "Which practice best illustrates educational inclusion rather than mere physical placement?",
+  "options": {
+    "A": "Admitting a child with disability but excluding the child from classroom activities",
+    "B": "Placing the child in the classroom without modifying inaccessible learning materials",
+    "C": "Ensuring participation through appropriate teaching adaptations, accessible materials, peer interaction and required support",
+    "D": "Keeping the child permanently occupied with unrelated activities"
+  },
+  "correctAnswer": "C",
+  "explanation": "Inclusion requires meaningful participation and access to learning. Physical presence alone does not constitute genuine educational inclusion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Inclusive Education", "Participation", "Classroom Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0005",
+  "question": "The Dy.E.O. finds that a school admits children with disabilities but expects every learner to use exactly the same materials, methods and response modes even when these create avoidable barriers. What is the major weakness?",
+  "options": {
+    "A": "The school provides excessive enrichment",
+    "B": "The school confuses equal treatment with equitable educational support",
+    "C": "The school uses too much formative assessment",
+    "D": "The school provides excessive individualisation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Equity does not necessarily mean identical treatment. Learners may require different supports or adaptations to gain meaningful access to the same educational opportunities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Equity", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0006",
+  "question": "A child has substantial difficulty accessing information presented orally because of hearing impairment. Under the Dy.E.O. syllabus classification, this is primarily a:",
+  "options": {
+    "A": "Sensory challenge",
+    "B": "Social challenge",
+    "C": "Physical challenge unrelated to sensory functioning",
+    "D": "Motivational challenge"
+  },
+  "correctAnswer": "A",
+  "explanation": "Hearing impairment concerns access through the auditory sensory system and therefore falls under sensory challenges.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Sensory Challenge", "Hearing Impairment", "Classification"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0007",
+  "question": "Which classroom arrangement is generally most helpful for a learner with hearing difficulty who depends substantially on visual cues from the teacher?",
+  "options": {
+    "A": "Seat the learner where the teacher's face cannot be seen",
+    "B": "Speak while continuously facing the blackboard",
+    "C": "Ensure clear visibility of the teacher's face and supplement oral information with appropriate visual information",
+    "D": "Remove all written materials"
+  },
+  "correctAnswer": "C",
+  "explanation": "Clear visual access to the teacher and visual supplementation of spoken information can reduce communication barriers for learners with hearing difficulties.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Hearing Impairment", "Classroom Adaptation", "Sensory Challenge"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0008",
+  "question": "A teacher assumes that a learner with hearing impairment necessarily has low intelligence. Which evaluation is most appropriate?",
+  "options": {
+    "A": "The assumption is correct because hearing determines intelligence",
+    "B": "The assumption is correct for all severe hearing impairments",
+    "C": "Intelligence cannot develop without normal hearing",
+    "D": "The assumption is unjustified because sensory impairment should not automatically be equated with intellectual limitation"
+  },
+  "correctAnswer": "D",
+  "explanation": "A sensory disability concerns access through a sensory channel and does not by itself establish intellectual disability. Educational assessment should avoid such unsupported assumptions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Hearing Impairment", "Intelligence", "Misconception", "Teacher Attitude"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0009",
+  "question": "For a learner with visual impairment, which educational principle is most appropriate?",
+  "options": {
+    "A": "Replace inaccessible visual information with or supplement it by accessible tactile, auditory or other suitable formats",
+    "B": "Exclude the learner from subjects containing diagrams",
+    "C": "Reduce all learning expectations automatically",
+    "D": "Depend exclusively on copying from the blackboard"
+  },
+  "correctAnswer": "A",
+  "explanation": "The key principle is accessibility. Information that is primarily visual may need alternative or supplementary formats according to the learner's needs.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Visual Impairment", "Accessible Materials", "Sensory Challenge"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0010",
+  "question": "Which system is specifically associated with tactile reading and writing for persons with visual impairment?",
+  "options": {
+    "A": "Morse code",
+    "B": "Braille",
+    "C": "Phonetic transcription",
+    "D": "Sign language"
+  },
+  "correctAnswer": "B",
+  "explanation": "Braille is a tactile reading and writing system using patterns of raised dots and is especially important for many persons who are blind.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Braille", "Visual Impairment", "Assistive Communication"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0011",
+  "question": "A teacher verbally describes important diagrams while also providing tactile representations where appropriate to a learner with visual impairment. This is best interpreted as:",
+  "options": {
+    "A": "Lowering the curriculum standard",
+    "B": "Segregation within the classroom",
+    "C": "An accessibility-oriented adaptation of representation",
+    "D": "Removing the learner's responsibility to learn"
+  },
+  "correctAnswer": "C",
+  "explanation": "Changing the mode through which information is represented can provide access without necessarily changing the essential learning objective.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Visual Impairment", "Adaptation", "Accessibility", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0012",
+  "question": "Which statement best reflects an appropriate approach to physical disability in school?",
+  "options": {
+    "A": "Physical disability necessarily implies intellectual disability",
+    "B": "A learner with mobility difficulty should be exempted from all academic activities",
+    "C": "The learner should always be educated separately",
+    "D": "Schools should identify environmental and participation barriers and provide appropriate accessibility and support"
+  },
+  "correctAnswer": "D",
+  "explanation": "Educational response should focus on removing barriers to access and participation rather than assuming limitations in unrelated areas such as intelligence.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Physical Disability", "Accessibility", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0013",
+  "question": "A school classroom is on an upper floor accessible only by stairs, preventing a wheelchair user from reaching it independently. From an inclusive perspective, the most immediate problem is:",
+  "options": {
+    "A": "An attitudinal strength",
+    "B": "An environmental accessibility barrier",
+    "C": "A deficit in the learner's intelligence",
+    "D": "A problem of academic motivation"
+  },
+  "correctAnswer": "B",
+  "explanation": "The barrier arises from the physical environment. Inclusive planning examines how school infrastructure may restrict access and participation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Physical Disability", "Barrier", "Accessibility", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0014",
+  "question": "Assertion A: A child's disability and the barriers present in the educational environment should both be considered while planning support. Reason R: Participation difficulties may arise not only from individual characteristics but also from inaccessible environments, materials, communication and attitudes. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true and R is the correct explanation of A",
+    "D": "Both A and R are true but R is not the correct explanation of A"
+  },
+  "correctAnswer": "C",
+  "explanation": "An inclusive perspective examines the interaction between learner characteristics and environmental barriers. Removing barriers can substantially improve participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Disability", "Barriers", "Assertion Reason", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0015",
+  "question": "A learner frequently experiences severe peer rejection and isolation, which interfere with classroom participation and adjustment. Under the syllabus categories, the difficulty is most directly related to:",
+  "options": {
+    "A": "Sensory functioning only",
+    "B": "Physical mobility only",
+    "C": "Visual acuity",
+    "D": "Social and emotional challenges"
+  },
+  "correctAnswer": "D",
+  "explanation": "Peer relationships, social participation and emotional adjustment fall primarily within the social and emotional dimension identified in the syllabus.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Social Challenge", "Emotional Challenge", "Peer Relations"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0016",
+  "question": "Which teacher response is most appropriate when a learner displays persistent emotional or behavioural difficulties?",
+  "options": {
+    "A": "Observe patterns systematically, provide supportive classroom responses and seek appropriate specialist or institutional support when needed",
+    "B": "Publicly label the learner as problematic",
+    "C": "Assume that every difficult behaviour is deliberate misconduct",
+    "D": "Permanently exclude the learner from peer activities"
+  },
+  "correctAnswer": "A",
+  "explanation": "Systematic observation, supportive intervention and appropriate referral or collaboration are preferable to labelling, humiliation or unsupported assumptions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Emotional Challenges", "Teacher Role", "Identification", "Support"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0017",
+  "question": "Which statement regarding intellectual disability is educationally most appropriate?",
+  "options": {
+    "A": "All learners with intellectual disability have identical educational needs",
+    "B": "Educational planning should consider individual functioning, adaptive needs, strengths and the supports required for meaningful learning",
+    "C": "Such learners cannot acquire functional academic skills",
+    "D": "Their educational needs can be determined from a diagnostic label alone"
+  },
+  "correctAnswer": "B",
+  "explanation": "Learners with the same broad diagnostic category may differ substantially. Educational planning therefore requires individualised understanding of strengths, functioning and support needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Intellectual Disability", "Individual Needs", "Educational Planning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0018",
+  "question": "Adaptive behaviour is most closely concerned with:",
+  "options": {
+    "A": "Only performance on intelligence tests",
+    "B": "Only school examination marks",
+    "C": "Conceptual, social and practical skills used in everyday functioning",
+    "D": "Only physical growth"
+  },
+  "correctAnswer": "C",
+  "explanation": "Adaptive behaviour concerns the conceptual, social and practical skills people use to function in everyday life and is important when understanding support needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Adaptive Behaviour", "Intellectual Disability", "Functional Skills"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0019",
+  "question": "Which instructional approach is generally most appropriate for a learner who requires substantial support in acquiring a complex functional skill?",
+  "options": {
+    "A": "Present the entire complex task once and expect immediate mastery",
+    "B": "Avoid giving feedback",
+    "C": "Depend exclusively on abstract verbal explanations",
+    "D": "Break the skill into manageable steps, provide appropriate modelling and practice, and gradually reduce support as competence develops"
+  },
+  "correctAnswer": "D",
+  "explanation": "Systematic instruction can involve manageable steps, modelling, guided practice, feedback and gradual reduction of assistance according to learner progress.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Instructional Adaptation", "Scaffolding", "Functional Skills"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0020",
+  "question": "Which principle should guide the identification of educational needs among exceptional children?",
+  "options": {
+    "A": "Use multiple relevant sources of information and examine both strengths and support needs",
+    "B": "Make permanent decisions from a single classroom incident",
+    "C": "Use only the child's examination rank",
+    "D": "Rely primarily on stereotypes associated with disability labels"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational needs are better understood through comprehensive information rather than single observations, marks or stereotypes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Identification", "Assessment", "Exceptional Children"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0021",
+  "question": "A teacher notices that a learner is repeatedly unable to see material on the blackboard even after changing seats. What should the teacher do first from an educational-support perspective?",
+  "options": {
+    "A": "Conclude immediately that the learner has low intelligence",
+    "B": "Document the difficulty, make immediate classroom adjustments and facilitate appropriate further assessment or referral",
+    "C": "Punish the learner for not copying correctly",
+    "D": "Wait until the learner fails the annual examination"
+  },
+  "correctAnswer": "B",
+  "explanation": "Persistent difficulty should be observed and documented, immediate access should be improved where possible, and appropriate assessment or referral should be facilitated rather than making unsupported diagnoses.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Early Identification", "Visual Difficulty", "Teacher Role", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0022",
+  "question": "Which statement best distinguishes identification from labelling in inclusive education?",
+  "options": {
+    "A": "Both mean attaching a fixed negative judgement to a child",
+    "B": "Identification is unnecessary if teachers know the child's marks",
+    "C": "Identification seeks information needed for appropriate support, whereas harmful labelling reduces the learner to a category or stereotype",
+    "D": "Labelling always improves educational expectations"
+  },
+  "correctAnswer": "C",
+  "explanation": "Identification should serve educational planning and support. Labelling becomes harmful when a category is used to stereotype the learner or lower expectations without considering individual characteristics.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Identification", "Labelling", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0023",
+  "question": "Assertion A: High expectations and appropriate support can coexist in inclusive education. Reason R: Providing accommodations does not necessarily mean lowering the essential learning expectations for every learner. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true but R is not the correct explanation of A",
+    "D": "Both A and R are true and R is the correct explanation of A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Appropriate accommodations can remove barriers to accessing or demonstrating learning while maintaining meaningful expectations. Support and high expectations are therefore compatible.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Accommodation", "Expectations", "Assertion Reason", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0024",
+  "question": "A Dy.E.O. observes that teachers routinely complete all tasks for children with disabilities even when the children can perform many parts independently. What is the best recommendation?",
+  "options": {
+    "A": "Increase adult dependence further",
+    "B": "Remove all support immediately",
+    "C": "Provide only the support actually needed and promote increasing independence wherever appropriate",
+    "D": "Exclude the children from challenging tasks"
+  },
+  "correctAnswer": "C",
+  "explanation": "Support should facilitate participation and development rather than create unnecessary dependence. Assistance can be adjusted and gradually reduced when learners are able to perform independently.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Independence", "Support", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0025",
+  "question": "During school inspection, which finding would provide the strongest evidence of meaningful inclusion of children with disabilities?",
+  "options": {
+    "A": "Their names appear in the admission register but they rarely participate in classroom activities",
+    "B": "They are permanently given easier unrelated work",
+    "C": "The school has a separate room but no plan for participation in common learning",
+    "D": "Learners have accessible environments and materials, appropriate individual support, meaningful classroom participation, peer interaction and opportunities to progress in learning"
+  },
+  "correctAnswer": "D",
+  "explanation": "Meaningful inclusion involves more than enrolment. Access, participation, appropriate support, belonging and educational progress are important indicators.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Inclusive Education", "School Inspection", "Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0026",
+  "question": "Which educational response is most appropriate when a learner has low vision but can use residual vision effectively?",
+  "options": {
+    "A": "Require Braille in every situation regardless of individual need",
+    "B": "Automatically reduce the academic curriculum",
+    "C": "Optimise lighting, seating, contrast and print size and provide suitable assistive resources according to the learner's functional needs",
+    "D": "Prevent the learner from participating in visually demanding activities"
+  },
+  "correctAnswer": "C",
+  "explanation": "Low vision does not necessarily mean total absence of useful vision. Educational adaptations should be based on functional needs and may include appropriate lighting, contrast, enlarged materials and assistive technology.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Low Vision", "Visual Impairment", "Classroom Adaptation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0027",
+  "question": "A teacher provides an enlarged-print worksheet to one learner while other learners use ordinary print. Which principle best explains this practice?",
+  "options": {
+    "A": "Equity through appropriate accommodation",
+    "B": "Unfair academic advantage",
+    "C": "Segregation",
+    "D": "Reduction of intelligence demands"
+  },
+  "correctAnswer": "A",
+  "explanation": "An accommodation removes an access barrier without necessarily changing the essential learning objective. Equity may therefore require different supports for different learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Accommodation", "Equity", "Low Vision"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0028",
+  "question": "Which teacher behaviour is LEAST appropriate while teaching a learner with visual impairment?",
+  "options": {
+    "A": "Verbally explaining important visual information",
+    "B": "Allowing appropriate tactile exploration",
+    "C": "Using accessible learning materials",
+    "D": "Depending on expressions such as 'look here' and pointing silently without describing what is being indicated"
+  },
+  "correctAnswer": "D",
+  "explanation": "Information conveyed only through pointing or inaccessible visual references may exclude a learner with visual impairment. Important visual information should be made accessible through suitable descriptions or alternative formats.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Visual Impairment", "Teacher Behaviour", "Accessibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0029",
+  "question": "A learner with hearing impairment understands the lesson better when the teacher combines spoken explanation with written keywords, diagrams and other visual cues. The improvement is best explained by:",
+  "options": {
+    "A": "Lowering the intellectual level of instruction",
+    "B": "Providing information through accessible complementary channels",
+    "C": "Removing the need for language development",
+    "D": "Eliminating classroom interaction"
+  },
+  "correctAnswer": "B",
+  "explanation": "Combining accessible communication modes can reduce barriers created when information is presented predominantly through an impaired sensory channel.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Hearing Impairment", "Accessible Communication", "Multimodal Teaching"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0030",
+  "question": "Which classroom condition is particularly important for a learner who uses lip-reading or speech-reading as one source of communication?",
+  "options": {
+    "A": "The teacher should cover the mouth while speaking",
+    "B": "The classroom should always be dark",
+    "C": "The learner should sit behind the teacher",
+    "D": "The speaker's face should be clearly visible with appropriate lighting"
+  },
+  "correctAnswer": "D",
+  "explanation": "Clear visibility of the speaker's face and adequate lighting support access to facial and lip movements for learners who use speech-reading.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Hearing Impairment", "Speech Reading", "Classroom Adaptation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0031",
+  "question": "Which statement regarding sign language is most appropriate?",
+  "options": {
+    "A": "It is merely random gesturing without linguistic structure",
+    "B": "It is relevant only to learners with visual impairment",
+    "C": "Sign languages are visual languages with linguistic structure and can serve as important means of communication for many deaf persons",
+    "D": "Its use necessarily prevents all development of literacy"
+  },
+  "correctAnswer": "C",
+  "explanation": "Sign languages are genuine natural languages with linguistic structure. They may be important communication and educational resources for deaf learners.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Sign Language", "Hearing Impairment", "Communication"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0032",
+  "question": "A child has difficulty walking but demonstrates age-appropriate reasoning and academic understanding. Which teacher assumption would be most inappropriate?",
+  "options": {
+    "A": "The child may need adaptations for mobility and physical access",
+    "B": "The child's physical disability proves that intellectual ability is also impaired",
+    "C": "The classroom environment should be examined for physical barriers",
+    "D": "Participation should be facilitated according to individual need"
+  },
+  "correctAnswer": "B",
+  "explanation": "Physical disability should not automatically be interpreted as intellectual disability. Different developmental and functional domains must be assessed separately.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Physical Disability", "Intelligence", "Misconception"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0033",
+  "question": "A school constructs a ramp but keeps it locked and inaccessible during normal school hours. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The existence of infrastructure alone does not ensure functional accessibility",
+    "B": "The school has achieved complete inclusion",
+    "C": "Accessibility concerns only classroom teaching methods",
+    "D": "The learner should adapt to the staircase"
+  },
+  "correctAnswer": "A",
+  "explanation": "Accessibility must be functional and available in practice. Merely possessing an accessibility feature does not remove a barrier if learners cannot actually use it.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Physical Disability", "Accessibility", "DyEO Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0034",
+  "question": "Which of the following best represents an assistive technology approach?",
+  "options": {
+    "A": "Preventing a learner from accessing digital content",
+    "B": "Using suitable devices or software to improve access, communication, mobility or participation",
+    "C": "Replacing every teacher with a machine",
+    "D": "Reducing educational objectives merely because technology is used"
+  },
+  "correctAnswer": "B",
+  "explanation": "Assistive technology includes devices, equipment or software that can enhance functional capabilities and improve access and participation for persons with disabilities.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Assistive Technology", "Accessibility", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0035",
+  "question": "A learner can understand a science concept accurately but has substantial motor difficulty in handwriting. Which assessment response is most defensible?",
+  "options": {
+    "A": "Give zero because handwriting is the only acceptable response mode",
+    "B": "Remove the learner from science assessment",
+    "C": "Automatically award full marks",
+    "D": "Where appropriate, provide an accessible response mode that permits assessment of the intended learning outcome without the unrelated motor barrier"
+  },
+  "correctAnswer": "D",
+  "explanation": "When handwriting is not the construct being assessed, an appropriate accommodation can allow the learner to demonstrate conceptual knowledge without an unrelated motor difficulty distorting the result.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Assessment Accommodation", "Physical Disability", "Validity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0036",
+  "question": "Assertion A: An accommodation need not alter the fundamental learning objective being assessed. Reason R: An accommodation may change how a learner accesses information or demonstrates learning while preserving the essential construct. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Accommodations are intended to reduce access barriers while preserving the essential learning target or construct wherever appropriate.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Accommodation", "Assessment", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0037",
+  "question": "Which statement best distinguishes an accommodation from a modification in educational planning?",
+  "options": {
+    "A": "They always mean exactly the same thing",
+    "B": "An accommodation generally changes access or response conditions, whereas a modification may change what the learner is expected to learn or demonstrate",
+    "C": "A modification can never be used in education",
+    "D": "An accommodation always lowers the curriculum standard"
+  },
+  "correctAnswer": "B",
+  "explanation": "Accommodations typically alter access, presentation, setting, timing or response mode without necessarily changing the learning target. Modifications can alter the expected content or level of performance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Accommodation", "Modification", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0038",
+  "question": "A learner requires more time to process information and complete tasks. Which teacher response best reflects differentiated support?",
+  "options": {
+    "A": "Give exactly the same time in every situation merely to preserve identical treatment",
+    "B": "Exclude the learner from assessment",
+    "C": "Consider appropriate additional processing or response time while preserving meaningful learning expectations",
+    "D": "Complete the work on behalf of the learner"
+  },
+  "correctAnswer": "C",
+  "explanation": "Appropriate flexibility in timing can reduce a processing or response barrier while allowing the learner to engage meaningfully with the learning task.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Differentiation", "Accommodation", "Individual Needs"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0039",
+  "question": "Which educational objective is particularly important when teaching many learners with intellectual disability?",
+  "options": {
+    "A": "Develop meaningful academic, communication, social, practical and independence-related skills according to individual needs",
+    "B": "Focus exclusively on abstract theoretical knowledge",
+    "C": "Prevent participation in daily-life activities",
+    "D": "Use the diagnostic label as the sole basis for instruction"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational planning should be individualised and may appropriately integrate academic learning with communication, adaptive, social, practical and independence-related competencies.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Intellectual Disability", "Adaptive Skills", "Educational Objectives"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0040",
+  "question": "A teacher breaks a complex daily-living activity into small sequential components and teaches them systematically. This approach is most closely related to:",
+  "options": {
+    "A": "Perceptual constancy",
+    "B": "Task analysis",
+    "C": "Massed labelling",
+    "D": "Social exclusion"
+  },
+  "correctAnswer": "B",
+  "explanation": "Task analysis involves breaking a complex skill into smaller teachable components or steps so that instruction can be systematic.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Task Analysis", "Intellectual Disability", "Functional Skills"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0041",
+  "question": "A learner successfully performs a self-care skill at school but does not use it at home or in another setting. Which educational need is most apparent?",
+  "options": {
+    "A": "More labelling",
+    "B": "Permanent adult dependence",
+    "C": "Generalisation of the learned skill across settings",
+    "D": "Removal of the skill from instruction"
+  },
+  "correctAnswer": "C",
+  "explanation": "Generalisation occurs when a learned skill is used appropriately across people, settings, materials or situations beyond the original teaching context.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Generalisation", "Functional Skills", "Transfer"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0042",
+  "question": "A teacher initially gives substantial assistance to a learner in completing a task and gradually withdraws assistance as competence increases. Which principle is illustrated?",
+  "options": {
+    "A": "Permanent dependency",
+    "B": "Segregation",
+    "C": "Diagnostic labelling",
+    "D": "Fading of support or scaffolding"
+  },
+  "correctAnswer": "D",
+  "explanation": "Support can initially be intensive and then be systematically reduced as the learner gains competence, thereby promoting independence.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Scaffolding", "Fading", "Independence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0043",
+  "question": "Which statement regarding social and emotional challenges is most educationally appropriate?",
+  "options": {
+    "A": "Behaviour should be interpreted in context, and teachers should examine patterns, triggers, relationships and support needs rather than relying only on punishment",
+    "B": "Every behavioural difficulty proves deliberate disobedience",
+    "C": "Emotional difficulties never affect learning",
+    "D": "Public humiliation is an effective inclusive strategy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Behaviour and emotional functioning are influenced by context and multiple factors. Systematic observation and supportive intervention are preferable to automatic punitive interpretations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Social Emotional Challenges", "Behaviour", "Teacher Role"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0044",
+  "question": "A teacher records what happens immediately before a recurring challenging behaviour, describes the behaviour itself and notes what happens immediately afterwards. The teacher is primarily attempting to:",
+  "options": {
+    "A": "Assign an intelligence score",
+    "B": "Understand possible antecedents and consequences associated with the behaviour",
+    "C": "Diagnose a medical disorder independently",
+    "D": "Determine visual acuity"
+  },
+  "correctAnswer": "B",
+  "explanation": "Examining antecedents, the behaviour and subsequent consequences can help teachers understand patterns and possible functions of behaviour without making unsupported clinical diagnoses.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Behaviour", "Observation", "Antecedent", "Consequence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0045",
+  "question": "A learner repeatedly leaves the seat during extremely difficult independent tasks, and the behaviour usually results in removal of the task. Before assuming deliberate misconduct, the teacher should consider whether:",
+  "options": {
+    "A": "The learner should automatically be suspended",
+    "B": "All movement indicates intellectual disability",
+    "C": "The behaviour may be associated with escaping or avoiding an overwhelming task demand",
+    "D": "The learner must be excluded from academic work"
+  },
+  "correctAnswer": "C",
+  "explanation": "Behaviour should be examined functionally and contextually. If behaviour repeatedly results in escape from difficult tasks, task demands and support requirements should be investigated.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Behaviour", "Functional Perspective", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0046",
+  "question": "Which intervention is most consistent with positive support for social-emotional and behavioural needs?",
+  "options": {
+    "A": "Teach appropriate alternative behaviours, adjust preventable triggers and reinforce constructive participation",
+    "B": "Use humiliation to suppress behaviour",
+    "C": "Exclude the learner from all peer contact",
+    "D": "Ignore environmental factors"
+  },
+  "correctAnswer": "A",
+  "explanation": "Positive support focuses on understanding needs, preventing avoidable triggers, teaching appropriate alternative skills and reinforcing constructive behaviour.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Positive Behaviour Support", "Social Emotional Needs", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0047",
+  "question": "Assertion A: Peer acceptance is relevant to successful inclusive education. Reason R: Inclusion concerns meaningful participation and belonging as well as physical access to the classroom. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true but R is not the correct explanation of A",
+    "D": "Both A and R are true and R is the correct explanation of A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Meaningful inclusion encompasses social participation and belonging. Peer relationships therefore matter alongside physical and instructional access.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Peer Acceptance", "Participation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0048",
+  "question": "A child with disability is consistently excluded by classmates during cooperative activities. Which school response is most appropriate?",
+  "options": {
+    "A": "Accept exclusion as a natural consequence of disability",
+    "B": "Structure meaningful cooperative participation, address negative peer attitudes and teach inclusive interaction",
+    "C": "Permanently isolate the learner to prevent conflict",
+    "D": "Ignore the situation because academic marks are unaffected"
+  },
+  "correctAnswer": "B",
+  "explanation": "Inclusive education includes social participation. Teachers and schools should actively address exclusion and create opportunities for meaningful, respectful peer interaction.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Peer Inclusion", "Social Challenge", "School Response"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0049",
+  "question": "A Dy.E.O. finds that teachers refer every child showing temporary academic difficulty for disability assessment without first examining instruction, attendance, language background or other contextual factors. What is the strongest criticism?",
+  "options": {
+    "A": "Every academic difficulty is necessarily a disability",
+    "B": "Referral should be based only on examination rank",
+    "C": "The approach risks inappropriate identification because multiple educational and contextual explanations have not been considered",
+    "D": "Teachers should never refer a learner for further assessment"
+  },
+  "correctAnswer": "C",
+  "explanation": "Persistent difficulty may arise from many factors. Responsible identification requires consideration of instructional, contextual and learner-related information rather than equating every difficulty with disability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Identification", "Referral", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0050",
+  "question": "During inspection, a Dy.E.O. finds accessible infrastructure, adapted materials and assistive devices, but children with disabilities are rarely allowed to make choices or perform tasks independently. Which improvement should receive greatest emphasis?",
+  "options": {
+    "A": "Remove all assistive resources",
+    "B": "Return to identical instruction for every learner",
+    "C": "Increase adult control over every activity",
+    "D": "Combine accessibility and support with opportunities for autonomy, participation, self-advocacy and increasing independence"
+  },
+  "correctAnswer": "D",
+  "explanation": "Inclusion should not create unnecessary dependence. Accessibility and support should enable participation, autonomy and development of independence wherever appropriate.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Independence", "Autonomy", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0051",
+  "question": "Which statement most appropriately describes an educationally exceptional learner?",
+  "options": {
+    "A": "A learner who necessarily has a disability",
+    "B": "A learner whose characteristics or educational needs differ sufficiently from typical patterns to require specially adapted, supportive or enriched educational provision",
+    "C": "Any learner who receives below-average marks in one examination",
+    "D": "Only a learner who cannot attend a regular school"
+  },
+  "correctAnswer": "B",
+  "explanation": "Exceptionality is an educationally broader concept than disability and concerns significant differences that may require adapted, supportive or enriched educational provision.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Exceptional Children", "Definition", "Educational Needs"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0052",
+  "question": "A learner completes ordinary classroom tasks far ahead of peers, demonstrates unusually advanced reasoning and repeatedly seeks more complex problems. Which response is educationally most appropriate?",
+  "options": {
+    "A": "Require the learner to repeat already mastered work",
+    "B": "Use the learner permanently as an assistant teacher",
+    "C": "Ignore the difference because inclusion requires identical work",
+    "D": "Provide appropriately challenging enrichment and opportunities for deeper or more advanced learning"
+  },
+  "correctAnswer": "D",
+  "explanation": "Exceptional educational needs may also involve advanced abilities. Repetition of already mastered work may not provide adequate challenge; appropriate enrichment can better address such needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Exceptional Children", "Advanced Ability", "Enrichment", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0053",
+  "question": "Which principle should guide differentiation in an inclusive classroom?",
+  "options": {
+    "A": "Adjust appropriate aspects of instruction according to learner readiness, needs and access requirements while maintaining meaningful educational goals",
+    "B": "Teach every learner through exactly the same method regardless of barriers",
+    "C": "Create permanently separate curricula for every child",
+    "D": "Lower expectations for every exceptional learner"
+  },
+  "correctAnswer": "A",
+  "explanation": "Differentiation responds to learner variability by appropriately adjusting instruction, support, materials or learning processes without assuming that all learners require lower expectations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Differentiation", "Inclusive Classroom", "Individual Needs"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0054",
+  "question": "A teacher presents the same concept through oral explanation, text, diagrams and suitable hands-on materials. From an inclusive perspective, the major advantage is that:",
+  "options": {
+    "A": "Every learner must use every mode equally",
+    "B": "The academic standard is automatically reduced",
+    "C": "Multiple forms of representation can reduce access barriers created by reliance on a single mode",
+    "D": "Individual differences become irrelevant"
+  },
+  "correctAnswer": "C",
+  "explanation": "Providing information through multiple accessible forms can improve access for learners with differing sensory, language, processing and learning needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Multiple Representation", "Accessibility", "Inclusive Teaching"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0055",
+  "question": "Consider the following practices: 1. Providing large-print material when required. 2. Allowing an appropriate alternative response mode. 3. Providing physical access to classrooms. 4. Automatically reducing every learning objective for every learner with disability. Which are consistent with accommodation?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Large print, accessible response modes and physical access can remove barriers without necessarily changing the essential learning objective. Automatically reducing learning objectives is not an accommodation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Accommodation", "Statement Based", "Accessibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0056",
+  "question": "A learner understands a lesson when it is explained orally but experiences persistent and marked difficulty in reading written material. Which teacher action is most appropriate?",
+  "options": {
+    "A": "Immediately conclude that the learner has low intelligence",
+    "B": "Punish the learner for inadequate reading",
+    "C": "Ignore the pattern until the final examination",
+    "D": "Document the pattern, provide appropriate instructional support and facilitate further assessment where necessary"
+  },
+  "correctAnswer": "D",
+  "explanation": "Persistent difficulty in a specific area should be examined systematically. Teachers should provide support and facilitate appropriate assessment rather than infer general intellectual limitation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Identification", "Learning Difficulty", "Teacher Role", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0057",
+  "question": "Which conclusion is most defensible when a child experiences persistent difficulty in one academic area?",
+  "options": {
+    "A": "A specific difficulty in one area should not automatically be generalised into a judgement of low overall ability",
+    "B": "The child necessarily has intellectual disability",
+    "C": "The child cannot succeed in any academic area",
+    "D": "The difficulty must be caused by laziness"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational assessment should distinguish specific patterns of difficulty from overall intellectual functioning and avoid unsupported generalisations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Individual Differences", "Learning Difficulty", "Identification"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0058",
+  "question": "Assertion A: Early identification of persistent educational difficulties can be useful. Reason R: Appropriate support can be planned earlier when educational needs are recognised systematically. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true and R is the correct explanation of A",
+    "D": "Both A and R are true but R is not the correct explanation of A"
+  },
+  "correctAnswer": "C",
+  "explanation": "Systematic early identification can facilitate timely educational support and may prevent avoidable accumulation of learning and participation difficulties.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Early Identification", "Educational Support", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0059",
+  "question": "Which practice is most likely to produce inappropriate identification of exceptional educational needs?",
+  "options": {
+    "A": "Using information from several relevant sources",
+    "B": "Observing performance across different situations",
+    "C": "Considering instructional and contextual factors",
+    "D": "Making a permanent judgement from one test score without examining other evidence"
+  },
+  "correctAnswer": "D",
+  "explanation": "A single score may provide useful information but should not automatically determine complex educational decisions without corroborating evidence and contextual interpretation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Identification", "Assessment", "Multiple Sources"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0060",
+  "question": "A teacher notices that a child's classroom performance deteriorated only after prolonged absence from school. Before considering disability identification, the teacher should particularly examine:",
+  "options": {
+    "A": "The learner's exposure to instruction and resulting gaps in learning opportunities",
+    "B": "Whether disability can be assigned from marks alone",
+    "C": "Whether the learner should immediately be segregated",
+    "D": "Whether the child's peers can provide a diagnosis"
+  },
+  "correctAnswer": "A",
+  "explanation": "Educational difficulties may reflect inadequate opportunity to learn, interrupted attendance or other contextual factors. Such factors should be considered during identification.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Identification", "Attendance", "Opportunity to Learn", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0061",
+  "question": "A learner with a physical disability is unable to participate in a science laboratory because worktables cannot accommodate the learner's wheelchair. Which intervention addresses the barrier most directly?",
+  "options": {
+    "A": "Lower the learner's science marks",
+    "B": "Provide an accessible laboratory arrangement that permits meaningful participation",
+    "C": "Replace science with an unrelated subject",
+    "D": "Ask another student to complete every experiment"
+  },
+  "correctAnswer": "B",
+  "explanation": "The problem lies primarily in environmental access. Adapting the physical learning environment can enable participation without unnecessarily changing the academic objective.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Physical Disability", "Environmental Barrier", "Laboratory", "Accessibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0062",
+  "question": "Which statement most accurately describes the role of peers in inclusive education?",
+  "options": {
+    "A": "Peers should perform every task for learners with disabilities",
+    "B": "Peer assistance should replace teachers and specialists completely",
+    "C": "Structured peer support can facilitate participation, interaction and belonging while preserving the learner's autonomy",
+    "D": "Learners with disabilities should interact only with adults"
+  },
+  "correctAnswer": "C",
+  "explanation": "Appropriately structured peer support can strengthen academic and social participation, but it should not create unnecessary dependence or replace required professional support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Peer Support", "Social Inclusion", "Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0063",
+  "question": "A teacher assigns one classmate to do all written work for a learner with disability throughout the year, even though the learner can complete much of the work using appropriate support. What is the major concern?",
+  "options": {
+    "A": "Peer support is always prohibited",
+    "B": "The arrangement may create unnecessary dependence and reduce opportunities for autonomy and skill development",
+    "C": "Children with disabilities should never work with peers",
+    "D": "The learner should instead receive no support"
+  },
+  "correctAnswer": "B",
+  "explanation": "Support should enable participation while promoting the highest appropriate level of independence. Doing tasks unnecessarily for a learner can restrict autonomy and skill development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Peer Support", "Independence", "Autonomy", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0064",
+  "question": "Which school practice best addresses attitudinal barriers to inclusion?",
+  "options": {
+    "A": "Keeping learners with disabilities invisible during school activities",
+    "B": "Assuming that disability automatically means dependence",
+    "C": "Reducing all expectations without assessment",
+    "D": "Promoting respectful interaction, challenging stereotypes and maintaining appropriately high expectations with support"
+  },
+  "correctAnswer": "D",
+  "explanation": "Negative attitudes and stereotypes can restrict participation even when physical access is available. Inclusive school culture should actively challenge such barriers.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Attitudinal Barriers", "School Culture", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0065",
+  "question": "Consider the following barriers to inclusion: 1. Inaccessible staircase. 2. Text available only in inaccessible print. 3. Negative teacher expectations. 4. Peer rejection. Which combination correctly represents barriers that may need to be addressed?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "3 and 4 only",
+    "C": "1, 2, 3 and 4",
+    "D": "1, 2 and 3 only"
+  },
+  "correctAnswer": "C",
+  "explanation": "Barriers may be physical, instructional, communicational, attitudinal or social. Inclusive education therefore requires attention to more than infrastructure alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Barriers", "Statement Based", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0066",
+  "question": "Which approach best reflects collaboration in educating a child with complex support needs?",
+  "options": {
+    "A": "The class teacher should work completely alone",
+    "B": "Only the family should determine all educational decisions",
+    "C": "Different professionals should work independently without exchanging information",
+    "D": "Teachers, family and relevant professionals should coordinate information and support while keeping the learner's educational needs central"
+  },
+  "correctAnswer": "D",
+  "explanation": "Complex needs may require coordinated contributions from teachers, families and relevant professionals. Collaboration helps align educational goals and support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Collaboration", "Family", "Professionals", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0067",
+  "question": "What is the most appropriate role of parents or caregivers in planning support for a child with disability?",
+  "options": {
+    "A": "They can provide valuable information about the child's functioning, strengths, needs and experiences across settings and participate collaboratively in planning",
+    "B": "They should be excluded because only examination marks matter",
+    "C": "They should replace all professional assessment",
+    "D": "Their observations are never educationally relevant"
+  },
+  "correctAnswer": "A",
+  "explanation": "Families often possess important information about the learner across contexts. Their participation can strengthen educational planning when integrated with other relevant evidence.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Family Collaboration", "Educational Planning", "Support"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0068",
+  "question": "Assertion A: Collaboration between school and family is especially useful when planning support for learners with exceptional needs. Reason R: A learner may function differently across home, school and community contexts, and information from multiple settings can improve understanding. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "Both A and R are true and R is the correct explanation of A",
+    "C": "Both A and R are true but R is not the correct explanation of A",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "B",
+  "explanation": "Information from multiple contexts can provide a more complete understanding of strengths, difficulties and support needs, making family-school collaboration educationally valuable.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Family Collaboration", "Assertion Reason", "Multiple Contexts"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0069",
+  "question": "A learner with communication difficulty points to pictures on a communication board to express needs and choices. The board is functioning primarily as:",
+  "options": {
+    "A": "A punishment device",
+    "B": "A measure of intelligence",
+    "C": "An augmentative or alternative means of communication",
+    "D": "A replacement for all educational interaction"
+  },
+  "correctAnswer": "C",
+  "explanation": "Alternative or augmentative communication approaches can support expression when ordinary speech does not adequately meet a learner's communication needs.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Communication", "Assistive Support", "AAC"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0070",
+  "question": "Why is functional assessment of a learner's abilities educationally useful?",
+  "options": {
+    "A": "It helps determine what the learner can actually do in relevant contexts and what supports may improve participation",
+    "B": "It eliminates the need to consider strengths",
+    "C": "It guarantees that all learners with the same diagnosis receive identical instruction",
+    "D": "It is useful only for assigning labels"
+  },
+  "correctAnswer": "A",
+  "explanation": "Functional information helps educational teams understand actual performance and support needs in meaningful activities and contexts rather than relying only on categorical labels.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Functional Assessment", "Support Needs", "Educational Planning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0071",
+  "question": "A school gives every child with the same disability label exactly the same intervention. Which principle is being violated most directly?",
+  "options": {
+    "A": "Every diagnostic category predicts identical functioning",
+    "B": "Support should be based on individual strengths, needs and functional requirements rather than the label alone",
+    "C": "Individual differences disappear after diagnosis",
+    "D": "All accommodations should be prohibited"
+  },
+  "correctAnswer": "B",
+  "explanation": "Learners within the same broad disability category can differ substantially. Educational support should therefore be individualised according to actual needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Individualisation", "Disability Label", "DyEO Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0072",
+  "question": "A Dy.E.O. finds that children with disabilities attend regular classes but are excluded from assemblies, sports, clubs and school celebrations. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Academic placement alone proves complete inclusion",
+    "B": "Extracurricular participation is irrelevant to inclusion",
+    "C": "The school has achieved inclusion because attendance is recorded",
+    "D": "Inclusion is incomplete because meaningful participation should extend to the wider life of the school wherever appropriate"
+  },
+  "correctAnswer": "D",
+  "explanation": "Inclusive schooling concerns belonging and participation in the broader school community, not merely physical presence during academic lessons.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Participation", "School Activities", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0073",
+  "question": "During inspection, a Dy.E.O. notices that a teacher speaks about a learner's disability publicly and unnecessarily in front of the entire class. Which principle requires greatest attention?",
+  "options": {
+    "A": "Increasing public labelling",
+    "B": "Using disability information as classroom entertainment",
+    "C": "Respecting the learner's dignity, privacy and need-to-know handling of personal information",
+    "D": "Ensuring that every student knows the learner's diagnosis"
+  },
+  "correctAnswer": "C",
+  "explanation": "Inclusive practice requires respect for dignity and privacy. Personal disability-related information should not be disclosed unnecessarily or used in ways that stigmatise the learner.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Dignity", "Privacy", "Ethics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0074",
+  "question": "A Dy.E.O. finds excellent ramps and accessible toilets in a school, but teachers believe children with disabilities cannot achieve academically and therefore rarely ask them challenging questions. Which barrier is now most prominent?",
+  "options": {
+    "A": "Attitudinal and instructional barrier",
+    "B": "Only architectural barrier",
+    "C": "Only sensory barrier",
+    "D": "Absence of school infrastructure"
+  },
+  "correctAnswer": "A",
+  "explanation": "Physical accessibility alone does not guarantee inclusion. Low expectations and restricted learning opportunities constitute important attitudinal and instructional barriers.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Attitudinal Barrier", "Teacher Expectations"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0075",
+  "question": "A Dy.E.O. must judge whether a school's approach to exceptional children is genuinely educationally responsive. Which combination provides the strongest evidence? 1. Systematic identification of individual strengths and needs. 2. Accessible environment and materials. 3. Appropriate accommodations and support. 4. Meaningful academic and social participation with opportunities for increasing independence.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "2 and 3 only",
+    "C": "1, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "A comprehensive inclusive response integrates appropriate identification, accessibility, individual support, participation, belonging and development of independence rather than relying on a single measure.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "School Evaluation", "Exceptional Children", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0076",
+  "question": "A Dy.E.O. observes that a school has enrolled children with disabilities but most teaching depends exclusively on oral lectures and copying from the blackboard. Which intervention should receive priority?",
+  "options": {
+    "A": "Require children with disabilities to adjust without support",
+    "B": "Develop accessible and varied modes of representation, participation and response according to learner needs",
+    "C": "Transfer all children with disabilities to separate schools",
+    "D": "Reduce the curriculum for every child with disability"
+  },
+  "correctAnswer": "B",
+  "explanation": "Enrolment alone does not ensure inclusion. Teaching methods and materials must provide meaningful access and participation for learners with different sensory, physical and other educational needs.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Accessibility", "Inclusive Teaching"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0077",
+  "question": "Which statement best represents the principle of reasonable educational accommodation?",
+  "options": {
+    "A": "Provide appropriate adjustments that remove avoidable barriers and enable meaningful participation without automatically changing the essential educational objective",
+    "B": "Give every learner exactly the same support regardless of need",
+    "C": "Exempt every learner with disability from assessment",
+    "D": "Automatically replace the prescribed curriculum with an unrelated curriculum"
+  },
+  "correctAnswer": "A",
+  "explanation": "Appropriate accommodation addresses barriers to access or response while preserving essential educational goals wherever possible.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Accommodation", "Accessibility", "Equity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0078",
+  "question": "Consider the following statements about inclusive education: 1. Physical placement alone is insufficient. 2. Participation and belonging are important. 3. Appropriate individual support may be necessary. 4. Inclusion requires identical instructional methods for every learner. Which statements are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "2, 3 and 4 only",
+    "C": "1, 2 and 3 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "C",
+  "explanation": "Inclusion requires access, participation, belonging and appropriate support. It does not mean that every learner must receive instruction through an identical method.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inclusive Education", "Statement Based", "Participation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0079",
+  "question": "A learner with visual impairment receives accessible textbooks but is excluded whenever the teacher uses maps, graphs and diagrams. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Accessible textbooks alone guarantee full curricular access",
+    "B": "Visual concepts should never be taught to the learner",
+    "C": "The learner should automatically receive lower marks",
+    "D": "Accessibility must extend to relevant visual information through suitable descriptions, tactile resources or other appropriate representations"
+  },
+  "correctAnswer": "D",
+  "explanation": "Accessibility must apply to the range of learning materials used in instruction. Important graphical or visual information may require suitable alternative representations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Visual Impairment", "Curricular Access", "DyEO Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0080",
+  "question": "Assertion A: A sensory impairment should not automatically lead teachers to lower expectations regarding intelligence. Reason R: Sensory functioning and intellectual functioning represent distinct aspects of development and performance. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Difficulty in seeing or hearing does not itself demonstrate low intellectual ability. Teachers must distinguish sensory access needs from intellectual functioning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Sensory Impairment", "Intelligence", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0081",
+  "question": "A child with hearing impairment repeatedly gives incorrect answers because important classroom instructions are delivered while the teacher faces the blackboard. What should be examined before concluding that the child has not understood the academic concept?",
+  "options": {
+    "A": "Whether the child should be punished",
+    "B": "Whether communication access to the instruction was adequate",
+    "C": "Whether all academic expectations should be removed",
+    "D": "Whether hearing impairment necessarily indicates intellectual disability"
+  },
+  "correctAnswer": "B",
+  "explanation": "Assessment of learning is meaningful only when the learner has adequate access to instruction and task directions. Communication barriers may otherwise be mistaken for lack of conceptual understanding.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Hearing Impairment", "Communication Access", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0082",
+  "question": "A Dy.E.O. wants to determine whether physical accessibility has been meaningfully implemented. Which evidence is strongest?",
+  "options": {
+    "A": "The school possesses a written statement mentioning accessibility",
+    "B": "A ramp exists somewhere on the campus",
+    "C": "Learners with mobility needs can actually reach and use relevant classrooms, toilets, learning spaces and school facilities safely and with appropriate independence",
+    "D": "Teachers report that infrastructure is adequate"
+  },
+  "correctAnswer": "C",
+  "explanation": "Functional accessibility is demonstrated through actual usable access to relevant school environments, not merely through documents or isolated infrastructure.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Physical Disability", "Accessibility", "School Inspection"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0083",
+  "question": "Which combination best represents adaptive functioning? 1. Communicating needs. 2. Managing appropriate everyday activities. 3. Social interaction and responsibility. 4. Practical functioning in relevant environments.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "2 and 4 only",
+    "C": "1, 2 and 3 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Adaptive functioning broadly involves conceptual, social and practical competencies needed for everyday functioning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Adaptive Functioning", "Intellectual Disability", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0084",
+  "question": "Why is teaching functional skills important for some learners with substantial intellectual or adaptive support needs?",
+  "options": {
+    "A": "Such skills can increase meaningful participation, everyday competence and independence",
+    "B": "Functional skills eliminate the need for all academic learning",
+    "C": "They are intended primarily to segregate learners",
+    "D": "They prove that learners cannot develop further"
+  },
+  "correctAnswer": "A",
+  "explanation": "Functional skills can support communication, participation, daily living and independence and may be integrated appropriately with academic learning.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Functional Skills", "Intellectual Disability", "Independence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0085",
+  "question": "A teacher provides a prompt whenever a learner begins a task. Over time, the learner becomes capable of performing independently. What should the teacher generally do next?",
+  "options": {
+    "A": "Increase prompts permanently",
+    "B": "Complete the task for the learner",
+    "C": "Gradually fade unnecessary prompts to strengthen independent performance",
+    "D": "Stop allowing the learner to practise"
+  },
+  "correctAnswer": "C",
+  "explanation": "Prompts should not create unnecessary dependence. When competence develops, systematic fading of support can promote independent functioning.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Prompting", "Fading", "Independence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0086",
+  "question": "A learner displays challenging behaviour mainly during lengthy and highly difficult assignments. Which response should precede purely punitive action?",
+  "options": {
+    "A": "Assume the learner is deliberately disruptive",
+    "B": "Examine task difficulty, antecedents, consequences and the possible function of the behaviour",
+    "C": "Remove the learner permanently from the classroom",
+    "D": "Publicly compare the learner with peers"
+  },
+  "correctAnswer": "B",
+  "explanation": "Behaviour should be examined contextually. Task demands, triggers and consequences may reveal why the behaviour occurs and guide appropriate educational support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Behaviour", "Social Emotional Challenges", "Functional Perspective"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0087",
+  "question": "Assertion A: Persistent challenging behaviour should be understood only as a disciplinary issue. Reason R: Behaviour may sometimes communicate unmet needs, difficulty with tasks, environmental stress or problems in social-emotional regulation. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are false",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "D",
+  "explanation": "Challenging behaviour should not automatically be reduced to misconduct. Understanding its context and possible function can lead to more appropriate educational responses.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Behaviour", "Assertion Reason", "Social Emotional Challenges"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0088",
+  "question": "Which teacher practice is most likely to support a learner experiencing social rejection?",
+  "options": {
+    "A": "Use structured cooperative activities, explicitly promote respectful interaction and intervene against exclusion or bullying",
+    "B": "Allow classmates to decide whether the learner may participate",
+    "C": "Keep the learner permanently separate",
+    "D": "Ignore peer relations because they are unrelated to education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Social participation and belonging are educationally relevant. Structured peer interaction and active prevention of exclusion can support inclusive participation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Social Challenge", "Peer Relations", "Inclusive Classroom"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0089",
+  "question": "Which approach is most appropriate when a teacher suspects that a learner may have significant educational support needs?",
+  "options": {
+    "A": "Announce a diagnosis to the class",
+    "B": "Assign a permanent label immediately",
+    "C": "Document relevant observations, provide appropriate educational support, collaborate with the family and facilitate professional assessment or referral where required",
+    "D": "Wait until repeated failure becomes severe"
+  },
+  "correctAnswer": "C",
+  "explanation": "Teachers can observe and document educational difficulties and initiate support, but complex diagnosis should not be made casually. Appropriate collaboration and referral may be necessary.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Identification", "Referral", "Teacher Role"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0090",
+  "question": "A child performs poorly on a written assessment because the format is inaccessible, but demonstrates strong understanding when an appropriate accessible response mode is provided. What does this most clearly illustrate?",
+  "options": {
+    "A": "The accessible assessment necessarily inflated intelligence",
+    "B": "Assessment format can introduce construct-irrelevant barriers and distort conclusions about learning",
+    "C": "Written assessment is always invalid",
+    "D": "Accommodation makes assessment impossible"
+  },
+  "correctAnswer": "B",
+  "explanation": "When an irrelevant access barrier affects performance, the score may not accurately represent the intended knowledge or skill. Appropriate accommodations can improve validity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Assessment", "Accommodation", "Validity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0091",
+  "question": "Which school policy best reflects equity rather than mere equality?",
+  "options": {
+    "A": "Give every learner identical materials even when some cannot access them",
+    "B": "Provide additional or alternative supports according to identified needs so that learners have meaningful opportunities to participate and learn",
+    "C": "Lower expectations for every learner with disability",
+    "D": "Provide support only to learners without disabilities"
+  },
+  "correctAnswer": "B",
+  "explanation": "Equality may imply identical provision, whereas equity recognises that different learners may require different resources or supports to access meaningful educational opportunities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Equity", "Equality", "Inclusive Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0092",
+  "question": "A Dy.E.O. finds that teachers have received assistive devices for several learners but do not know how to integrate them into instruction. Which administrative response is most appropriate?",
+  "options": {
+    "A": "Remove the devices permanently",
+    "B": "Assume procurement alone completes the inclusion process",
+    "C": "Transfer responsibility entirely to parents",
+    "D": "Provide relevant teacher capacity-building, implementation support and follow-up on actual classroom use"
+  },
+  "correctAnswer": "D",
+  "explanation": "Resources improve participation only when they are appropriately selected, understood and used. School leadership should therefore support teacher competence and monitor implementation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Assistive Technology", "Teacher Development", "Leadership"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0093",
+  "question": "Consider the following indicators of an inclusive school: 1. Accessible infrastructure. 2. Accessible learning materials. 3. Positive teacher expectations. 4. Meaningful peer and curricular participation. Which combination is most appropriate?",
+  "options": {
+    "A": "1, 2, 3 and 4",
+    "B": "1 and 2 only",
+    "C": "3 and 4 only",
+    "D": "1, 2 and 3 only"
+  },
+  "correctAnswer": "A",
+  "explanation": "Inclusive schooling involves physical, instructional, attitudinal and social dimensions. All four indicators therefore contribute to meaningful inclusion.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inclusive School", "Statement Based", "School Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0094",
+  "question": "A Dy.E.O. discovers that teachers consistently underestimate a learner because of a disability label despite evidence of strong academic performance. Which principle should guide corrective action?",
+  "options": {
+    "A": "A disability label should determine the maximum level of achievement expected",
+    "B": "Assessment evidence should be ignored",
+    "C": "Expectations and support should be based on individual strengths, performance and needs rather than stereotypes associated with a label",
+    "D": "Every learner with disability should receive identical goals"
+  },
+  "correctAnswer": "C",
+  "explanation": "Diagnostic or disability categories do not determine an individual's complete ability profile. Educational decisions should be based on individual evidence rather than stereotypes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Teacher Expectations", "Labelling", "Individual Differences"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0095",
+  "question": "Assertion A: Inclusion is a whole-school responsibility rather than the responsibility of one special educator alone. Reason R: Infrastructure, classroom instruction, assessment, peer culture, school leadership and family collaboration can all affect participation. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "Both A and R are true and R is the correct explanation of A",
+    "C": "Both A and R are true but R is not the correct explanation of A",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "B",
+  "explanation": "Inclusion depends on interconnected school systems and practices. It therefore requires coordinated responsibility across the school rather than being delegated to a single person.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Whole School Approach", "Assertion Reason", "Leadership"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0096",
+  "question": "A school purchases specialised learning materials but keeps them locked because administrators fear that students may damage them. From an inclusive-management perspective, what is the principal failure?",
+  "options": {
+    "A": "The school has too many learning resources",
+    "B": "Specialised resources should never be purchased",
+    "C": "Students should pay for every resource before using it",
+    "D": "Availability without appropriate learner access and classroom use does not remove educational barriers"
+  },
+  "correctAnswer": "D",
+  "explanation": "Resources contribute to inclusion only when learners can actually access and use them appropriately. Procurement alone is not an educational outcome.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Resource Management", "Accessibility"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0097",
+  "question": "A Dy.E.O. must prioritise one action in a school where children with disabilities are enrolled but frequently absent because classrooms and toilets are inaccessible. Which action has the strongest immediate justification?",
+  "options": {
+    "A": "Address the identified accessibility barriers that are preventing regular participation",
+    "B": "Attribute absenteeism to lack of motivation",
+    "C": "Reduce the children's academic syllabus",
+    "D": "Remove their names from enrolment records"
+  },
+  "correctAnswer": "A",
+  "explanation": "When environmental barriers are directly restricting attendance and participation, removing those barriers is an immediate inclusive-education priority.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Accessibility", "Attendance", "Administrative Decision"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0098",
+  "question": "Which sequence best represents a sound educational response when a learner shows persistent difficulty? 1. Observe and document the pattern. 2. Examine instructional and contextual factors. 3. Provide appropriate support and monitor response. 4. Facilitate further assessment or specialised support where necessary.",
+  "options": {
+    "A": "4 → 3 → 2 → 1",
+    "B": "2 → 4 → 1 → 3",
+    "C": "1 → 2 → 3 → 4",
+    "D": "3 → 1 → 4 → 2"
+  },
+  "correctAnswer": "C",
+  "explanation": "A responsible process begins with systematic observation, considers contextual and instructional factors, provides support and monitoring, and seeks further assessment or specialised assistance when warranted.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Identification", "Intervention", "Sequence Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0099",
+  "question": "During a district review, which combination would provide the strongest evidence that children with disabilities are receiving meaningful educational inclusion? 1. Enrolment and regular attendance. 2. Access to curriculum and school facilities. 3. Appropriate support and accommodations. 4. Evidence of participation, learning progress and social belonging.",
+  "options": {
+    "A": "1 only",
+    "B": "1, 2, 3 and 4",
+    "C": "1 and 2 only",
+    "D": "2 and 3 only"
+  },
+  "correctAnswer": "B",
+  "explanation": "Meaningful inclusion must be evaluated beyond enrolment. Access, support, participation, progress and belonging provide a much more complete picture.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "School Evaluation", "Statement Based", "Inclusion"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-IE-0100",
+  "question": "A Dy.E.O. is preparing a district strategy for educating exceptional children and children with disabilities. Which plan is the most comprehensive?",
+  "options": {
+    "A": "Concentrate only on identifying disability categories",
+    "B": "Focus exclusively on constructing ramps",
+    "C": "Place responsibility entirely on individual class teachers",
+    "D": "Integrate early identification of educational needs, accessible environments and materials, appropriate instructional and assessment adaptations, assistive support, teacher capacity-building, family collaboration, social-emotional support, meaningful participation and monitoring of learner progress"
+  },
+  "correctAnswer": "D",
+  "explanation": "A comprehensive approach addresses the interacting sensory, physical, social-emotional, intellectual or other educational needs of learners as well as environmental barriers, teaching, assessment, support, collaboration and school leadership.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Comprehensive Inclusion", "Educational Leadership", "School Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}

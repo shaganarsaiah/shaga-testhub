@@ -42,12 +42,17 @@
 
         "Growth and Development":
             "question-bank/subjects/educational-psychology/growth-development.json",
+        "Developmental Domains":
+            "QUESTION-BANK/SUBJECTS/EDUCATIONAL-PSYCHOLOGY/developmental-domains.json",
 
         "Learning":
             "question-bank/subjects/educational-psychology/learning.json",
 
         "Memory":
             "question-bank/subjects/educational-psychology/memory.json",
+            
+        "Cognition":
+             "question-bank/subjects/educational-psychology/cognition.json",
 
         "Motivation":
             "question-bank/subjects/educational-psychology/motivation.json",
@@ -57,6 +62,9 @@
 
         "Personality & Adjustment":
             "question-bank/subjects/educational-psychology/personality-adjustment.json",
+            
+        "Understanding Self":
+            "question-bank/subjects/educational-psychology/understanding-self.json",
 
         "Creativity & Thinking":
             "question-bank/subjects/educational-psychology/thinking-creativity.json",
@@ -69,6 +77,9 @@
 
         "Guidance and Counselling":
             "question-bank/subjects/educational-psychology/guidance-counselling.json",
+            
+        "Exceptional Children and Children with Disabilities":
+            "question-bank/subjects/educational-psychology/inclusive-education.json",
 
 
         /* Educational Philosophy */

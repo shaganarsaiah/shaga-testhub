@@ -1,0 +1,2419 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "unit": "Personality and Cognition",
+    "chapter": "Cognition",
+    "topic": "Cognition",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed - Difficult to Very Difficult",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "Cognition",
+    "marksPerQuestion": 1,
+    "negativeMarking": false,
+    "questionStandard": "SHAGA GOLD"
+  },
+  "questions": [
+    {
+  "id": "EP-COG-0001",
+  "question": "Cognition is best understood as:",
+  "options": {
+    "A": "Only the storage of information in long-term memory",
+    "B": "Mental processes involved in acquiring, processing, storing and using information",
+    "C": "Only observable muscular responses to stimuli",
+    "D": "A process concerned exclusively with intelligence testing"
+  },
+  "correctAnswer": "B",
+  "explanation": "Cognition broadly includes mental processes through which individuals acquire, process, represent, store and use information, including attention, perception, memory, reasoning and problem-solving.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Cognition", "Cognitive Processes", "Educational Psychology"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0002",
+  "question": "A student is listening to the teacher while ignoring conversations taking place outside the classroom. Which cognitive process is most directly involved?",
+  "options": {
+    "A": "Selective attention",
+    "B": "Divergent thinking",
+    "C": "Retroactive inhibition",
+    "D": "Concept attainment"
+  },
+  "correctAnswer": "A",
+  "explanation": "Selective attention involves focusing cognitive resources on relevant information while filtering or suppressing competing stimuli.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Attention", "Selective Attention", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0003",
+  "question": "Which statement best distinguishes sensation from perception?",
+  "options": {
+    "A": "Sensation and perception are completely identical processes",
+    "B": "Perception occurs before sensory receptors receive stimulation",
+    "C": "Sensation involves reception of sensory stimulation, whereas perception involves organising and interpreting sensory information",
+    "D": "Sensation involves interpretation, whereas perception involves only receptor activation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Sensation begins with sensory reception, whereas perception involves organising and interpreting sensory information to give it meaning.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Sensation", "Perception", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0004",
+  "question": "A teacher displays a diagram containing many details, but students immediately notice the bold heading because it differs sharply from the surrounding material. Which factor has most directly attracted attention?",
+  "options": {
+    "A": "Habit alone",
+    "B": "Prior forgetting",
+    "C": "Emotional maturity",
+    "D": "Contrast in the stimulus"
+  },
+  "correctAnswer": "D",
+  "explanation": "Contrast is an external determinant of attention. A stimulus that differs noticeably from its surroundings is more likely to attract attention.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Attention", "Determinants of Attention", "Contrast"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0005",
+  "question": "Which of the following is primarily an internal or subjective determinant of attention?",
+  "options": {
+    "A": "Intensity of stimulus",
+    "B": "Interest of the learner",
+    "C": "Size of stimulus",
+    "D": "Movement of stimulus"
+  },
+  "correctAnswer": "B",
+  "explanation": "Interest is an internal determinant of attention, whereas intensity, size and movement are characteristics of external stimuli.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Attention", "Interest", "Determinants of Attention"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0006",
+  "question": "Assertion A: Attention is selective. Reason R: The human cognitive system cannot process all available environmental information with equal depth at the same moment. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Because cognitive processing capacity is limited, attention selects some information for deeper processing while other information receives less processing.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Attention", "Selective Attention", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0007",
+  "question": "A learner concentrates on solving mathematical problems continuously for an extended period. This primarily illustrates:",
+  "options": {
+    "A": "Divided attention",
+    "B": "Involuntary attention",
+    "C": "Sustained attention",
+    "D": "Perceptual constancy"
+  },
+  "correctAnswer": "C",
+  "explanation": "Sustained attention refers to maintaining focus on a task or stimulus over a prolonged period.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Attention", "Sustained Attention", "Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0008",
+  "question": "When a learner attempts to listen to a lecture while simultaneously composing an unrelated message, performance on one or both activities may decline primarily because:",
+  "options": {
+    "A": "Perception has permanently stopped",
+    "B": "Long-term memory has been erased",
+    "C": "Intelligence temporarily disappears",
+    "D": "The two activities compete for limited attentional resources"
+  },
+  "correctAnswer": "D",
+  "explanation": "When two demanding activities are performed simultaneously, they may compete for limited attentional and working-processing resources.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Divided Attention", "Attention", "Cognitive Resources", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0009",
+  "question": "Which statement best explains the role of past experience in perception?",
+  "options": {
+    "A": "Perception is completely independent of previous experience",
+    "B": "Previous knowledge and experience can influence how sensory information is interpreted",
+    "C": "Past experience affects sensation but never perception",
+    "D": "Past experience eliminates the need for sensory input"
+  },
+  "correctAnswer": "B",
+  "explanation": "Perception is influenced not only by incoming sensory information but also by expectations, prior knowledge and previous experiences.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Perception", "Past Experience", "Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0010",
+  "question": "A teacher writes an incomplete familiar word on the board, yet students correctly identify it by using context and previous knowledge. This most strongly illustrates:",
+  "options": {
+    "A": "Top-down processing",
+    "B": "Random guessing without cognition",
+    "C": "Sensory adaptation only",
+    "D": "Classical conditioning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Top-down processing uses existing knowledge, expectations and context to interpret incomplete or ambiguous sensory information.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Perception", "Top Down Processing", "Prior Knowledge"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0011",
+  "question": "Processing that begins with sensory features and builds progressively toward recognition of the whole stimulus is generally called:",
+  "options": {
+    "A": "Metacognitive processing",
+    "B": "Bottom-up processing",
+    "C": "Attributional processing",
+    "D": "Self-regulation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Bottom-up processing begins with incoming sensory information and proceeds from basic stimulus features toward more complex recognition and interpretation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Perception", "Bottom Up Processing", "Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0012",
+  "question": "The Gestalt principle that elements located close to one another tend to be perceived as belonging together is called:",
+  "options": {
+    "A": "Closure",
+    "B": "Similarity",
+    "C": "Proximity",
+    "D": "Constancy"
+  },
+  "correctAnswer": "C",
+  "explanation": "According to the Gestalt principle of proximity, elements positioned near one another tend to be perceptually grouped together.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Gestalt", "Perception", "Proximity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0013",
+  "question": "When an incomplete circle is nevertheless perceived as a complete circle, which Gestalt principle is operating?",
+  "options": {
+    "A": "Similarity",
+    "B": "Figure-ground",
+    "C": "Proximity",
+    "D": "Closure"
+  },
+  "correctAnswer": "D",
+  "explanation": "Closure refers to the perceptual tendency to complete incomplete figures or patterns and perceive them as coherent wholes.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Gestalt", "Closure", "Perception"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0014",
+  "question": "In figure-ground organisation, the 'figure' refers to:",
+  "options": {
+    "A": "The part of the perceptual field that stands out as the focal object",
+    "B": "Everything stored in long-term memory",
+    "C": "Only the background colour",
+    "D": "A stimulus that cannot be perceived"
+  },
+  "correctAnswer": "A",
+  "explanation": "Figure-ground organisation involves differentiating a focal object or figure from the surrounding background or ground.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Gestalt", "Figure Ground", "Perception"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0015",
+  "question": "A teacher uses the same colour and shape for all examples belonging to one category on a chart. Which perceptual principle is being used most directly?",
+  "options": {
+    "A": "Closure",
+    "B": "Similarity",
+    "C": "Sensory adaptation",
+    "D": "Perceptual defence"
+  },
+  "correctAnswer": "B",
+  "explanation": "The Gestalt principle of similarity states that elements sharing visual characteristics tend to be perceived as belonging together.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Gestalt", "Similarity", "Classroom Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0016",
+  "question": "A door continues to be perceived as approximately rectangular even when its retinal image changes as the door opens. This phenomenon is an example of:",
+  "options": {
+    "A": "Selective attention",
+    "B": "Concept formation",
+    "C": "Shape constancy",
+    "D": "Divergent thinking"
+  },
+  "correctAnswer": "C",
+  "explanation": "Shape constancy is the tendency to perceive an object's shape as relatively stable despite changes in the retinal image caused by viewing angle.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Perceptual Constancy", "Shape Constancy", "Perception"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0017",
+  "question": "Concept formation primarily enables learners to:",
+  "options": {
+    "A": "Treat every object or event as completely unrelated",
+    "B": "Avoid identifying common properties",
+    "C": "Eliminate all previous knowledge",
+    "D": "Organise objects, events or ideas into meaningful categories based on relevant attributes"
+  },
+  "correctAnswer": "D",
+  "explanation": "Concept formation allows individuals to categorise experiences according to shared or defining characteristics, thereby reducing cognitive complexity.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Concept Formation", "Categorisation", "Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0018",
+  "question": "A science teacher presents several examples and non-examples of mammals and asks students to identify the defining characteristics of the category. The activity most directly develops:",
+  "options": {
+    "A": "Concept attainment",
+    "B": "Rote conditioning",
+    "C": "Sensory adaptation",
+    "D": "Retroactive interference"
+  },
+  "correctAnswer": "A",
+  "explanation": "Comparing examples and non-examples helps learners identify relevant attributes and infer the defining features of a concept.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Concept Attainment", "Concept Formation", "Classroom Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0019",
+  "question": "Which statement best describes reasoning?",
+  "options": {
+    "A": "Passive reception of sensory stimulation only",
+    "B": "Mental manipulation of information to draw conclusions or make inferences",
+    "C": "Automatic muscular response to a stimulus",
+    "D": "Permanent storage of every experience"
+  },
+  "correctAnswer": "B",
+  "explanation": "Reasoning involves using available information, relationships, rules or evidence to derive conclusions and make inferences.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Reasoning", "Thinking", "Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0020",
+  "question": "A learner observes that iron, copper and aluminium expand when heated and infers that metals generally expand when heated. This is primarily an example of:",
+  "options": {
+    "A": "Deductive reasoning",
+    "B": "Functional fixedness",
+    "C": "Inductive reasoning",
+    "D": "Perceptual constancy"
+  },
+  "correctAnswer": "C",
+  "explanation": "Inductive reasoning proceeds from specific observations or instances toward a more general conclusion or principle.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Inductive Reasoning", "Reasoning", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0021",
+  "question": "All mammals are warm-blooded. Whales are mammals. Therefore, whales are warm-blooded. The reasoning used here is:",
+  "options": {
+    "A": "Deductive reasoning",
+    "B": "Inductive reasoning",
+    "C": "Divergent thinking",
+    "D": "Trial-and-error learning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Deductive reasoning applies a general rule or premise to a specific case to derive a logically necessary conclusion when the premises are valid.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Deductive Reasoning", "Reasoning", "Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0022",
+  "question": "Which sequence most appropriately represents a systematic approach to problem-solving?",
+  "options": {
+    "A": "Choose a solution first, then identify the problem",
+    "B": "Identify the problem, represent or analyse it, generate possible solutions, select and implement a strategy, and evaluate the outcome",
+    "C": "Memorise a response and use it for every problem",
+    "D": "Avoid evaluating the result after acting"
+  },
+  "correctAnswer": "B",
+  "explanation": "Effective problem-solving generally involves understanding and representing the problem, generating or selecting strategies, implementing them and evaluating whether the solution works.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Problem Solving", "Cognitive Process", "Strategy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0023",
+  "question": "A student repeatedly attempts to solve a new problem using a previously successful method even though the old method is inappropriate for the new situation. This difficulty is most closely related to:",
+  "options": {
+    "A": "Perceptual constancy",
+    "B": "Selective attention",
+    "C": "Mental set",
+    "D": "Metacognitive regulation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Mental set is the tendency to approach a problem using a familiar strategy that worked previously, even when a different approach would be more effective.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Problem Solving", "Mental Set", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0024",
+  "question": "A learner cannot imagine using a cardboard box as a temporary stand because the learner thinks of it only as a container. This obstacle to problem-solving is called:",
+  "options": {
+    "A": "Inductive reasoning",
+    "B": "Selective attention",
+    "C": "Perceptual constancy",
+    "D": "Functional fixedness"
+  },
+  "correctAnswer": "D",
+  "explanation": "Functional fixedness is the tendency to perceive an object only in terms of its conventional function, making alternative uses difficult to recognise.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Problem Solving", "Functional Fixedness", "Thinking"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0025",
+  "question": "A Dy.E.O. observes that most classroom questions require students only to reproduce memorised information. Which recommendation would most directly promote higher cognitive processing?",
+  "options": {
+    "A": "Increase the amount of copying from the textbook",
+    "B": "Reduce opportunities for students to explain their reasoning",
+    "C": "Use tasks requiring comparison, classification, inference, reasoning, problem-solving and justification of conclusions",
+    "D": "Restrict assessment entirely to factual recall"
+  },
+  "correctAnswer": "C",
+  "explanation": "Higher cognitive processing is promoted when learners analyse relationships, classify information, draw inferences, solve unfamiliar problems and justify conclusions rather than merely reproduce memorised facts.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Higher Order Thinking", "Cognition", "School Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0026",
+  "question": "Which statement best distinguishes an algorithm from a heuristic in problem-solving?",
+  "options": {
+    "A": "An algorithm is always faster than a heuristic",
+    "B": "A heuristic guarantees a correct solution whereas an algorithm does not",
+    "C": "Both terms refer to exactly the same strategy",
+    "D": "An algorithm is a systematic procedure that can guarantee a solution when correctly applicable, whereas a heuristic is a useful shortcut that does not guarantee success"
+  },
+  "correctAnswer": "D",
+  "explanation": "Algorithms are systematic procedures that can guarantee a solution when applicable and correctly executed. Heuristics are efficient rules of thumb that may simplify problem-solving but do not guarantee a correct solution.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Problem Solving", "Algorithm", "Heuristic", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0027",
+  "question": "A student solves a mathematical problem by systematically applying a fixed sequence of steps that, when correctly used, leads to the required solution. The student is primarily using:",
+  "options": {
+    "A": "An algorithm",
+    "B": "Functional fixedness",
+    "C": "A perceptual illusion",
+    "D": "Divergent thinking"
+  },
+  "correctAnswer": "A",
+  "explanation": "An algorithm is a systematic step-by-step procedure used to solve a problem and can guarantee the correct result when the procedure is appropriate and correctly followed.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Algorithm", "Problem Solving", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0028",
+  "question": "A learner faced with a complex problem uses a rule of thumb that often produces a useful answer quickly but may occasionally lead to error. This strategy is called:",
+  "options": {
+    "A": "Perceptual constancy",
+    "B": "A heuristic",
+    "C": "An algorithmic guarantee",
+    "D": "Sensory adaptation"
+  },
+  "correctAnswer": "B",
+  "explanation": "A heuristic is a practical mental shortcut or rule of thumb that reduces the effort required for problem-solving but does not guarantee a correct solution.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Heuristic", "Problem Solving", "Thinking"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0029",
+  "question": "In means-end analysis, a problem solver primarily attempts to:",
+  "options": {
+    "A": "Memorise every possible solution",
+    "B": "Ignore the desired goal",
+    "C": "Compare the present state with the goal state and take steps to reduce the difference",
+    "D": "Use only trial and error without considering intermediate goals"
+  },
+  "correctAnswer": "C",
+  "explanation": "Means-end analysis involves identifying differences between the current state and the desired goal state and selecting operations or subgoals that progressively reduce those differences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Problem Solving", "Means End Analysis", "Strategy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0030",
+  "question": "When the goal of a problem is difficult to reach directly, a learner divides it into several smaller and more manageable goals. These smaller goals are called:",
+  "options": {
+    "A": "Distractors",
+    "B": "Perceptual sets",
+    "C": "Reflexes",
+    "D": "Subgoals"
+  },
+  "correctAnswer": "D",
+  "explanation": "Complex problems can often be simplified by dividing the main goal into smaller intermediate goals or subgoals.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Problem Solving", "Subgoals", "Strategy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0031",
+  "question": "After struggling unsuccessfully with a geometry problem, a student suddenly sees a new relationship among its elements and immediately recognises the solution. This is best described as:",
+  "options": {
+    "A": "Insight",
+    "B": "Sensory adaptation",
+    "C": "Retroactive interference",
+    "D": "Rote rehearsal"
+  },
+  "correctAnswer": "A",
+  "explanation": "Insight involves a relatively sudden restructuring or understanding of the relationships within a problem, leading to recognition of a solution.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Insight", "Problem Solving", "Gestalt", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0032",
+  "question": "Insight learning and problem-solving are especially associated with which psychological school?",
+  "options": {
+    "A": "Psychoanalysis",
+    "B": "Gestalt psychology",
+    "C": "Classical behaviourism alone",
+    "D": "Structuralism"
+  },
+  "correctAnswer": "B",
+  "explanation": "Gestalt psychologists emphasised understanding relationships and restructuring the problem situation as important elements of insight.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Insight", "Gestalt Psychology", "Problem Solving"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0033",
+  "question": "Assertion A: Prior experience can both facilitate and interfere with problem-solving. Reason R: Previously learned strategies may provide useful solutions, but rigid dependence on them can produce a mental set. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true and R is the correct explanation of A",
+    "D": "Both A and R are true but R is not the correct explanation of A"
+  },
+  "correctAnswer": "C",
+  "explanation": "Prior experience can provide useful strategies, but excessive reliance on familiar methods may create a mental set and prevent recognition of more appropriate solutions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Problem Solving", "Mental Set", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0034",
+  "question": "Which classroom practice is most likely to reduce functional fixedness?",
+  "options": {
+    "A": "Require students to use every object only for its conventional purpose",
+    "B": "Ask students to generate several unconventional uses for familiar objects",
+    "C": "Penalise alternative solutions",
+    "D": "Provide only one model solution for every open-ended problem"
+  },
+  "correctAnswer": "B",
+  "explanation": "Generating alternative uses encourages learners to move beyond conventional functions of objects and therefore helps overcome functional fixedness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Functional Fixedness", "Problem Solving", "Classroom Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0035",
+  "question": "Which statement best describes critical thinking?",
+  "options": {
+    "A": "Accepting information from authority without examination",
+    "B": "Rejecting every claim automatically",
+    "C": "Memorising as many facts as possible",
+    "D": "Purposeful evaluation of claims, evidence, assumptions and reasoning before reaching a judgement"
+  },
+  "correctAnswer": "D",
+  "explanation": "Critical thinking involves analysing and evaluating evidence, assumptions and arguments in a reasoned manner rather than merely accepting or rejecting claims.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Critical Thinking", "Reasoning", "Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0036",
+  "question": "A student reads two conflicting claims on social media and checks the evidence, credibility of the sources and alternative explanations before forming a conclusion. This is primarily an example of:",
+  "options": {
+    "A": "Critical thinking",
+    "B": "Functional fixedness",
+    "C": "Perceptual constancy",
+    "D": "Rote rehearsal"
+  },
+  "correctAnswer": "A",
+  "explanation": "Evaluating evidence, source credibility and alternative explanations before accepting a claim is characteristic of critical thinking.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Critical Thinking", "Evidence", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0037",
+  "question": "Which question asked by a teacher most directly promotes critical thinking?",
+  "options": {
+    "A": "What sentence appears on page 20?",
+    "B": "What evidence supports this conclusion, and what alternative explanation could also account for the result?",
+    "C": "Can you copy this definition exactly?",
+    "D": "How quickly can you memorise the paragraph?"
+  },
+  "correctAnswer": "B",
+  "explanation": "Questions requiring evaluation of evidence and consideration of alternative explanations promote analysis and reasoned judgement rather than simple recall.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Critical Thinking", "Teacher Questioning", "Higher Order Thinking"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0038",
+  "question": "Decision-making differs from problem-solving most clearly because decision-making frequently involves:",
+  "options": {
+    "A": "Choosing among alternative courses of action based on goals, information and consequences",
+    "B": "Only recalling information from memory",
+    "C": "Avoiding evaluation of alternatives",
+    "D": "Eliminating uncertainty completely before acting"
+  },
+  "correctAnswer": "A",
+  "explanation": "Decision-making commonly involves evaluating alternatives and selecting among them, whereas problem-solving is broader and focuses on overcoming obstacles between a current and desired state.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Decision Making", "Problem Solving", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0039",
+  "question": "A principal considers three interventions for reducing absenteeism, compares evidence about their effectiveness, estimates likely consequences and then selects one. Which cognitive process is most directly illustrated?",
+  "options": {
+    "A": "Perceptual closure",
+    "B": "Sensory adaptation",
+    "C": "Decision-making",
+    "D": "Functional fixedness"
+  },
+  "correctAnswer": "C",
+  "explanation": "The principal is evaluating alternatives and their likely consequences before selecting a course of action, which is central to decision-making.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Decision Making", "School Leadership", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0040",
+  "question": "A person estimates an event as highly common because dramatic examples of it come easily to mind. Which heuristic is most directly involved?",
+  "options": {
+    "A": "Means-end heuristic",
+    "B": "Availability heuristic",
+    "C": "Algorithm",
+    "D": "Backward chaining"
+  },
+  "correctAnswer": "B",
+  "explanation": "The availability heuristic involves judging frequency or probability partly by how easily relevant examples come to mind.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Availability Heuristic", "Decision Making", "Cognitive Bias"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0041",
+  "question": "A school administrator strongly favours a new programme and thereafter pays attention mainly to reports supporting it while ignoring equally relevant evidence against it. This pattern most closely illustrates:",
+  "options": {
+    "A": "Confirmation bias",
+    "B": "Perceptual constancy",
+    "C": "Deductive validity",
+    "D": "Concept attainment"
+  },
+  "correctAnswer": "A",
+  "explanation": "Confirmation bias is the tendency to seek, notice, interpret or give greater weight to information that supports an existing belief while insufficiently considering contrary evidence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Confirmation Bias", "Decision Making", "School Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0042",
+  "question": "Which practice would best reduce confirmation bias while evaluating a school programme?",
+  "options": {
+    "A": "Collect only evidence supporting the preferred conclusion",
+    "B": "Decide first and evaluate evidence later",
+    "C": "Actively search for disconfirming evidence and seriously examine plausible alternative explanations",
+    "D": "Ignore evidence from unexpected sources"
+  },
+  "correctAnswer": "C",
+  "explanation": "Deliberately searching for evidence that could challenge one's preferred conclusion and considering alternative explanations helps counter confirmation bias.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Confirmation Bias", "Critical Thinking", "School Leadership"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0043",
+  "question": "Metacognition is most appropriately described as:",
+  "options": {
+    "A": "Knowledge and regulation of one's own cognitive processes",
+    "B": "Only remembering factual information",
+    "C": "Automatic sensory reception",
+    "D": "A synonym for intelligence quotient"
+  },
+  "correctAnswer": "A",
+  "explanation": "Metacognition broadly involves awareness and knowledge of one's cognition together with monitoring and regulation of cognitive activities.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Metacognition", "Cognition", "Self Regulation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0044",
+  "question": "The concept of metacognition is especially associated with:",
+  "options": {
+    "A": "Ivan Pavlov",
+    "B": "John H. Flavell",
+    "C": "Edward Thorndike",
+    "D": "Sigmund Freud"
+  },
+  "correctAnswer": "B",
+  "explanation": "John H. Flavell is especially associated with the development and use of the concept of metacognition in cognitive and developmental psychology.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Metacognition", "Flavell", "Thinker"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0045",
+  "question": "Which of the following best represents metacognitive knowledge?",
+  "options": {
+    "A": "Automatically seeing a bright light",
+    "B": "Reciting a definition without understanding it",
+    "C": "Knowing that one has difficulty remembering unorganised lists and that categorising items improves recall",
+    "D": "Responding reflexively to a stimulus"
+  },
+  "correctAnswer": "C",
+  "explanation": "Metacognitive knowledge includes awareness of oneself as a learner, task characteristics and strategies that can improve cognitive performance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Metacognitive Knowledge", "Learning Strategies", "Self Knowledge"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0046",
+  "question": "A learner stops after reading each section, asks 'Do I really understand this?', tests recall and changes the study strategy when understanding is poor. This most directly illustrates:",
+  "options": {
+    "A": "Only sensory processing",
+    "B": "Metacognitive monitoring and regulation",
+    "C": "Functional fixedness",
+    "D": "Perceptual closure"
+  },
+  "correctAnswer": "B",
+  "explanation": "The learner monitors current understanding and regulates learning by changing strategies when necessary, which are central metacognitive processes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Metacognition", "Monitoring", "Regulation", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0047",
+  "question": "Consider the following processes: 1. Planning how to approach a task. 2. Monitoring comprehension while performing it. 3. Evaluating the effectiveness of the strategy afterwards. 4. Adjusting the strategy when necessary. Which are components of metacognitive regulation?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "2 and 3 only",
+    "C": "1, 2 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Planning, monitoring, evaluating and adjusting strategies are major regulatory activities through which learners manage their own cognition.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Metacognition", "Metacognitive Regulation", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0048",
+  "question": "Assertion A: A learner may possess a useful cognitive strategy but fail to use it effectively. Reason R: Effective learning also requires metacognitive knowledge about when, where and why a strategy should be used. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Knowing a strategy is not sufficient. Learners also need conditional knowledge about when and why the strategy is appropriate and must monitor its effectiveness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Metacognition", "Cognitive Strategies", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0049",
+  "question": "A Dy.E.O. finds that students can describe several study strategies but rarely know which strategy to choose for a particular learning task. Which ability most directly needs strengthening?",
+  "options": {
+    "A": "Sensory adaptation",
+    "B": "Perceptual constancy",
+    "C": "Metacognitive conditional knowledge about when and why strategies should be used",
+    "D": "Functional fixedness"
+  },
+  "correctAnswer": "C",
+  "explanation": "Students need more than knowledge of what strategies exist. Conditional metacognitive knowledge helps them decide when and why particular strategies are appropriate.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Metacognition", "Conditional Knowledge", "Learning Strategies"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0050",
+  "question": "During classroom observation, a Dy.E.O. finds that teachers solve every problem themselves and students merely copy the final answers. Which change would best develop students' cognitive and metacognitive problem-solving abilities?",
+  "options": {
+    "A": "Provide more completed answers for copying",
+    "B": "Ask students only to memorise solution steps",
+    "C": "Remove all teacher guidance immediately",
+    "D": "Engage students in identifying problems, selecting and explaining strategies, monitoring progress, comparing alternative solutions and evaluating outcomes"
+  },
+  "correctAnswer": "D",
+  "explanation": "Students develop problem-solving and metacognitive competence when they actively plan, justify strategies, monitor progress, consider alternatives and evaluate the effectiveness of their solutions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Problem Solving", "Metacognition", "Classroom Observation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0051",
+  "question": "Which statement best describes a concept in cognitive psychology?",
+  "options": {
+    "A": "A mental category used to group objects, events or ideas sharing relevant characteristics",
+    "B": "A reflex response produced automatically by stimulation",
+    "C": "A temporary sensory impression only",
+    "D": "A purely emotional reaction"
+  },
+  "correctAnswer": "A",
+  "explanation": "Concepts are mental categories that organise objects, events, ideas or experiences according to shared or defining characteristics.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Concept Formation", "Cognition", "Mental Categories"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0052",
+  "question": "A child learns the concept 'triangle' by recognising that triangles may differ in size, colour and orientation while still sharing essential defining properties. Which cognitive ability is most directly involved?",
+  "options": {
+    "A": "Sensory adaptation",
+    "B": "Selective forgetting",
+    "C": "Identifying relevant attributes while ignoring irrelevant variations",
+    "D": "Functional fixedness"
+  },
+  "correctAnswer": "C",
+  "explanation": "Concept formation requires identifying characteristics relevant to category membership while disregarding irrelevant variations such as colour, size or orientation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Concept Formation", "Relevant Attributes", "Classification", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0053",
+  "question": "Jerome Bruner, Jacqueline Goodnow and George Austin are especially associated with research on:",
+  "options": {
+    "A": "Classical conditioning",
+    "B": "Concept attainment and thinking",
+    "C": "Psychoanalytic development",
+    "D": "Operant extinction only"
+  },
+  "correctAnswer": "B",
+  "explanation": "Bruner, Goodnow and Austin made influential contributions to the study of concept attainment and strategies used in categorisation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Bruner", "Concept Attainment", "Cognition", "Thinkers"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0054",
+  "question": "In a concept-attainment lesson, the teacher presents labelled examples and non-examples but does not initially reveal the defining rule. What are students primarily expected to do?",
+  "options": {
+    "A": "Memorise the examples without comparison",
+    "B": "Ignore differences among examples",
+    "C": "Wait until the teacher states the answer",
+    "D": "Form and test hypotheses about the attributes defining the concept"
+  },
+  "correctAnswer": "D",
+  "explanation": "Concept attainment requires learners to compare examples and non-examples, infer possible defining attributes and test hypotheses about category membership.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Bruner", "Concept Attainment", "Hypothesis Testing", "Classroom Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0055",
+  "question": "Which sequence best represents concept-attainment thinking?",
+  "options": {
+    "A": "Observe examples and non-examples -> identify possible attributes -> test hypotheses -> infer the defining concept",
+    "B": "Memorise a definition -> avoid examples -> guess randomly -> stop reasoning",
+    "C": "Select a conclusion first -> ignore contradictory evidence -> repeat the conclusion",
+    "D": "Recall unrelated facts -> classify without criteria -> avoid hypothesis testing"
+  },
+  "correctAnswer": "A",
+  "explanation": "Concept attainment typically involves examining cases, identifying possible attributes, testing hypotheses and refining the inferred rule or concept.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Concept Attainment", "Cognitive Strategy", "Sequence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0056",
+  "question": "Which classroom practice is most likely to promote genuine concept formation rather than verbal memorisation?",
+  "options": {
+    "A": "Require students to repeat the definition twenty times",
+    "B": "Provide varied examples and non-examples and ask students to justify category membership",
+    "C": "Avoid asking learners to identify attributes",
+    "D": "Give only one example of each concept"
+  },
+  "correctAnswer": "B",
+  "explanation": "Varied examples and non-examples require learners to identify defining attributes and distinguish them from irrelevant characteristics.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Concept Formation", "Examples", "Non Examples", "Classroom Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0057",
+  "question": "A learner believes that every bird must fly and therefore refuses to classify an ostrich as a bird. Which cognitive problem is most clearly demonstrated?",
+  "options": {
+    "A": "Perfect concept formation",
+    "B": "Deductive certainty",
+    "C": "Overreliance on a nonessential characteristic",
+    "D": "Perceptual constancy"
+  },
+  "correctAnswer": "C",
+  "explanation": "The learner incorrectly treats flying as an essential defining attribute of birds rather than recognising it as a common but nonessential characteristic.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Concept Formation", "Misconception", "Classification", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0058",
+  "question": "Which statement best describes a cognitive strategy?",
+  "options": {
+    "A": "An intentional mental procedure used to process, organise, understand or retrieve information",
+    "B": "A purely physiological reflex",
+    "C": "A fixed intelligence score",
+    "D": "An involuntary sensory response"
+  },
+  "correctAnswer": "A",
+  "explanation": "Cognitive strategies are purposeful procedures learners use to process information, solve problems, organise knowledge or support understanding and retrieval.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Cognitive Strategies", "Learning", "Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0059",
+  "question": "A student groups twenty unrelated vocabulary items into meaningful categories before studying them. Which cognitive strategy is being used?",
+  "options": {
+    "A": "Perceptual defence",
+    "B": "Organisation",
+    "C": "Functional fixedness",
+    "D": "Sensory adaptation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Organisation involves restructuring information into meaningful groups or relationships, thereby reducing cognitive complexity and facilitating learning.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Cognitive Strategy", "Organisation", "Learning Strategy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0060",
+  "question": "A learner connects the new concept of 'ecosystem' with previously learned ideas about organisms, food chains and environment. This strategy primarily involves:",
+  "options": {
+    "A": "Interference",
+    "B": "Mental set",
+    "C": "Selective inattention",
+    "D": "Elaboration"
+  },
+  "correctAnswer": "D",
+  "explanation": "Elaboration involves connecting new information with existing knowledge and adding meaningful relationships that deepen understanding.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Elaboration", "Cognitive Strategy", "Prior Knowledge"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0061",
+  "question": "Assertion A: Prior knowledge strongly influences comprehension of new information. Reason R: Learners interpret and organise new information partly by relating it to existing cognitive structures. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is false but R is true",
+    "D": "Both A and R are true and R is the correct explanation of A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Comprehension is constructive. Existing knowledge provides frameworks through which learners interpret, organise and integrate new information.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Prior Knowledge", "Cognition", "Comprehension", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0062",
+  "question": "Which statement best describes a schema?",
+  "options": {
+    "A": "A completely unorganised collection of sensations",
+    "B": "A structured cognitive framework representing organised knowledge about a concept, event or situation",
+    "C": "A permanent perceptual illusion",
+    "D": "An involuntary reflex arc"
+  },
+  "correctAnswer": "B",
+  "explanation": "Schemas are organised cognitive structures that represent knowledge and help individuals interpret, predict and understand experiences.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Schema", "Knowledge Representation", "Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0063",
+  "question": "Two students read the same historical passage but interpret it differently because they possess different background knowledge. Which principle best explains this?",
+  "options": {
+    "A": "Existing schemas influence interpretation of new information",
+    "B": "Perception is independent of prior knowledge",
+    "C": "All learners construct identical representations",
+    "D": "Background knowledge affects only physical development"
+  },
+  "correctAnswer": "A",
+  "explanation": "Learners' existing schemas and prior knowledge influence what they notice, how they interpret information and how new knowledge is integrated.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Schema", "Prior Knowledge", "Comprehension", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0064",
+  "question": "Transfer of learning occurs when:",
+  "options": {
+    "A": "Previously learned knowledge or skills influence performance in a new situation",
+    "B": "All previous learning is completely forgotten",
+    "C": "Learning has no effect beyond the original task",
+    "D": "Only physical growth changes performance"
+  },
+  "correctAnswer": "A",
+  "explanation": "Transfer occurs when prior learning affects performance in another task, context or problem.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Transfer of Learning", "Cognition", "Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0065",
+  "question": "A learner uses principles learned in mathematics to interpret a graph in science. This is best regarded as:",
+  "options": {
+    "A": "Negative transfer",
+    "B": "No transfer",
+    "C": "Positive transfer",
+    "D": "Functional fixedness"
+  },
+  "correctAnswer": "C",
+  "explanation": "Positive transfer occurs when prior learning facilitates performance or understanding in a new task or context.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Positive Transfer", "Transfer of Learning", "Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0066",
+  "question": "A learner repeatedly applies an old spelling rule to a new language in which the rule does not apply, thereby producing errors. This most clearly illustrates:",
+  "options": {
+    "A": "Positive transfer",
+    "B": "Insight",
+    "C": "Metacognitive monitoring",
+    "D": "Negative transfer"
+  },
+  "correctAnswer": "D",
+  "explanation": "Negative transfer occurs when previous learning interferes with successful performance in a new task because the earlier response or rule is inappropriate.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Negative Transfer", "Transfer of Learning", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0067",
+  "question": "Which classroom practice is most likely to promote transfer of learning?",
+  "options": {
+    "A": "Teach every skill in only one rigid context",
+    "B": "Prevent learners from explaining principles",
+    "C": "Use varied examples and explicitly help learners identify underlying principles applicable across situations",
+    "D": "Require memorisation without application"
+  },
+  "correctAnswer": "C",
+  "explanation": "Transfer is promoted when learners understand underlying principles and practise applying them across varied contexts rather than learning only surface-specific responses.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Transfer of Learning", "Educational Application", "Generalisation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0068",
+  "question": "Which statement best distinguishes near transfer from far transfer?",
+  "options": {
+    "A": "Near transfer occurs only within memory, whereas far transfer occurs only within perception",
+    "B": "Near transfer involves similar situations, whereas far transfer involves applying learning to substantially different contexts",
+    "C": "Far transfer is always automatic",
+    "D": "Near and far transfer are identical"
+  },
+  "correctAnswer": "B",
+  "explanation": "Near transfer occurs between relatively similar tasks or contexts. Far transfer requires application of learning across more dissimilar situations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Near Transfer", "Far Transfer", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0069",
+  "question": "A student generates ten possible solutions to the problem of reducing plastic waste in the school. This cognitive process most directly reflects:",
+  "options": {
+    "A": "Convergent thinking",
+    "B": "Perceptual constancy",
+    "C": "Deductive closure",
+    "D": "Divergent thinking"
+  },
+  "correctAnswer": "D",
+  "explanation": "Divergent thinking involves generating multiple possible ideas, alternatives or solutions rather than seeking one predetermined response.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Divergent Thinking", "Thinking", "Problem Solving"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0070",
+  "question": "After generating many possible solutions, the student evaluates them against cost, feasibility and effectiveness and selects the single best option. This stage primarily involves:",
+  "options": {
+    "A": "Sensory adaptation",
+    "B": "Convergent thinking",
+    "C": "Functional fixedness",
+    "D": "Involuntary attention"
+  },
+  "correctAnswer": "B",
+  "explanation": "Convergent thinking involves narrowing alternatives and selecting the most appropriate or correct response according to relevant criteria.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Convergent Thinking", "Decision Making", "Problem Solving"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0071",
+  "question": "Which statement about divergent and convergent thinking is most appropriate?",
+  "options": {
+    "A": "Effective complex problem-solving may involve generating alternatives divergently and later evaluating them convergently",
+    "B": "Only divergent thinking has educational value",
+    "C": "Convergent thinking means accepting the first idea",
+    "D": "The two processes can never occur within the same problem"
+  },
+  "correctAnswer": "A",
+  "explanation": "Many complex problems benefit first from generation of multiple possibilities and later from systematic evaluation and selection among those possibilities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Divergent Thinking", "Convergent Thinking", "Problem Solving"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0072",
+  "question": "A teacher asks, 'What are all the possible explanations for this result?' and later asks, 'Which explanation is best supported by the evidence?' Which sequence of thinking is being encouraged?",
+  "options": {
+    "A": "Convergent followed by divergent",
+    "B": "Rote followed by sensory",
+    "C": "Divergent followed by convergent",
+    "D": "Perceptual followed by reflexive"
+  },
+  "correctAnswer": "C",
+  "explanation": "The first question invites multiple possible explanations, indicating divergent thinking. The second requires evidence-based selection, indicating convergent thinking.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Divergent Thinking", "Convergent Thinking", "Teacher Questioning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0073",
+  "question": "A Dy.E.O. finds that students can correctly solve textbook problems but fail when the same principles appear in unfamiliar real-life situations. Which instructional weakness is most likely?",
+  "options": {
+    "A": "Students possess too much metacognitive knowledge",
+    "B": "Students have excessive perceptual constancy",
+    "C": "Students are engaging in too much divergent thinking",
+    "D": "Instruction may have insufficiently developed flexible transfer of underlying knowledge"
+  },
+  "correctAnswer": "D",
+  "explanation": "Success only on familiar textbook forms may indicate context-bound learning. Flexible transfer requires recognising underlying principles across new situations.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Transfer of Learning", "Problem Solving", "School Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0074",
+  "question": "A Dy.E.O. observes that teachers present concepts only through definitions and never use examples, non-examples, classification or comparison. Which recommendation is most appropriate?",
+  "options": {
+    "A": "Continue because verbal definitions alone guarantee conceptual understanding",
+    "B": "Reduce opportunities for students to classify information",
+    "C": "Use varied examples and non-examples and ask learners to identify and justify defining attributes",
+    "D": "Avoid checking misconceptions"
+  },
+  "correctAnswer": "C",
+  "explanation": "Conceptual understanding is strengthened when learners distinguish examples from non-examples, identify defining attributes and explain category membership.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Concept Formation", "Concept Attainment", "Classroom Observation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0075",
+  "question": "During inspection, a Dy.E.O. observes a classroom in which students activate prior knowledge, classify examples, generate hypotheses, solve unfamiliar problems, explain reasoning, monitor their strategies and apply principles to new contexts. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The classroom is primarily promoting rote reproduction",
+    "B": "Only perceptual development is occurring",
+    "C": "The activities interfere with cognition",
+    "D": "The classroom is supporting interconnected higher cognitive and metacognitive processes"
+  },
+  "correctAnswer": "D",
+  "explanation": "The activities involve prior knowledge, concept formation, hypothesis testing, reasoning, problem-solving, transfer and metacognitive monitoring, all central to advanced cognitive learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Higher Order Thinking", "Metacognition", "Holistic Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0076",
+  "question": "Which statement best describes executive control in cognition?",
+  "options": {
+    "A": "The regulation and coordination of processes such as attention, planning, inhibition and strategy use",
+    "B": "Only the storage of factual information",
+    "C": "A reflex response that requires no conscious control",
+    "D": "A perceptual principle concerned only with visual grouping"
+  },
+  "correctAnswer": "A",
+  "explanation": "Executive control refers to higher-order regulation of cognitive activity, including planning, attentional control, inhibition, monitoring and flexible strategy use.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Executive Control", "Cognition", "Self Regulation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0077",
+  "question": "A learner begins solving a problem using one strategy, notices that it is failing and deliberately switches to another approach. Which cognitive ability is most clearly demonstrated?",
+  "options": {
+    "A": "Perceptual constancy",
+    "B": "Cognitive flexibility",
+    "C": "Functional fixedness",
+    "D": "Sensory adaptation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Cognitive flexibility involves shifting strategies, perspectives or approaches when current methods are ineffective or when task demands change.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Cognitive Flexibility", "Problem Solving", "Executive Function"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0078",
+  "question": "The ability to suppress an impulsive but inappropriate response in order to carry out a goal-directed action is most closely related to:",
+  "options": {
+    "A": "Perceptual closure",
+    "B": "Inductive reasoning",
+    "C": "Inhibitory control",
+    "D": "Semantic encoding"
+  },
+  "correctAnswer": "C",
+  "explanation": "Inhibitory control is an executive function that allows an individual to resist automatic or impulsive responses when they interfere with a goal.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Inhibitory Control", "Executive Function", "Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0079",
+  "question": "Which learner demonstrates the strongest executive control?",
+  "options": {
+    "A": "A learner who always uses the first strategy that comes to mind",
+    "B": "A learner who ignores task goals when distracted",
+    "C": "A learner who responds impulsively without checking answers",
+    "D": "A learner who plans, resists distractions, monitors progress and changes strategy when necessary"
+  },
+  "correctAnswer": "D",
+  "explanation": "Executive control involves planning, attentional regulation, inhibition, monitoring and flexible adjustment of behaviour toward goals.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Executive Function", "Planning", "Monitoring", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0080",
+  "question": "Assertion A: Cognitive flexibility is important in complex problem-solving. Reason R: Effective problem solvers may need to abandon an ineffective representation or strategy and adopt a different one. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Complex problems often require restructuring or changing strategies. Cognitive flexibility allows the learner to move beyond ineffective approaches.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Cognitive Flexibility", "Problem Solving", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0081",
+  "question": "A student reads a difficult paragraph and mistakenly believes it has been understood simply because all the words look familiar. Which metacognitive error is most directly involved?",
+  "options": {
+    "A": "Functional fixedness",
+    "B": "Overestimation of comprehension",
+    "C": "Perceptual constancy",
+    "D": "Negative transfer"
+  },
+  "correctAnswer": "B",
+  "explanation": "Learners may confuse familiarity with genuine understanding. Accurate metacognitive monitoring requires testing whether information can be explained, recalled or applied.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Metacognition", "Monitoring", "Comprehension", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0082",
+  "question": "Which strategy would most directly improve the accuracy of a learner's judgement of understanding?",
+  "options": {
+    "A": "Repeatedly reread the same paragraph without testing oneself",
+    "B": "Judge learning only from how familiar the page appears",
+    "C": "Close the book and attempt to explain or retrieve the material independently",
+    "D": "Avoid checking understanding until the examination"
+  },
+  "correctAnswer": "C",
+  "explanation": "Retrieval or explanation without access to the material provides stronger evidence of actual learning than familiarity created by repeated rereading.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Metacognition", "Self Testing", "Monitoring Accuracy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0083",
+  "question": "A learner knows what summarising is and knows how to summarise but does not recognise that summarising would be useful for a particular difficult chapter. Which kind of knowledge is most deficient?",
+  "options": {
+    "A": "Declarative knowledge",
+    "B": "Procedural knowledge",
+    "C": "Sensory knowledge",
+    "D": "Conditional metacognitive knowledge"
+  },
+  "correctAnswer": "D",
+  "explanation": "Conditional knowledge concerns knowing when and why a particular strategy is appropriate. The learner knows the strategy and how to perform it but not when to use it.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Metacognition", "Conditional Knowledge", "Learning Strategies"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0084",
+  "question": "Which statement best distinguishes declarative, procedural and conditional metacognitive knowledge?",
+  "options": {
+    "A": "Declarative is knowing what; procedural is knowing how; conditional is knowing when and why",
+    "B": "Declarative is knowing how; procedural is knowing why; conditional is knowing what",
+    "C": "All three refer only to sensory processing",
+    "D": "There is no meaningful distinction among them"
+  },
+  "correctAnswer": "A",
+  "explanation": "Declarative knowledge concerns what one knows, procedural knowledge concerns how to perform strategies, and conditional knowledge concerns when and why to use them.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Metacognition", "Declarative Knowledge", "Procedural Knowledge", "Conditional Knowledge"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0085",
+  "question": "Which statement best describes analogical reasoning?",
+  "options": {
+    "A": "Applying an identical memorised answer without considering relationships",
+    "B": "Using structural similarities between a familiar situation and a new problem to support reasoning",
+    "C": "Ignoring previous knowledge completely",
+    "D": "Judging probability only from vivid examples"
+  },
+  "correctAnswer": "B",
+  "explanation": "Analogical reasoning involves identifying relevant relational similarities between a known situation and a new one and using those similarities to guide inference or problem-solving.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Analogical Reasoning", "Reasoning", "Transfer"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0086",
+  "question": "A teacher explains electrical current by comparing it with the flow of water through pipes. Which cognitive mechanism is being used most directly?",
+  "options": {
+    "A": "Functional fixedness",
+    "B": "Confirmation bias",
+    "C": "Analogical reasoning",
+    "D": "Perceptual closure"
+  },
+  "correctAnswer": "C",
+  "explanation": "The teacher maps relationships from a familiar domain, water flow, onto a less familiar domain, electric current, which is a form of analogical reasoning.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Analogical Reasoning", "Teaching", "Transfer", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0087",
+  "question": "Which caution is most important when using analogies in teaching?",
+  "options": {
+    "A": "Analogies should never be used",
+    "B": "Students should memorise analogies without examining them",
+    "C": "Every feature of the familiar example must correspond perfectly",
+    "D": "Teachers should clarify where the analogy is useful and where the correspondence breaks down"
+  },
+  "correctAnswer": "D",
+  "explanation": "Analogies can support understanding but may also create misconceptions if learners assume that all characteristics of the familiar domain apply to the target concept.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Analogy", "Misconception", "Educational Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0088",
+  "question": "Which statement best distinguishes an inference from an observation?",
+  "options": {
+    "A": "An observation records or identifies available evidence, whereas an inference goes beyond that evidence to propose an interpretation or conclusion",
+    "B": "An observation always requires deductive proof",
+    "C": "An inference contains no reasoning",
+    "D": "Observation and inference are identical"
+  },
+  "correctAnswer": "A",
+  "explanation": "Observations concern information that is directly available, while inferences use evidence to derive interpretations or conclusions beyond what is directly observed.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inference", "Observation", "Critical Thinking"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0089",
+  "question": "A teacher says, 'Ravi looked out of the window three times during the lesson, therefore he is not interested in learning.' Which part of the statement is an inference rather than a direct observation?",
+  "options": {
+    "A": "Ravi was present in the classroom",
+    "B": "Ravi is not interested in learning",
+    "C": "Ravi looked toward the window",
+    "D": "The behaviour occurred during the lesson"
+  },
+  "correctAnswer": "B",
+  "explanation": "The observed behaviour is looking out of the window. The conclusion about lack of interest is an interpretation that goes beyond direct observation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Inference", "Observation", "Teacher Judgement", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0090",
+  "question": "Which practice best promotes evidence-based reasoning among students?",
+  "options": {
+    "A": "Accept conclusions based on confidence alone",
+    "B": "Discourage questioning of claims",
+    "C": "Require students to link conclusions explicitly to relevant evidence and consider competing explanations",
+    "D": "Reward only the speed of answering"
+  },
+  "correctAnswer": "C",
+  "explanation": "Evidence-based reasoning requires learners to justify conclusions using relevant evidence and to consider whether alternative explanations fit the evidence better.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Evidence Based Reasoning", "Critical Thinking", "Classroom Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0091",
+  "question": "A person continues investing resources in an unsuccessful plan mainly because substantial time and money have already been invested in it. Which reasoning error is most closely involved?",
+  "options": {
+    "A": "Shape constancy",
+    "B": "Concept attainment",
+    "C": "Inductive validity",
+    "D": "Sunk-cost bias"
+  },
+  "correctAnswer": "D",
+  "explanation": "Sunk-cost bias occurs when past irreversible investments improperly influence current decisions, even though those costs cannot be recovered.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Sunk Cost Bias", "Decision Making", "Cognitive Bias"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0092",
+  "question": "A school has used an ineffective intervention for two years. Administrators argue that it must continue only because so much money has already been spent on it. Which response best demonstrates sound reasoning?",
+  "options": {
+    "A": "Evaluate future costs and expected benefits rather than allowing unrecoverable past expenditure to determine the decision",
+    "B": "Continue indefinitely because stopping would erase past expenditure",
+    "C": "Ignore evidence of effectiveness",
+    "D": "Choose the most expensive alternative automatically"
+  },
+  "correctAnswer": "A",
+  "explanation": "Sound decision-making should focus on future consequences and available alternatives. Irrecoverable past costs should not by themselves determine whether a programme continues.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Sunk Cost Bias", "Decision Making", "School Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0093",
+  "question": "Which combination most strongly characterises a reflective thinker? 1. Examines evidence. 2. Monitors one's own reasoning. 3. Considers alternatives. 4. Revises conclusions when evidence changes.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2, 3 and 4",
+    "C": "2 and 4 only",
+    "D": "1, 3 and 4 only"
+  },
+  "correctAnswer": "B",
+  "explanation": "Reflective thinking includes evidence evaluation, metacognitive monitoring, consideration of alternatives and willingness to revise conclusions when warranted.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Reflective Thinking", "Critical Thinking", "Metacognition", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0094",
+  "question": "Assertion A: Expertise can sometimes improve problem-solving efficiency but can also create blind spots. Reason R: Experts possess organised domain knowledge but may occasionally become constrained by familiar representations or strategies. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "Both A and R are true and R is the correct explanation of A",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "C",
+  "explanation": "Expert knowledge usually supports efficient pattern recognition and strategy selection, but prior expertise can sometimes create rigid expectations or mental sets.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Expertise", "Problem Solving", "Mental Set", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0095",
+  "question": "Which classroom task best assesses transfer rather than simple reproduction?",
+  "options": {
+    "A": "Copy the solved example exactly",
+    "B": "Repeat the definition as written in the textbook",
+    "C": "Answer the same problem with only the numbers changed",
+    "D": "Apply the underlying principle to a new and unfamiliar real-life situation"
+  },
+  "correctAnswer": "D",
+  "explanation": "Transfer is demonstrated when learners recognise and apply underlying knowledge or principles in situations that differ meaningfully from the original learning context.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Transfer of Learning", "Assessment", "Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0096",
+  "question": "A Dy.E.O. observes that students can state definitions of critical thinking but accept unsupported claims without asking for evidence. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Declarative knowledge of critical thinking has not yet transferred into actual reasoning practice",
+    "B": "The students have fully mastered critical thinking",
+    "C": "Evidence evaluation is unrelated to cognition",
+    "D": "Definitions alone guarantee cognitive competence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Knowing a definition does not guarantee that a learner can apply the process. Genuine competence requires transfer of knowledge into evidence evaluation and reasoning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Critical Thinking", "Transfer", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0097",
+  "question": "A Dy.E.O. wants teachers to develop students' metacognition. Which practice is most appropriate?",
+  "options": {
+    "A": "Ask students only whether an answer is right or wrong",
+    "B": "Require learners to explain how they approached tasks, monitor understanding and evaluate strategy effectiveness",
+    "C": "Discourage reflection because it reduces teaching time",
+    "D": "Provide every solution before students attempt the task"
+  },
+  "correctAnswer": "B",
+  "explanation": "Metacognitive instruction makes thinking processes explicit and encourages planning, monitoring and evaluation of strategies.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Metacognition", "Teacher Practice"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0098",
+  "question": "A Dy.E.O. notices that school leaders select interventions mainly from vivid individual success stories while ignoring larger systematic evidence. Which cognitive tendency should be addressed?",
+  "options": {
+    "A": "Concept attainment",
+    "B": "Deductive reasoning",
+    "C": "Overreliance on availability when judging effectiveness",
+    "D": "Perceptual closure"
+  },
+  "correctAnswer": "C",
+  "explanation": "Vivid and easily recalled examples can disproportionately influence judgement. Systematic evidence should be weighed more heavily than anecdotal availability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Availability Heuristic", "Decision Making", "Evidence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0099",
+  "question": "A Dy.E.O. is evaluating a school that claims to promote higher-order cognition. Which evidence would be strongest? 1. Students justify conclusions. 2. Students compare alternative solutions. 3. Students monitor their own reasoning. 4. Students transfer principles to unfamiliar situations.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Higher-order cognition is demonstrated through reasoning, comparison of alternatives, metacognitive monitoring and flexible transfer rather than recall alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Higher Order Cognition", "Statement Based", "School Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "EP-COG-0100",
+  "question": "A district wants one comprehensive principle for strengthening cognition in schools. Which approach is most appropriate?",
+  "options": {
+    "A": "Focus primarily on memorising definitions of cognitive processes",
+    "B": "Teach one fixed strategy for every problem",
+    "C": "Develop attention, meaningful perception, concept formation, reasoning, flexible problem-solving, evidence-based decision-making, transfer and metacognitive regulation",
+    "D": "Separate thinking entirely from classroom learning"
+  },
+  "correctAnswer": "C",
+  "explanation": "A comprehensive cognitive-development approach should address multiple interconnected processes, including attention, perception, conceptual understanding, reasoning, problem-solving, transfer, decision-making and metacognition.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Cognition", "Comprehensive", "Educational Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}

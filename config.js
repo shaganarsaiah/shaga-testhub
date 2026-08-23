@@ -4,15 +4,19 @@ const repository = {
 
         "Educational Psychology": [
             "Growth and Development",
+            "Developmental Domains",
             "Learning",
             "Memory",
+            "Cognition",
             "Motivation",
             "Intelligence",
             "Personality & Adjustment",
+            "Understanding Self",
             "Creativity & Thinking",
             "Psychological Testing",
             "Individual Differences",
-            "Guidance and Counselling"
+            "Guidance and Counselling",
+            "Exceptional Children and Children with Disabilities"
         ],
 
         "Educational Philosophy": [

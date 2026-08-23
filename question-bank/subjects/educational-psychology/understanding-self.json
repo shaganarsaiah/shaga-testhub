@@ -1,0 +1,2419 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "unit": "Personality and Cognition",
+    "chapter": "Personality and Understanding Self",
+    "topic": "Understanding Self",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed - Difficult to Very Difficult",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "Understanding Self",
+    "marksPerQuestion": 1,
+    "negativeMarking": false,
+    "questionStandard": "SHAGA GOLD"
+  },
+  "questions": [ 
+    {
+  "id": "FOE-US-0001",
+  "question": "Which statement best defines self-concept?",
+  "options": {
+    "A": "Only a person's physical appearance",
+    "B": "A person's organised perception and understanding of oneself",
+    "C": "Only academic achievement",
+    "D": "A fixed trait determined entirely at birth"
+  },
+  "correctAnswer": "B",
+  "explanation": "Self-concept refers to the organised set of beliefs and perceptions individuals hold about themselves across different domains.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Self Concept", "Understanding Self", "Educational Psychology"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0002",
+  "question": "Which statement best distinguishes self-concept from self-esteem?",
+  "options": {
+    "A": "Self-concept and self-esteem are completely identical",
+    "B": "Self-esteem concerns only intelligence",
+    "C": "Self-concept concerns only emotions",
+    "D": "Self-concept concerns beliefs about oneself, while self-esteem concerns evaluative feelings of worth about oneself"
+  },
+  "correctAnswer": "D",
+  "explanation": "Self-concept is mainly descriptive, while self-esteem is more evaluative and concerns how positively or negatively a person values oneself.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Concept", "Self Esteem", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0003",
+  "question": "A student says, 'I am good at languages but weak in mathematics.' This statement most directly reflects:",
+  "options": {
+    "A": "Academic self-concept",
+    "B": "Physical self-concept only",
+    "C": "Moral development",
+    "D": "Sensory memory"
+  },
+  "correctAnswer": "A",
+  "explanation": "Academic self-concept refers to beliefs about one's competence in school subjects or academic domains.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Academic Self Concept", "Self Concept", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0004",
+  "question": "Assertion A: Self-concept is multidimensional. Reason R: A person can hold different perceptions of self in academic, social, physical and emotional domains. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true and R is the correct explanation of A",
+    "D": "Both A and R are true but R is not the correct explanation of A"
+  },
+  "correctAnswer": "C",
+  "explanation": "Self-concept is not a single undifferentiated belief. Individuals may evaluate themselves differently across multiple domains.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Concept", "Multidimensional Self", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0005",
+  "question": "A learner performs poorly in one examination and concludes, 'I am a failure in everything.' Which cognitive tendency most directly contributes to an unhealthy self-concept?",
+  "options": {
+    "A": "Balanced self-reflection",
+    "B": "Overgeneralisation from a specific failure",
+    "C": "Accurate self-assessment",
+    "D": "Task-specific self-efficacy"
+  },
+  "correctAnswer": "B",
+  "explanation": "Generalising one setback to the whole self can distort self-concept and undermine confidence across unrelated domains.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Concept", "Overgeneralisation", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0006",
+  "question": "Self-esteem is best described as:",
+  "options": {
+    "A": "Only one's examination marks",
+    "B": "A measure of intelligence",
+    "C": "A purely inherited characteristic",
+    "D": "The evaluative dimension of the self involving feelings of personal worth"
+  },
+  "correctAnswer": "D",
+  "explanation": "Self-esteem concerns the degree to which a person values and accepts oneself.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Self Esteem", "Understanding Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0007",
+  "question": "Which teacher behaviour is most likely to support healthy self-esteem?",
+  "options": {
+    "A": "Giving realistic encouragement and separating the learner's worth from a single performance",
+    "B": "Publicly humiliating the learner after mistakes",
+    "C": "Using fixed negative labels",
+    "D": "Comparing every learner constantly with the top scorer"
+  },
+  "correctAnswer": "A",
+  "explanation": "Constructive feedback that recognises effort and growth without equating mistakes with personal worth supports healthier self-esteem.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Self Esteem", "Teacher Behaviour", "Educational Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0008",
+  "question": "A learner receives repeated praise for effort, improvement and effective strategy rather than only for being 'naturally brilliant.' Which outcome is most likely?",
+  "options": {
+    "A": "A fixed belief that ability cannot change",
+    "B": "Lower self-awareness",
+    "C": "A more adaptive self-view linked to controllable effort and strategy",
+    "D": "Loss of motivation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Feedback focused on effort, strategy and growth can support a more adaptive sense of competence and personal control.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Self Esteem", "Feedback", "Motivation", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0009",
+  "question": "Which concept refers to one's belief about the ability to organise and execute actions needed to succeed in a specific task?",
+  "options": {
+    "A": "Self-esteem",
+    "B": "Self-concept",
+    "C": "Self-disclosure",
+    "D": "Self-efficacy"
+  },
+  "correctAnswer": "D",
+  "explanation": "Self-efficacy refers to beliefs about one's capacity to perform the actions required for a particular task or situation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Self Efficacy", "Bandura", "Understanding Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0010",
+  "question": "Self-efficacy is most strongly associated with which psychologist?",
+  "options": {
+    "A": "Ivan Pavlov",
+    "B": "Albert Bandura",
+    "C": "Sigmund Freud",
+    "D": "Jean Piaget"
+  },
+  "correctAnswer": "B",
+  "explanation": "Albert Bandura developed the concept of self-efficacy within social cognitive theory.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Self Efficacy", "Bandura", "Thinker"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0011",
+  "question": "A student says, 'I may not be the best in the class, but I am confident that I can solve these algebra problems if I work carefully.' This statement most directly reflects:",
+  "options": {
+    "A": "Global self-esteem only",
+    "B": "Low self-awareness",
+    "C": "High task-specific self-efficacy",
+    "D": "External locus of control"
+  },
+  "correctAnswer": "C",
+  "explanation": "The student's judgement concerns confidence in performing a specific academic task, which is the core of self-efficacy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Efficacy", "Academic Self", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0012",
+  "question": "Which source generally provides the strongest foundation for self-efficacy according to Bandura?",
+  "options": {
+    "A": "Successful mastery experiences",
+    "B": "Random praise without evidence",
+    "C": "Punishment",
+    "D": "Social comparison alone"
+  },
+  "correctAnswer": "A",
+  "explanation": "Mastery experiences are generally the most powerful source of self-efficacy because successful performance provides direct evidence of competence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Self Efficacy", "Mastery Experience", "Bandura"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0013",
+  "question": "A learner gains confidence after observing a similar classmate successfully perform a difficult activity. Which source of self-efficacy is illustrated?",
+  "options": {
+    "A": "Mastery experience",
+    "B": "Punishment",
+    "C": "Classical conditioning",
+    "D": "Vicarious experience"
+  },
+  "correctAnswer": "D",
+  "explanation": "Observing a similar person succeed can strengthen beliefs that one may also be capable of succeeding. Bandura described this as vicarious experience.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Efficacy", "Vicarious Experience", "Bandura"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0014",
+  "question": "Assertion A: High self-esteem and high self-efficacy are not necessarily identical. Reason R: A person may value oneself generally but still feel ineffective in a particular task. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "Both A and R are true and R is the correct explanation of A",
+    "C": "A is false but R is true",
+    "D": "Both A and R are true but R is not the correct explanation of A"
+  },
+  "correctAnswer": "B",
+  "explanation": "Self-esteem is a broader evaluation of self-worth, whereas self-efficacy concerns perceived capability in specific domains or tasks.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Esteem", "Self Efficacy", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0015",
+  "question": "Which concept refers to the capacity to recognise one's own thoughts, emotions, strengths, limitations and behavioural patterns?",
+  "options": {
+    "A": "Self-effacement",
+    "B": "Projection",
+    "C": "Self-awareness",
+    "D": "Conditioning"
+  },
+  "correctAnswer": "C",
+  "explanation": "Self-awareness involves conscious understanding of one's internal states, strengths, limitations, motives and patterns of behaviour.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Self Awareness", "Understanding Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0016",
+  "question": "A student realises, 'I become anxious when I am unprepared, and then I rush through the test.' Which aspect of understanding self is most clearly demonstrated?",
+  "options": {
+    "A": "Self-awareness",
+    "B": "Self-deception",
+    "C": "External control",
+    "D": "Social conformity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Recognising a recurring link among one's preparation, anxiety and behaviour demonstrates self-awareness.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Awareness", "Metacognition", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0017",
+  "question": "Which classroom activity most directly promotes self-awareness?",
+  "options": {
+    "A": "Only copying notes",
+    "B": "Avoiding all feedback",
+    "C": "Public ranking without reflection",
+    "D": "Structured reflection on strengths, difficulties, emotions and learning strategies"
+  },
+  "correctAnswer": "D",
+  "explanation": "Reflection helps learners become more conscious of their strengths, difficulties, strategies, emotions and patterns of behaviour.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Self Awareness", "Reflection", "Educational Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0018",
+  "question": "In Carl Rogers' theory, the 'real self' is best understood as:",
+  "options": {
+    "A": "Only the person others want one to become",
+    "B": "The person's perception of who he or she currently is",
+    "C": "A purely unconscious instinct",
+    "D": "A fixed biological trait"
+  },
+  "correctAnswer": "B",
+  "explanation": "The real self refers to the person's perception of the actual self, whereas the ideal self refers to the person one would like to become.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Carl Rogers", "Real Self", "Ideal Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0019",
+  "question": "According to Rogers, a large discrepancy between the real self and ideal self is most closely associated with:",
+  "options": {
+    "A": "Conservation",
+    "B": "Object permanence",
+    "C": "Incongruence",
+    "D": "Classical conditioning"
+  },
+  "correctAnswer": "C",
+  "explanation": "Rogers used the concept of incongruence to describe discrepancy between self-experience and the ideal or perceived self.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Carl Rogers", "Incongruence", "Real Self", "Ideal Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0020",
+  "question": "A learner believes, 'Unless I get the highest rank, I am worthless.' Which concept is most relevant from a Rogers-oriented perspective?",
+  "options": {
+    "A": "Conditions of worth",
+    "B": "Object permanence",
+    "C": "Self-efficacy",
+    "D": "Reflex development"
+  },
+  "correctAnswer": "A",
+  "explanation": "Conditions of worth occur when individuals feel valued only when they meet particular externally imposed standards.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Carl Rogers", "Conditions of Worth", "Self Esteem", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0021",
+  "question": "Which school climate is most consistent with Rogers' concept of unconditional positive regard?",
+  "options": {
+    "A": "A climate where worth depends entirely on rank",
+    "B": "A climate based on humiliation after failure",
+    "C": "A climate where acceptance is withdrawn after mistakes",
+    "D": "A climate where learners are respected as persons even when their behaviour or performance requires correction"
+  },
+  "correctAnswer": "D",
+  "explanation": "Unconditional positive regard involves valuing the person without making basic acceptance dependent on meeting specific performance conditions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Carl Rogers", "Unconditional Positive Regard", "School Climate"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0022",
+  "question": "Which concept refers to the process through which an individual deliberately manages thoughts, emotions and behaviour in pursuit of goals?",
+  "options": {
+    "A": "Projection",
+    "B": "Self-regulation",
+    "C": "Regression",
+    "D": "Sensation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Self-regulation involves setting goals, monitoring progress, controlling impulses and adjusting behaviour and strategies to achieve desired outcomes.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Self Regulation", "Understanding Self", "Goal Directed Behaviour"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0023",
+  "question": "A student sets a study goal, monitors progress weekly and changes the strategy when the results are poor. This most directly illustrates:",
+  "options": {
+    "A": "Learned helplessness",
+    "B": "External locus of control",
+    "C": "Self-regulation",
+    "D": "Fixed self-concept"
+  },
+  "correctAnswer": "C",
+  "explanation": "Goal-setting, self-monitoring and strategic adjustment are core processes of effective self-regulation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Regulation", "Self Monitoring", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0024",
+  "question": "Consider the following characteristics of effective self-regulation: 1. Goal setting. 2. Monitoring one's progress. 3. Adjusting strategies when necessary. 4. Depending entirely on external control. Which are correct?",
+  "options": {
+    "A": "1, 2 and 3 only",
+    "B": "1 and 2 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "A",
+  "explanation": "Effective self-regulation involves goal setting, self-monitoring and strategic adjustment. Complete dependence on external control is inconsistent with autonomous self-regulation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Regulation", "Goal Setting", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0025",
+  "question": "A Dy.E.O. finds that a school focuses only on examination marks and gives students almost no opportunity to reflect on strengths, limitations, goals or learning strategies. Which recommendation is most appropriate?",
+  "options": {
+    "A": "Use public ranking as the primary method of self-understanding",
+    "B": "Avoid all discussion of the self because it is unrelated to education",
+    "C": "Teach students that ability is permanently fixed",
+    "D": "Include structured opportunities for self-awareness, realistic self-concept, self-efficacy and self-regulation alongside academic instruction"
+  },
+  "correctAnswer": "D",
+  "explanation": "Understanding self has direct educational significance. Reflection, realistic feedback, confidence based on mastery and self-regulatory skills can support learning, adjustment and responsible decision-making.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Understanding Self", "Self Regulation", "School Leadership"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0026",
+  "question": "The concept of locus of control is most strongly associated with:",
+  "options": {
+    "A": "Carl Rogers",
+    "B": "Julian B. Rotter",
+    "C": "Jean Piaget",
+    "D": "Abraham Maslow"
+  },
+  "correctAnswer": "B",
+  "explanation": "Julian B. Rotter introduced locus of control within the framework of social learning theory. It concerns generalized expectations about whether outcomes are contingent on one's own behaviour or on external forces.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Locus of Control", "Rotter", "Understanding Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0027",
+  "question": "A student says, 'My achievement largely depends on how effectively I prepare and use appropriate learning strategies.' This statement most clearly indicates:",
+  "options": {
+    "A": "External locus of control",
+    "B": "Learned helplessness",
+    "C": "Low self-awareness",
+    "D": "Internal locus of control"
+  },
+  "correctAnswer": "D",
+  "explanation": "An internal locus of control involves a generalized tendency to perceive outcomes as substantially related to one's own actions or behaviour.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Locus of Control", "Internal Locus", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0028",
+  "question": "Which statement most clearly reflects an external locus of control?",
+  "options": {
+    "A": "Whatever I do, my results are mainly controlled by luck and forces outside me",
+    "B": "Changing my strategy may improve my performance",
+    "C": "My preparation can influence my examination result",
+    "D": "I can improve through deliberate practice"
+  },
+  "correctAnswer": "A",
+  "explanation": "External locus of control involves perceiving outcomes as substantially determined by external factors such as luck, fate, chance or powerful others.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Locus of Control", "External Locus", "Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0029",
+  "question": "Which statement about locus of control is the most defensible educational interpretation?",
+  "options": {
+    "A": "Internal locus of control means believing that every event in life is completely controllable",
+    "B": "External locus of control always indicates a psychological disorder",
+    "C": "Learners differ in generalized expectations about the extent to which outcomes are related to their own actions or external forces",
+    "D": "Locus of control is identical to intelligence"
+  },
+  "correctAnswer": "C",
+  "explanation": "Locus of control concerns generalized expectations of control. Internal control does not mean that a person believes every event is personally controllable, nor is external control necessarily pathological.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Locus of Control", "Conceptual Understanding", "Educational Psychology"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0030",
+  "question": "A teacher wants to strengthen students' realistic sense of personal control over learning. Which practice is most appropriate?",
+  "options": {
+    "A": "Attribute every success to luck",
+    "B": "Help students connect effective effort and strategy with outcomes while recognising genuinely uncontrollable factors",
+    "C": "Tell students that failure always proves lack of ability",
+    "D": "Make all important decisions for students"
+  },
+  "correctAnswer": "B",
+  "explanation": "Students benefit from recognising meaningful connections between controllable factors such as strategy, preparation and persistence and their learning outcomes, without pretending that all outcomes are controllable.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Locus of Control", "Teacher Role", "Educational Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0031",
+  "question": "Attribution theory in achievement settings is primarily concerned with:",
+  "options": {
+    "A": "The causes individuals assign to success and failure",
+    "B": "Only the measurement of intelligence",
+    "C": "The biological stages of maturation",
+    "D": "The structure of sensory memory"
+  },
+  "correctAnswer": "A",
+  "explanation": "Attribution approaches examine how people explain outcomes such as success and failure and how those explanations affect emotion, expectation and future behaviour.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Attribution", "Achievement", "Understanding Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0032",
+  "question": "Bernard Weiner's attributional analysis commonly classifies perceived causes of achievement along which dimensions?",
+  "options": {
+    "A": "Assimilation, accommodation and equilibration",
+    "B": "Id, ego and superego",
+    "C": "Phonology, syntax and semantics",
+    "D": "Locus, stability and controllability"
+  },
+  "correctAnswer": "D",
+  "explanation": "Weiner's attribution theory analyses causes using dimensions including locus, stability and controllability, which have implications for expectations and achievement-related emotions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Weiner", "Attribution Theory", "Locus", "Stability", "Controllability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0033",
+  "question": "A learner fails a test and says, 'The study method I used was ineffective; I will change it before the next examination.' Which interpretation is most appropriate?",
+  "options": {
+    "A": "The learner attributes failure to an uncontrollable permanent cause",
+    "B": "The learner demonstrates learned helplessness",
+    "C": "The learner identifies a potentially controllable cause and plans adaptive change",
+    "D": "The learner demonstrates an external locus in every domain"
+  },
+  "correctAnswer": "C",
+  "explanation": "Attributing failure to an ineffective strategy can be adaptive when the learner views strategy as changeable and responds by selecting a more effective approach.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Attribution", "Strategy", "Adaptive Attribution", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0034",
+  "question": "A student repeatedly concludes, 'I fail because I am permanently incapable, and nothing I do can change it.' Which consequence is most likely if this attribution becomes persistent?",
+  "options": {
+    "A": "Greater persistence in every task",
+    "B": "Increased risk of helplessness and withdrawal of effort",
+    "C": "Automatic increase in self-efficacy",
+    "D": "Improved self-regulation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Repeatedly attributing failure to a stable and uncontrollable lack of ability can reduce expectations of future success and contribute to helplessness and disengagement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Attribution", "Learned Helplessness", "Failure", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0035",
+  "question": "Learned helplessness is most strongly associated with the work of:",
+  "options": {
+    "A": "Martin Seligman",
+    "B": "Jerome Bruner",
+    "C": "Lawrence Kohlberg",
+    "D": "Lev Vygotsky"
+  },
+  "correctAnswer": "A",
+  "explanation": "Martin Seligman and colleagues are strongly associated with research on learned helplessness, in which experience with uncontrollable outcomes can undermine later attempts to exercise control.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Learned Helplessness", "Seligman", "Thinker"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0036",
+  "question": "A child repeatedly experiences tasks far beyond the child's present level and receives only criticism after failure. Eventually, the child stops attempting even easier tasks that are within reach. This behaviour is most consistent with:",
+  "options": {
+    "A": "High self-efficacy",
+    "B": "Self-actualisation",
+    "C": "Learned helplessness",
+    "D": "Internalisation of mastery"
+  },
+  "correctAnswer": "C",
+  "explanation": "Repeated experiences interpreted as uncontrollable failure can reduce expectations that one's actions matter, leading to passivity even when later success is possible.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Learned Helplessness", "School Scenario", "Self Efficacy"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0037",
+  "question": "Which intervention is most appropriate for a learner showing helplessness after repeated academic failure?",
+  "options": {
+    "A": "Increase the difficulty immediately so that failure continues",
+    "B": "Tell the learner that ability can never change",
+    "C": "Remove all opportunities for independent performance",
+    "D": "Provide achievable challenges, strategy instruction, constructive feedback and opportunities for genuine mastery"
+  },
+  "correctAnswer": "D",
+  "explanation": "Structured opportunities for genuine success, combined with effective strategies and feedback linking progress to controllable actions, can help rebuild perceived competence and agency.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Learned Helplessness", "Intervention", "Mastery Experience", "Teacher Role"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0038",
+  "question": "Assertion A: Repeated failure does not inevitably produce learned helplessness in every learner. Reason R: The way learners interpret causes, controllability and future possibilities influences their response to failure. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "Both A and R are true and R is the correct explanation of A",
+    "C": "Both A and R are true but R is not the correct explanation of A",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "B",
+  "explanation": "Responses to failure depend partly on attributional interpretations. Learners who see causes as changeable or controllable may respond differently from those who perceive failure as permanent and uncontrollable.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Learned Helplessness", "Attribution", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0039",
+  "question": "Which statement best describes personal identity?",
+  "options": {
+    "A": "Only one's physical appearance",
+    "B": "Only one's school marks",
+    "C": "A developing sense of who one is, including commitments, values, roles and personal continuity",
+    "D": "A reflex present fully formed at birth"
+  },
+  "correctAnswer": "C",
+  "explanation": "Identity concerns a developing and organised sense of self involving values, roles, goals, commitments and continuity across experiences.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Identity", "Self", "Understanding Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0040",
+  "question": "In Erikson's psychosocial theory, the developmental conflict most closely associated with adolescence is:",
+  "options": {
+    "A": "Identity versus role confusion",
+    "B": "Trust versus mistrust",
+    "C": "Generativity versus stagnation",
+    "D": "Integrity versus despair"
+  },
+  "correctAnswer": "A",
+  "explanation": "Erikson identified identity versus role confusion as the central psychosocial conflict of adolescence, when individuals increasingly explore who they are and the roles and commitments they may adopt.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Erikson", "Identity", "Adolescence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0041",
+  "question": "An adolescent explores several career possibilities, questions previously accepted beliefs and reflects on personal values before making commitments. Which interpretation is most appropriate?",
+  "options": {
+    "A": "The learner necessarily lacks identity",
+    "B": "The learner is engaging in identity exploration",
+    "C": "The learner demonstrates sensory-memory failure",
+    "D": "The learner has completed all personality development"
+  },
+  "correctAnswer": "B",
+  "explanation": "Exploring alternatives in values, goals and roles is an important part of identity development, particularly during adolescence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Identity", "Adolescence", "Exploration", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0042",
+  "question": "Which school practice is most supportive of healthy identity development during adolescence?",
+  "options": {
+    "A": "Force every learner to adopt the same career aspiration",
+    "B": "Prevent students from questioning values or goals",
+    "C": "Label exploration as indiscipline",
+    "D": "Provide opportunities for exploration, reflection, responsible choice and guidance without prematurely imposing a fixed identity"
+  },
+  "correctAnswer": "D",
+  "explanation": "Adolescents benefit from opportunities to explore interests, roles, values and future possibilities while receiving appropriate guidance and support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Identity Development", "Adolescence", "School Role", "Guidance"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0043",
+  "question": "The term 'social self' most appropriately refers to:",
+  "options": {
+    "A": "Only one's biological characteristics",
+    "B": "Only one's private thoughts unrelated to others",
+    "C": "Aspects of self-understanding shaped by social relationships, roles, group memberships and perceptions of how one relates to others",
+    "D": "A measure of short-term memory"
+  },
+  "correctAnswer": "C",
+  "explanation": "The social self concerns aspects of identity and self-concept that develop in relation to interpersonal relationships, social roles, groups and social feedback.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Social Self", "Self Concept", "Social Interaction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0044",
+  "question": "A student begins to think of herself as 'poor at science' mainly after repeated unfavourable comparisons with exceptionally high-performing classmates, even though her own performance is satisfactory. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Social comparison can influence domain-specific self-concept",
+    "B": "Self-concept is unaffected by social context",
+    "C": "Only objective marks determine self-concept",
+    "D": "Academic self-concept cannot change"
+  },
+  "correctAnswer": "A",
+  "explanation": "Learners often evaluate their competence partly through social comparison. The comparison context can therefore influence academic self-concept even when objective achievement remains unchanged.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Comparison", "Academic Self Concept", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0045",
+  "question": "Which statement about academic self-concept and achievement is most appropriate?",
+  "options": {
+    "A": "Academic self-concept has no relationship with learning behaviour",
+    "B": "They may influence one another over time rather than operating in only one direction",
+    "C": "Achievement always determines self-concept completely",
+    "D": "Academic self-concept is identical across all subjects"
+  },
+  "correctAnswer": "B",
+  "explanation": "Academic achievement can influence learners' perceptions of competence, while academic self-concept can also influence motivation, engagement and subsequent achievement.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Academic Self Concept", "Achievement", "Reciprocal Relationship"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0046",
+  "question": "A learner says, 'I am usually strong in mathematics, but I am not yet confident about solving this new type of geometry problem.' Which distinction is best illustrated?",
+  "options": {
+    "A": "Self-esteem versus moral reasoning",
+    "B": "Identity versus role confusion",
+    "C": "A broader academic self-concept versus task-specific self-efficacy",
+    "D": "Internal versus external reinforcement"
+  },
+  "correctAnswer": "C",
+  "explanation": "The learner holds a relatively positive broader perception of mathematical competence while expressing lower confidence regarding a particular task. This distinguishes self-concept from task-specific self-efficacy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Academic Self Concept", "Self Efficacy", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0047",
+  "question": "Which combination is most characteristic of effective self-regulated learning? 1. Setting goals. 2. Monitoring performance. 3. Selecting and adjusting strategies. 4. Reflecting on outcomes.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "2 and 3 only",
+    "C": "1, 2 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Self-regulated learning involves purposeful goal setting, monitoring, strategy use and adaptation, followed by reflection on performance and outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Regulation", "Self Regulated Learning", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0048",
+  "question": "A student predicts that a chapter will be easy, later discovers poor understanding through self-testing and changes the study strategy. Which process is most clearly illustrated?",
+  "options": {
+    "A": "Self-monitoring followed by strategic regulation",
+    "B": "External locus of control",
+    "C": "Learned helplessness",
+    "D": "Unconditional positive regard"
+  },
+  "correctAnswer": "A",
+  "explanation": "The learner monitors actual understanding, detects a discrepancy and regulates subsequent learning by modifying the strategy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Monitoring", "Self Regulation", "Metacognition", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0049",
+  "question": "A Dy.E.O. notices that teachers routinely tell low-performing students, 'You are weak students and will always remain so.' Which consequence is the greatest developmental concern?",
+  "options": {
+    "A": "The labels will necessarily increase mastery experiences",
+    "B": "The practice will automatically improve internal locus of control",
+    "C": "Repeated fixed negative labelling may damage academic self-concept, self-efficacy and willingness to persist",
+    "D": "The labels have no possible relationship with students' self-perceptions"
+  },
+  "correctAnswer": "C",
+  "explanation": "Repeated negative labelling can become incorporated into learners' self-perceptions and expectations, potentially undermining competence beliefs, motivation and persistence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Self Concept", "Self Efficacy", "Teacher Expectations"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0050",
+  "question": "During a school inspection, a Dy.E.O. finds that students rarely set their own learning goals, evaluate their progress or reflect on causes of success and failure. Which intervention most directly addresses the deficiency?",
+  "options": {
+    "A": "Increase public ranking among students",
+    "B": "Introduce structured goal-setting, self-monitoring, reflective attribution and strategy-adjustment activities",
+    "C": "Make teachers perform all learning decisions for students",
+    "D": "Reduce opportunities for learner reflection"
+  },
+  "correctAnswer": "B",
+  "explanation": "Goal setting, monitoring, reflection on outcomes and strategic adjustment develop self-awareness and self-regulation and help learners understand their role in the learning process.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Self Regulation", "Attribution", "School Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0051",
+  "question": "Which statement best distinguishes self-awareness from self-concept?",
+  "options": {
+    "A": "Self-awareness concerns conscious recognition of one's present thoughts, feelings and behaviour, while self-concept is the broader organised set of beliefs about oneself",
+    "B": "Self-awareness and self-concept are completely identical",
+    "C": "Self-concept concerns only emotions",
+    "D": "Self-awareness refers only to academic marks"
+  },
+  "correctAnswer": "A",
+  "explanation": "Self-awareness is the immediate reflective recognition of one's internal states and behaviour, whereas self-concept is a broader organised structure of beliefs about oneself.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Awareness", "Self Concept", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0052",
+  "question": "A student says, 'I know that I avoid difficult tasks because I fear looking incompetent in front of others.' This statement most directly indicates:",
+  "options": {
+    "A": "External locus of control",
+    "B": "Self-awareness of one's behavioural motive",
+    "C": "High self-esteem necessarily",
+    "D": "Learned helplessness necessarily"
+  },
+  "correctAnswer": "B",
+  "explanation": "The student is consciously identifying a motive underlying a recurring pattern of behaviour, which is an important aspect of self-awareness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Awareness", "Motives", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0053",
+  "question": "Which situation best reflects realistic self-concept rather than either inflated or excessively negative self-perception?",
+  "options": {
+    "A": "A learner believes, 'I am excellent at everything.'",
+    "B": "A learner believes, 'I can do nothing well.'",
+    "C": "A learner recognises genuine strengths as well as areas requiring improvement",
+    "D": "A learner refuses all feedback"
+  },
+  "correctAnswer": "C",
+  "explanation": "A realistic self-concept involves reasonably accurate awareness of both strengths and limitations rather than global exaggeration in either direction.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Concept", "Realistic Self", "Self Awareness"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0054",
+  "question": "Assertion A: A positive self-concept should not be confused with an unrealistically favourable self-view. Reason R: Healthy self-understanding includes recognition of limitations as well as strengths. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true but R is not the correct explanation of A",
+    "D": "Both A and R are true and R is the correct explanation of A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Healthy self-concept is realistic rather than merely flattering. Accurate recognition of strengths and limitations supports adaptive self-understanding.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Concept", "Realistic Self", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0055",
+  "question": "Which statement about self-esteem is most appropriate?",
+  "options": {
+    "A": "Healthy self-esteem depends on always outperforming others",
+    "B": "Self-esteem concerns personal worth and need not depend entirely on one achievement domain",
+    "C": "Self-esteem and intelligence are identical",
+    "D": "Self-esteem cannot be influenced by social experience"
+  },
+  "correctAnswer": "B",
+  "explanation": "Self-esteem concerns evaluative feelings of self-worth and can be influenced by many experiences. It should not be reduced to rank or competence in one domain.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Esteem", "Self Worth", "Understanding Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0056",
+  "question": "A teacher praises every answer as 'excellent' even when the learner has made serious errors. Which criticism is most appropriate in relation to self-development?",
+  "options": {
+    "A": "Unrealistic praise may fail to provide the accurate feedback needed for genuine competence and realistic self-efficacy",
+    "B": "All praise necessarily lowers self-esteem",
+    "C": "Learners should never receive encouragement",
+    "D": "Self-efficacy develops independently of actual performance"
+  },
+  "correctAnswer": "A",
+  "explanation": "Encouragement is valuable, but self-efficacy is strengthened most effectively by credible feedback and real mastery rather than indiscriminate praise disconnected from performance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Self Efficacy", "Feedback", "Teacher Behaviour"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0057",
+  "question": "According to Bandura, which of the following is NOT one of the major sources of self-efficacy?",
+  "options": {
+    "A": "Mastery experiences",
+    "B": "Vicarious experiences",
+    "C": "Verbal persuasion",
+    "D": "Chronological age alone"
+  },
+  "correctAnswer": "D",
+  "explanation": "Bandura identified mastery experiences, vicarious experiences, verbal persuasion and interpretations of physiological or affective states as major sources of self-efficacy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Bandura", "Self Efficacy", "Sources"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0058",
+  "question": "A teacher tells a hesitant student, 'You have mastered similar problems before; try this one step by step.' Which source of self-efficacy is most directly represented by the teacher's message?",
+  "options": {
+    "A": "Verbal persuasion supported by reference to prior mastery",
+    "B": "Punishment",
+    "C": "External locus of control",
+    "D": "Learned helplessness"
+  },
+  "correctAnswer": "A",
+  "explanation": "Encouraging a learner by drawing attention to credible evidence of prior competence combines verbal persuasion with reminders of mastery experiences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Efficacy", "Verbal Persuasion", "Mastery", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0059",
+  "question": "A learner interprets a rapid heartbeat before an examination as proof that failure is certain. From a self-efficacy perspective, this best illustrates the influence of:",
+  "options": {
+    "A": "Social comparison only",
+    "B": "Interpretation of physiological and affective states",
+    "C": "Moral reasoning",
+    "D": "Object permanence"
+  },
+  "correctAnswer": "B",
+  "explanation": "People use physiological and emotional reactions as information when judging capability. Interpreting arousal as evidence of inability may reduce self-efficacy.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Efficacy", "Physiological State", "Anxiety"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0060",
+  "question": "Which relationship between self-efficacy and persistence is most consistent with Bandura's theory?",
+  "options": {
+    "A": "Higher perceived efficacy can increase willingness to persist when difficulties arise",
+    "B": "Self-efficacy has no relationship with persistence",
+    "C": "Low efficacy always improves persistence",
+    "D": "Persistence depends only on intelligence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Strong efficacy beliefs can encourage greater effort and persistence because learners expect their actions to have a reasonable chance of success.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Self Efficacy", "Persistence", "Bandura"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0061",
+  "question": "Consider the following: 1. Mastery experience. 2. Vicarious experience. 3. Verbal persuasion. 4. Physiological and emotional states. Which are recognised sources of self-efficacy?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Bandura identified all four as major sources from which efficacy beliefs are developed and modified.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Efficacy", "Bandura", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0062",
+  "question": "Which statement best distinguishes locus of control from self-efficacy?",
+  "options": {
+    "A": "Locus of control concerns generalised beliefs about what controls outcomes, whereas self-efficacy concerns perceived capability to perform particular actions",
+    "B": "Both concepts are identical",
+    "C": "Self-efficacy concerns only external forces",
+    "D": "Locus of control measures intelligence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Locus of control concerns beliefs about whether outcomes depend mainly on one's actions or external forces. Self-efficacy concerns confidence in one's ability to perform required actions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Locus of Control", "Self Efficacy", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0063",
+  "question": "A learner believes that examination results depend partly on preparation but also recognises that illness or unexpected circumstances can affect performance. Which interpretation is most appropriate?",
+  "options": {
+    "A": "The learner must have an external locus of control",
+    "B": "A realistic sense of control can recognise both controllable and uncontrollable influences",
+    "C": "Internal locus requires believing every outcome is personally controllable",
+    "D": "The learner demonstrates helplessness"
+  },
+  "correctAnswer": "B",
+  "explanation": "Adaptive personal control is not the belief that everything is controllable. Realistic self-understanding recognises one's influence while acknowledging genuine external constraints.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Locus of Control", "Realistic Control", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0064",
+  "question": "Assertion A: Attributing failure to insufficient effort is not always automatically adaptive. Reason R: The usefulness of an attribution depends on whether it is accurate and whether the learner has appropriate strategies and realistic opportunities for success. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true but R is not the correct explanation of A",
+    "B": "A is true but R is false",
+    "C": "Both A and R are true and R is the correct explanation of A",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "C",
+  "explanation": "Telling learners merely to try harder can be harmful when effort is already high but strategies, instruction or opportunity are inadequate. Adaptive attribution must be accurate and actionable.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Attribution", "Effort", "Strategy", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0065",
+  "question": "A student succeeds and says, 'I used a better revision strategy this time.' In Weiner's attributional framework, strategy use is best regarded as:",
+  "options": {
+    "A": "An external uncontrollable cause",
+    "B": "A potentially controllable internal cause",
+    "C": "A fixed biological trait",
+    "D": "A stable external cause"
+  },
+  "correctAnswer": "B",
+  "explanation": "Strategy use originates within the learner and is generally modifiable and controllable, making it a potentially adaptive attribution for achievement outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Attribution Theory", "Strategy", "Weiner"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0066",
+  "question": "A student says, 'I failed because the test happened to contain the few questions I had not revised.' This explanation attributes the outcome primarily to:",
+  "options": {
+    "A": "A stable internal cause",
+    "B": "An unstable external circumstance",
+    "C": "A stable controllable cause",
+    "D": "A permanent lack of ability"
+  },
+  "correctAnswer": "B",
+  "explanation": "The learner attributes failure to the particular composition of the test, an external factor that is relatively unstable across occasions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Attribution Theory", "External Attribution", "Stability"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0067",
+  "question": "Which attribution is most likely to undermine future expectancy for success when failure occurs repeatedly?",
+  "options": {
+    "A": "The strategy can be improved",
+    "B": "More appropriate practice is needed",
+    "C": "I am permanently incapable and cannot change",
+    "D": "I misunderstood the instructions this time"
+  },
+  "correctAnswer": "C",
+  "explanation": "A stable and uncontrollable attribution to permanent incapacity can reduce expectations for future success and contribute to helplessness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Attribution", "Learned Helplessness", "Failure"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0068",
+  "question": "Which school practice is most likely to reduce learned helplessness?",
+  "options": {
+    "A": "Give repeated impossible tasks",
+    "B": "Provide appropriately challenging tasks, useful strategy instruction and opportunities to experience controllable success",
+    "C": "Publicly label learners as incapable",
+    "D": "Prevent learners from making choices"
+  },
+  "correctAnswer": "B",
+  "explanation": "Experiences of controllable success and effective strategy use help restore learners' expectations that their actions can influence outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Learned Helplessness", "Intervention", "School Practice"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0069",
+  "question": "Which statement best characterises identity development?",
+  "options": {
+    "A": "Identity is a fixed label imposed entirely by others",
+    "B": "Identity involves developing a coherent sense of values, roles, goals and commitments",
+    "C": "Identity is identical to self-esteem",
+    "D": "Identity concerns only occupational choice"
+  },
+  "correctAnswer": "B",
+  "explanation": "Identity is broader than occupation and includes developing coherence among roles, values, goals, beliefs and commitments.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Identity", "Understanding Self", "Adolescence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0070",
+  "question": "An adolescent accepts a career and set of beliefs chosen by family members without examining alternatives. Which description is most appropriate?",
+  "options": {
+    "A": "Commitment has occurred with little personal exploration",
+    "B": "The adolescent necessarily demonstrates complete self-actualisation",
+    "C": "The adolescent has no identity whatsoever",
+    "D": "The adolescent necessarily has low intelligence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Identity development can involve different combinations of exploration and commitment. Commitment made without meaningful exploration should not automatically be treated as fully explored identity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Identity", "Exploration", "Commitment", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0071",
+  "question": "Which educational practice best supports identity exploration without creating unnecessary confusion?",
+  "options": {
+    "A": "Provide information, reflection, guidance and opportunities to consider alternatives before responsible commitment",
+    "B": "Force immediate irreversible decisions",
+    "C": "Discourage all questioning",
+    "D": "Require every learner to follow the same life plan"
+  },
+  "correctAnswer": "A",
+  "explanation": "Healthy identity development can be supported through informed exploration, reflection and guidance rather than premature or externally imposed commitment.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Identity Development", "Guidance", "Educational Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0072",
+  "question": "A student thinks of himself as a brother, class leader, football player and member of a linguistic community. This example best illustrates:",
+  "options": {
+    "A": "The multidimensional and social nature of self-identity",
+    "B": "Sensory memory",
+    "C": "Only physical self-concept",
+    "D": "A fixed trait unrelated to context"
+  },
+  "correctAnswer": "A",
+  "explanation": "Individuals understand themselves partly through multiple social roles and group memberships, showing that the self has social and multidimensional aspects.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Social Self", "Identity", "Roles", "Group Membership"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0073",
+  "question": "A Dy.E.O. notices that teachers use only rank-based comparisons to tell students how good they are. Which concern is most relevant?",
+  "options": {
+    "A": "Constant social comparison may distort domain-specific self-concept and make self-worth overly dependent on relative rank",
+    "B": "Rank comparison always improves self-esteem",
+    "C": "Self-concept is unaffected by teacher feedback",
+    "D": "Students should never receive any information about performance"
+  },
+  "correctAnswer": "A",
+  "explanation": "Excessive rank comparison can narrow learners' self-evaluation to relative performance and may undermine realistic and multidimensional self-understanding.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Social Comparison", "Self Concept", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0074",
+  "question": "A Dy.E.O. wants schools to improve students' self-regulated learning. Which combination should be encouraged? 1. Goal setting. 2. Self-monitoring. 3. Strategy adjustment. 4. Reflection on outcomes.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Effective self-regulation involves planning, monitoring, controlling and reflecting on one's learning processes and outcomes.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Self Regulation", "Statement Based", "School Improvement"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0075",
+  "question": "During inspection, a Dy.E.O. finds a school programme that combines reflective journals, realistic feedback, mastery-based tasks, goal setting, career exploration and counselling. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The programme can support several dimensions of understanding self, including self-awareness, self-concept, self-efficacy, self-regulation and identity",
+    "B": "Only self-esteem is being addressed",
+    "C": "Such activities are unrelated to educational development",
+    "D": "The programme should be replaced entirely with ranking exercises"
+  },
+  "correctAnswer": "A",
+  "explanation": "The programme integrates several processes central to understanding self: reflection, realistic self-perception, efficacy based on mastery, self-regulation and identity exploration.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Understanding Self", "Holistic Self Development", "School Programme"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0076",
+  "question": "A learner deliberately avoids preparing adequately for an examination and later says, 'I failed because I did not study, not because I lack ability.' Which concept best explains this behaviour?",
+  "options": {
+    "A": "Self-actualisation",
+    "B": "Internalisation",
+    "C": "Self-handicapping",
+    "D": "Unconditional positive regard"
+  },
+  "correctAnswer": "C",
+  "explanation": "Self-handicapping involves creating or claiming obstacles before performance so that possible failure can be attributed to the obstacle rather than to lack of ability.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Handicapping", "Self Concept", "Achievement Behaviour"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0077",
+  "question": "Which school practice is most likely to reduce self-handicapping among learners?",
+  "options": {
+    "A": "Publicly ranking students after every task",
+    "B": "Treating mistakes as proof of permanent inability",
+    "C": "Emphasising competition above learning",
+    "D": "Creating a climate where mistakes provide information for improvement and effective effort and strategy are valued"
+  },
+  "correctAnswer": "D",
+  "explanation": "Learners are less likely to protect self-worth through self-handicapping when mistakes are treated as part of learning and competence can be developed through appropriate strategies and effort.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Self Handicapping", "School Climate", "Teacher Role"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0078",
+  "question": "The concept of 'possible selves' most directly refers to:",
+  "options": {
+    "A": "Only the person's present physical appearance",
+    "B": "Past behaviours that can never change",
+    "C": "Ideas about what one might become, would like to become or fears becoming in the future",
+    "D": "A person's intelligence quotient"
+  },
+  "correctAnswer": "C",
+  "explanation": "Possible selves are future-oriented representations of hoped-for, expected or feared versions of oneself and can influence motivation and goal-directed behaviour.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Possible Selves", "Identity", "Future Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0079",
+  "question": "A student imagines becoming a successful teacher and uses that future image to guide current study choices. Which aspect of self-understanding is most directly illustrated?",
+  "options": {
+    "A": "A possible self functioning as a motivational guide",
+    "B": "Learned helplessness",
+    "C": "External locus of control",
+    "D": "Self-handicapping"
+  },
+  "correctAnswer": "A",
+  "explanation": "Future representations of oneself can motivate present behaviour by connecting current effort with desired future identities.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Possible Selves", "Motivation", "Identity", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0080",
+  "question": "Which statement best describes self-reflection?",
+  "options": {
+    "A": "Repeating information without thinking about it",
+    "B": "Avoiding awareness of one's behaviour",
+    "C": "Depending entirely on external judgement",
+    "D": "Deliberately examining one's experiences, thoughts, emotions, decisions and behaviour to develop deeper self-understanding"
+  },
+  "correctAnswer": "D",
+  "explanation": "Self-reflection involves deliberate examination of one's experiences and responses in order to understand patterns, evaluate choices and improve future action.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Self Reflection", "Self Awareness", "Understanding Self"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0081",
+  "question": "A learner keeps a reflective journal identifying successful strategies, recurring mistakes and emotional reactions to difficult tasks. Which processes are most directly being strengthened?",
+  "options": {
+    "A": "External control and social comparison",
+    "B": "Self-handicapping and helplessness",
+    "C": "Self-awareness and self-regulation",
+    "D": "Only rote memory"
+  },
+  "correctAnswer": "C",
+  "explanation": "Reflection on thoughts, strategies and emotions builds awareness of one's learning processes and provides information needed for effective self-regulation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Self Reflection", "Self Awareness", "Self Regulation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0082",
+  "question": "Which statement best describes metacognitive knowledge in relation to understanding self?",
+  "options": {
+    "A": "Knowledge only about the teacher's behaviour",
+    "B": "Knowledge unrelated to learning strategies",
+    "C": "Ability to remember without awareness",
+    "D": "Knowledge about one's own cognitive strengths, limitations, tasks and strategies"
+  },
+  "correctAnswer": "D",
+  "explanation": "Metacognitive knowledge includes awareness of oneself as a learner, understanding task demands and knowing which strategies may be effective.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Metacognition", "Self Awareness", "Learning Strategies"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0083",
+  "question": "A student knows that visual diagrams help her understand science concepts better than simply rereading paragraphs. This knowledge most directly represents:",
+  "options": {
+    "A": "External locus of control",
+    "B": "Metacognitive knowledge about oneself as a learner",
+    "C": "Low self-esteem",
+    "D": "Identity diffusion"
+  },
+  "correctAnswer": "B",
+  "explanation": "Knowing which learning strategies work particularly well for oneself is an important form of metacognitive self-knowledge.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Metacognition", "Self Knowledge", "Learning Strategies"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0084",
+  "question": "Assertion A: Accurate self-monitoring is important for self-regulated learning. Reason R: Learners cannot make effective strategic adjustments if they consistently misjudge what they understand or can perform. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "A is false but R is true",
+    "C": "Both A and R are true and R is the correct explanation of A",
+    "D": "Both A and R are true but R is not the correct explanation of A"
+  },
+  "correctAnswer": "C",
+  "explanation": "Self-regulation depends on reasonably accurate monitoring. If learners misjudge their understanding, they may stop studying too early or choose inappropriate strategies.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Monitoring", "Self Regulation", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0085",
+  "question": "A learner repeatedly says 'I know this chapter' because it looks familiar while rereading, but cannot answer questions without the book. Which self-regulatory weakness is most evident?",
+  "options": {
+    "A": "Excessive internal locus of control",
+    "B": "High mastery experience",
+    "C": "Identity exploration",
+    "D": "Inaccurate monitoring of actual learning"
+  },
+  "correctAnswer": "D",
+  "explanation": "Familiarity during rereading can create an illusion of knowing. Effective self-monitoring requires checking whether information can actually be retrieved or applied.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Monitoring", "Metacognition", "Learning", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0086",
+  "question": "Which statement best distinguishes self-evaluation from destructive self-criticism?",
+  "options": {
+    "A": "Both require global negative judgement of the person",
+    "B": "Self-evaluation should avoid identifying weaknesses",
+    "C": "Constructive self-evaluation examines specific performance and improvement needs without reducing the whole person's worth to the outcome",
+    "D": "Destructive self-criticism always increases self-efficacy"
+  },
+  "correctAnswer": "C",
+  "explanation": "Constructive evaluation focuses on particular behaviours, strategies and outcomes that can be improved, rather than making global negative judgements about personal worth.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Evaluation", "Self Esteem", "Reflection"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0087",
+  "question": "Which teacher feedback is most likely to support accurate self-evaluation?",
+  "options": {
+    "A": "You are simply a weak student",
+    "B": "You are naturally gifted, so strategy does not matter",
+    "C": "Everything you do is perfect",
+    "D": "Your explanation identifies the main idea correctly, but you need stronger evidence for the conclusion"
+  },
+  "correctAnswer": "D",
+  "explanation": "Specific feedback identifies both competence and areas for improvement, giving learners useful evidence for realistic self-evaluation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Self Evaluation", "Feedback", "Teacher Role"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0088",
+  "question": "Which statement about self-concept is most consistent with contemporary educational psychology?",
+  "options": {
+    "A": "Self-concept can change through experiences, feedback, achievement and changing social contexts",
+    "B": "Self-concept is fully fixed at birth",
+    "C": "Self-concept depends only on intelligence",
+    "D": "Self-concept cannot vary between academic subjects"
+  },
+  "correctAnswer": "A",
+  "explanation": "Self-concept is relatively organised but not completely fixed. Educational experiences, achievement, relationships and feedback can contribute to change over time.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Concept", "Development", "Educational Psychology"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0089",
+  "question": "A high-achieving student has strong mathematical self-concept but low confidence in public speaking and average physical self-concept. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The student's self-concept is inconsistent and therefore invalid",
+    "B": "Every dimension of self-concept must have the same level",
+    "C": "Self-concept is multidimensional and can differ substantially across domains",
+    "D": "Only mathematical self-concept represents the real self"
+  },
+  "correctAnswer": "C",
+  "explanation": "Individuals may hold different perceptions of competence across academic, social, physical and other domains, demonstrating multidimensional self-concept.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Concept", "Multidimensional Self", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0090",
+  "question": "A student attributes every success to luck but every failure to permanent lack of ability. Which pattern is most likely to threaten motivation?",
+  "options": {
+    "A": "Both success and failure are interpreted as controllable",
+    "B": "Success strengthens mastery beliefs",
+    "C": "Failure is treated as temporary and specific",
+    "D": "Success provides little evidence of competence while failure is interpreted as stable personal incapacity"
+  },
+  "correctAnswer": "D",
+  "explanation": "This pattern prevents success from strengthening competence beliefs while allowing failure to confirm a stable negative self-view, which can undermine future motivation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Attribution", "Self Concept", "Motivation", "Failure"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0091",
+  "question": "A teacher wants students to develop autonomy without removing appropriate guidance. Which practice is most suitable?",
+  "options": {
+    "A": "Teacher makes every decision permanently",
+    "B": "Provide meaningful choices, teach decision-making skills and gradually transfer appropriate responsibility",
+    "C": "Allow completely unrestricted behaviour",
+    "D": "Avoid giving students any feedback"
+  },
+  "correctAnswer": "B",
+  "explanation": "Development of autonomy involves progressively increasing responsible self-direction while maintaining suitable structure, feedback and support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Autonomy", "Self Regulation", "Teacher Role"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0092",
+  "question": "Which learner demonstrates the strongest combination of self-awareness and self-regulation?",
+  "options": {
+    "A": "A learner who knows a weakness but takes no action",
+    "B": "A learner who follows every strategy without evaluating it",
+    "C": "A learner who identifies a weakness, selects a strategy, monitors progress and changes the strategy when needed",
+    "D": "A learner who blames every outcome on luck"
+  },
+  "correctAnswer": "C",
+  "explanation": "Self-awareness identifies one's strengths or difficulties, while self-regulation uses that information to plan, monitor and adjust goal-directed behaviour.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Self Awareness", "Self Regulation", "Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0093",
+  "question": "Assertion A: Excessive social comparison can sometimes undermine self-understanding. Reason R: Learners may evaluate their worth primarily against others rather than developing accurate, domain-specific understanding of their own progress and competence. Choose the correct answer.",
+  "options": {
+    "A": "A is true but R is false",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is false but R is true",
+    "D": "Both A and R are true and R is the correct explanation of A"
+  },
+  "correctAnswer": "D",
+  "explanation": "Social comparison provides information, but excessive reliance on relative ranking can distort self-evaluation and make self-worth unnecessarily dependent on others' performance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Comparison", "Self Concept", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0094",
+  "question": "Consider the following practices: 1. Reflective journals. 2. Self-assessment using clear criteria. 3. Goal setting. 4. Monitoring progress. Which can contribute to better understanding of self as a learner?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "2 and 3 only",
+    "C": "1, 2, 3 and 4",
+    "D": "3 and 4 only"
+  },
+  "correctAnswer": "C",
+  "explanation": "All four practices provide information about one's strengths, limitations, goals, strategies and progress and can therefore support self-awareness and self-regulated learning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Self Assessment", "Self Reflection", "Self Regulation", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0095",
+  "question": "A student receives a low score but accurately identifies insufficient practice, seeks clarification and changes the study plan. Which interpretation is most appropriate?",
+  "options": {
+    "A": "The student necessarily has low self-esteem",
+    "B": "The student demonstrates helplessness",
+    "C": "The student demonstrates external control",
+    "D": "The student is using adaptive attribution together with self-regulation"
+  },
+  "correctAnswer": "D",
+  "explanation": "The learner identifies an actionable cause and responds through strategic change rather than global negative self-judgement or helplessness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Attribution", "Self Regulation", "Adaptive Response", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0096",
+  "question": "A Dy.E.O. finds that student self-assessment always requires learners to award themselves a numerical mark but never explain strengths, weaknesses or next steps. What improvement is most appropriate?",
+  "options": {
+    "A": "Use clear criteria and require evidence-based reflection on performance and improvement strategies",
+    "B": "Eliminate all student reflection",
+    "C": "Replace self-assessment entirely with public ranking",
+    "D": "Allow students to award arbitrary marks without criteria"
+  },
+  "correctAnswer": "A",
+  "explanation": "Effective self-assessment requires criteria, evidence and reflection. Its purpose is to improve self-awareness and regulation rather than merely reproduce a numerical score.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Self Assessment", "Self Reflection", "Assessment"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0097",
+  "question": "A Dy.E.O. observes that teachers frequently attribute children's difficulties to fixed ability without examining instruction, strategy, opportunity or prior learning. Which concern is most important?",
+  "options": {
+    "A": "Fixed ability explanations always improve motivation",
+    "B": "Teachers should never discuss ability",
+    "C": "Such explanations may encourage maladaptive self-beliefs and overlook modifiable causes of performance",
+    "D": "Prior learning has no relationship with achievement"
+  },
+  "correctAnswer": "C",
+  "explanation": "Prematurely treating difficulty as fixed incapacity can undermine self-efficacy and motivation while ignoring instructional, strategic and contextual factors that may be changed.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Attribution", "Self Efficacy", "Teacher Expectations"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0098",
+  "question": "A Dy.E.O. wants to distinguish a programme that develops self-efficacy from one that merely produces temporary praise. Which evidence is strongest?",
+  "options": {
+    "A": "Students receive compliments regardless of performance",
+    "B": "Students are repeatedly told they are naturally talented",
+    "C": "Teachers avoid challenging tasks",
+    "D": "Students experience genuine mastery, observe appropriate models, receive credible encouragement and learn to interpret difficulty constructively"
+  },
+  "correctAnswer": "D",
+  "explanation": "Bandura's major efficacy sources include mastery experience, vicarious experience, credible persuasion and interpretation of physiological or emotional states.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Self Efficacy", "Bandura", "School Programme"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0099",
+  "question": "Which combination best represents a school approach to healthy understanding of self? 1. Realistic self-awareness. 2. Evidence-based confidence. 3. Responsible self-regulation. 4. Opportunities for identity exploration.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2, 3 and 4",
+    "C": "2 and 3 only",
+    "D": "3 and 4 only"
+  },
+  "correctAnswer": "B",
+  "explanation": "Understanding self includes realistic awareness of one's characteristics, competence beliefs grounded in experience, capacity for self-regulation and development of personal identity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Understanding Self", "Statement Based", "Holistic Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-US-0100",
+  "question": "A district wants a comprehensive educational framework for 'Understanding Self.' Which approach is most appropriate?",
+  "options": {
+    "A": "Base self-understanding primarily on public rank",
+    "B": "Teach students that personal characteristics are permanently fixed",
+    "C": "Focus only on increasing self-esteem regardless of actual competence",
+    "D": "Help learners develop realistic self-concept, self-awareness, evidence-based self-efficacy, adaptive attribution, self-regulation and reflective identity development"
+  },
+  "correctAnswer": "D",
+  "explanation": "A comprehensive approach to understanding self integrates accurate self-perception, reflective awareness, competence beliefs, adaptive explanations of outcomes, goal-directed regulation and development of identity.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Understanding Self", "Comprehensive", "Educational Administration"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}

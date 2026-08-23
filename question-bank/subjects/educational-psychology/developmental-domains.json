@@ -1,0 +1,2419 @@
+{
+  "metadata": {
+    "subject": "Educational Psychology",
+    "unit": "Growth and Development",
+    "chapter": "Social, Cognitive, Language/Linguistic, Emotional, Moral and Aesthetic Development",
+    "topic": "Developmental Domains",
+    "totalQuestions": 100,
+    "language": "English",
+    "difficulty": "Mixed - Difficult to Very Difficult",
+    "exam": "TGPSC Dy.E.O.",
+    "version": "1.0",
+    "repository": "Developmental Domains",
+    "marksPerQuestion": 1,
+    "negativeMarking": false,
+    "questionStandard": "SHAGA GOLD"
+  },
+  "questions": [
+    {
+  "id": "FOE-DD-0001",
+  "question": "A child gradually learns to cooperate, share materials, follow group rules and understand the expectations of others. This developmental change primarily represents:",
+  "options": {
+    "A": "Physical development",
+    "B": "Social development",
+    "C": "Motor development",
+    "D": "Sensory development"
+  },
+  "correctAnswer": "B",
+  "explanation": "Social development involves learning socially acceptable behaviour, developing interpersonal relationships, understanding social expectations and participating effectively in groups.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Social Development", "Socialisation", "Developmental Domains"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0002",
+  "question": "Consider the following influences on social development: 1. Family. 2. Peer group. 3. School. 4. Culture and community. Which of the above can function as important agencies of social development?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Social development is influenced by interacting social contexts. Family, peers, school, culture and the wider community all contribute to children's social learning and adjustment.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Development", "Family", "Peers", "School", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0003",
+  "question": "A teacher wants to promote social development rather than merely academic achievement. Which classroom practice would be most appropriate?",
+  "options": {
+    "A": "Prevent students from interacting during all learning activities",
+    "B": "Use cooperative activities requiring communication, shared responsibility and respect for different viewpoints",
+    "C": "Rank students publicly after every activity",
+    "D": "Require every learner to work independently at all times"
+  },
+  "correctAnswer": "B",
+  "explanation": "Cooperative activities provide opportunities to practise communication, perspective-taking, responsibility, negotiation and collaboration, all of which contribute to social development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Social Development", "Cooperative Learning", "Teacher Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0004",
+  "question": "Assertion A: Peer groups become increasingly important agents of social development during later childhood and adolescence. Reason R: Peer interaction provides opportunities to negotiate rules, experience acceptance and rejection, cooperate and understand viewpoints outside the family. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Peer relationships provide an important social context in which children and adolescents learn cooperation, negotiation, group norms, perspective-taking and interpersonal adjustment.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Development", "Peer Group", "Adolescence", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0005",
+  "question": "A student behaves cooperatively with classmates but becomes aggressive whenever the peer group rewards aggressive behaviour. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Social behaviour develops independently of peer influence",
+    "B": "Peer norms and reinforcement can influence social behaviour",
+    "C": "Aggression is determined exclusively by heredity",
+    "D": "School-age children cannot modify their social behaviour"
+  },
+  "correctAnswer": "B",
+  "explanation": "Peer approval, group norms and reinforcement can influence children's behaviour. Social development therefore occurs within an interpersonal and cultural context.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Development", "Peer Influence", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0006",
+  "question": "Which change most clearly represents cognitive development?",
+  "options": {
+    "A": "Increase in height alone",
+    "B": "Increasing ability to attend, remember, reason, solve problems and represent knowledge",
+    "C": "Increase in body weight alone",
+    "D": "Development of secondary sexual characteristics"
+  },
+  "correctAnswer": "B",
+  "explanation": "Cognitive development concerns changes in mental processes such as attention, perception, memory, representation, reasoning, problem-solving and thinking.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Cognitive Development", "Thinking", "Reasoning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0007",
+  "question": "A learner can solve a mathematical problem when concrete materials are provided but struggles when the identical relationship is presented entirely through abstract symbols. Which educational conclusion is most appropriate?",
+  "options": {
+    "A": "The learner necessarily lacks intelligence",
+    "B": "The form in which a task is represented can influence cognitive performance",
+    "C": "Concrete experience prevents cognitive development",
+    "D": "Abstract instruction is equally appropriate at every developmental level"
+  },
+  "correctAnswer": "B",
+  "explanation": "Cognitive performance depends partly on developmental preparedness, prior knowledge and the representation of the task. Concrete supports can make relationships more accessible to some learners.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Cognitive Development", "Concrete Learning", "Classroom Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0008",
+  "question": "Which classroom practice is most consistent with promoting cognitive development?",
+  "options": {
+    "A": "Require memorisation without opportunities to apply ideas",
+    "B": "Provide opportunities for questioning, classification, comparison, reasoning and problem-solving",
+    "C": "Discourage learners from explaining their reasoning",
+    "D": "Correct every problem before learners attempt it"
+  },
+  "correctAnswer": "B",
+  "explanation": "Cognitive development is supported when learners actively organise information, compare relationships, reason, solve problems and explain their thinking.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Cognitive Development", "Problem Solving", "Educational Implications"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0009",
+  "question": "Consider the following statements about cognitive development: 1. It involves changes in reasoning and problem-solving. 2. It is influenced by experience and learning opportunities. 3. It occurs independently of language and social interaction in every situation. 4. Prior knowledge can influence the interpretation of new information. Which statements are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 4 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Cognitive development involves reasoning and problem-solving and is influenced by experience and prior knowledge. Language and social interaction can also contribute significantly to cognitive development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Cognitive Development", "Statement Based", "Prior Knowledge"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0010",
+  "question": "Which statement best represents the relationship between language and cognitive development?",
+  "options": {
+    "A": "Language and cognition can influence one another during development",
+    "B": "Language is entirely unrelated to thought",
+    "C": "Cognitive development begins only after language is fully developed",
+    "D": "Language development eliminates the need for experience"
+  },
+  "correctAnswer": "A",
+  "explanation": "Language provides tools for communication, representation and organisation of experience, while developing cognitive abilities also contribute to increasingly complex language use.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Cognitive Development", "Language Development", "Interaction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0011",
+  "question": "Which sequence broadly represents the development of spoken language?",
+  "options": {
+    "A": "Babbling -> One-word utterances -> Two-word combinations -> Increasingly complex sentences",
+    "B": "Complex sentences -> Babbling -> One-word utterances -> Crying",
+    "C": "Two-word combinations -> Babbling -> Complex sentences -> One-word utterances",
+    "D": "Reading -> Babbling -> Writing -> One-word utterances"
+  },
+  "correctAnswer": "A",
+  "explanation": "Although individual timing varies, spoken language generally progresses from early vocalisation and babbling to single words, word combinations and increasingly complex grammatical structures.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Language Development", "Developmental Sequence", "Linguistic Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0012",
+  "question": "A young child calls every four-legged animal 'dog'. This is best interpreted as:",
+  "options": {
+    "A": "Overextension of a word to a broader category than adults normally use",
+    "B": "Complete absence of conceptual development",
+    "C": "Failure of auditory perception",
+    "D": "Evidence that language development has stopped"
+  },
+  "correctAnswer": "A",
+  "explanation": "Overextension occurs when a young child uses a familiar word for a wider range of objects or categories than is conventional in adult language.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Language Development", "Overextension", "Vocabulary", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0013",
+  "question": "A young child uses the word 'bottle' only for the child's own bottle and not for other bottles. This linguistic phenomenon is known as:",
+  "options": {
+    "A": "Overextension",
+    "B": "Underextension",
+    "C": "Conservation",
+    "D": "Seriation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Underextension occurs when a child uses a word more narrowly than its conventional meaning, applying it only to a restricted member of the appropriate category.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Language Development", "Underextension", "Vocabulary"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0014",
+  "question": "A child says 'goed' instead of 'went' after learning that many past-tense forms are produced by adding '-ed'. This error most strongly suggests that:",
+  "options": {
+    "A": "The child is actively applying a grammatical rule rather than merely imitating adult speech",
+    "B": "The child has no understanding of grammar",
+    "C": "Language develops only through exact imitation",
+    "D": "The child's vocabulary is decreasing"
+  },
+  "correctAnswer": "A",
+  "explanation": "Overregularisation such as 'goed' indicates that children can infer and actively apply grammatical patterns, sometimes extending a regular rule to irregular forms.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Language Development", "Overregularisation", "Grammar", "Analytical"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0015",
+  "question": "Which classroom environment is most supportive of children's language development?",
+  "options": {
+    "A": "Rich opportunities for meaningful conversation, listening, reading, storytelling and expression",
+    "B": "Preventing children from asking questions",
+    "C": "Restricting classroom language entirely to memorised responses",
+    "D": "Correcting every minor spoken error by interrupting communication"
+  },
+  "correctAnswer": "A",
+  "explanation": "Language develops through meaningful exposure and use. Conversation, listening, reading and opportunities to express ideas provide a rich linguistic environment.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Language Development", "Classroom Environment", "Educational Implications"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0016",
+  "question": "Which ability most clearly represents emotional development?",
+  "options": {
+    "A": "Increasing ability to identify, express, understand and regulate emotions",
+    "B": "Increase in height",
+    "C": "Development of handwriting speed only",
+    "D": "Memorisation of multiplication tables"
+  },
+  "correctAnswer": "A",
+  "explanation": "Emotional development includes recognising emotions, understanding their causes, expressing them appropriately and increasingly regulating emotional responses.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Emotional Development", "Emotional Regulation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0017",
+  "question": "A child becomes angry after losing a game but gradually calms down, describes the feeling and returns to play without aggression. This most clearly demonstrates development of:",
+  "options": {
+    "A": "Emotional regulation",
+    "B": "Object permanence",
+    "C": "Physical maturation only",
+    "D": "Egocentric speech"
+  },
+  "correctAnswer": "A",
+  "explanation": "Managing emotional arousal, identifying feelings and choosing socially appropriate responses are important aspects of emotional self-regulation.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Emotional Development", "Self Regulation", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0018",
+  "question": "Assertion A: Emotional development and social development are interrelated. Reason R: Understanding and regulating one's emotions can influence relationships, cooperation and conflict management. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Emotional regulation affects how individuals interact with others. Therefore emotional and social development are closely interconnected.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Emotional Development", "Social Development", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0019",
+  "question": "A teacher tells a crying child, 'Stop crying. Good children never feel sad.' Which alternative would be more developmentally appropriate?",
+  "options": {
+    "A": "Help the child recognise the emotion and learn an appropriate way to express and manage it",
+    "B": "Punish all emotional expression",
+    "C": "Teach that unpleasant emotions must never occur",
+    "D": "Ignore emotional development because it is unrelated to education"
+  },
+  "correctAnswer": "A",
+  "explanation": "Healthy emotional development does not require eliminating unpleasant emotions. Children benefit from recognising emotions and learning constructive ways to regulate and express them.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Emotional Development", "Teacher Scenario", "Emotional Regulation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0020",
+  "question": "Which statement best describes moral development?",
+  "options": {
+    "A": "Development of understanding, judgement and behaviour concerning right, wrong, fairness, duties and the welfare of others",
+    "B": "Increase in physical strength",
+    "C": "Acquisition of vocabulary alone",
+    "D": "Development of sensory coordination only"
+  },
+  "correctAnswer": "A",
+  "explanation": "Moral development concerns changes in moral understanding, judgement, values and behaviour relating to rights, duties, fairness, rules and concern for others.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Moral Development", "Values", "Moral Reasoning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0021",
+  "question": "Two students both obey a school rule. Student X obeys mainly to avoid punishment, whereas Student Y obeys because the rule protects the rights and safety of others. What is the most important developmental distinction?",
+  "options": {
+    "A": "The behaviour is identical, but the underlying moral reasoning differs",
+    "B": "Both students necessarily have identical moral development",
+    "C": "Only observable behaviour is relevant to moral development",
+    "D": "Avoidance of punishment always represents the highest moral reasoning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Moral development concerns not only observable behaviour but also the reasoning and principles underlying decisions. Identical actions can therefore arise from different levels or forms of moral reasoning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Moral Development", "Moral Reasoning", "Scenario Based", "Analytical"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0022",
+  "question": "Which classroom practice is most likely to promote moral development rather than simple obedience?",
+  "options": {
+    "A": "Discussing moral dilemmas and encouraging learners to justify their decisions while considering fairness and others' perspectives",
+    "B": "Demanding obedience without allowing any discussion",
+    "C": "Using fear as the only method of discipline",
+    "D": "Teaching that rules can never be examined"
+  },
+  "correctAnswer": "A",
+  "explanation": "Discussion of moral dilemmas and reasons behind decisions encourages perspective-taking, reflection and moral reasoning rather than mere compliance.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Moral Development", "Moral Dilemmas", "Educational Implications"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0023",
+  "question": "Which statement most accurately describes aesthetic development?",
+  "options": {
+    "A": "Increasing sensitivity to, appreciation of and expression through qualities such as beauty, form, rhythm, harmony and creative experience",
+    "B": "Development of physical height and weight",
+    "C": "Learning school rules through punishment",
+    "D": "Acquisition of numerical operations alone"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aesthetic development involves increasing awareness, appreciation, judgement and creative expression in relation to beauty, form, rhythm, harmony and artistic experience.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Aesthetic Development", "Creativity", "Arts"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0024",
+  "question": "A school removes music, drawing, drama and opportunities to experience literature because they are considered unrelated to development. Which developmental domain is most directly neglected?",
+  "options": {
+    "A": "Aesthetic development",
+    "B": "Cephalocaudal development",
+    "C": "Pubertal development",
+    "D": "Reflex development"
+  },
+  "correctAnswer": "A",
+  "explanation": "Music, visual arts, drama and literature provide important opportunities for aesthetic perception, appreciation, imagination and creative expression.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Aesthetic Development", "Arts Education", "School Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0025",
+  "question": "During school inspection, a Dy.E.O. finds that a school defines development almost entirely in terms of examination marks. Which recommendation best reflects a comprehensive developmental perspective?",
+  "options": {
+    "A": "Evaluate schooling only through academic marks because other developmental domains are secondary",
+    "B": "Provide experiences supporting cognitive, linguistic, social, emotional, moral and aesthetic development along with academic learning",
+    "C": "Replace academic learning entirely with recreational activities",
+    "D": "Assess all developmental domains through one written examination"
+  },
+  "correctAnswer": "B",
+  "explanation": "Education should address the learner as a developing whole. Academic learning is important, but development also includes cognitive, linguistic, social, emotional, moral and aesthetic dimensions that require appropriate educational experiences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Holistic Development", "Developmental Domains", "School Leadership"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0026",
+  "question": "According to Kohlberg, a child obeys a rule mainly because breaking it may result in punishment. This reasoning is characteristic of:",
+  "options": {
+    "A": "Stage 1 - Obedience and Punishment Orientation",
+    "B": "Stage 3 - Good Boy/Good Girl Orientation",
+    "C": "Stage 5 - Social Contract Orientation",
+    "D": "Stage 6 - Universal Ethical Principles"
+  },
+  "correctAnswer": "A",
+  "explanation": "At Kohlberg's first stage, moral judgement is strongly influenced by the physical consequences of an action, particularly avoidance of punishment.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Kohlberg", "Moral Development", "Preconventional Level"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0027",
+  "question": "A learner says, 'I will help him because he helped me yesterday, and he may help me again.' According to Kohlberg, this reasoning most closely represents:",
+  "options": {
+    "A": "Obedience and Punishment Orientation",
+    "B": "Instrumental Purpose and Exchange Orientation",
+    "C": "Law and Order Orientation",
+    "D": "Universal Ethical Principles"
+  },
+  "correctAnswer": "B",
+  "explanation": "Kohlberg's Stage 2 involves instrumental reasoning, reciprocity and exchange, where actions may be judged according to personal benefit and mutually advantageous relationships.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Kohlberg", "Stage 2", "Moral Development", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0028",
+  "question": "A student says, 'I should behave well because my teachers, parents and friends will think I am a good person.' According to Kohlberg, this reasoning is most characteristic of:",
+  "options": {
+    "A": "Stage 1",
+    "B": "Stage 2",
+    "C": "Stage 3",
+    "D": "Stage 5"
+  },
+  "correctAnswer": "C",
+  "explanation": "Stage 3 emphasises interpersonal approval, being considered a good person and maintaining positive relationships with significant others.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Kohlberg", "Stage 3", "Conventional Morality"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0029",
+  "question": "A student argues that school rules should normally be followed because rules help maintain an orderly and functioning institution. According to Kohlberg, this reasoning most closely reflects:",
+  "options": {
+    "A": "Punishment Orientation",
+    "B": "Instrumental Exchange",
+    "C": "Law and Order Orientation",
+    "D": "Universal Ethical Principles"
+  },
+  "correctAnswer": "C",
+  "explanation": "Kohlberg's Stage 4 emphasises respect for rules, authority, duty and maintenance of the social system.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Kohlberg", "Stage 4", "Law and Order", "Moral Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0030",
+  "question": "A person argues that a law deserves respect but should be changed through legitimate democratic processes when it seriously violates fundamental rights and social welfare. Which Kohlbergian orientation is most closely represented?",
+  "options": {
+    "A": "Obedience and Punishment Orientation",
+    "B": "Interpersonal Concordance Orientation",
+    "C": "Social Contract and Individual Rights Orientation",
+    "D": "Instrumental Exchange Orientation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Stage 5 recognises laws as social agreements intended to protect rights and welfare. Laws are important but may be reconsidered when they conflict with fundamental rights or the common good.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Kohlberg", "Stage 5", "Social Contract", "Rights"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0031",
+  "question": "Which sequence correctly represents Kohlberg's three broad levels of moral development?",
+  "options": {
+    "A": "Conventional -> Preconventional -> Postconventional",
+    "B": "Preconventional -> Conventional -> Postconventional",
+    "C": "Postconventional -> Conventional -> Preconventional",
+    "D": "Preconventional -> Postconventional -> Conventional"
+  },
+  "correctAnswer": "B",
+  "explanation": "Kohlberg organised moral development into three broad levels: preconventional, conventional and postconventional, containing six stages in total.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Kohlberg", "Moral Development", "Stages"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0032",
+  "question": "Consider the following Kohlbergian orientations: 1. Punishment avoidance. 2. Interpersonal approval. 3. Maintenance of social order. 4. Social contract and individual rights. Which sequence correctly represents increasing levels of moral reasoning?",
+  "options": {
+    "A": "1 -> 2 -> 3 -> 4",
+    "B": "2 -> 1 -> 4 -> 3",
+    "C": "4 -> 3 -> 2 -> 1",
+    "D": "1 -> 3 -> 2 -> 4"
+  },
+  "correctAnswer": "A",
+  "explanation": "Punishment avoidance characterises Stage 1, interpersonal approval Stage 3, social-order maintenance Stage 4 and social-contract reasoning Stage 5.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Kohlberg", "Moral Stages", "Sequence", "Analytical"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0033",
+  "question": "Assertion A: Kohlberg was more interested in the reasoning behind a moral decision than in whether a person simply answered 'yes' or 'no' to a dilemma. Reason R: Individuals can reach the same behavioural decision using different levels of moral reasoning. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Kohlberg's theory focuses primarily on the structure of moral reasoning. Two individuals may choose the same action while justifying it using very different moral principles.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Kohlberg", "Moral Reasoning", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0034",
+  "question": "A teacher wants to apply Kohlberg's ideas to classroom moral education. Which strategy is most appropriate?",
+  "options": {
+    "A": "Present age-appropriate moral dilemmas and encourage students to discuss and justify different viewpoints",
+    "B": "Require students to memorise moral rules without discussion",
+    "C": "Use punishment as the only means of moral education",
+    "D": "Prevent students from considering alternative perspectives"
+  },
+  "correctAnswer": "A",
+  "explanation": "Discussion of moral dilemmas can expose learners to different forms of reasoning and encourage perspective-taking and reflection on the reasons underlying moral decisions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Kohlberg", "Moral Education", "Classroom Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0035",
+  "question": "Which statement represents an important caution when applying Kohlberg's theory?",
+  "options": {
+    "A": "Moral reasoning and actual moral behaviour are related but are not necessarily identical",
+    "B": "A person's moral reasoning always predicts behaviour perfectly",
+    "C": "Social and cultural contexts have no relevance to morality",
+    "D": "Moral development is completely independent of cognition"
+  },
+  "correctAnswer": "A",
+  "explanation": "Knowing how a person reasons about a moral dilemma does not guarantee corresponding behaviour in every real-life situation because behaviour is also affected by emotion, context, motivation and social influences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Kohlberg", "Criticism", "Moral Behaviour", "Moral Reasoning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0036",
+  "question": "Which theorist is most strongly associated with the view that humans possess an innate capacity that facilitates language acquisition?",
+  "options": {
+    "A": "B. F. Skinner",
+    "B": "Noam Chomsky",
+    "C": "Ivan Pavlov",
+    "D": "Edward Thorndike"
+  },
+  "correctAnswer": "B",
+  "explanation": "Noam Chomsky challenged purely behaviourist accounts of language and emphasised an innate human capacity for acquiring linguistic structure.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Remember",
+  "tags": ["Language Development", "Chomsky", "Nativist Theory"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0037",
+  "question": "Which explanation of language development is most closely associated with B. F. Skinner?",
+  "options": {
+    "A": "Language behaviour develops partly through imitation, reinforcement and conditioning",
+    "B": "Language develops without any environmental input",
+    "C": "Language is produced entirely through formal operational thought",
+    "D": "Language acquisition is unrelated to consequences of behaviour"
+  },
+  "correctAnswer": "A",
+  "explanation": "A behaviourist account emphasises environmental learning mechanisms such as imitation, reinforcement and shaping in the acquisition of verbal behaviour.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Language Development", "Skinner", "Behaviourism"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0038",
+  "question": "A child produces sentences that the child has never heard adults use exactly in that form. Which conclusion most strongly challenges a purely imitation-based explanation of language acquisition?",
+  "options": {
+    "A": "Children can generate novel utterances by applying linguistic patterns",
+    "B": "Children can learn language only by repeating complete adult sentences",
+    "C": "Grammar is acquired only through punishment",
+    "D": "Language contains no productive rules"
+  },
+  "correctAnswer": "A",
+  "explanation": "The productive nature of language allows speakers to generate novel sentences. Children's novel utterances suggest that language acquisition involves learning or constructing underlying patterns rather than simple imitation alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Language Development", "Chomsky", "Imitation", "Analytical"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0039",
+  "question": "Which position provides the most balanced contemporary interpretation of language development?",
+  "options": {
+    "A": "Language development reflects interactions among biological capacities, cognitive development, social interaction and linguistic experience",
+    "B": "Language is determined entirely by reinforcement",
+    "C": "Language develops without exposure to language",
+    "D": "Language depends exclusively on intelligence test scores"
+  },
+  "correctAnswer": "A",
+  "explanation": "Contemporary approaches generally recognise contributions from biological preparedness, cognition, social interaction and exposure to meaningful language rather than relying on one factor alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Language Development", "Interactionist Perspective", "Comprehensive"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0040",
+  "question": "A teacher frequently expands children's short utterances into richer grammatical sentences while preserving their intended meaning. The main developmental value of this practice is that it:",
+  "options": {
+    "A": "Provides meaningful models of more advanced language within communicative interaction",
+    "B": "Prevents children from constructing language",
+    "C": "Eliminates the need for conversation",
+    "D": "Develops only physical coordination"
+  },
+  "correctAnswer": "A",
+  "explanation": "Responsive expansion provides children with richer linguistic models in a meaningful conversational context without requiring communication to stop for constant correction.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Language Development", "Teacher Interaction", "Scaffolding", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0041",
+  "question": "Which statement best distinguishes receptive language from expressive language?",
+  "options": {
+    "A": "Receptive language concerns understanding language, whereas expressive language concerns producing or communicating language",
+    "B": "Receptive language means writing only, whereas expressive language means reading only",
+    "C": "Both terms refer exclusively to pronunciation",
+    "D": "There is no meaningful distinction between them"
+  },
+  "correctAnswer": "A",
+  "explanation": "Receptive language involves understanding spoken, written or otherwise communicated language, whereas expressive language concerns communicating ideas through speech, writing or other linguistic forms.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Language Development", "Receptive Language", "Expressive Language"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0042",
+  "question": "A young learner understands the teacher's instruction 'Put the red book under the table' but cannot yet produce a sentence of comparable complexity. Which interpretation is most appropriate?",
+  "options": {
+    "A": "Receptive language can be more advanced than expressive language",
+    "B": "Understanding and production must always develop at identical rates",
+    "C": "The learner has no linguistic competence",
+    "D": "Language development has stopped"
+  },
+  "correctAnswer": "A",
+  "explanation": "Children may understand vocabulary and grammatical relationships before they can produce language of equivalent complexity. Receptive and expressive language therefore need not develop at identical rates.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Receptive Language", "Expressive Language", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0043",
+  "question": "Which school practice is most likely to promote healthy emotional development?",
+  "options": {
+    "A": "Creating a psychologically safe environment in which emotions can be recognised and regulated constructively",
+    "B": "Publicly humiliating learners who show anxiety",
+    "C": "Teaching that fear and sadness should never be expressed",
+    "D": "Ignoring persistent emotional difficulties"
+  },
+  "correctAnswer": "A",
+  "explanation": "Psychological safety, supportive relationships and constructive emotional regulation help learners understand and manage emotions and support healthy emotional development.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Emotional Development", "School Climate", "Educational Implications"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0044",
+  "question": "A learner becomes extremely anxious before speaking in front of the class. The teacher first permits speaking in a small supportive group and gradually increases the audience size. Which principle is best illustrated?",
+  "options": {
+    "A": "Providing developmentally supportive experiences that gradually strengthen emotional regulation and confidence",
+    "B": "Punishment is necessary for emotional maturity",
+    "C": "Emotional development cannot be influenced by school experience",
+    "D": "Avoidance should permanently replace participation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Gradual, supportive opportunities can help learners regulate anxiety and build confidence without unnecessary humiliation or overwhelming demands.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Emotional Development", "Teacher Scenario", "Self Regulation", "Confidence"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0045",
+  "question": "Consider the following indicators of increasing emotional maturity: 1. Greater ability to delay impulsive reactions. 2. Increasing awareness of one's emotional states. 3. Ability to use appropriate coping strategies. 4. Complete absence of anger, fear and sadness. Which statements are correct?",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Emotional maturity involves increasing awareness and regulation of emotions, not elimination of normal emotions such as anger, fear or sadness.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Emotional Development", "Emotional Maturity", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0046",
+  "question": "A child comforts a classmate who is upset after recognising how the classmate might be feeling. Which combination of developmental abilities is most directly involved?",
+  "options": {
+    "A": "Emotional understanding, empathy and social development",
+    "B": "Physical growth and reflex development only",
+    "C": "Seriation and conservation only",
+    "D": "Language imitation only"
+  },
+  "correctAnswer": "A",
+  "explanation": "Recognising another person's emotional state and responding with concern involves emotional understanding and empathy and contributes to prosocial development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Empathy", "Emotional Development", "Social Development", "Prosocial Behaviour"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0047",
+  "question": "Which educational activity most directly integrates cognitive and aesthetic development?",
+  "options": {
+    "A": "Students analyse patterns and symmetry in local art and then create their own designs",
+    "B": "Students copy a definition repeatedly without interpretation",
+    "C": "Students are prevented from observing visual patterns",
+    "D": "Art activities are removed from all academic subjects"
+  },
+  "correctAnswer": "A",
+  "explanation": "Analysing patterns requires cognitive processes such as comparison and classification, while creating and appreciating designs involves aesthetic perception and expression.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Aesthetic Development", "Cognitive Development", "Integrated Learning"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0048",
+  "question": "A school considers aesthetic development to mean only producing technically perfect drawings. Which interpretation is more appropriate?",
+  "options": {
+    "A": "Aesthetic development also involves perception, appreciation, imagination, judgement and creative expression",
+    "B": "Aesthetic development is identical to handwriting accuracy",
+    "C": "Only professional artistic skill constitutes aesthetic development",
+    "D": "Aesthetic experience has no developmental significance"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aesthetic development is broader than technical artistic performance. It includes sensitivity to form and beauty, appreciation, imagination, interpretation and creative expression.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Aesthetic Development", "Creativity", "Art Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0049",
+  "question": "A Dy.E.O. observes that a school uses severe punishment to produce immediate obedience and describes this as 'moral development.' Which evaluation is most appropriate?",
+  "options": {
+    "A": "Immediate compliance caused by fear should not automatically be equated with higher moral reasoning or internalisation of values",
+    "B": "Fear-based obedience necessarily represents postconventional morality",
+    "C": "Punishment automatically develops universal ethical principles",
+    "D": "Moral reasoning is irrelevant to moral development"
+  },
+  "correctAnswer": "A",
+  "explanation": "Moral development involves increasingly sophisticated understanding and internalisation of moral considerations. Behaviour produced mainly by fear of punishment does not by itself demonstrate advanced moral reasoning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Moral Development", "Kohlberg", "School Discipline"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0050",
+  "question": "During a school visit, a Dy.E.O. finds that language activities involve meaningful conversation, students solve problems collaboratively, teachers explicitly support emotional regulation, moral dilemmas are discussed, and arts are integrated with classroom learning. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The school is supporting several interacting developmental domains through educational experiences",
+    "B": "Only cognitive development is being addressed",
+    "C": "These activities interfere with holistic development",
+    "D": "Developmental domains must always be taught separately"
+  },
+  "correctAnswer": "A",
+  "explanation": "Developmental domains are interrelated. Meaningful language use, collaborative reasoning, emotional support, moral discussion and aesthetic experiences can jointly contribute to holistic development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Holistic Development", "Developmental Domains", "Integrated Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0051",
+  "question": "Which statement best distinguishes socialisation from social development?",
+  "options": {
+    "A": "Socialisation refers to processes through which individuals learn social norms, roles and values, while social development refers more broadly to developmental changes in social understanding, relationships and behaviour",
+    "B": "Socialisation concerns physical growth, whereas social development concerns intelligence",
+    "C": "The two concepts are completely unrelated",
+    "D": "Socialisation occurs only in adulthood"
+  },
+  "correctAnswer": "A",
+  "explanation": "Socialisation is an important process contributing to social development. Through interaction with family, peers, school and culture, children acquire norms and roles while their social understanding and relationships develop.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Development", "Socialisation", "Conceptual Distinction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0052",
+  "question": "A child initially follows classroom norms mainly because the teacher directly supervises behaviour. Later, the child follows many of these norms even in the teacher's absence because they have become personally accepted. This change most clearly illustrates:",
+  "options": {
+    "A": "Internalisation of social norms",
+    "B": "Loss of social development",
+    "C": "Physical maturation alone",
+    "D": "Object permanence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Internalisation occurs when externally communicated norms or values increasingly become incorporated into the individual's own standards and guide behaviour without continuous external control.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Socialisation", "Internalisation", "Social Norms", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0053",
+  "question": "Which situation provides the strongest example of perspective-taking in social development?",
+  "options": {
+    "A": "A learner recognises that a classmate may interpret the same event differently because the classmate has different information and experiences",
+    "B": "A learner assumes everyone necessarily knows exactly what the learner knows",
+    "C": "A learner memorises the names of classmates",
+    "D": "A learner increases writing speed"
+  },
+  "correctAnswer": "A",
+  "explanation": "Perspective-taking involves recognising that another person's knowledge, feelings, intentions or viewpoint may differ from one's own.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Social Development", "Perspective Taking", "Social Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0054",
+  "question": "Assertion A: Increasing perspective-taking ability can contribute to more effective peer relationships. Reason R: Understanding another person's viewpoint can support empathy, negotiation and conflict resolution. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Perspective-taking helps children interpret other people's intentions and feelings, which can support empathy, cooperation, negotiation and constructive resolution of disagreements.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Perspective Taking", "Peer Relations", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0055",
+  "question": "Which behaviour is the clearest example of prosocial behaviour?",
+  "options": {
+    "A": "Voluntarily helping an injured classmate",
+    "B": "Destroying another student's work",
+    "C": "Threatening a peer to obtain a toy",
+    "D": "Deliberately excluding a learner to cause distress"
+  },
+  "correctAnswer": "A",
+  "explanation": "Prosocial behaviour refers to voluntary actions intended to benefit others, including helping, sharing, comforting and cooperating.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Prosocial Behaviour", "Social Development", "Helping"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0056",
+  "question": "A teacher wants to increase prosocial behaviour among primary-school children. Which approach is most developmentally appropriate?",
+  "options": {
+    "A": "Model helping behaviour, reinforce genuine cooperation and provide opportunities for shared responsibility",
+    "B": "Encourage competition in every classroom situation",
+    "C": "Publicly label less cooperative children as selfish",
+    "D": "Prevent students from helping one another"
+  },
+  "correctAnswer": "A",
+  "explanation": "Adult modelling, supportive reinforcement and opportunities to cooperate can promote helping, sharing and other forms of prosocial behaviour.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Prosocial Behaviour", "Teacher Role", "Social Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0057",
+  "question": "A student repeatedly spreads false rumours about another student and deliberately excludes the student from the peer group. This is best classified as:",
+  "options": {
+    "A": "Relational aggression",
+    "B": "Physical growth",
+    "C": "Prosocial behaviour",
+    "D": "Aesthetic expression"
+  },
+  "correctAnswer": "A",
+  "explanation": "Relational aggression attempts to harm another person's relationships, social status or sense of belonging through behaviours such as exclusion or malicious rumours.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Aggression", "Relational Aggression", "Peer Relations"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0058",
+  "question": "Which statement about aggressive behaviour in children is most defensible?",
+  "options": {
+    "A": "Aggression can be influenced by interacting individual, family, peer, school and wider social factors",
+    "B": "Aggression is always caused by one biological factor",
+    "C": "Aggressive behaviour cannot be influenced by peer norms",
+    "D": "Every conflict between children constitutes aggression"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aggressive behaviour is complex and can reflect interactions among individual characteristics, modelling, reinforcement, relationships, peer norms and broader environmental influences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Aggression", "Social Development", "Multiple Determinants"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0059",
+  "question": "Consider the following components of language: 1. Phonology. 2. Morphology. 3. Syntax. 4. Semantics. 5. Pragmatics. Which are legitimate components relevant to linguistic development?",
+  "options": {
+    "A": "1, 2 and 3 only",
+    "B": "2, 3 and 4 only",
+    "C": "1, 3, 4 and 5 only",
+    "D": "1, 2, 3, 4 and 5"
+  },
+  "correctAnswer": "D",
+  "explanation": "Language development includes acquisition of sound systems, meaningful word units, grammatical organisation, meaning and socially appropriate language use.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Language Development", "Phonology", "Morphology", "Syntax", "Semantics", "Pragmatics"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0060",
+  "question": "Which option is correctly matched?",
+  "options": {
+    "A": "Phonology - system of speech sounds; Syntax - rules governing arrangement of words into sentences",
+    "B": "Phonology - social use of language; Syntax - meaning of words",
+    "C": "Semantics - speech sounds; Pragmatics - word formation",
+    "D": "Morphology - sentence order only; Semantics - conversational turn-taking"
+  },
+  "correctAnswer": "A",
+  "explanation": "Phonology concerns the sound system of a language, while syntax concerns rules governing the organisation of words and phrases into grammatical structures.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Phonology", "Syntax", "Language Components", "Matching"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0061",
+  "question": "A child understands that 'cat' and 'cats' differ because the added '-s' marks plurality. Which component of linguistic knowledge is most directly involved?",
+  "options": {
+    "A": "Morphology",
+    "B": "Pragmatics",
+    "C": "Aesthetic judgement",
+    "D": "Motor coordination"
+  },
+  "correctAnswer": "A",
+  "explanation": "Morphology concerns meaningful units within words and the rules by which such units, including plural and tense markers, modify meaning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Morphology", "Language Development", "Morpheme"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0062",
+  "question": "A child knows that the sentence 'The dog chased the boy' has a different meaning from 'The boy chased the dog' even though both contain the same major words. Which linguistic component is especially important for understanding this difference?",
+  "options": {
+    "A": "Syntax",
+    "B": "Phonology only",
+    "C": "Physical maturation",
+    "D": "Aesthetic sensitivity"
+  },
+  "correctAnswer": "A",
+  "explanation": "Syntax concerns the organisation of words within sentences. Changes in syntactic arrangement can alter grammatical relationships and therefore sentence meaning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Syntax", "Language Development", "Grammar"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0063",
+  "question": "A learner knows the dictionary meanings and grammar of words but repeatedly uses highly informal expressions when addressing the headmaster in a formal ceremony. Which aspect of language use requires further development?",
+  "options": {
+    "A": "Pragmatics",
+    "B": "Phonology",
+    "C": "Motor development",
+    "D": "Conservation"
+  },
+  "correctAnswer": "A",
+  "explanation": "Pragmatics concerns using language appropriately according to social context, purpose, listener and conversational conventions.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Pragmatics", "Language Development", "Social Context", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0064",
+  "question": "Which statement best describes semantic development?",
+  "options": {
+    "A": "Development of knowledge concerning meanings of words and relationships among meanings",
+    "B": "Development of balance and coordination",
+    "C": "Learning only the sound system of language",
+    "D": "Learning only conversational turn-taking"
+  },
+  "correctAnswer": "A",
+  "explanation": "Semantics concerns meaning. Semantic development includes vocabulary growth and increasingly sophisticated understanding of word meanings and semantic relationships.",
+  "difficulty": "Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Semantics", "Vocabulary", "Language Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0065",
+  "question": "Assertion A: Vocabulary development involves more than simply increasing the number of words a child can repeat. Reason R: Development also includes increasingly precise and interconnected understanding of word meanings. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Vocabulary growth includes both breadth and depth. Learners develop richer semantic networks and increasingly precise understanding of relationships among words.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Vocabulary", "Semantic Development", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0066",
+  "question": "A teacher tells multilingual children that using their home language will necessarily damage their cognitive development. Which evaluation is most appropriate?",
+  "options": {
+    "A": "The claim is an unjustified generalisation; multilingual development should be understood in relation to proficiency, exposure, educational support and context",
+    "B": "The claim is universally correct",
+    "C": "Children can acquire only one language during development",
+    "D": "Home-language experience has no relationship with later language learning"
+  },
+  "correctAnswer": "A",
+  "explanation": "Multilingual development cannot be reduced to the assumption that exposure to more than one language damages cognition. Development depends on the quality and context of language experiences and educational support.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Multilingualism", "Language Development", "Individual Differences", "Teacher Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0067",
+  "question": "Which response best demonstrates emotional regulation rather than emotional suppression?",
+  "options": {
+    "A": "Recognising anger, calming oneself and expressing disagreement without harming others",
+    "B": "Pretending never to experience anger",
+    "C": "Refusing to acknowledge fear under any circumstances",
+    "D": "Avoiding every situation capable of producing emotion"
+  },
+  "correctAnswer": "A",
+  "explanation": "Regulation involves recognising and managing emotions in ways appropriate to goals and context. It does not mean denying or eliminating normal emotional experiences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Emotional Regulation", "Emotional Development", "Self Regulation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0068",
+  "question": "A student fails an examination, initially feels disappointed, analyses the reasons for failure, seeks help and develops a new study plan. Which developmental characteristic is most clearly demonstrated?",
+  "options": {
+    "A": "Adaptive emotional regulation and coping",
+    "B": "Emotional immaturity because disappointment occurred",
+    "C": "Absence of cognitive development",
+    "D": "Relational aggression"
+  },
+  "correctAnswer": "A",
+  "explanation": "Experiencing disappointment is normal. Recognising it and responding through problem-focused coping and constructive planning demonstrates adaptive regulation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Emotional Development", "Coping", "Self Regulation", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0069",
+  "question": "Which statement most accurately describes the relationship between cognition and emotion in development?",
+  "options": {
+    "A": "Cognitive interpretations can influence emotional responses, while emotional states can also influence attention, judgement and behaviour",
+    "B": "Cognition and emotion develop completely independently",
+    "C": "Emotion affects only physical growth",
+    "D": "Cognitive development requires the elimination of emotion"
+  },
+  "correctAnswer": "A",
+  "explanation": "Cognition and emotion interact. How a learner interprets an event can influence emotion, while emotional states can affect attention, decision-making, memory and social behaviour.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Cognitive Development", "Emotional Development", "Interaction"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0070",
+  "question": "A teacher uses stories in which characters face conflicting duties and asks students to explain what each character should do and why. Which developmental domains are most directly integrated?",
+  "options": {
+    "A": "Language, cognitive, social and moral development",
+    "B": "Physical growth only",
+    "C": "Motor development only",
+    "D": "Sensory development only"
+  },
+  "correctAnswer": "A",
+  "explanation": "Understanding and discussing stories involves language and cognition, considering characters' perspectives involves social understanding, and evaluating conflicting duties involves moral reasoning.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Integrated Development", "Moral Development", "Language", "Cognition"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0071",
+  "question": "Which activity most directly supports aesthetic sensitivity rather than merely mechanical reproduction?",
+  "options": {
+    "A": "Comparing different musical or visual compositions and discussing how rhythm, form, balance or contrast affect one's response",
+    "B": "Copying the same picture repeatedly without observation or discussion",
+    "C": "Memorising examination marks",
+    "D": "Avoiding exposure to artistic works"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aesthetic sensitivity involves attentive perception, discrimination, interpretation and appreciation of qualities such as form, rhythm, harmony, balance and contrast.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Aesthetic Development", "Aesthetic Sensitivity", "Arts Education"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0072",
+  "question": "A school displays only one 'correct' model of every artwork and penalises children whenever their creative representation differs from it. Which developmental concern is most relevant?",
+  "options": {
+    "A": "The practice may restrict imagination, individual expression and aesthetic exploration",
+    "B": "Aesthetic development requires identical products",
+    "C": "Creativity has no connection with aesthetic experience",
+    "D": "Art education should measure only copying accuracy"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aesthetic development benefits from opportunities to perceive, interpret, imagine and express ideas. Excessive insistence on identical reproduction can restrict exploration and creative expression.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Aesthetic Development", "Creativity", "School Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0073",
+  "question": "A Dy.E.O. finds that teachers frequently interpret children's peer conflicts as disciplinary offences and immediately punish both sides without examining intentions, emotions or social context. Which recommendation is most developmentally appropriate?",
+  "options": {
+    "A": "Use conflicts as opportunities to develop perspective-taking, emotional regulation, communication and constructive problem-solving while addressing harmful behaviour appropriately",
+    "B": "Treat every disagreement as evidence of permanent behavioural disorder",
+    "C": "Prevent all peer interaction",
+    "D": "Ignore harmful behaviour because conflict is always developmentally beneficial"
+  },
+  "correctAnswer": "A",
+  "explanation": "Peer conflicts can provide opportunities to develop social understanding and regulation when adults guide learners constructively. Harmful behaviour should still be addressed appropriately rather than ignored.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Peer Conflict", "Social Development", "Emotional Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0074",
+  "question": "A Dy.E.O. is evaluating a language-development programme. Which combination provides the strongest evidence of a developmentally rich programme? 1. Meaningful conversation. 2. Exposure to varied vocabulary and texts. 3. Opportunities to narrate, question and explain. 4. Exclusive dependence on copying isolated sentences.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Meaningful interaction, rich linguistic input and opportunities to use language for different purposes support language development. Mechanical copying alone is insufficient as a comprehensive language-development programme.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Language Development", "School Programme", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0075",
+  "question": "During inspection, a Dy.E.O. observes a project in which students interview community members, analyse differing viewpoints, write reflective reports, collaboratively solve a local problem, discuss the fairness of proposed solutions and present the findings through drama and visual art. Which conclusion is most appropriate?",
+  "options": {
+    "A": "The project can simultaneously support linguistic, cognitive, social, emotional, moral and aesthetic development",
+    "B": "Only language development can occur through the project",
+    "C": "Developmental domains must be addressed through completely separate activities",
+    "D": "The project has developmental value only if every student produces an identical response"
+  },
+  "correctAnswer": "A",
+  "explanation": "Authentic educational experiences can engage several developmental domains simultaneously. The project involves communication, reasoning, cooperation, perspective-taking, moral judgement, reflection and aesthetic expression.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Holistic Development", "Integrated Learning", "Developmental Domains"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0076",
+  "question": "Assertion A: Social development cannot be understood only by observing isolated individual behaviour. Reason R: Social development occurs through interaction with family, peers, school, community and culture. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Social development is inherently relational and contextual. Family, peers, school and culture shape social understanding, behaviour and relationships.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Development", "Context", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0077",
+  "question": "A child behaves differently with parents, teachers and peers. Which interpretation is most developmentally appropriate?",
+  "options": {
+    "A": "Social behaviour is influenced by context, roles and expectations",
+    "B": "The child necessarily has a personality disorder",
+    "C": "Social behaviour should be identical in every setting",
+    "D": "Context has no influence on social development"
+  },
+  "correctAnswer": "A",
+  "explanation": "Children adapt behaviour to different relationships and social expectations. Variation across settings can therefore reflect social understanding rather than abnormality.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Social Development", "Context", "Roles", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0078",
+  "question": "Which combination is most likely to promote healthy peer relationships? 1. Perspective-taking. 2. Empathy. 3. Constructive communication. 4. Relational aggression.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Perspective-taking, empathy and constructive communication support peer adjustment, whereas relational aggression damages relationships.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Peer Relations", "Empathy", "Perspective Taking", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0079",
+  "question": "A learner can remember information accurately but has difficulty using it to solve unfamiliar problems. Which conclusion is most appropriate?",
+  "options": {
+    "A": "Cognitive development involves more than memory and includes flexible reasoning and application",
+    "B": "Memory alone represents complete cognitive development",
+    "C": "Problem-solving is unrelated to cognition",
+    "D": "The learner necessarily lacks all cognitive ability"
+  },
+  "correctAnswer": "A",
+  "explanation": "Cognitive development includes attention, memory, reasoning, representation and problem-solving. Strong memory does not guarantee flexible application.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Cognitive Development", "Memory", "Problem Solving"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0080",
+  "question": "Which classroom approach best promotes higher cognitive development?",
+  "options": {
+    "A": "Ask learners to compare evidence, explain reasoning and justify conclusions",
+    "B": "Require only mechanical repetition",
+    "C": "Discourage questions",
+    "D": "Provide answers before learners attempt problems"
+  },
+  "correctAnswer": "A",
+  "explanation": "Comparing evidence, explaining reasoning and justifying conclusions engage analysis and metacognitive reflection, supporting deeper cognitive development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Cognitive Development", "Higher Order Thinking", "Classroom Application"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0081",
+  "question": "Assertion A: Language development is not merely vocabulary growth. Reason R: It also involves phonology, morphology, syntax, semantics and pragmatics. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Language development is multidimensional and includes sound systems, word structure, grammar, meaning and socially appropriate use.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Language Development", "Language Components", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0082",
+  "question": "A student can form grammatically correct sentences but struggles to understand implied meanings, humour and socially appropriate conversational cues. Which linguistic component is relatively weaker?",
+  "options": {
+    "A": "Pragmatics",
+    "B": "Morphology",
+    "C": "Phonology",
+    "D": "Motor development"
+  },
+  "correctAnswer": "A",
+  "explanation": "Pragmatics concerns socially appropriate and context-sensitive language use, including implied meaning, turn-taking and interpretation of communicative intent.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Apply",
+  "tags": ["Pragmatics", "Language Development", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0083",
+  "question": "Which statement best distinguishes language delay from limited proficiency in the school's language of instruction?",
+  "options": {
+    "A": "A learner may show limited proficiency in the school language while having age-appropriate language competence in the home language",
+    "B": "Limited school-language proficiency always proves a language disorder",
+    "C": "Home-language competence is irrelevant to assessment",
+    "D": "Multilingual learners cannot develop normal language competence"
+  },
+  "correctAnswer": "A",
+  "explanation": "Assessment should distinguish genuine developmental language difficulty from limited exposure or proficiency in the language used at school.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Language Development", "Multilingualism", "Assessment", "Individual Differences"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0084",
+  "question": "A teacher repeatedly corrects every minor grammatical error immediately, causing children to become reluctant to speak. Which alternative is more developmentally appropriate?",
+  "options": {
+    "A": "Maintain meaningful communication while modelling correct forms sensitively",
+    "B": "Stop all oral interaction",
+    "C": "Punish errors more strongly",
+    "D": "Ignore language development completely"
+  },
+  "correctAnswer": "A",
+  "explanation": "Language develops through use. Sensitive modelling and meaningful interaction are generally more supportive than constant interruption that suppresses communication.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Language Development", "Teacher Feedback", "Classroom Scenario"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0085",
+  "question": "Which statement best reflects mature emotional regulation?",
+  "options": {
+    "A": "Experiencing emotions but managing their expression according to goals and context",
+    "B": "Never experiencing anger or fear",
+    "C": "Suppressing every emotion",
+    "D": "Expressing every emotion immediately without restraint"
+  },
+  "correctAnswer": "A",
+  "explanation": "Emotional regulation means managing emotional experience and expression adaptively, not eliminating emotion or expressing every impulse without control.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Emotional Regulation", "Emotional Development", "Maturity"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0086",
+  "question": "A student becomes frustrated after receiving criticism but asks for clarification, reflects on the feedback and revises the work. This most strongly demonstrates:",
+  "options": {
+    "A": "Adaptive emotional regulation combined with cognitive control",
+    "B": "Absence of emotion",
+    "C": "Relational aggression",
+    "D": "Moral regression"
+  },
+  "correctAnswer": "A",
+  "explanation": "The student experiences emotion but regulates it sufficiently to process feedback and take constructive action, showing interaction between emotional and cognitive development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Emotional Development", "Cognitive Control", "Self Regulation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0087",
+  "question": "Assertion A: Emotional regulation can influence academic learning. Reason R: Persistent anxiety or poorly regulated emotion can affect attention, working memory and task engagement. Choose the correct answer.",
+  "options": {
+    "A": "Both A and R are true and R is the correct explanation of A",
+    "B": "Both A and R are true but R is not the correct explanation of A",
+    "C": "A is true but R is false",
+    "D": "A is false but R is true"
+  },
+  "correctAnswer": "A",
+  "explanation": "Emotional states influence cognitive processes involved in learning, including attention, memory and persistence.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Emotional Development", "Learning", "Anxiety", "Assertion Reason"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0088",
+  "question": "Which statement best distinguishes empathy from sympathy?",
+  "options": {
+    "A": "Empathy involves understanding or sharing another person's emotional perspective, while sympathy involves concern for that person",
+    "B": "Empathy and sympathy are completely identical",
+    "C": "Empathy means ignoring another person's feelings",
+    "D": "Sympathy is purely cognitive and contains no concern"
+  },
+  "correctAnswer": "A",
+  "explanation": "Empathy involves understanding or resonating with another person's feelings or perspective, while sympathy refers more directly to concern or compassion for the person's situation.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Empathy", "Emotional Development", "Social Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0089",
+  "question": "Which statement best characterises Kohlberg's postconventional level?",
+  "options": {
+    "A": "Moral judgement may be guided by broader principles, rights and critically examined social agreements",
+    "B": "Behaviour is guided only by punishment",
+    "C": "Approval from close others is the sole criterion",
+    "D": "Rules are followed only because authority is present"
+  },
+  "correctAnswer": "A",
+  "explanation": "Postconventional reasoning evaluates laws and social arrangements in relation to broader rights, principles and social contracts.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Understand",
+  "tags": ["Kohlberg", "Postconventional Morality", "Moral Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0090",
+  "question": "A student argues that a school rule should be reconsidered because it unfairly discriminates against one group of learners, even though the rule is officially approved. Which form of reasoning is most advanced among the following?",
+  "options": {
+    "A": "Critical evaluation of rules in relation to rights and fairness",
+    "B": "Avoidance of punishment",
+    "C": "Blind obedience to authority",
+    "D": "Personal gain only"
+  },
+  "correctAnswer": "A",
+  "explanation": "Evaluating an established rule against broader principles of fairness and rights reflects more advanced moral reasoning than simple obedience or self-interest.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Moral Development", "Rights", "Fairness", "Scenario Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0091",
+  "question": "Which criticism of Kohlberg's theory is most appropriate?",
+  "options": {
+    "A": "Moral development may be influenced by cultural context, relationships and forms of moral concern not captured fully by one hierarchy of reasoning",
+    "B": "Kohlberg did not study moral reasoning at all",
+    "C": "The theory deals only with physical development",
+    "D": "Kohlberg claimed punishment is the highest form of morality"
+  },
+  "correctAnswer": "A",
+  "explanation": "Kohlberg's framework has been criticised for possible cultural and conceptual limitations and for not fully capturing all forms of moral orientation and lived moral behaviour.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Kohlberg", "Criticism", "Moral Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0092",
+  "question": "Which educational practice best promotes moral internalisation rather than mere external compliance?",
+  "options": {
+    "A": "Explain reasons for rules, model ethical behaviour and involve learners in fair discussion",
+    "B": "Use fear and surveillance as the only controls",
+    "C": "Avoid discussing fairness",
+    "D": "Reward every moral act materially"
+  },
+  "correctAnswer": "A",
+  "explanation": "Internalisation is promoted when learners understand reasons, observe credible models and participate in fair, reflective social processes rather than relying only on external control.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["Moral Development", "Internalisation", "Educational Implications"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0093",
+  "question": "Which statement best explains aesthetic judgement?",
+  "options": {
+    "A": "It involves interpreting and evaluating aesthetic qualities rather than merely recognising objects",
+    "B": "It is identical to copying a model",
+    "C": "It refers only to physical coordination",
+    "D": "It has no relationship with perception"
+  },
+  "correctAnswer": "A",
+  "explanation": "Aesthetic judgement involves attentive perception, interpretation and evaluation of qualities such as balance, form, expression, rhythm and harmony.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Aesthetic Development", "Aesthetic Judgement", "Perception"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0094",
+  "question": "A learner hears two musical performances and explains how differences in tempo, rhythm and dynamics change the emotional effect. Which developmental abilities are most directly involved?",
+  "options": {
+    "A": "Aesthetic sensitivity combined with cognitive discrimination and emotional interpretation",
+    "B": "Motor development only",
+    "C": "Moral reasoning only",
+    "D": "Physical maturation only"
+  },
+  "correctAnswer": "A",
+  "explanation": "The learner is perceiving and comparing aesthetic qualities while interpreting their emotional effects, showing interaction among aesthetic, cognitive and emotional development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Aesthetic Development", "Cognitive Development", "Emotional Development"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0095",
+  "question": "Consider the following educational experiences: 1. Cooperative group work. 2. Rich conversation and reading. 3. Moral-dilemma discussion. 4. Artistic creation and appreciation. Which developmental domains can these respectively support most directly?",
+  "options": {
+    "A": "Social; Linguistic; Moral; Aesthetic",
+    "B": "Physical; Motor; Sensory; Reflex",
+    "C": "Moral; Physical; Social; Linguistic",
+    "D": "Aesthetic; Motor; Linguistic; Physical"
+  },
+  "correctAnswer": "A",
+  "explanation": "Cooperative work supports social development, conversation and reading support linguistic development, moral dilemmas support moral reasoning, and artistic experiences support aesthetic development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Analyze",
+  "tags": ["Developmental Domains", "Educational Implications", "Matching"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0096",
+  "question": "A Dy.E.O. finds that a school treats children's language errors, emotional reactions and peer conflicts only as disciplinary failures. Which recommendation is most appropriate?",
+  "options": {
+    "A": "Train teachers to interpret behaviour developmentally and use appropriate support before resorting to punitive conclusions",
+    "B": "Increase punishment for all developmental differences",
+    "C": "Stop observing learners",
+    "D": "Assume every difficulty indicates intentional misconduct"
+  },
+  "correctAnswer": "A",
+  "explanation": "Many classroom behaviours reflect developmental processes. Teachers should distinguish developmental needs from misconduct and provide support while maintaining appropriate boundaries.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Developmental Interpretation", "School Discipline"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0097",
+  "question": "A Dy.E.O. wants to assess whether a school supports holistic development. Which evidence is most useful?",
+  "options": {
+    "A": "Opportunities for reasoning, communication, cooperation, emotional regulation, ethical reflection and aesthetic expression",
+    "B": "Only examination pass percentage",
+    "C": "Only handwriting speed",
+    "D": "Only the number of textbooks distributed"
+  },
+  "correctAnswer": "A",
+  "explanation": "Holistic development requires attention to multiple interacting developmental domains rather than academic scores alone.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Holistic Development", "School Evaluation"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0098",
+  "question": "A Dy.E.O. compares two classrooms. Classroom X emphasises silent copying and individual competition. Classroom Y includes discussion, collaborative problem-solving, reflection on feelings, moral dialogue and creative arts. Which conclusion is most defensible?",
+  "options": {
+    "A": "Classroom Y provides richer opportunities across several developmental domains",
+    "B": "Classroom X necessarily supports all developmental domains equally well",
+    "C": "Social and emotional development are unrelated to classroom practice",
+    "D": "Creative activities reduce cognitive development"
+  },
+  "correctAnswer": "A",
+  "explanation": "Classroom Y engages linguistic, cognitive, social, emotional, moral and aesthetic processes through varied and interactive learning experiences.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Holistic Development", "Classroom Comparison"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0099",
+  "question": "A Dy.E.O. is designing teacher training for developmental domains. Which combination should receive priority? 1. Understanding social and peer processes. 2. Supporting language and cognitive growth. 3. Promoting emotional regulation and moral reasoning. 4. Providing aesthetic and creative experiences.",
+  "options": {
+    "A": "1 and 2 only",
+    "B": "1, 2 and 3 only",
+    "C": "2, 3 and 4 only",
+    "D": "1, 2, 3 and 4"
+  },
+  "correctAnswer": "D",
+  "explanation": "Teacher preparation for holistic development should address all major developmental domains and their educational implications.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Teacher Training", "Developmental Domains", "Statement Based"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+},
+{
+  "id": "FOE-DD-0100",
+  "question": "A district wants one guiding principle for Social, Cognitive, Language/Linguistic, Emotional, Moral and Aesthetic Development. Which statement is most appropriate?",
+  "options": {
+    "A": "These domains are distinct but interrelated, and schools should provide varied experiences that support their integrated development",
+    "B": "Only cognitive development deserves educational attention",
+    "C": "Each developmental domain should be taught in total isolation from the others",
+    "D": "Developmental domains are determined completely outside the school and cannot be influenced by educational experience"
+  },
+  "correctAnswer": "A",
+  "explanation": "Developmental domains are conceptually distinguishable but functionally interconnected. Educational experiences can support several domains simultaneously and contribute to holistic development.",
+  "difficulty": "Very Difficult",
+  "cognitiveLevel": "Evaluate",
+  "tags": ["DyEO Scenario", "Developmental Domains", "Holistic Development", "Comprehensive"],
+  "source": {
+    "type": "Original",
+    "exam": "",
+    "year": "",
+    "paper": "",
+    "questionNumber": ""
+  },
+  "isPreviousYearQuestion": false,
+  "language": "English"
+}
+  ]
+}
